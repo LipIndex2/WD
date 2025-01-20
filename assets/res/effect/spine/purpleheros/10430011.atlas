@@ -1,0 +1,41 @@
+
+10430011.png
+size: 580,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+3_tex_lizi_001
+  rotate: false
+  xy: 516, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+3_tex_ring_001
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+3_tex_ring_002
+  rotate: false
+  xy: 129, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+3_tex_ring_003
+  rotate: false
+  xy: 258, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+3_ui_star_1
+  rotate: false
+  xy: 387, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

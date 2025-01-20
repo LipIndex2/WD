@@ -1,0 +1,27 @@
+
+zheluoyu.png
+size: 131,40
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 1
+  size: 116, 39
+  orig: 116, 39
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 117, 24
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 117, 0
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1

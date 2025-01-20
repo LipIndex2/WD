@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,68" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n12_vb35" name="icon2" xy="71,0" pivot="0.5,0.5" size="64,62" align="center" vAlign="middle"/>
+    <loader id="n15_vb35" name="icon" xy="71,0" pivot="0.5,0.5" size="64,62" align="center" vAlign="middle"/>
+    <image id="n8_vb35" name="n8" src="vb354c" fileName="image/TaoZhuangJinDuDi.png" xy="0,50" size="210,18"/>
+    <image id="n9_vb35" name="Bar" src="vb354d" fileName="image/TaoZhuangJinDu.png" xy="0,50" size="210,18"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+  <customProperty target="icon2" propertyId="1"/>
+</component>

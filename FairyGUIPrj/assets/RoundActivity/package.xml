@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6xavofrv">
+  <resources>
+    <component id="lwoh4" name="RoundActivityView.xml" path="/" exported="true"/>
+    <image id="lwoh0" name="回合活动标注.png" path="/"/>
+    <image id="lwoh1" name="KaFeiSeFenGeXian.png" path="/image/" scale="9grid" scale9grid="2,6,4,12"/>
+    <image id="lwoh2" name="LanSeDi.png" path="/image/"/>
+    <image id="lwoh3" name="LanSeFenGeXianCu.png" path="/image/" scale="9grid" scale9grid="6,6,12,12"/>
+    <image id="lwoh5" name="LanSeFenGeXianXi.png" path="/image/" scale="9grid" scale9grid="2,6,4,12"/>
+    <image id="lwoh6" name="LanSeShiJianXian.png" path="/image/" scale="9grid" scale9grid="7,7,10,14"/>
+    <image id="lwoh7" name="ShiJianYuanQuan.png" path="/image/"/>
+    <image id="lwoh8" name="WenZiDi.png" path="/image/"/>
+    <image id="lwoh9" name="ChengSeDi.png" path="/image/"/>
+    <image id="lwoha" name="HongSeDi.png" path="/image/"/>
+    <image id="lwohb" name="HuiHeHuoDongDingBu.png" path="/image/"/>
+    <image id="lwohc" name="JinBiKuangMengCeng.png" path="/image/"/>
+    <image id="lwohd" name="ZiSeTou.png" path="/image/"/>
+    <image id="lwohf" name="ZiSeDi.png" path="/image/" scale="9grid" scale9grid="67,47,134,94"/>
+    <image id="lwohg" name="ItemCellBg1.png" path="/image/" exported="true"/>
+    <image id="lwohh" name="ItemCellBg2.png" path="/image/" exported="true"/>
+    <image id="lwohi" name="ItemCellBg0.png" path="/image/" exported="true"/>
+    <component id="lwohj" name="RoundItem.xml" path="/components/"/>
+    <image id="lwohp" name="ShiJianicon.png" path="/image/"/>
+    <image id="lwohq" name="ShiJianDi.png" path="/image/"/>
+    <component id="lwohr" name="RoundListCell.xml" path="/components/" exported="true"/>
+    <image id="lwohs" name="HuiLanBanKuai.png" path="/image/" scale="9grid" scale9grid="67,47,134,94"/>
+    <image id="lwoht" name="RiLi.png" path="/image/"/>
+    <component id="lwohu" name="BtnBuy.xml" path="/components/"/>
+    <image id="lwohv" name="JiJinAnNiu.png" path="/image/"/>
+    <component id="ig9ow" name="parent.xml" path="/components/"/>
+    <component id="x8wex" name="BtnBuyLevel.xml" path="/components/"/>
+    <image id="x8wey" name="ZuanShiAnNiu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

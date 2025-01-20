@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,242" extention="Button" designImageOffsetY="-1229" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_wr3y" name="n0" src="m4fil" fileName="image/TongXingZhengQuanPing2ChangJing2.png" xy="0,-23" size="800,265"/>
+    <image id="n3_fajd" name="icon" src="m4fim" fileName="image/BaoXiang.png" xy="526,60"/>
+    <text id="n1_wr3y" name="Name" xy="334,-13" pivot="0.5,0.5" size="132,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#fff6b7" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" singleLine="true" text="奖励宝箱"/>
+    <text id="n2_k9x2" name="n2" xy="16,55" size="480,73" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" leading="6" letterSpacing="1" autoSize="height" strokeColor="#491914" strokeSize="3" text="当你完成通行证的所有内容，每挖掘100米可以获取一个奖励宝箱！"/>
+    <image id="n4_tbhh" name="n4" src="m4fin" fileName="image/BaoXiangShuLiangDi.png" xy="722,9"/>
+    <text id="n5_tbhh" name="title" xy="750,18" pivot="0.5,0.5" size="20,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#fff6b7" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="0"/>
+  </displayList>
+  <Button/>
+</component>

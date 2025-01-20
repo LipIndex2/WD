@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://l20hp0dckrnhu">
+  <controller name="TabState" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n0_t6to" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n23_k9mo" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n0_t6to" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n1_t6to" name="bg2" src="t6to2" fileName="image/TuCeng4.png" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n0_t6to" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_t6to" name="bg1" src="t6to3" fileName="image/TuCeng5.png" xy="0,0" pivot="0.5,0" size="800,533">
+      <relation target="n0_t6to" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n3_t6to" name="bg_down" src="t6to4" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n0_t6to" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n20_e0y5" name="bg" src="e0y5t" fileName="image/BeiJing.jpg" xy="0,0">
+      <relation target="n0_t6to" sidePair="top-top"/>
+    </image>
+    <component id="n18_ouom" name="parent" src="ouomp" fileName="components/parent.xml" xy="400,488">
+      <relation target="n0_t6to" sidePair="topext-top"/>
+    </component>
+    <text id="n8_t6to" name="TitleShow" xy="318,143" size="164,54" group="n17_t6to" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="深渊议会"/>
+    <component id="n22_krnh" name="TimeShow1" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="247,188" size="300,42" group="n17_t6to" touchable="false">
+      <gearDisplay controller="TabState" pages="0"/>
+      <Label titleFontSize="24"/>
+    </component>
+    <image id="n14_t6to" name="bg_t" src="t6tol" fileName="image/ShiJianDi.png" xy="303,475" group="n21_krnh"/>
+    <image id="n15_t6to" name="icon_t" src="t6tom" fileName="image/ShiJianicon.png" xy="287,473" group="n21_krnh"/>
+    <component id="n16_t6to" name="TimeShow2" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="320,480" pivot="0.5,0" size="200,42" group="n21_krnh" touchable="false">
+      <Label titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <group id="n21_krnh" name="GpTime2" xy="287,473" size="233,56" group="n17_t6to" advanced="true">
+      <gearDisplay controller="TabState" pages="1"/>
+    </group>
+    <list id="n10_t6to" name="TaskDayList" xy="115,488" size="570,77" group="n17_t6to" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://l20hp0dct6tof" autoItemSize="false" autoClearItems="true">
+      <gearDisplay controller="TabState" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n17_t6to" name="GpUp" xy="115,143" size="570,422" advanced="true">
+      <relation target="n0_t6to" sidePair="top-top"/>
+    </group>
+    <component id="n11_t6to" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1488">
+      <relation target="n0_t6to" sidePair="bottom-bottom"/>
+    </component>
+    <list id="n9_t6to" name="TaskList" xy="0,573" size="800,896" overflow="scroll" lineGap="5" defaultItem="ui://l20hp0dct6to5" autoClearItems="true">
+      <gearDisplay controller="TabState" pages="0"/>
+      <relation target="n0_t6to" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n19_s6bv" name="ExchangeList" xy="0,547" size="800,922" overflow="scroll" lineGap="5" defaultItem="ui://l20hp0dcs6bvr" autoClearItems="true">
+      <gearDisplay controller="TabState" pages="1"/>
+      <relation target="n0_t6to" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_t6to" name="BtnTask" src="t6tok" fileName="components/ButtonMod.xml" xy="463,1465">
+      <relation target="n0_t6to" sidePair="bottom-bottom"/>
+      <Button checked="true" icon="ui://l20hp0dct6toi" controller="TabState" page="0"/>
+    </component>
+    <component id="n13_t6to" name="BtnExchange" src="t6tok" fileName="components/ButtonMod.xml" xy="623,1465">
+      <relation target="n0_t6to" sidePair="bottom-bottom"/>
+      <Button icon="ui://l20hp0dct6toh" controller="TabState" page="1"/>
+    </component>
+    <component id="n4_t6to" name="ExpShow" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="33,20" group="n24_k9mo">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n5_t6to" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="197,20" group="n24_k9mo">
+      <Label title="0" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n6_t6to" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="411,20" group="n24_k9mo">
+      <Label title="0/30" icon="ui://5qhcb5rwtiuj63"/>
+    </component>
+    <component id="n7_t6to" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="626,20" group="n24_k9mo">
+      <Label title="0" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <group id="n24_k9mo" name="n24" xy="33,20" size="758,54" advanced="true">
+      <relation target="n23_k9mo" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

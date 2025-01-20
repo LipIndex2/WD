@@ -1,0 +1,48 @@
+
+11010.png
+size: 313,110
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+erduo
+  rotate: false
+  xy: 0, 19
+  size: 172, 64
+  orig: 172, 64
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 0, 91
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 173, 0
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 37, 84
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 66, 84
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+yanjin
+  rotate: false
+  xy: 95, 84
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://5mk2qj8mwpumz" designImageAlpha="0">
+  <displayList>
+    <component id="n1_wpum" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n17_wpum" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n1_wpum" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <image id="n0_wpum" name="n0" src="wpum2" fileName="imange/HengLaBeiJing.png" xy="0,0" size="800,1600">
+      <relation target="n1_wpum" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n2_wpum" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799" scale="1.15,1.15"/>
+    <image id="n6_wpum" name="n6" src="wpum10" fileName="imange/YeQianDiBu.png" xy="0,1470" size="800,130">
+      <relation target="n1_wpum" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <component id="n15_wpum" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,428" touchable="false">
+      <relation target="n1_wpum" sidePair="center-center,top-top"/>
+    </component>
+    <list id="n8_wpum" name="List" xy="0,450" size="800,1021" layout="flow_hz" overflow="scroll" lineGap="29" defaultItem="ui://5mk2qj8mwpum11" autoClearItems="true">
+      <relation target="n17_wpum" sidePair="center-center,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n14_wpum" name="Curr1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="41,20">
+      <relation target="n17_wpum" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n13_wpum" name="Curr2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="250,20">
+      <relation target="n17_wpum" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n18_wpum" name="Curr3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="461,20">
+      <relation target="n17_wpum" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n9_wpum" name="n9" src="wpum13" fileName="imange/ShiJianDi.png" xy="305,382" group="n16_wpum"/>
+    <image id="n10_wpum" name="n10" src="wpum12" fileName="imange/ShiJianicon.png" xy="288,379" group="n16_wpum"/>
+    <component id="n12_wpum" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="324,383" size="185,49" group="n16_wpum">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <group id="n16_wpum" name="TimeGroup" xy="288,379" size="229,57" advanced="true">
+      <relation target="n1_wpum" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n7_wpum" name="CloseBtn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="15,1490">
+      <relation target="n1_wpum" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

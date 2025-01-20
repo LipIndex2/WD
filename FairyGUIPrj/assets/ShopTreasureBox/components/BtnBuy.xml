@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_l6cb" name="n3" src="okyub4w" fileName="image/ChengAnNiu.png" pkg="zokic7y2" xy="0,0"/>
+    <text id="n1_hlne" name="title" xy="155,25" pivot="0.5,0.5" size="64,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" singleLine="true" text="X1"/>
+    <loader id="n2_hlne" name="icon" xy="83,21" pivot="0.5,0.5" size="63,69" url="ui://5qhcb5rwtiuj64" align="center" vAlign="middle" autoSize="true">
+      <relation target="n1_hlne" sidePair="right-left"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

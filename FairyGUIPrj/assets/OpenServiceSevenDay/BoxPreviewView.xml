@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <image id="n2_aj74" name="n2" src="aj7419" fileName="image/BaoXiangXiaoDanChuang.png" xy="0,0" group="n5_aj74"/>
+    <loader id="n3_aj74" name="ItemIcon" xy="1,8" pivot="0.5,0.5" size="110,110" group="n5_aj74" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <text id="n4_aj74" name="Num" xy="48,72" pivot="1,0.5" size="51,34" group="n5_aj74" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="100"/>
+    <group id="n5_aj74" name="Preview" xy="0,0" size="113,127" advanced="true"/>
+  </displayList>
+</component>

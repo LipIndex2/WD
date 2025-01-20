@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="05atindv">
+  <resources>
+    <component id="htrt0" name="FishCardView.xml" path="/" exported="true"/>
+    <image id="htrt1" name="渔夫卡SPE.jpg" path="/"/>
+    <image id="htrt2" name="Zu55.png" path="/image/"/>
+    <component id="htrt3" name="ItemShow.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="560,66" extention="Label" designImage="ui://kmd03jrgzysfo" designImageOffsetX="-121" designImageOffsetY="-1044" designImageLayer="1">
+  <displayList>
+    <image id="n0_zysf" name="n0" src="zysfj" fileName="image/JieShiDi.png" xy="0,0" size="560,66"/>
+    <loader id="n1_zysf" name="icon" xy="22,10" size="44,45" url="ui://kmd03jrgzysfm" fill="scaleFree"/>
+    <richtext id="n3_zysf" name="title" xy="100,31" pivot="0,0.5" anchor="true" size="10,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491914" vAlign="middle" text=""/>
+  </displayList>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://wf9yjiko943m1">
+  <displayList>
+    <component id="n0_943m" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,444" size="730,737"/>
+    <image id="n16_943m" name="bg1" src="943mb" fileName="image/BeiJingDiWen.png" xy="184,647"/>
+    <image id="n4_943m" name="bg2" src="943m3" fileName="image/CaoDi.png" xy="59,400"/>
+    <image id="n1_943m" name="bg3" src="943m2" fileName="image/DaHengFuZi.png" xy="17,444"/>
+    <image id="n5_943m" name="deco" src="943m4" fileName="image/Shu.png" xy="253,227"/>
+    <image id="n6_943m" name="bg_h1" src="943m6" fileName="image/DaKuang.png" xy="74,904" size="652,233"/>
+    <image id="n7_943m" name="bg_h2" src="943m7" fileName="image/YingXiongTuBiaoBiaoTiDi.png" xy="74,904" size="652,69"/>
+    <image id="n8_943m" name="bg_a" src="943m8" fileName="image/ShuXingTuBiaoDaDi.png" xy="337,654"/>
+    <loader id="n17_943m" name="RaceIcon" xy="367,680" pivot="0.5,0.5" size="66,66" url="ui://wf9yjiko943mg" autoSize="true" clearOnPublish="true"/>
+    <text id="n3_943m" name="title" xy="310,456" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" leading="15" strokeColor="#491914" strokeSize="4" text="今日加成"/>
+    <text id="n11_943m" name="title_h" xy="363,913" pivot="0.5,0.5" size="76,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="英雄"/>
+    <text id="n12_943m" name="tips" xy="243,783" pivot="0.5,0.5" size="316,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#f3f9b6" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="该属性的英雄在今日收到祝福"/>
+    <text id="n14_943m" name="RaceName" xy="351,550" pivot="0.5,0.5" size="100,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="暗属性"/>
+    <text id="n13_943m" name="DescShow" xy="397,821" pivot="0.5,0.5" size="10,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n10_943m" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="201,562">
+      <Label titleFontSize="24"/>
+    </component>
+    <component id="n18_943m" name="ParentArrow" src="943mj" fileName="components/parent.xml" xy="452,692"/>
+    <list id="n19_943m" name="HeroList" xy="400,1042" pivot="0.5,0.5" anchor="true" size="480,80" layout="row" overflow="scroll" scroll="horizontal" colGap="30" defaultItem="ui://wf9yjiko943mk" align="center"/>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="187,250" designImage="ui://x30uryedh6p03" designImageOffsetX="-80" designImageOffsetY="-490">
+  <displayList>
+    <component id="n3_h6p0" name="HeroItem" src="h6p03m" fileName="HeroItem.xml" pkg="gn62pyk3" xy="12,0" group="n2_rjro"/>
+    <image id="n1_rjro" name="PriceShow" src="tiuj5f" fileName="PinTu.png" pkg="rqg67c20" xy="148,0" group="n2_rjro" visible="false"/>
+    <text id="n4_h6p0" name="Num" xy="126,116" pivot="1,0.5" size="46,49" group="n2_rjro" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="x9"/>
+    <image id="n5_h6p0" name="n5" src="o4uzj" fileName="image/DaJianTou.png" xy="-1,202" group="n2_rjro"/>
+    <group id="n2_rjro" name="GpShow" xy="-1,0" size="187,250" advanced="true"/>
+  </displayList>
+</component>

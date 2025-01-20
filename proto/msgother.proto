@@ -1,0 +1,200 @@
+import "msgrole.proto";
+
+message PB_CSNoticeTimeReq {					//!< 1464 通知时间设置
+	optional int32 type = 1;					//0请求 1设置
+	optional int64 param = 2;					//设置时发时间
+}
+
+
+message PB_SCNoticeTimeRet {					//!< 1465 通知时间回调
+	optional int64 notice_time = 1;				//时间
+}
+
+message PB_SCCmdToClientCmd {					//!< 1466 通知客户端
+	optional int32 id = 1;
+	optional bytes str = 2;
+}
+
+message PB_DailyChallengeFetch{					//!< 1510 领取任务奖励
+	optional int32 mission_index = 1;			//!<[1,3]
+}
+
+message PB_DailyChallengeInfo {					//!< 1511 每日挑战信息
+	optional int32 boss_seq = 1;
+	optional int32 is_pass = 2;
+	repeated int32 mission_progress = 3;
+	optional int32 fetch_flag = 4;
+	optional int32 battle_round = 5;
+}
+
+message PB_MainFBOper{							//!< 1520 主线副本操作
+	optional int32 oper_type = 1;
+	repeated int32 oper_param = 2;
+}
+
+message PB_MainFBNode{
+	optional int32 level = 1;
+	optional int32 round = 2;
+	repeated bool reward_flag = 3;
+}
+
+message PB_MainFBInfo{							//!< 1521 主线副本信息
+	optional int32 energy_buy_count = 1;
+	repeated PB_MainFBNode fb_list = 2;
+	optional bool ad_reward = 6;	//是否看了广告
+}
+
+message PB_MainFBRewardInfo{					//!< 1522 挂机奖励
+	repeated int32 item_id = 1;
+	repeated int32 item_num = 2;
+	optional int32 reward_type = 3;//0挂机奖励 1快速收益
+	optional int32 reward_time = 4;//挂机满16小时的时间戳
+	optional int32 today_buy_count = 5;
+}
+
+message PB_MainFBPassNode{
+	optional PB_RoleInfo role_info = 1;
+	optional uint32 time = 2;
+	repeated int32 hero_id = 3;
+	repeated int32 hero_level = 4;
+}
+
+message PB_MainFBPassInfo{					//!< 1523 通关信息
+	optional int32 fb_level = 1;
+	repeated PB_MainFBPassNode info_list = 2;
+}
+
+message PB_MainFBRankUser{
+	optional PB_RoleInfo role_info = 1;
+	optional int32 rank_level = 2;
+}
+
+message PB_MainFBRankInfo{					//!< 1524 关卡排名
+	optional int32 begin_rank = 1;
+	repeated PB_MainFBRankUser rank_list = 2;
+	optional int32 my_rank = 3;
+	optional int32 my_pass_level = 4;
+}
+
+message PB_SCAdvertisement{
+	optional int32 seq=1;
+	optional int32 today_count=2;
+	optional int32 next_fetch_time=3;
+}
+
+message PB_SevenDayReq{								//!< 1550 七日活动
+	optional int32 oper_type = 1;
+	repeated int32 oper_param = 2;
+}
+
+message PB_SevenDayNode{
+	optional int32 day_id = 1;
+	repeated int32 task_progress = 2;	//!< 任务进度
+	repeated bool task_fetch = 3;		//!< 任务是否领取
+}
+
+message PB_SevenDayInfo{							//!< 1551 七日活动
+	optional int32 stage_reward_flag = 1;			//!< 阶段奖励领取情况 进度读物品数量
+	optional uint32 activity_end_time = 2;			//!< 活动结束时间 0为未开启
+	repeated PB_SevenDayNode task_list = 3;
+	optional int32 send_type = 4;		//0初始化 1操作回调
+	optional int32 now_stage = 5;
+}
+
+message PB_DailyFBNode{
+	optional int32 fb_type = 1;		//0金币 1碎片
+	optional int32 fb_level = 2;
+	optional int32 fb_round = 3;
+	optional int32 fight_count = 4;
+}
+
+message PB_DailyFBOper{							//!< 1560 每日副本
+	optional int32 oper_type = 1;
+	repeated int32 param = 2;
+}
+
+message PB_DailyFBInfo{							//!< 1561 每日副本
+	optional int32 send_type = 1;		//0初始化 1操作回调
+	repeated PB_DailyFBNode fb_list = 2;
+}
+
+//!<MsgId:1662
+message PB_SCAdvertisementInfo {				//!< 1662 广告列表
+	repeated PB_SCAdvertisement ad_list = 1;
+	optional int32 is_init=2;
+}
+
+//!<MsgId:1663
+message PB_CSAdvertisementFetch {				//!< 1663 领取广告奖励
+	optional int32 seq = 1;
+	optional int32 is_dia = 2;					//0看广告 1消耗钻石
+	optional int32 param = 3;					//参数
+}
+
+message PB_CSFirstRechargeOper {				//!< 1665 首充
+
+}
+
+
+message PB_SCFirstRechargeInfo {				//!< 1666 首充
+	optional bool is_active = 1;
+	optional bool is_fetch = 2;
+}
+
+message PB_SCBattleRevive {				//!< 1667 战斗复活
+	optional int32 revive_hp = 1;			//!< 回百分之多少
+}
+
+message PB_SCBattleBuffRefresh {				//!< 1668 刷新词条
+}
+
+
+message PB_SCBattleSpeed3 {				//!< 1669 试用3倍速
+}
+
+message PB_SCAdPassInfo {				//!< 2110 广告特权
+	optional bool is_active = 1;		//是否激活
+}
+
+
+message PB_CSMiningCaveReq {			//!< 2120 矿洞
+	optional int32 op_type = 1;
+	optional int32 p1 = 2;
+	optional int32 p2 = 3;
+}
+
+message PB_SCMiningCaveCold{
+	optional int32 cold_type = 1;			//土块类型
+	optional int32 excavate_count = 2;		//被挖了几次
+}
+
+message PB_SCMiningCaveInfo {								//!< 2121 矿洞
+	optional int64 excavate_reply_time = 1;					//镐子恢复时间
+	optional uint64 now_high = 2;							//当前高度
+	repeated PB_SCMiningCaveCold cold_list = 3;				//土块信息
+	repeated bool meters_reward = 4;						//奖励是否领取
+}
+
+message PB_SCInstituteInfo {								//!< 2122 研究所
+	repeated int32 talent_level = 1;						//等级
+	optional int64 up_talent_time = 2;						//升级时间
+	optional int32 up_talent_id = 3;						//哪个在升级
+}
+
+
+message PB_SCHerotrialInfo {								//!< 2130 英雄试用
+	repeated bool is_fetch = 1;								//对应关卡id
+}
+
+
+message PB_CSGameCircleReq {								//!< 2160 游戏圈
+	optional int32 req_type = 1;
+	repeated int32 req_param = 2;
+}
+
+message PB_SCGameCircleInfo {								//!< 2161 游戏圈
+	optional bool today_sign_in = 1;						//今日是否签到
+	optional bool new_reward = 2;							//萌新奖励
+	optional int32 sign_count = 3;							//签到次数
+	optional int32 like_count = 4;							//点赞次数
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://1di608jhopeg1">
+  <displayList>
+    <component id="n3_opeg" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n4_opeg" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5">
+      <relation target="n3_opeg" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <component id="n1_opeg" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040">
+      <Label title="商店"/>
+    </component>
+    <component id="n5_opeg" name="CurrencyShow" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="55,48" group="n7_opeg"/>
+    <group id="n7_opeg" name="GpCurrency" xy="55,48" size="165,54" advanced="true">
+      <relation target="n4_opeg" sidePair="top-top"/>
+    </group>
+    <list id="n2_opeg" name="ShowList" xy="75,365" size="650,800" layout="flow_hz" overflow="scroll" lineGap="20" colGap="28" defaultItem="ui://1di608jhopeg2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

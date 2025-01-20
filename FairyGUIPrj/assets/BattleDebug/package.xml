@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="qagbbv3r">
+  <resources>
+    <component id="wl910" name="BattleDebugView.xml" path="/" exported="true"/>
+    <image id="wl911" name="BtnImg.png" path="/image/" scale="9grid" scale9grid="15,15,30,30"/>
+    <component id="wl912" name="Btn.xml" path="/components/"/>
+    <component id="g2df3" name="BattleDebugPanel.xml" path="/"/>
+    <image id="g2df4" name="bai.jpg" path="/image/" scale="9grid" scale9grid="17,9,34,18"/>
+    <component id="g2df5" name="GMItem.xml" path="/components/"/>
+    <component id="g2df6" name="InputItem.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

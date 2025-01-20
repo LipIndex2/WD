@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="nel3xh16">
+  <resources>
+    <component id="uvlm0" name="HeroGeneResolveHintView.xml" path="/" exported="true"/>
+    <image id="uvlm1" name="XiaoKuangDan.png" path="/image/" scale="9grid" scale9grid="72,32,144,64"/>
+    <image id="uvlm2" name="提示.jpg" path="/"/>
+    <image id="hprm3" name="ShuZiDi.png" path="/image/" scale="9grid" scale9grid="30,9,60,18"/>
+    <image id="hprm4" name="提示.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

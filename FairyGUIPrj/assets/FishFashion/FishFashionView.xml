@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://eges52ntwxng1">
+  <displayList>
+    <component id="n0_wxng" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040">
+      <Label title="装扮"/>
+    </component>
+    <image id="n2_wxng" name="bg" src="wxng5" fileName="image/TuCeng36.png" xy="88,391"/>
+    <text id="n1_wxng" name="tips" xy="175,340" pivot="0.5,0.5" size="484,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="更改渔具外观可获得渔具附带属性"/>
+    <richtext id="n3_wxng" name="DescShow" xy="169,613" pivot="0.5,0.5" size="462,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="华丽的钓竿：钓鱼长度增加20%"/>
+    <component id="n4_wxng" name="BtnWear" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1019" visible="false"/>
+    <loader id="n6_c8h4" name="PriceSp" xy="356,938" pivot="0.5,0.5" size="110,110" group="n10_c8h4" scale="0.6,0.6" fill="scaleFree"/>
+    <text id="n7_c8h4" name="title_price" xy="317,975" pivot="0,0.5" size="82,36" group="n10_c8h4" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="消耗："/>
+    <text id="n8_c8h4" name="PriceShow" xy="444,975" pivot="0,0.5" size="55,36" group="n10_c8h4" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="200"/>
+    <component id="n9_c8h4" name="BtnActive" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1019" group="n10_c8h4">
+      <Button title="激活外观"/>
+    </component>
+    <group id="n10_c8h4" name="GpActive" xy="252,938" size="296,193" visible="false" advanced="true"/>
+    <list id="n5_wxng" name="ShowList" xy="121,704" size="555,262" layout="flow_hz" overflow="scroll" lineGap="22" colGap="25" defaultItem="ui://eges52ntwxng3" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

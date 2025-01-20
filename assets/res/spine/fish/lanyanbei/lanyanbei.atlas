@@ -1,0 +1,20 @@
+
+lanyanbei.png
+size: 216,77
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 185, 77
+  orig: 185, 77
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 186, 46
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

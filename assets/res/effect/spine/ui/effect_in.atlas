@@ -1,0 +1,48 @@
+
+effect_in.png
+size: 794,562
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+blue1
+  rotate: false
+  xy: 2, 264
+  size: 297, 296
+  orig: 297, 296
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 600, 507
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+mh_tex_baodian_02
+  rotate: false
+  xy: 278, 6
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mh_tex_point_15
+  rotate: false
+  xy: 536, 6
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+red1
+  rotate: false
+  xy: 301, 264
+  size: 297, 296
+  orig: 297, 296
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 2, 2
+  size: 274, 260
+  orig: 274, 260
+  offset: 0, 0
+  index: -1

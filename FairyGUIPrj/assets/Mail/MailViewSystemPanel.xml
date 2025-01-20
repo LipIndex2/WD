@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://zqb4963i9k881">
+  <displayList>
+    <list id="n0_rjro" name="ShowList" xy="86,480" size="626,682" overflow="scroll" lineGap="9" defaultItem="ui://zqb4963il09gd" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n1_l09g" name="deco" src="l09gc" fileName="image/WuYouJianTuBiao.png" xy="296,737" group="n3_l09g"/>
+    <text id="n2_l09g" name="tips" xy="326,969" pivot="0.5,0.5" size="148,49" group="n3_l09g" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ab9264" align="center" vAlign="middle" text="暂无邮件"/>
+    <group id="n3_l09g" name="GpEmpty" xy="296,737" size="207,281" visible="false" advanced="true"/>
+  </displayList>
+</component>

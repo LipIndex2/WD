@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://8dagvbo1cj0ge">
+  <displayList>
+    <component id="n3_s1ws" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n2_cj0g" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5">
+      <relation target="n3_s1ws" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n1_cj0g" name="Pos" src="cj0g6" fileName="image/JianTou.png" xy="735,380" pivot="0.5,0" anchor="true">
+      <relation target="n2_cj0g" sidePair="right-right,top-top"/>
+    </image>
+    <component id="n0_cj0g" name="Info" src="cj0gf" fileName="components/info.xml" xy="456,419">
+      <relation target="n1_cj0g" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pgjrwjnh">
+  <resources>
+    <component id="lgme0" name="LoseTempleBonfireView.xml" path="/" exported="true"/>
+    <image id="lgme1" name="篝火选择标注.png" path="/"/>
+    <image id="lgme2" name="XuanZeKuang1.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

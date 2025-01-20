@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1hxe9fq9">
+  <resources>
+    <component id="opeg0" name="FishMapView.xml" path="/" exported="true"/>
+    <image id="opeg1" name="渔岛地图SPE.jpg" path="/"/>
+    <image id="opeg2" name="TuCeng14.png" path="/image/"/>
+    <image id="opeg3" name="TuCeng16.png" path="/image/"/>
+    <image id="opeg4" name="TuCeng18.png" path="/image/"/>
+    <image id="opeg5" name="TuCeng19.png" path="/image/"/>
+    <image id="opeg6" name="Zu1.png" path="/image/"/>
+    <component id="opeg8" name="ShowItem1.xml" path="/components/" exported="true"/>
+    <component id="opeg9" name="ShowItem0.xml" path="/components/" exported="true"/>
+    <component id="opega" name="ShowItemTop.xml" path="/components/" exported="true"/>
+    <image id="g6s3b" name="TuCeng20.png" path="/image/"/>
+    <image id="s4pdc" name="Map5.png" path="/image/maps/" exported="true"/>
+    <image id="s4pdd" name="Map6.png" path="/image/maps/" exported="true"/>
+    <image id="s4pde" name="Map7.png" path="/image/maps/" exported="true"/>
+    <image id="s4pdf" name="Map8.png" path="/image/maps/" exported="true"/>
+    <image id="s4pdg" name="Map1.png" path="/image/maps/" exported="true"/>
+    <image id="s4pdh" name="Map2.png" path="/image/maps/" exported="true"/>
+    <image id="s4pdi" name="Map3.png" path="/image/maps/" exported="true"/>
+    <image id="s4pdj" name="Map4.png" path="/image/maps/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

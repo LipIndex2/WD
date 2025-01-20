@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,45" designImage="ui://qrbaplf6fe0v1" designImageOffsetX="-543" designImageOffsetY="-647">
+  <displayList>
+    <text id="n0_fe0v" name="NameShow" xy="0,4" pivot="0,0.5" size="10,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <text id="n2_fe0v" name="ProgressShow" xy="210,4" pivot="1,0.5" size="10,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <image id="n1_fe0v" name="Gou" src="fe0vi" fileName="image/LvDuiGou.png" xy="167,0" visible="false"/>
+    <component id="n3_a5gj" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="109,24"/>
+  </displayList>
+</component>

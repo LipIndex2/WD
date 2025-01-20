@@ -1,0 +1,174 @@
+
+kuangdongqiyuji_db.png
+size: 844,1039
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+A_lingdai
+  rotate: true
+  xy: 471, 332
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+A_shenti
+  rotate: false
+  xy: 357, 403
+  size: 169, 149
+  orig: 169, 149
+  offset: 0, 0
+  index: -1
+A_shou1
+  rotate: true
+  xy: 639, 3
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+A_shou2
+  rotate: false
+  xy: 357, 330
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+A_tou
+  rotate: false
+  xy: 296, 67
+  size: 246, 169
+  orig: 246, 169
+  offset: 0, 0
+  index: -1
+B_jiao1
+  rotate: false
+  xy: 446, 237
+  size: 72, 92
+  orig: 72, 92
+  offset: 0, 0
+  index: -1
+B_jiao2
+  rotate: true
+  xy: 543, 22
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1
+B_jiao3
+  rotate: true
+  xy: 719, 51
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+B_jiao4
+  rotate: true
+  xy: 704, 1
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+B_lingdai
+  rotate: true
+  xy: 767, 282
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+B_maozi
+  rotate: false
+  xy: 527, 259
+  size: 239, 148
+  orig: 239, 148
+  offset: 0, 0
+  index: -1
+B_shenti
+  rotate: false
+  xy: 543, 69
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+B_tou
+  rotate: false
+  xy: 357, 241
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+B_toujin
+  rotate: false
+  xy: 527, 408
+  size: 290, 144
+  orig: 290, 144
+  offset: 0, 0
+  index: -1
+B_xuxu1
+  rotate: false
+  xy: 818, 500
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+B_xuxu2
+  rotate: false
+  xy: 779, 96
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+C_huo1
+  rotate: false
+  xy: 653, 65
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+C_huo2
+  rotate: false
+  xy: 767, 318
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+C_huo3
+  rotate: false
+  xy: 747, 146
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+C_shenti
+  rotate: true
+  xy: 0, 0
+  size: 236, 295
+  orig: 236, 295
+  offset: 0, 0
+  index: -1
+C_shou1
+  rotate: true
+  xy: 653, 152
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+C_shou2
+  rotate: false
+  xy: 543, 152
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+beijing_db
+  rotate: true
+  xy: 0, 237
+  size: 802, 356
+  orig: 802, 356
+  offset: 0, 0
+  index: -1
+texiao_db
+  rotate: true
+  xy: 357, 553
+  size: 486, 475
+  orig: 486, 475
+  offset: 0, 0
+  index: -1

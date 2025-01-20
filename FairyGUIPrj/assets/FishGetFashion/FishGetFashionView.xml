@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://jlfm4vvats9f4">
+  <displayList>
+    <image id="n6_ts0a" name="bg" src="ts9f1" fileName="image/Zu410.png" xy="98,895"/>
+    <image id="n5_ts0a" name="bg_t" src="ts9f0" fileName="image/TuCeng7.png" xy="107,297"/>
+    <text id="n1_ts0a" name="title" xy="309,304" pivot="0.5,0.5" size="182,64" font="ui://wqx8l8xqut2h1b" fontSize="48" color="#ffef85" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="新 渔 具"/>
+    <text id="n3_ts0a" name="NameShow" xy="368,429" pivot="0.5,0.5" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="河豚"/>
+    <text id="n7_ts0a" name="TypeShow" xy="138,900" pivot="0.5,0.5" size="82,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#f5e6a2" align="center" vAlign="middle" strokeColor="#491916" autoClearText="true" text="小型鱼"/>
+    <richtext id="n8_ts0a" name="AttrShow" xy="262,970" pivot="0.5,0.5" size="276,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" autoClearText="true" text="评分：9998776"/>
+    <component id="n13_ts0a" name="BtnWear" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1197" visible="false">
+      <Button title="更换外观"/>
+    </component>
+    <loader id="n9_ts0a" name="PriceSp" xy="355,1115" pivot="0.5,0.5" size="110,110" group="n15_ts0a" scale="0.6,0.6" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n10_ts0a" name="title_price" xy="316,1152" pivot="0,0.5" size="82,36" group="n15_ts0a" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="价格："/>
+    <text id="n11_ts0a" name="PriceShow" xy="444,1152" pivot="0,0.5" size="55,36" group="n15_ts0a" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="200"/>
+    <component id="n12_ts0a" name="BtnSell" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="252,1197" group="n15_ts0a">
+      <Button title="出售"/>
+    </component>
+    <group id="n15_ts0a" name="GpSell" xy="252,1115" size="296,194" visible="false" advanced="true"/>
+    <component id="n21_ts9f" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="340,640"/>
+  </displayList>
+</component>

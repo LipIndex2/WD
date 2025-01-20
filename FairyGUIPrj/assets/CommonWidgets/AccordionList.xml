@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="252,300">
+  <displayList>
+    <list id="n35_mcbl" name="List" xy="0,0" size="252,300" overflow="scroll" scrollBarFlags="128" lineGap="6" defaultItem="ui://1kdklxk3mcbl3w" align="center" autoClearItems="true" treeView="true" indent="15" clickToExpand="1">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item level="0"/>
+      <item level="1"/>
+    </list>
+  </displayList>
+</component>

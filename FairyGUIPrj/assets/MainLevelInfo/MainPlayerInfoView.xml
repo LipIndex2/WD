@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://czbmy05rfr823" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n1_mgkh" name="board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="0,0"/>
+    <text id="n3_mgkh" name="NoData" xy="278,783" size="244,79" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="60" color="#c9955e" text="暂无数据"/>
+    <list id="n4_mgkh" name="list" xy="85,360" size="630,1003" overflow="scroll" lineGap="10" defaultItem="ui://czbmy05rfr82e" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

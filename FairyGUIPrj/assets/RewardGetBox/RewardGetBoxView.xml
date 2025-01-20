@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageLayer="1">
+  <displayList>
+    <component id="n18_gy1n" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n26_kqn1" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n18_gy1n" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n12_h6p0" name="n12" src="h6p05" fileName="image/DiMian.png" xy="0,1187" pivot="0.5,0.5" group="n15_h6p0">
+      <relation target="n18_gy1n" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <component id="n13_h6p0" name="BtnBox" src="h6p0b" fileName="components/BtnBox.xml" xy="398,1114" pivot="0.5,0.5" anchor="true" group="n15_h6p0"/>
+    <component id="n28_j2uk" name="BtnOpen" src="j2ukm" fileName="components/BtnOpen.xml" xy="0,0" group="n15_h6p0"/>
+    <component id="n30_sa65" name="BtnOpen2" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="253,1362" group="n15_h6p0" touchable="false">
+      <Button title="直接开启"/>
+    </component>
+    <group id="n15_h6p0" name="OpenBoxShow" xy="0,0" size="800,1600" advanced="true"/>
+    <component id="n29_vkjw" name="ButtonShow" src="h6p01" fileName="components/ButtonContinue.xml" xy="0,0" group="n11_h6p0"/>
+    <component id="n4_rjro" name="BtnContinue" src="h6p01" fileName="components/ButtonContinue.xml" xy="0,0" group="n11_h6p0" visible="false"/>
+    <list id="n5_rjro" name="ShowList" xy="29,378" size="742,900" group="n11_h6p0" layout="flow_hz" overflow="scroll" lineGap="-180" colGap="-190" lineItemCount="3" defaultItem="ui://x30uryedh6p02" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n10_h6p0" name="bg_t" src="h6p0a" fileName="image/BiaoTi.png" xy="234,236" size="332,61" group="n11_h6p0"/>
+    <text id="n8_h6p0" name="NameShow" xy="327,242" pivot="0.5,0.5" size="148,49" group="n11_h6p0" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="你获得了"/>
+    <image id="n21_kts3" name="n21" src="kts3g" fileName="image/HuoBiDiKeLaShen.png" xy="300,1321" size="199,54" group="n25_kts3"/>
+    <image id="n20_kts3" name="n20" src="kts3i" fileName="image/Small40000.png" xy="307,1327" group="n25_kts3"/>
+    <text id="n22_kts3" name="curNum" xy="336,1319" pivot="0.5,0.5" size="156,54" group="n25_kts3" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491914" strokeSize="3" text=""/>
+    <group id="n25_kts3" name="GGCur" xy="300,1319" size="199,56" group="n11_h6p0" advanced="true"/>
+    <group id="n11_h6p0" name="AchieveShow" xy="0,0" size="800,1600" visible="false" advanced="true"/>
+  </displayList>
+</component>

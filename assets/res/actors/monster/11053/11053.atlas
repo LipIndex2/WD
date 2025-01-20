@@ -1,0 +1,76 @@
+
+11053.png
+size: 435,263
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: false
+  xy: 259, 55
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 225, 0
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 160, 1
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 292, 138
+  size: 134, 125
+  orig: 134, 125
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 157, 80
+  size: 134, 183
+  orig: 134, 183
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 0, 42
+  size: 221, 156
+  orig: 221, 156
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 157, 44
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 208, 44
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 312, 8
+  size: 123, 129
+  orig: 123, 129
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 0, 7
+  size: 34, 159
+  orig: 34, 159
+  offset: 0, 0
+  index: -1

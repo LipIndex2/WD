@@ -1,0 +1,48 @@
+
+effect_hero_appear_gx.png
+size: 310,266
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow2
+  rotate: false
+  xy: 176, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+light6
+  rotate: false
+  xy: 2, 92
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: false
+  xy: 176, 132
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+point17
+  rotate: false
+  xy: 2, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: true
+  xy: 2, 11
+  size: 13, 128
+  orig: 13, 128
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 132, 55
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

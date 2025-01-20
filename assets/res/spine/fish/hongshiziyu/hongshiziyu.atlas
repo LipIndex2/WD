@@ -1,0 +1,27 @@
+
+hongshiziyu.png
+size: 98,41
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+yanjing
+  rotate: false
+  xy: 85, 28
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 85, 23
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 0, 0
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1

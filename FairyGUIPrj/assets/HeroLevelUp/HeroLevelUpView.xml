@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageAlpha="0" designImageLayer="1">
+  <controller name="StateShow" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n19_j1wt" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n20_lwoh" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n19_j1wt" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n21_n9u9" name="BtnOnGo" src="n9u913" fileName="components/BtnOnGo.xml" xy="0,0"/>
+    <list id="n3_u5os" name="List" xy="31,674" size="740,444" layout="flow_hz" lineGap="37" colGap="27" defaultItem="ui://2oflxec3n5cf12" autoClearItems="true">
+      <gearDisplay controller="StateShow" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n15_hf7r" name="n15" src="hf7ru" fileName="image/WenBen.png" xy="61,1129" pivot="0.5,1" size="678,178" group="n17_hf7r">
+      <relation target="n16_hf7r" sidePair="height-height"/>
+    </image>
+    <text id="n16_hf7r" name="HeroDesc" xy="98,1169" pivot="0.5,1" size="604,98" group="n17_hf7r" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" leading="19" autoSize="height" strokeColor="#491914" strokeSize="3" text="雪花豌豆的雪花豌豆的雪花&#xA;豌豆的雪花豌豆"/>
+    <group id="n17_hf7r" name="DescShow" xy="61,1129" size="678,178" visible="false" advanced="true">
+      <gearDisplay controller="StateShow" pages="1"/>
+    </group>
+    <text id="n4_u5os" name="Name" xy="286,187" pivot="0.5,0.5" size="228,74" font="ui://wqx8l8xqut2h1b" fontSize="56" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="雪花豌豆"/>
+    <text id="n22_kb45" name="n22" xy="140,1129" pivot="0.5,0.5" size="284,54" group="n25_kb45" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="全体伤害加成："/>
+    <text id="n23_kb45" name="n23" xy="154,1187" pivot="0.5,0.5" size="514,42" group="n25_kb45" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" strokeColor="#491916" strokeSize="3" text="升级门徒可以增加全体门徒的伤害加成"/>
+    <text id="n24_kb45" name="Damage" xy="420,1130" pivot="0,0.5" size="240,54" group="n25_kb45" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffcf5d" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" autoClearText="true" text="999%+99%"/>
+    <group id="n25_kb45" name="GpDamage" xy="140,1129" size="528,99" advanced="true">
+      <gearDisplay controller="StateShow" pages="0"/>
+    </group>
+    <component id="n8_tm53" name="HeroCell" src="tm533c" fileName="HeroCell.xml" pkg="gn62pyk3" xy="310,336" scale="1.3,1.3" touchable="false" grayed="true">
+      <gearXY controller="StateShow" pages="0,1" values="310,336|310,500"/>
+    </component>
+    <component id="n9_hf7r" name="SkillInfo" src="r41h10" fileName="components/SkillInfo.xml" xy="33,1237" visible="false" touchable="false">
+      <gearDisplay controller="StateShow" pages="0"/>
+    </component>
+    <component id="n18_jx1k" name="Effect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,500"/>
+  </displayList>
+  <transition name="ActivateAni" frameRate="30">
+    <item time="0" type="ColorFilter" target="n8_tm53" value="0,0,-1,0"/>
+    <item time="0" type="Scale" target="n8_tm53" tween="true" startValue="1.3,1.3" endValue="1.4,1.4" duration="5"/>
+    <item time="5" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="1.1,1.1" duration="5"/>
+    <item time="10" type="Scale" target="n8_tm53" tween="true" startValue="1.1,1.1" endValue="1.4,1.4" duration="5"/>
+    <item time="15" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="1,1" duration="5"/>
+    <item time="20" type="Scale" target="n8_tm53" tween="true" startValue="1,1" endValue="1.4,1.4" duration="5"/>
+    <item time="25" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="0.9,0.9" duration="4"/>
+    <item time="29" type="ColorFilter" target="n8_tm53" value="0,0,0,0"/>
+    <item time="29" type="Scale" target="n8_tm53" tween="true" startValue="0.9,0.9" endValue="1.4,1.4" duration="5"/>
+    <item time="34" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="1.2,1.2" duration="4"/>
+    <item time="38" type="Scale" target="n8_tm53" tween="true" startValue="1.2,1.2" endValue="1.3,1.3" duration="4"/>
+  </transition>
+  <transition name="LevelUpAni" frameRate="30">
+    <item time="0" type="Scale" target="n8_tm53" tween="true" startValue="1.3,1.3" endValue="1.4,1.4" duration="5"/>
+    <item time="5" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="1.2,1.2" duration="2"/>
+    <item time="7" type="Scale" target="n8_tm53" tween="true" startValue="1.2,1.2" endValue="1.4,1.4" duration="6"/>
+    <item time="13" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="1.3,1.3" duration="6"/>
+    <item time="19" type="Scale" target="n8_tm53" tween="true" startValue="1.3,1.3" endValue="1.4,1.4" duration="6"/>
+    <item time="25" type="Scale" target="n8_tm53" tween="true" startValue="1.4,1.4" endValue="1.3,1.3" duration="6"/>
+  </transition>
+  <transition name="SkillAni" frameRate="30">
+    <item time="0" type="Pivot" target="n9_hf7r" value="0.5,0.5"/>
+    <item time="0" type="Alpha" target="n9_hf7r" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Scale" target="n9_hf7r" tween="true" startValue="0,0" endValue="1.1,1.1" duration="7"/>
+    <item time="7" type="Scale" target="n9_hf7r" tween="true" startValue="1.1,1.1" endValue="1,1" duration="3"/>
+  </transition>
+</component>

@@ -1,0 +1,20 @@
+
+effect_luoqi_stone.png
+size: 366,196
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+mask02
+  rotate: true
+  xy: 196, 25
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: -1
+stone_06
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n1_n4lg" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <component id="n26_en2l" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n1_n4lg" sidePair="bottom-bottom"/>
+    </component>
+    <loader id="n22_no3y" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" fill="scaleFree"/>
+    <list id="n21_lgme" name="MapList" xy="0,0" pivot="0.5,0.5" size="800,1472" overflow="scroll" defaultItem="ui://pppfbs53lgmea" autoItemSize="false" align="center" vAlign="middle" scrollItemToViewOnClick="false">
+      <relation target="n1_n4lg" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+    </list>
+    <image id="n2_n4lg" name="n2" src="n4lg2" fileName="image/HuoDongBiaoTiHengFuZi.png" xy="141,146">
+      <relation target="n1_n4lg" sidePair="top-top"/>
+    </image>
+    <image id="n0_n4lg" name="n0" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" pivot="0.5,0.5" size="800,130" group="n24_no3y">
+      <relation target="n1_n4lg" sidePair="width-width"/>
+    </image>
+    <image id="n23_no3y" name="n23" src="no3ys" fileName="image/AiXinDi.png" xy="39,1407" group="n24_no3y"/>
+    <image id="n3_n4lg" name="n3" src="n4lg3" fileName="TiLi1.png" pkg="rqg67c20" xy="28,1398" group="n24_no3y"/>
+    <text id="n20_lgme" name="Energy" xy="104,1412" size="43,42" group="n24_no3y" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="10"/>
+    <group id="n24_no3y" name="n24" xy="0,1398" size="800,202" advanced="true">
+      <relation target="n1_n4lg" sidePair="bottom-bottom"/>
+    </group>
+    <text id="n7_n4lg" name="Name" xy="344,156" pivot="0.5,0.5" size="112,49" group="n25_no3y" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="魔王城"/>
+    <text id="n16_lgme" name="TierNum" xy="301,212" pivot="0.5,0.5" size="212,36" group="n25_no3y" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="第五层（共六层）"/>
+    <component id="n18_lgme" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="271,254" size="258,47" group="n25_no3y">
+      <Label title="刷新：1天8时"/>
+    </component>
+    <group id="n25_no3y" name="n25" xy="271,156" size="258,145" advanced="true">
+      <relation target="n1_n4lg" sidePair="top-top"/>
+    </group>
+    <component id="n14_lgme" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="46,20" group="n27_en2l">
+      <Label title="0" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n10_n4lg" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="239,20" group="n27_en2l">
+      <Label title="0" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <component id="n12_n4lg" name="Currency4" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="628,20" group="n27_en2l">
+      <Label title="0" icon="ui://5qhcb5rwu3z86n"/>
+    </component>
+    <component id="n11_n4lg" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="433,20" group="n27_en2l">
+      <Label title="0" icon="ui://5qhcb5rwu3z86o"/>
+    </component>
+    <group id="n27_en2l" name="n27" xy="46,20" size="747,54" advanced="true">
+      <relation target="n26_en2l" sidePair="top-top"/>
+    </group>
+    <list id="n15_lgme" name="BtnList" xy="665,142" size="126,112" lineGap="75" defaultItem="ui://pppfbs53lgmee" autoClearItems="true">
+      <item icon="ui://pppfbs53lgmec"/>
+      <item icon="ui://pppfbs53lgmed"/>
+      <item icon="ui://pppfbs53lgmeb"/>
+    </list>
+    <list id="n19_lgme" name="HeroList" xy="30,1096" size="750,301" layout="row" overflow="scroll" scrollBarFlags="2720" colGap="6" defaultItem="ui://gn62pyk3lgmef" autoClearItems="true">
+      <relation target="n1_n4lg" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_n4lg" name="BtnTeam" src="n4lg7" fileName="components/BtnMod.xml" xy="436,1446">
+      <relation target="n1_n4lg" sidePair="bottom-bottom"/>
+      <Button title="阵容" icon="ui://pppfbs53n4lg4"/>
+    </component>
+    <component id="n5_n4lg" name="BtnRemains" src="n4lg7" fileName="components/BtnMod.xml" xy="612,1446">
+      <relation target="n1_n4lg" sidePair="bottom-bottom"/>
+      <Button title="遗物" icon="ui://pppfbs53n4lg5"/>
+    </component>
+    <component id="n6_n4lg" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="16,1490">
+      <relation target="n1_n4lg" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

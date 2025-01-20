@@ -1,0 +1,27 @@
+
+effect_icon_level.png
+size: 383,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+kuosan_203
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: false
+  xy: 257, 114
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 257, 62
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r4xhqqyr">
+  <resources>
+    <component id="etz20" name="TerritoryResView.xml" path="/" exported="true"/>
+    <image id="etz21" name="资源详情spe.jpg" path="/"/>
+    <image id="etz22" name="ShuZi.png" path="/image/"/>
+    <component id="etz23" name="BtnSmall.xml" path="/components/"/>
+    <image id="etz24" name="JiaHao.png" path="/image/"/>
+    <image id="etz25" name="Jian.png" path="/image/"/>
+    <image id="etz26" name="Jia.png" path="/image/"/>
+    <image id="etz27" name="JianHao.png" path="/image/"/>
+    <component id="etz28" name="BtnBig.xml" path="/components/"/>
+    <image id="etz29" name="max.png" path="/image/"/>
+    <image id="etz2a" name="min.png" path="/image/"/>
+    <image id="etz2b" name="ShiJianDi.png" path="/image/" scale="9grid" scale9grid="53,13,106,26"/>
+    <image id="etz2c" name="ShiJianicon.png" path="/image/"/>
+    <image id="etz2d" name="YuanJiaoJuXing2.png" path="/image/" scale="9grid" scale9grid="24,14,48,28"/>
+    <image id="u9g0e" name="JiaYuanTuBiaoYouHuaShiYi.png" path="/image/"/>
+    <image id="u9g0f" name="TuiChe2.png" path="/image/"/>
+    <component id="s8hpg" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="s8hph" name="Che-BeiMian.png" path="/image/"/>
+    <image id="s8hpi" name="Zu60.png" path="/image/"/>
+    <image id="s8hpj" name="Che-ZhengMian.png" path="/image/"/>
+    <component id="s8hpk" name="ButtonRes.xml" path="/components/"/>
+    <image id="eufwl" name="XiaoShuZiYuan.png" path="/image/"/>
+    <image id="p08gm" name="muxiang.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

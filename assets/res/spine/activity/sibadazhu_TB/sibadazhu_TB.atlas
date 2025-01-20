@@ -1,0 +1,83 @@
+
+sibadazhu_TB.png
+size: 81,196
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao1
+  rotate: false
+  xy: 32, 8
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+jiao1ex
+  rotate: false
+  xy: 52, 114
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 53, 8
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+jiao2ex
+  rotate: false
+  xy: 52, 93
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 0, 28
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 41, 26
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 0, 135
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+zhu3
+  rotate: true
+  xy: 52, 61
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+zhu4
+  rotate: false
+  xy: 0, 0
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+zhu5
+  rotate: true
+  xy: 0, 99
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+zhu6
+  rotate: true
+  xy: 0, 63
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1

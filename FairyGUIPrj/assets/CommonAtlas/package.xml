@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rqg67c20">
+  <resources>
+    <image id="jxlb1" name="TongYongHeiDi.png" path="/" exported="true" scale="9grid" scale9grid="18,18,36,36"/>
+    <image id="iw5u2" name="BiaoTiXiaoHengFu.png" path="/" exported="true" scale9grid="105,19,210,14"/>
+    <image id="tiuj5f" name="PinTu.png" path="/" exported="true"/>
+    <image id="rjro5g" name="PinZhi2.png" path="/item_info/" exported="true" scale="9grid" scale9grid="27,27,54,54"/>
+    <image id="rjro5h" name="PinZhi1.png" path="/item_info/" exported="true" scale="9grid" scale9grid="27,27,54,54"/>
+    <image id="rjro5i" name="PinZhi3.png" path="/item_info/" exported="true" scale="9grid" scale9grid="27,27,54,54"/>
+    <image id="ln425l" name="HeroAttr5.png" path="/hero_attr/" exported="true"/>
+    <image id="ln425m" name="HeroAttr2.png" path="/hero_attr/" exported="true"/>
+    <image id="ln425n" name="HeroAttr6.png" path="/hero_attr/" exported="true"/>
+    <image id="ln425o" name="HeroAttr1.png" path="/hero_attr/" exported="true"/>
+    <image id="xaqq5q" name="HeroAttr3.png" path="/hero_attr/" exported="true"/>
+    <image id="xaqq5r" name="HeroAttr4.png" path="/hero_attr/" exported="true"/>
+    <image id="xaqq5s" name="HeroBgPinZhi3.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="0,92,196,46"/>
+    <image id="xaqq5w" name="HeroBgPinZhi1.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="0,98,196,43"/>
+    <image id="xaqq5x" name="HeroBgPinZhi2.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="0,85,196,57"/>
+    <image id="gkss65" name="Suo.png" path="/" exported="true"/>
+    <image id="gkss66" name="Gou.png" path="/" exported="true"/>
+    <image id="o0za67" name="ItemCellBg2.png" path="/" exported="true"/>
+    <image id="z2of69" name="MaskBlock.png" path="/" exported="true" scale="9grid" scale9grid="0,0,30,30" duplicatePadding="true" disableTrim="true"/>
+    <image id="r9w56a" name="JinDuTiaoDi1.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="51,4,53,53"/>
+    <image id="r9w56b" name="JinDuTiaoDi2.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="37,0,74,57"/>
+    <image id="r9w56c" name="JinDuTiaoDi3.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="37,0,74,56"/>
+    <image id="r9w56d" name="JinDuTiao2.png" path="/hero_info/" exported="true" scale="9grid" scale9grid="37,2,74,55"/>
+    <image id="k2qf3" name="TouMing.png" path="/" exported="true"/>
+    <image id="okor6f" name="HengFuLan.png" path="/" exported="true" scale9grid="105,0,54,33"/>
+    <image id="ldm8g" name="YeQianDiBu.png" path="/" exported="true" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="l6cb6" name="ShiJianDi.png" path="/" exported="true" scale="9grid" scale9grid="53,13,106,26"/>
+    <image id="l6cb5" name="ShiJianicon.png" path="/" exported="true"/>
+    <image id="jmb46g" name="HeroAttr7.png" path="/hero_attr/" exported="true"/>
+    <image id="n4lg3" name="TiLi1.png" path="/" exported="true"/>
+    <image id="pgz2s" name="TiLi2.png" path="/" exported="true"/>
+    <image id="en2l6h" name="TuBiaoDi2.png" path="/" exported="true"/>
+    <image id="en2l6i" name="TuBiaoDi3.png" path="/" exported="true"/>
+    <image id="10ewu6j" name="GuangGao.png" path="/" exported="true"/>
+    <image id="10ewu6k" name="LanSeGuangGao.png" path="/" exported="true"/>
+    <image id="10ewu6l" name="DaGuangGao.png" path="/" exported="true"/>
+    <image id="iyeau6m" name="PinZhi5.png" path="/item_info/" exported="true"/>
+    <image id="iyeau6n" name="PinZhi4.png" path="/item_info/" exported="true"/>
+  </resources>
+  <publish name="">
+    <atlas name="Public" index="0"/>
+    <atlas name="BoardOne" index="1"/>
+    <atlas name="BoardTwo" index="2"/>
+    <atlas name="BoardThree" index="3"/>
+    <atlas name="ItemInfo" index="4"/>
+    <atlas name="PetInfo" index="5"/>
+  </publish>
+</packageDescription>

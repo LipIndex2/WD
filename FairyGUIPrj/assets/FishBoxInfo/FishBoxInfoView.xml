@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://iyuzwqcye0iz0">
+  <displayList>
+    <component id="n0_e0iz" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040">
+      <Label title="鱼缸详情"/>
+    </component>
+    <list id="n3_e0iz" name="ShowList" xy="88,367" size="624,804" overflow="scroll" lineGap="6" defaultItem="ui://iyuzwqcye0iz5" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n4_v78a" name="BgType" src="v78ad" fileName="image/TuCeng47.png" xy="0,347" size="275,900" visible="false"/>
+    <component id="n1_e0iz" name="BtnType" src="e0iz1" fileName="components/ButtonType.xml" xy="6,284"/>
+    <list id="n5_v78a" name="TypeList" xy="22,390" size="226,813" visible="false" overflow="scroll" lineGap="18" defaultItem="ui://iyuzwqcyv78af" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

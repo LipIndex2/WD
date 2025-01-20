@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://1q105up5lhxl3">
+  <displayList>
+    <component id="n9_lhxl" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n21_xz54" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n9_lhxl" sidePair="width-width,height-height"/>
+    </component>
+    <loader id="n23_g00j" name="ZheZhao" xy="0,0" size="800,1600" touchable="false" fill="scaleFree">
+      <relation target="n9_lhxl" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </loader>
+    <component id="n22_algr" name="GuangEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,0">
+      <relation target="n9_lhxl" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n24_g00j" name="n24" src="g00jd" fileName="components/DiBan.xml" xy="0,510">
+      <relation target="n9_lhxl" sidePair="width-width,center-center,middle-middle"/>
+    </component>
+    <image id="n0_lhxl" name="n0" src="83sp1" fileName="image/BaoLiuJiNenHengFu.png" xy="399,511" pivot="0.5,0.5" anchor="true" size="513,48">
+      <relation target="n24_g00j" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n5_lhxl" name="n5" xy="400,511" pivot="0.5,0.5" anchor="true" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="保留技能">
+      <relation target="n0_lhxl" sidePair="center-center,middle-middle"/>
+    </text>
+    <list id="n7_lhxl" name="List" xy="402,674" pivot="0.5,0.5" anchor="true" size="1257,274" scale="1.2,1.2" touchable="false" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2048" margin="75,0,-20,0" colGap="38" defaultItem="ui://1q105up5rmxg9" autoClearItems="true">
+      <relation target="n24_g00j" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_8bqv" name="EndEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,667"/>
+    <component id="n13_8bqv" name="SkillItem" src="rmxg9" fileName="components/SkillItem.xml" xy="345,614" visible="false"/>
+    <richtext id="n14_8bqv" name="SkillDesc" xy="403,815" pivot="0.5,0.5" anchor="true" size="367,142" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" autoSize="none" strokeColor="#491914" strokeSize="2" autoClearText="true" text="秒速秒速秒速秒"/>
+    <component id="n20_rmxg" name="SkillEffect" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="397,669">
+      <relation target="n13_8bqv" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_lhxl" name="PlayBtn" src="lhxl6" fileName="components/PlayBtn.xml" xy="217,1247" size="366,135">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="show_skill">
+    <item time="35" type="Pivot" target="n13_8bqv" value="0.5,0.5"/>
+    <item time="35" type="Alpha" target="n14_8bqv" value="0"/>
+    <item time="35" type="Scale" target="n13_8bqv" tween="true" startValue="1,1" endValue="3,3" duration="4"/>
+    <item time="35" type="Visible" target="n13_8bqv" value="true"/>
+    <item time="35" type="Visible" target="n14_8bqv" value="true"/>
+    <item time="35" type="Visible" target="n24_g00j" value="false"/>
+    <item time="35" type="Visible" target="n7_lhxl" value="false"/>
+    <item time="35" type="XY" target="n0_lhxl" tween="true" startValue="392,513" endValue="392,433" duration="7"/>
+    <item time="39" type="Scale" target="n13_8bqv" tween="true" startValue="3,3" endValue="1.05,1.05" duration="5"/>
+    <item time="44" type="Scale" target="n13_8bqv" tween="true" startValue="1.05,1.05" endValue="1.2,1.2" duration="3"/>
+    <item time="45" type="Alpha" target="n14_8bqv" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="96" type="Visible" target="n7_lhxl" value="false"/>
+  </transition>
+</component>

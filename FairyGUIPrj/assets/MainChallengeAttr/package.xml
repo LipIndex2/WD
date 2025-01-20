@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wgepcuy7">
+  <resources>
+    <component id="fnrr0" name="MainChallengeAttrView.xml" path="/" exported="true"/>
+    <image id="fnrr1" name="GongJiLiQiPao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

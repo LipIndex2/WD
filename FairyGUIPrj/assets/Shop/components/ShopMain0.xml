@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,330" designImageOffsetY="-272">
+  <displayList>
+    <component id="n0_iw5u" name="BtnCard" src="iw5u9" fileName="components/ButtonMainCard.xml" xy="27,0"/>
+  </displayList>
+</component>

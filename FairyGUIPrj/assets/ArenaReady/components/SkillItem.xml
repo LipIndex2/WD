@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,150" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n0_r1b9" name="Qua" xy="0,0" size="150,150" url="ui://e818d6byr1b9k" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n1_r1b9" name="Icon" xy="5,5" size="140,140" align="center" vAlign="middle" fill="scaleFree"/>
+    <text id="n2_r1b9" name="IconValue" xy="75,115" pivot="0.5,0.5" anchor="true" size="92,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="+20%"/>
+    <component id="n4_v7za" name="CtrlBtn1" src="v7zaw" fileName="components/SkillCtrlBtn.xml" xy="22,120" visible="false">
+      <Button title="选择" icon="ui://e818d6by6w2oy"/>
+    </component>
+    <component id="n5_v7za" name="CtrlBtn2" src="v7zaw" fileName="components/SkillCtrlBtn.xml" xy="22,120" visible="false">
+      <Button title="取消" icon="ui://e818d6by6w2ox"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

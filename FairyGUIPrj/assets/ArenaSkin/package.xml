@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ikdvkbta">
+  <resources>
+    <image id="iyea0" name="Skin1.png" path="/imange/"/>
+    <image id="iyea1" name="TuBiao.png" path="/imange/"/>
+    <image id="iyea2" name="DanChuQiPao.png" path="/imange/"/>
+    <image id="iyea3" name="DiXiaZheZhaoTiao.png" path="/imange/"/>
+    <image id="iyea4" name="ShuXingDi.png" path="/imange/" scale="9grid" scale9grid="45,0,90,54"/>
+    <image id="iyea5" name="YongJiuDianCang.png" path="/imange/"/>
+    <image id="iyea6" name="ZengYiTuBiao.png" path="/imange/"/>
+    <image id="iyea7" name="ZheZhao.png" path="/imange/"/>
+    <image id="iyea8" name="HengLaBeiJing.png" path="/imange/" scale="9grid" scale9grid="1,0,5,1600"/>
+    <image id="iyea9" name="YeQianDiBu.png" path="/imange/" scale="9grid" scale9grid="8,0,16,130"/>
+    <image id="iyeaa" name="地图皮肤2.jpg" path="/"/>
+    <component id="iyeab" name="ArenaSkinView.xml" path="/" exported="true"/>
+    <image id="iyeac" name="HengFu.png" path="/imange/" scale="9grid" scale9grid="130,0,160,77"/>
+    <image id="iyeae" name="GanTan.png" path="/imange/"/>
+    <component id="iyeag" name="SkinItem.xml" path="/components/" exported="true"/>
+    <image id="iyeah" name="ShiJian.png" path="/imange/"/>
+    <image id="iyeaj" name="HuangAnNiu.png" path="/imange/"/>
+    <image id="iyeak" name="Gou.png" path="/imange/"/>
+    <image id="iyeal" name="ShiJianDi.png" path="/imange/" scale="9grid" scale9grid="53,0,106,54"/>
+    <component id="iyeam" name="BuyBtn.xml" path="/components/"/>
+    <component id="iyean" name="Title.xml" path="/components/" exported="true"/>
+    <component id="iyeao" name="AttInfo.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

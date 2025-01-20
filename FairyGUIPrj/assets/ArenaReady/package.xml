@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="e818d6by">
+  <resources>
+    <component id="r1b90" name="ArenaReady.xml" path="/" exported="true"/>
+    <image id="r1b91" name="beijing.png" path="/imange/" scale="9grid" scale9grid="2,0,3,1600"/>
+    <image id="r1b92" name="竞技-词组.JPG" path="/"/>
+    <image id="r1b93" name="竞技-阵容.JPG" path="/"/>
+    <component id="r1b94" name="ArenaReadyHero.xml" path="/" exported="true"/>
+    <image id="r1b95" name="GeZi.png" path="/imange/"/>
+    <image id="r1b96" name="TuCheng.png" path="/imange/" scale="9grid" scale9grid="49,98,98,34"/>
+    <image id="r1b97" name="XiaZhen.png" path="/imange/"/>
+    <image id="r1b98" name="ShangZhen.png" path="/imange/" exported="true"/>
+    <component id="r1b99" name="UpBtn.xml" path="/components/"/>
+    <component id="r1b9a" name="DownBtn.xml" path="/components/"/>
+    <component id="r1b9b" name="HeroItem.xml" path="/components/"/>
+    <image id="r1b9c" name="YeQianAnNiu.png" path="/imange/" scale="9grid" scale9grid="26,23,52,46"/>
+    <image id="r1b9d" name="TongYongHeiDi.png" path="/imange/" scale="9grid" scale9grid="18,18,36,36"/>
+    <component id="r1b9e" name="TabBtn.xml" path="/components/" exported="true"/>
+    <component id="r1b9f" name="ArenaReadySkill.xml" path="/" exported="true"/>
+    <image id="r1b9g" name="竞技-词组.JPG" path="/"/>
+    <image id="r1b9h" name="Qua1.png" path="/imange/" exported="true" scale="9grid" scale9grid="44,37,88,33"/>
+    <image id="r1b9i" name="Qua2.png" path="/imange/" exported="true" scale="9grid" scale9grid="44,41,88,29"/>
+    <image id="r1b9j" name="Qua3.png" path="/imange/" exported="true" scale="9grid" scale9grid="44,38,88,30"/>
+    <image id="r1b9k" name="YuanQua1.png" path="/imange/" exported="true"/>
+    <image id="r1b9l" name="YuanQua2.png" path="/imange/" exported="true"/>
+    <image id="r1b9m" name="YuanQua3.png" path="/imange/" exported="true"/>
+    <component id="r1b9n" name="SkillItem.xml" path="/components/" exported="true"/>
+    <component id="r1b9o" name="SkillInfo.xml" path="/components/" exported="true"/>
+    <component id="r1b9p" name="InFightHeroItem.xml" path="/components/" exported="true"/>
+    <component id="r1b9q" name="BattleArray.xml" path="/components/" exported="true"/>
+    <image id="r2zdr" name="Cha.png" path="/imange/" exported="true"/>
+    <image id="r2zds" name="Gou.png" path="/imange/" exported="true"/>
+    <image id="wpumu" name="ShiYong.png" path="/imange/"/>
+    <component id="v7zaw" name="SkillCtrlBtn.xml" path="/components/"/>
+    <image id="6w2ox" name="YuanJiaoJuXingCha.png" path="/imange/" exported="true"/>
+    <image id="6w2oy" name="YuanJiaoJuXingGou.png" path="/imange/" exported="true"/>
+    <component id="pp4uz" name="ArenaReadySkillNew.xml" path="/" exported="true"/>
+    <image id="pp4u10" name="竞技-词组2.jpg" path="/"/>
+    <component id="pp4u11" name="SkillGroup.xml" path="/components/" exported="true"/>
+    <image id="pp4u12" name="SkillQua1.png" path="/imange/" exported="true" scale="9grid" scale9grid="33,0,66,51"/>
+    <image id="pp4u13" name="SkillQua3.png" path="/imange/" exported="true" scale="9grid" scale9grid="33,0,66,51"/>
+    <image id="pp4u14" name="SkillQua2.png" path="/imange/" exported="true" scale="9grid" scale9grid="34,0,68,51"/>
+    <image id="pp4u15" name="skill_icon.png" path="/imange/" exported="true"/>
+    <image id="pp4u16" name="竞技-阵容.JPG" path="/"/>
+    <image id="pp4u17" name="YuanJiaoJu.png" path="/imange/"/>
+    <image id="pp4u18" name="PingFenTuBiao.png" path="/imange/"/>
+    <component id="pp4u19" name="ScoreLabel.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vevhm5jm">
+  <resources>
+    <component id="h3xb0" name="BattleStartFightTip.xml" path="/" exported="true"/>
+    <image id="h3xb1" name="ZheZhao.png" path="/image/" scale="9grid" scale9grid="18,0,36,225"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

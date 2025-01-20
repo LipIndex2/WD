@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="489,33" extention="ProgressBar">
+  <displayList>
+    <image id="n0_whcr" name="n0" src="whcr19" fileName="image/bossJingYanTiaoDi.png" xy="0,0" size="489,41">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_whcr" name="bar" src="whcr18" fileName="image/bossJingYanTiao.png" xy="0,0" size="487,41"/>
+    <image id="n2_cj0g" name="n2" src="whcr17" fileName="image/GuaiWuicon.png" xy="-35,-25"/>
+  </displayList>
+  <ProgressBar/>
+</component>

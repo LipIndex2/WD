@@ -1,0 +1,41 @@
+
+huolongguo.png
+size: 113,62
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tou
+  rotate: false
+  xy: 0, 0
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 94, 30
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 66, 1
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: true
+  xy: 90, 1
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+zhigan
+  rotate: false
+  xy: 66, 30
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

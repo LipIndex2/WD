@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://md11uripajx33">
+  <displayList>
+    <component id="n0_wqpd" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,445" size="730,654">
+      <Label title="鱼饵详情"/>
+    </component>
+    <image id="n1_ajx3" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="77,636" size="647,260"/>
+    <image id="n5_ajx3" name="line" src="ajx34" fileName="image/TuCeng618.png" xy="128,801"/>
+    <text id="n3_ajx3" name="NameShow" xy="242,656" pivot="0,0.5" size="106,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="青蛙饵"/>
+    <text id="n4_ajx3" name="DescShow" xy="243,707" size="450,72" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="渔夫"/>
+    <richtext id="n6_ajx3" name="AttrShow" xy="372,827" pivot="0.5,0.5" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="大型"/>
+    <component id="n7_ajx3" name="BtnChange" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="253,928">
+      <Button title="更换"/>
+    </component>
+    <component id="n2_ajx3" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="100,659"/>
+  </displayList>
+</component>

@@ -1,0 +1,48 @@
+
+11021.png
+size: 104,450
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beishi
+  rotate: true
+  xy: 0, 268
+  size: 182, 103
+  orig: 182, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 134
+  size: 133, 93
+  orig: 133, 93
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 80, 0
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 47
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 0, 8
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: true
+  xy: 40, 9
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1

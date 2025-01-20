@@ -1,0 +1,76 @@
+
+lingdiUI_huayuan.png
+size: 988,313
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+caodi
+  rotate: false
+  xy: 0, 0
+  size: 283, 313
+  orig: 283, 313
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 806, 150
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+langan
+  rotate: false
+  xy: 861, 143
+  size: 115, 170
+  orig: 115, 170
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 284, 1
+  size: 96, 182
+  orig: 96, 182
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 623, 93
+  size: 95, 182
+  orig: 95, 182
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: true
+  xy: 806, 46
+  size: 96, 182
+  orig: 96, 182
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: true
+  xy: 602, 18
+  size: 74, 182
+  orig: 74, 182
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: true
+  xy: 623, 189
+  size: 124, 237
+  orig: 124, 237
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: true
+  xy: 467, 20
+  size: 77, 134
+  orig: 77, 134
+  offset: 0, 0
+  index: -1
+tiemen
+  rotate: true
+  xy: 284, 98
+  size: 215, 338
+  orig: 215, 338
+  offset: 0, 0
+  index: -1

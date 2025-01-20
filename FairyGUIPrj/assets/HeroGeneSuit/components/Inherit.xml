@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="430,80" designImage="ui://fjvmtwhdrty25" designImageOffsetX="-90" designImageOffsetY="-730">
+  <displayList>
+    <loader id="n0_rty2" name="Icon" xy="21,9" pivot="0.5,0.5" size="64,62" url="ui://fjvmtwhdrty22" align="center" vAlign="middle">
+      <relation target="" sidePair="middle-middle"/>
+    </loader>
+    <text id="n1_rty2" name="Name" xy="99,3" pivot="0,0.5" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#aeff91" vAlign="middle" text="传承"/>
+    <richtext id="n2_rty2" name="Word" xy="99,36" size="330,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" vAlign="middle" autoSize="height" text="技能效果技能效果技能效果"/>
+    <text id="n3_u3z8" name="Lock" xy="162,3" pivot="0,0.5" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="解锁">
+      <relation target="n1_rty2" sidePair="left-right"/>
+    </text>
+  </displayList>
+  <relation target="n2_rty2" sidePair="height-height"/>
+</component>

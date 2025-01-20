@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://ldijpvxwoabke" designImageAlpha="0">
+  <displayList>
+    <component id="n3_oabk" name="Content" src="oabkw" fileName="components/FreeBoxContent.xml" xy="-54,331"/>
+    <component id="n6_oabk" name="TalkItem" src="oabkv" fileName="components/talkItem.xml" xy="188,347"/>
+    <component id="n13_oabk" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,1338" scale="2,2"/>
+    <image id="n10_oabk" name="n10" src="oabkr" fileName="Image/BaoXiangKai.png" xy="326,1278"/>
+    <image id="n14_oabk" name="n14" src="oabku" fileName="Image/BaoXiang.png" xy="326,1285"/>
+  </displayList>
+  <transition name="show" frameRate="30">
+    <item time="0" type="Pivot" target="n10_oabk" value="0.5,1"/>
+    <item time="0" type="Pivot" target="n14_oabk" value="0.5,1"/>
+    <item time="0" type="Pivot" target="n3_oabk" value="0.5,1"/>
+    <item time="0" type="Pivot" target="n6_oabk" value="0.1,1"/>
+    <item time="0" type="Alpha" target="n10_oabk" value="0"/>
+    <item time="0" type="Alpha" target="n14_oabk" value="1"/>
+    <item time="0" type="Alpha" target="n6_oabk" value="0"/>
+    <item time="0" type="Scale" target="n10_oabk" value="1,1"/>
+    <item time="0" type="Scale" target="n14_oabk" tween="true" startValue="1,1" endValue="0.98,1.1" duration="3"/>
+    <item time="0" type="Scale" target="n3_oabk" value="0,0"/>
+    <item time="0" type="Scale" target="n6_oabk" value="0,0"/>
+    <item time="0" type="Visible" target="n13_oabk" value="false"/>
+    <item time="0" type="XY" target="n3_oabk" value="-24,457"/>
+    <item time="3" type="Scale" target="n14_oabk" tween="true" startValue="0.98,1.1" endValue="1.1,0.9" duration="5"/>
+    <item time="8" type="Scale" target="n14_oabk" tween="true" startValue="1.1,0.9" endValue="0.94,1.13" duration="5"/>
+    <item time="13" type="Scale" target="n14_oabk" tween="true" startValue="0.94,1.13" endValue="1.13,0.88" duration="5"/>
+    <item time="18" type="Alpha" target="n10_oabk" tween="true" startValue="0" endValue="1" duration="2"/>
+    <item time="18" type="Alpha" target="n14_oabk" tween="true" startValue="1" endValue="0" duration="2"/>
+    <item time="18" type="Scale" target="n10_oabk" tween="true" startValue="1,1" endValue="0.95,1.1" duration="4"/>
+    <item time="18" type="Scale" target="n14_oabk" tween="true" startValue="1.13,0.88" endValue="1.13,0.87" duration="2"/>
+    <item time="18" type="Scale" target="n3_oabk" tween="true" startValue="0,0" endValue="1.1,1.1" duration="7"/>
+    <item time="18" type="Visible" target="n13_oabk" value="true"/>
+    <item time="18" type="XY" target="n3_oabk" tween="true" startValue="-24,457" endValue="-54,331" duration="7"/>
+    <item time="22" type="Scale" target="n10_oabk" tween="true" startValue="0.95,1.1" endValue="1.05,0.95" duration="5"/>
+    <item time="24" type="Alpha" target="n6_oabk" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="24" type="Scale" target="n6_oabk" tween="true" startValue="0,0" endValue="1.1,1.1" duration="7"/>
+    <item time="25" type="Scale" target="n3_oabk" tween="true" startValue="1.1,1.1" endValue="1,1" duration="3"/>
+    <item time="27" type="Scale" target="n10_oabk" tween="true" startValue="1.05,0.95" endValue="1,1" duration="5"/>
+    <item time="28" type="XY" target="n3_oabk" value="-54,331"/>
+    <item time="31" type="Scale" target="n6_oabk" tween="true" startValue="1.1,1.1" endValue="1,1" duration="3"/>
+  </transition>
+</component>

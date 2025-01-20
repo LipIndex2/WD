@@ -1,0 +1,13 @@
+
+xiaobaoxiang.png
+size: 80,72
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+baoxiang
+  rotate: false
+  xy: 0, 0
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1

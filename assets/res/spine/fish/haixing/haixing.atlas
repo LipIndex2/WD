@@ -1,0 +1,27 @@
+
+haixing.png
+size: 160,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+haixing
+  rotate: false
+  xy: 0, 0
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 131, 97
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 131, 60
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1

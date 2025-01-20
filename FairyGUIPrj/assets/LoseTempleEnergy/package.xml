@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9hbogv4b">
+  <resources>
+    <component id="pitk0" name="LoseTempleEnergyView.xml" path="/" exported="true"/>
+    <image id="pitk1" name="恢复体力spe.jpg" path="/"/>
+    <component id="pitk2" name="ButtonBlue.xml" path="/components/" exported="true"/>
+    <component id="pitk3" name="ButtonOrange.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

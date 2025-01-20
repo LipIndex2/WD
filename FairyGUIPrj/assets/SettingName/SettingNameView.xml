@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://0g8jswr8f0g01">
+  <displayList>
+    <component id="n0_f0g0" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-16,472" size="832,642">
+      <Label title="修改昵称"/>
+    </component>
+    <image id="n2_f0g0" name="n2" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="85,715" size="630,122"/>
+    <text id="n1_f0g0" name="n1" xy="300,659" pivot="0.5,0.5" size="200,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" align="center" vAlign="middle" text="请输入您的昵称"/>
+    <text id="n5_f0g0" name="Title" xy="396,749" pivot="0.5,0.5" size="10,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#c9ab66" align="center" vAlign="middle" autoClearText="true" text=""/>
+    <text id="n6_f0g0" name="InputField" xy="100,726" pivot="0.5,0.5" size="600,99" alpha="0" font="ui://wqx8l8xqut2h1b" fontSize="1" color="#fbf1ca" autoSize="none" singleLine="true" autoClearText="true" text="" input="true"/>
+    <component id="n8_f0g0" name="BtnConfirm2" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="254,892">
+      <Button title="确 认"/>
+    </component>
+    <component id="n4_f0g0" name="BtnConfirm1" src="f0g02" fileName="components/ButtonOrange.xml" xy="254,892"/>
+  </displayList>
+</component>

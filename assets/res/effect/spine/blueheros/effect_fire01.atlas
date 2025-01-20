@@ -1,0 +1,76 @@
+
+effect_fire01.png
+size: 578,178
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+fire_01
+  rotate: false
+  xy: 318, 91
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fire_02
+  rotate: true
+  xy: 143, 2
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+fire_03
+  rotate: false
+  xy: 404, 4
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fire_04
+  rotate: false
+  xy: 230, 2
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+fire_05
+  rotate: false
+  xy: 143, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+fire_06
+  rotate: false
+  xy: 231, 90
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+fire_07
+  rotate: false
+  xy: 405, 91
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fire_08
+  rotate: true
+  xy: 317, 2
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+fire_09
+  rotate: false
+  xy: 491, 4
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+light5
+  rotate: false
+  xy: 2, 33
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1

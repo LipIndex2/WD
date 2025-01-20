@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c86dbd8c-5476-4d67-9022-cbebd81c6a61",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c86dbd8c-5476-4d67-9022-cbebd81c6a61@6c48a",
+      "displayName": "Task_atlas0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c86dbd8c-5476-4d67-9022-cbebd81c6a61",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "c86dbd8c-5476-4d67-9022-cbebd81c6a61@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "47iaaB3AxE3K7p/O9S4+o+"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "099317fd-e585-450d-9993-3c17e960be07",
+  "files": [],
+  "subMetas": {
+    "b8a2d": {
+      "importer": "gltf-mesh",
+      "uuid": "099317fd-e585-450d-9993-3c17e960be07@b8a2d",
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "345b5": {
+      "importer": "gltf-scene",
+      "uuid": "099317fd-e585-450d-9993-3c17e960be07@345b5",
+      "displayName": "",
+      "id": "345b5",
+      "name": "9_tixing_dtm_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "099317fd-e585-450d-9993-3c17e960be07@345b5",
+    "assetFinder": {
+      "meshes": [
+        "099317fd-e585-450d-9993-3c17e960be07@b8a2d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "099317fd-e585-450d-9993-3c17e960be07@345b5"
+      ]
+    }
+  }
+}

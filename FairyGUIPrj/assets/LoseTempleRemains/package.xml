@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pechu8th">
+  <resources>
+    <component id="yu834" name="LoseTempleRemainsView.xml" path="/" exported="true"/>
+    <image id="yu835" name="DaHengFuLan.png" path="/image/"/>
+    <image id="yu836" name="获得遗物SPE.jpg" path="/"/>
+    <component id="yu837" name="BonfireSelectItem.xml" path="/components/" exported="true"/>
+    <image id="yu839" name="XuanZeKuang2.png" path="/image/" exported="true"/>
+    <image id="yu83a" name="XuanZeKuang3.png" path="/image/" exported="true"/>
+    <image id="yu83b" name="XuanZeKuang1.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

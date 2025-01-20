@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="239,379" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2iw5u12" designImageOffsetX="-49" designImageOffsetY="-578">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n9_iw5u" name="bg" src="iw5u1k" fileName="image/main_diamond/ZuanShiDi.png" xy="5,12" size="229,363"/>
+    <loader id="n11_iw5u" name="IconSp" xy="6,88" size="226,192" url="ui://gp6652l2iw5u1f" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <image id="n13_iw5u" name="bg2" src="iw5u1l" fileName="image/main_diamond/DaHongBiao.png" xy="1,0" group="n19_hmhi" visible="false"/>
+    <image id="n14_iw5u" name="icon2" src="tiuj5w" fileName="image/Small40001.png" pkg="5qhcb5rw" xy="48,40" group="n19_hmhi" visible="false"/>
+    <text id="n15_iw5u" name="TimesShow" xy="51,6" pivot="0.5,0.5" size="140,34" group="n19_hmhi" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="剩余次数：1"/>
+    <text id="n10_iw5u" name="NumShow" xy="71,18" pivot="0,0.5" size="87,44" group="n19_hmhi" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffef66" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="+120"/>
+    <group id="n19_hmhi" name="GpExtra" xy="1,0" size="236,93" visible="false" advanced="true"/>
+    <text id="n20_hmhi" name="ValShow" xy="70,18" pivot="0.5,0.5" size="87,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffef66" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="+120"/>
+    <component id="n18_hmhi" name="BtnAd" src="iw5uz" fileName="components/ButtonMainBuy.xml" xy="21,268"/>
+    <component id="n17_rjro" name="BtnBuy" src="rjrob54" fileName="ButtonGreen.xml" pkg="zokic7y2" xy="22,269"/>
+    <component id="n21_no3y" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="205,284"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

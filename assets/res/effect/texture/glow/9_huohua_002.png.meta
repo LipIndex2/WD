@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6001ca0b-4a6f-4717-8ccc-53ee5306465e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6001ca0b-4a6f-4717-8ccc-53ee5306465e@6c48a",
+      "displayName": "9_huohua_002",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6001ca0b-4a6f-4717-8ccc-53ee5306465e",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "6001ca0b-4a6f-4717-8ccc-53ee5306465e@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "47iaaB3AxE3K7p/O9S4+o+"
+    }
+  }
+}

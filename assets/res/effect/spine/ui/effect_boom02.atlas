@@ -1,0 +1,139 @@
+
+effect_boom02.png
+size: 1010,1010
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+12/12_0000
+  rotate: false
+  xy: 2, 500
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0001
+  rotate: false
+  xy: 260, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0002
+  rotate: false
+  xy: 2, 248
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0003
+  rotate: false
+  xy: 512, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0004
+  rotate: false
+  xy: 254, 500
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0005
+  rotate: false
+  xy: 254, 248
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0006
+  rotate: false
+  xy: 506, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0007
+  rotate: false
+  xy: 758, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0008
+  rotate: false
+  xy: 506, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0009
+  rotate: false
+  xy: 758, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+12/12_0010
+  rotate: false
+  xy: 506, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+2/tu6
+  rotate: false
+  xy: 758, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+2/tu7
+  rotate: false
+  xy: 888, 136
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+2/tu8
+  rotate: false
+  xy: 764, 840
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+2/tu9
+  rotate: false
+  xy: 2, 76
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 2, 752
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+kuai1
+  rotate: false
+  xy: 758, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kuang2
+  rotate: false
+  xy: 174, 115
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 307, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

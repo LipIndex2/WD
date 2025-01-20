@@ -1,0 +1,27 @@
+
+effect_purplebox.png
+size: 553,338
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+box5
+  rotate: true
+  xy: 394, 5
+  size: 331, 157
+  orig: 331, 157
+  offset: 0, 0
+  index: -1
+box6
+  rotate: true
+  xy: 2, 2
+  size: 334, 204
+  orig: 334, 204
+  offset: 0, 0
+  index: -1
+open2
+  rotate: true
+  xy: 208, 24
+  size: 312, 184
+  orig: 312, 184
+  offset: 0, 0
+  index: -1

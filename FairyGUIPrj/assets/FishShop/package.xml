@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1di608jh">
+  <resources>
+    <component id="opeg0" name="FishShopView.xml" path="/" exported="true"/>
+    <image id="opeg1" name="商店SPE.jpg" path="/"/>
+    <component id="opeg2" name="ShowItem.xml" path="/components/" exported="true"/>
+    <image id="opeg3" name="TuCeng119.png" path="/image/"/>
+    <component id="opeg4" name="ButtonBuy.xml" path="/components/" exported="true"/>
+    <image id="opeg5" name="AnNiu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

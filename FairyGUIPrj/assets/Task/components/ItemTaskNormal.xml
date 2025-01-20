@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,227" designImage="ui://lkjqth93qohw1k" designImageOffsetX="-85" designImageOffsetY="-965">
+  <controller name="TaskState" pages="0,,1,,4,,5," selected="0"/>
+  <displayList>
+    <loader id="n1_rqb9" name="BgSp" xy="0,0" size="630,227" url="ui://lkjqth93rqb9f" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n5_rqb9" name="IconBgSp" xy="24,23" size="114,114" url="ui://lkjqth93rqb9h" autoSize="true" clearOnPublish="true"/>
+    <loader id="n6_rqb9" name="IconSp" xy="24,23" size="114,114" autoSize="true" clearOnPublish="true"/>
+    <text id="n9_rqb9" name="title_reward" xy="500,8" size="52,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#663b18" text="奖励"/>
+    <text id="n2_rqb9" name="NameShow" xy="153,61" pivot="0,0.5" size="247,38" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="在战斗中获得胜利！"/>
+    <component id="n7_rqb9" name="ProgressShow" src="h5f615" fileName="components/ProgressNormal.xml" xy="0,157">
+      <gearDisplay controller="TaskState" pages="0"/>
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n21_qohw" name="ProgressShowH" src="qohw1g" fileName="components/ProgressNormalH.xml" xy="25,159" size="376,52">
+      <gearDisplay controller="TaskState" pages="1,4,5"/>
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n12_x1z4" name="BtnGet" src="x1z41a" fileName="components/ButtonGet.xml" xy="437,148">
+      <gearDisplay controller="TaskState" pages="1"/>
+    </component>
+    <component id="n13_x1z4" name="BtnFlush" src="rqb911" fileName="components/ButtonFlush.xml" xy="437,148">
+      <gearDisplay controller="TaskState" pages="4"/>
+    </component>
+    <component id="n10_x1z4" name="BtnAd" src="6y7617" fileName="components/ButtonAd.xml" xy="437,148">
+      <gearDisplay controller="TaskState" pages="5"/>
+    </component>
+    <list id="n20_f7ru" name="RewardList" xy="442,40" size="240,120" scale="0.7,0.7" layout="row" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <image id="n15_x1z4" name="mask1" src="x1z41d" fileName="image/YiLingQuMengCeng.png" xy="0,0" size="630,227" group="n19_x1z4"/>
+    <image id="n16_x1z4" name="mask2" src="x1z41c" fileName="image/YiLingQuMengCeng2.png" xy="189,75" group="n19_x1z4"/>
+    <image id="n17_x1z4" name="gou" src="x1z41e" fileName="image/DuiGouicon.png" xy="223,78" group="n19_x1z4"/>
+    <text id="n18_x1z4" name="geted" xy="303,80" pivot="0.5,0.5" size="106,46" group="n19_x1z4" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已领取"/>
+    <group id="n19_x1z4" name="GpMask" xy="0,0" size="630,227" visible="false" advanced="true"/>
+    <loader id="n28_qohw" name="n28" xy="3,141" size="624,82" group="n26_qohw" url="ui://lkjqth93qohw1h" autoSize="true"/>
+    <image id="n24_qohw" name="n24" src="qohw1i" fileName="image/HuangJinTongXingZhengTuBiaoXiao.png" xy="224,161" group="n26_qohw"/>
+    <image id="n23_qohw" name="n23" src="qohw1j" fileName="image/Suo.png" xy="150,161" group="n26_qohw"/>
+    <text id="n25_qohw" name="n25" xy="293,165" pivot="0,0.5" size="186,36" group="n26_qohw" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#491914" vAlign="middle" text="通行证专属任务"/>
+    <group id="n26_qohw" name="GpAdvance" xy="3,141" size="624,82" visible="false" advanced="true"/>
+  </displayList>
+</component>

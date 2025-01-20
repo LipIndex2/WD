@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pj9hx68f">
+  <resources>
+    <component id="en2l0" name="GeneLevelUpView.xml" path="/" exported="true"/>
+    <image id="en2l1" name="基因升级成功_spec.png" path="/"/>
+    <image id="en2l2" name="JianTou.png" path="/image/"/>
+    <component id="en2l3" name="GeneLevelItem.xml" path="/components/" exported="true"/>
+    <image id="en2l6" name="JiYinShenBeiJingBan.png" path="/image/" scale="9grid" scale9grid="29,29,58,58"/>
+    <component id="en2l7" name="ButtonContinue.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

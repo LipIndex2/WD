@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="148,71" extention="Button" designImage="ui://8fnzs9ndjlw6d" designImageOffsetX="-582" designImageOffsetY="-732">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_jlw6" name="bg" src="jlw6h" fileName="image/Zu56.png" xy="0,0"/>
+    <image id="n4_jlw6" name="deco" src="jlw6j" fileName="image/TuCeng36.png" xy="21,6"/>
+    <text id="n5_jlw6" name="title" xy="59,6" pivot="0.5,0.5" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#373737" strokeSize="3" text="召回"/>
+  </displayList>
+  <Button/>
+</component>

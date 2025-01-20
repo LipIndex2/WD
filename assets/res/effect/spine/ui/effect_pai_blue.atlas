@@ -1,0 +1,62 @@
+
+effect_pai_blue.png
+size: 966,396
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow12
+  rotate: true
+  xy: 2, 2
+  size: 203, 222
+  orig: 203, 222
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: true
+  xy: 758, 184
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: false
+  xy: 226, 181
+  size: 526, 24
+  orig: 526, 24
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: false
+  xy: 226, 20
+  size: 374, 32
+  orig: 374, 32
+  offset: 0, 0
+  index: -1
+tiao3
+  rotate: false
+  xy: 2, 207
+  size: 754, 187
+  orig: 754, 187
+  offset: 0, 0
+  index: -1
+tiao4
+  rotate: false
+  xy: 602, 28
+  size: 290, 24
+  orig: 290, 24
+  offset: 0, 0
+  index: -1
+tiao5
+  rotate: false
+  xy: 602, 2
+  size: 270, 24
+  orig: 270, 24
+  offset: 0, 0
+  index: -1
+tiao6
+  rotate: false
+  xy: 226, 54
+  size: 668, 125
+  orig: 668, 125
+  offset: 0, 0
+  index: -1

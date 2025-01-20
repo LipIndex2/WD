@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://czbmy05rfr823" designImageLayer="1">
+  <displayList>
+    <component id="n0_fr82" name="board" src="yjaqb4a" fileName="CommonBoard1.xml" pkg="r5d9xy63" xy="35,169" size="730,1254"/>
+  </displayList>
+</component>

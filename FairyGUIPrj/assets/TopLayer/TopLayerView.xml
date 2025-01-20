@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <component id="n25_h7xw" name="GMCmdItem" src="h7xwg" fileName="components/GMCmdItem.xml" xy="0,0" visible="false"/>
+    <component id="n15_ea97" name="FloatingText" src="vkth4" fileName="components/FloatingText.xml" xy="400,575" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n26_on5h" name="TaskItem" src="on5hm" fileName="components/TaskItem.xml" xy="0,0"/>
+    <component id="n27_afyn" name="FishScoreItem" src="afyny" fileName="components/FishScoreItem.xml" xy="0,0"/>
+  </displayList>
+</component>

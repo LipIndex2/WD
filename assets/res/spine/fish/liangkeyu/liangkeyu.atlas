@@ -1,0 +1,20 @@
+
+liangkeyu.png
+size: 160,49
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 141, 29
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1

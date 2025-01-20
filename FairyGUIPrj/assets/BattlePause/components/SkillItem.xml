@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,150">
+  <displayList>
+    <loader id="n0_jxlb" name="Qua" xy="1,0" size="148,150" url="ui://kmd03jrgjxlb3"/>
+    <loader id="n1_jxlb" name="Icon" xy="30,14" size="98,112" url="ui://kmd03jrgjxlb2"/>
+  </displayList>
+</component>

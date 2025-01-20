@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="163,57" pivot="0.5,0.5" extention="Button" designImage="ui://qllfrhsrlhxl63" designImageOffsetX="-522" designImageOffsetY="-48">
+  <displayList>
+    <image id="n25_lhxl" name="n25" src="jxlb7" fileName="image/BuShuDi.png" xy="0,0"/>
+    <image id="n23_jxlb" name="n23" src="jxlb9" fileName="image/JiaSuAnNiu.png" xy="-7,-5"/>
+    <image id="n26_lhxl" name="n26" src="lhxl66" fileName="image/kuaiJin.png" xy="62,30" pivot="0,0.5" anchor="true"/>
+    <text id="n24_jxlb" name="title" xy="137,28" pivot="0.5,0.5" anchor="true" size="29,52" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#491914" align="center" vAlign="middle" text="2"/>
+    <text id="n27_zysf" name="n27" xy="98,29" pivot="0,0.5" anchor="true" size="28,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#491914" vAlign="middle" text="X"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,27 @@
+
+11019.png
+size: 249,143
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 0, 0
+  size: 143, 192
+  orig: 143, 192
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 193, 61
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 193, 86
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1

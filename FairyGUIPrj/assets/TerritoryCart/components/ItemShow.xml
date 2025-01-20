@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="645,166" designImage="ui://8fnzs9ndjlw6d" designImageOffsetX="-85" designImageOffsetY="-719">
+  <displayList>
+    <image id="n0_jlw6" name="bg" src="jlw6e" fileName="image/Zu57.png" xy="0,0" size="630,166"/>
+    <loader id="n8_jlw6" name="IconSp" xy="207,44" pivot="0.5,0.5" size="110,110" autoSize="true"/>
+    <text id="n1_jlw6" name="NameShow" xy="35,10" pivot="0,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" vAlign="middle" autoClearText="true" text="我的宗门"/>
+    <text id="n9_jlw6" name="LevelShow" xy="238,107" pivot="0.5,0.5" size="54,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="Lv.1"/>
+    <image id="n11_jlw6" name="ArrowShow1" src="jlw6k" fileName="image/KeHeChengJianTou.png" xy="165,84" pivot="0.5,0.5" size="38,48" group="n13_nk1u" rotation="-90"/>
+    <component id="n2_jlw6" name="HeadShow1" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="51,61" size="180,180" group="n13_nk1u" scale="0.49,0.49"/>
+    <image id="n3_jlw6" name="bg_n1" src="jlw6g" fileName="image/YuanJiaoJuXing5.png" xy="57,130" size="88,24" group="n13_nk1u"/>
+    <image id="n4_jlw6" name="deco1" src="jlw69" fileName="image/TuiChe.png" xy="42,120" size="106,93" group="n13_nk1u" scale="0.4,0.4"/>
+    <text id="n5_jlw6" name="NumShow1" xy="89,124" pivot="0.5,0.5" size="20,34" group="n13_nk1u" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#020202" strokeSize="2" autoClearText="true" text="6"/>
+    <group id="n13_nk1u" name="GpDef" xy="42,61" size="189,180" advanced="true"/>
+    <image id="n14_nk1u" name="ArrowShow2" src="jlw6k" fileName="image/KeHeChengJianTou.png" xy="321,84" pivot="0.5,0.5" size="38,48" group="n21_nk1u" rotation="90"/>
+    <component id="n15_nk1u" name="HeadShow2" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="384,61" size="180,180" group="n21_nk1u" scale="0.49,0.49"/>
+    <image id="n16_nk1u" name="bg_n2" src="jlw6g" fileName="image/YuanJiaoJuXing5.png" xy="390,130" size="88,24" group="n21_nk1u"/>
+    <image id="n17_nk1u" name="deco2" src="jlw69" fileName="image/TuiChe.png" xy="366,122" size="106,93" group="n21_nk1u" scale="0.4,0.4"/>
+    <text id="n18_nk1u" name="NumShow2" xy="422,124" pivot="0.5,0.5" size="20,34" group="n21_nk1u" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#020202" strokeSize="2" autoClearText="true" text="6"/>
+    <group id="n21_nk1u" name="GpAttack" xy="321,61" size="243,180" advanced="true"/>
+    <component id="n6_jlw6" name="BtnBack" src="jlw6i" fileName="components/ButtonBack.xml" xy="497,13"/>
+    <component id="n10_jlw6" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="217,119" size="100,50" visible="false">
+      <Label titleFontSize="18"/>
+    </component>
+  </displayList>
+</component>

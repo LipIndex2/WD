@@ -1,0 +1,34 @@
+
+effect_levelup.png
+size: 648,260
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+mask16
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 518, 28
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: false
+  xy: 518, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

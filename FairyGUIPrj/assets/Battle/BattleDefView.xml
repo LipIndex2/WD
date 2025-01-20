@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://g5wk5blilwbq5" designImageOffsetY="425" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n8_lwbq" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n9_lyfh" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n8_lwbq" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n25_lyfh" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,800" size="800,1600" touchable="false">
+      <relation target="n8_lwbq" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n0_lwbq" name="StartGameBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1472" group="n7_lwbq">
+      <Button title="开始游戏"/>
+    </component>
+    <component id="n1_lwbq" name="HeroBtn" src="lwbq9" fileName="components/Def/HeroBtn.xml" xy="18,1401" group="n7_lwbq"/>
+    <image id="n2_lwbq" name="n2" src="lwbq0" fileName="image/ShangZhenYingXiongDi.png" xy="0,1600" size="800,820" group="n7_lwbq"/>
+    <image id="n3_lwbq" name="n3" src="lwbq1" fileName="image/BiaoTiDi.png" xy="84,1617" group="n7_lwbq"/>
+    <text id="n4_lwbq" name="n4" xy="290,1624" size="220,49" group="n7_lwbq" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" strokeColor="#491916" strokeSize="3" text="选择上阵英雄"/>
+    <list id="n6_lwbq" name="List" xy="34,1700" size="734,662" group="n7_lwbq" layout="flow_hz" overflow="scroll" lineGap="15" colGap="15" defaultItem="ui://qllfrhsrlwbqa" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n7_lwbq" name="Group" xy="0,1401" size="800,1019" advanced="true">
+      <relation target="n8_lwbq" sidePair="center-center,top-bottom"/>
+    </group>
+    <component id="n10_lyfh" name="HpProgerssBar" src="jxlbs" fileName="components/HpProgerssBar.xml" xy="193,1428" size="424,43" group="n13_lyfh">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <text id="n11_lyfh" name="HpNum" xy="443,1425" pivot="1,0" size="152,42" group="n13_lyfh" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="230/1000"/>
+    <image id="n12_lyfh" name="n12" src="jxlbf" fileName="image/ShengMingZhi.png" xy="135,1394" group="n13_lyfh" scale="0.8,0.8"/>
+    <group id="n13_lyfh" name="HpInfo" xy="135,1394" size="482,108" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n14_lyfh" name="PauseBtn" src="jxlbr" fileName="components/PauseBtn.xml" xy="40,80" group="n16_lyfh"/>
+    <component id="n15_lyfh" name="AddSpeedBtn" src="lhxl61" fileName="components/AddSpeedBtn.xml" xy="36,178" group="n16_lyfh"/>
+    <group id="n16_lyfh" name="LeftTop" xy="36,80" size="163,155" advanced="true">
+      <relation target="n9_lyfh" sidePair="left-left,top-top"/>
+    </group>
+    <image id="n17_lyfh" name="n17" src="jxlb7" fileName="image/BuShuDi.png" xy="565,86" size="187,66" group="n21_lyfh"/>
+    <image id="n18_lyfh" name="n18" src="jxlbu" fileName="image/RiLi.png" xy="555,83" size="64,64" group="n21_lyfh"/>
+    <text id="n19_lyfh" name="RoundNum" xy="681,114" pivot="0.5,0.5" anchor="true" size="98,54" group="n21_lyfh" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#491914" align="center" vAlign="middle" autoClearText="true" text="5/20"/>
+    <group id="n21_lyfh" name="RightTop" xy="555,83" size="197,69" advanced="true">
+      <relation target="n9_lyfh" sidePair="right-right,top-top"/>
+    </group>
+    <component id="n22_lyfh" name="ExProgress" src="wbpt7t" fileName="components/NewBossProgressBar.xml" xy="393,271" pivot="0.5,0.5" anchor="true" size="482,41">
+      <relation target="n9_lyfh" sidePair="center-center,top-top"/>
+      <ProgressBar value="83" max="100" volume="99"/>
+    </component>
+    <component id="n23_lyfh" name="SkillSelect" src="r7ud68" fileName="components/SkillSelect.xml" xy="0,412" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n24_lyfh" name="FlushBtn" src="jxlb12" fileName="components/FlushBtn.xml" xy="257,919" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n26_lyfh" name="ExFillEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,125">
+      <relation target="n9_lyfh" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n28_lyfh" name="SubHpEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,1600">
+      <relation target="n8_lwbq" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n27_lyfh" name="SkillGetTip" src="p5yt1i" fileName="components/SkillGetTip.xml" xy="0,1309" visible="false"/>
+    <component id="n29_e20v" name="HarmInfoBtn" src="cj0g7h" fileName="components/HarmInfoBtn.xml" xy="730,332" pivot="0.5,0.5" anchor="true">
+      <relation target="n9_lyfh" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n30_e20v" name="HpEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,1494">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+  <transition name="on_select">
+    <item time="0" type="XY" target="n7_lwbq" tween="true" startValue="0,1401" endValue="0,600" duration="12"/>
+  </transition>
+  <transition name="off_select">
+    <item time="0" type="XY" target="n7_lwbq" tween="true" startValue="0,600" endValue="0,1401" duration="12"/>
+  </transition>
+  <transition name="get_skill_tip">
+    <item time="0" type="Pivot" target="n27_lyfh" value="0.5,0.5"/>
+    <item time="0" type="Alpha" target="n27_lyfh" value="1"/>
+    <item time="0" type="Scale" target="n27_lyfh" tween="true" startValue="0,0" endValue="1.2,0.9" duration="4"/>
+    <item time="0" type="Visible" target="n27_lyfh" value="true"/>
+    <item time="4" type="Scale" target="n27_lyfh" tween="true" startValue="1.2,0.9" endValue="0.9,1.1" duration="3"/>
+    <item time="7" type="Scale" target="n27_lyfh" tween="true" startValue="0.9,1.1" endValue="1,1" duration="3"/>
+    <item time="39" type="Alpha" target="n27_lyfh" tween="true" startValue="1" endValue="0" duration="9"/>
+    <item time="48" type="Visible" target="n27_lyfh" value="false"/>
+  </transition>
+</component>

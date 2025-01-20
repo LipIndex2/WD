@@ -1,0 +1,41 @@
+
+15020.png
+size: 352,408
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: false
+  xy: 0, 378
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 53, 304
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 0, 187
+  size: 116, 235
+  orig: 116, 235
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 236, 173
+  size: 116, 235
+  orig: 116, 235
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 172, 312
+  orig: 172, 312
+  offset: 0, 0
+  index: -1

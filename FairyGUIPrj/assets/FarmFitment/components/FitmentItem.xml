@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="222,343" designImage="ui://df41fkxk9quy1" designImageOffsetX="-288" designImageOffsetY="-686" designImageLayer="1">
+  <displayList>
+    <image id="n0_9quy" name="n0" src="9quy5" fileName="image/DiKuang.png" xy="0,0"/>
+    <loader id="n1_9quy" name="Icon" xy="61,61" pivot="0.5,0.5" size="101,98" url="ui://df41fkxk9quy4" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n3_iy99" name="Name" xy="64,162" pivot="0.5,0.5" size="94,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="施肥机"/>
+    <component id="n2_9quy" name="BtnBuy" src="9quy7" fileName="components/BtnBuy.xml" xy="13,239"/>
+  </displayList>
+</component>

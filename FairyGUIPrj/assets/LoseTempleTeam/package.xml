@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pq1c6jbr">
+  <resources>
+    <component id="lgme0" name="LoseTempleTeamView.xml" path="/" exported="true"/>
+    <image id="lgme2" name="阵容.png" path="/"/>
+    <image id="ttm9a" name="YingXiongDiBan.png" path="/image/"/>
+    <component id="en2lb" name="HeroTeamListCell.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

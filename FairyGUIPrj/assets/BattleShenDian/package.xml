@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tqn5ptp8">
+  <resources>
+    <image id="hwg20" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <image id="hwg21" name="特殊区域.jpg" path="/"/>
+    <component id="hwg22" name="BattleSpCellInfo2.xml" path="/" exported="true"/>
+    <component id="hwg23" name="InfoItem.xml" path="/components/" exported="true"/>
+    <image id="hwg24" name="ChengAnNiu.png" path="/image/"/>
+    <image id="hwg25" name="DaHengFuLan.png" path="/image/"/>
+    <component id="hwg26" name="BattleSpCellInfo1.xml" path="/" exported="true"/>
+    <image id="hwg27" name="新区域.jpg" path="/"/>
+    <component id="hwg28" name="Button1.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="114,62" extention="Button" designImageOffsetX="-266" designImageOffsetY="-1460" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n13_krnh" name="bg" src="krnhx" fileName="image/ShiJianKuang1.png" xy="0,0"/>
+    <image id="n3_ldm8" name="n3" src="krnhy" fileName="image/ShiJianKuang2.png" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <image id="n10_jx1k" name="Lock" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="40,11" pivot="0.5,0.5" visible="false"/>
+    <text id="n8_ldm8" name="title" xy="45,10" pivot="0.5,0.5" size="24,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="1"/>
+    <component id="n11_lwoh" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="99,15"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

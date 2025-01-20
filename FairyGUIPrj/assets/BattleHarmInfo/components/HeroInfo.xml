@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="44,44" designImage="ui://8dagvbo1cj0ge" designImageOffsetX="-722" designImageOffsetY="-340">
+  <displayList>
+    <component id="n5_cj0g" name="Progerss" src="cj0gi" fileName="components/ProgressBar.xml" xy="-250,8" size="260,28"/>
+    <loader id="n0_cj0g" name="Qua" xy="0,0" size="44,44" url="ui://8dagvbo1cj0g7" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n1_cj0g" name="Icon" xy="0,0" size="44,44" fill="scaleFree" clearOnPublish="true"/>
+  </displayList>
+</component>

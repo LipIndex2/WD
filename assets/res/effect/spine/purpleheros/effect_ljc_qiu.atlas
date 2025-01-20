@@ -1,0 +1,41 @@
+
+effect_ljc_qiu.png
+size: 296,60
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guangdian
+  rotate: false
+  xy: 2, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+guangdian2
+  rotate: true
+  xy: 60, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+guangdian3
+  rotate: true
+  xy: 119, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+guangdian4
+  rotate: true
+  xy: 178, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+guangdian5
+  rotate: true
+  xy: 237, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://gp6652l2sxqb3">
+  <displayList>
+    <component id="n1_v001" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n17_et29" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n1_v001" sidePair="bottom-bottom"/>
+    </component>
+    <loader id="n12_sxqb" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" url="ui://gp6652l2gcetb7a" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </loader>
+    <component id="n14_iw5u" name="board" src="sxqb5" fileName="ShopBoard.xml" xy="0,0" pivot="0.5,0.5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n7_sxqb" name="ExpShow" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="33,20" group="n15_vrap" visible="false">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n8_sxqb" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="82,20" group="n15_vrap">
+      <Label title="0" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n9_sxqb" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="328,20" group="n15_vrap">
+      <Label title="0/30" icon="ui://5qhcb5rwtiuj63"/>
+    </component>
+    <component id="n10_sxqb" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="576,20" group="n15_vrap">
+      <Label title="0" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <group id="n15_vrap" name="GpCurrency" xy="33,20" size="708,54" advanced="true">
+      <relation target="n17_et29" sidePair="top-top"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

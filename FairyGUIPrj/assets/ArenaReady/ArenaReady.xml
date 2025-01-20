@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://e818d6byr1b93" designImageAlpha="0" designImageLayer="1">
+  <controller name="tab" pages="0,hero,1,skill" selected="0"/>
+  <displayList>
+    <component id="n1_r1b9" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n0_r1b9" name="n0" src="r1b91" fileName="imange/beijing.png" xy="0,0" size="800,1600">
+      <relation target="n1_r1b9" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n8_wpum" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799" scale="1.15,1.15"/>
+    <component id="n3_r1b9" name="ReadyHero" src="r1b94" fileName="ArenaReadyHero.xml" xy="0,0">
+      <gearDisplay controller="tab" pages="0"/>
+      <relation target="n1_r1b9" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n9_pp4u" name="ReadSkill" src="pp4uz" fileName="ArenaReadySkillNew.xml" xy="0,0">
+      <gearDisplay controller="tab" pages="1"/>
+      <relation target="n1_r1b9" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <image id="n4_r1b9" name="n4" src="r1b9d" fileName="imange/TongYongHeiDi.png" xy="30,55" size="740,74">
+      <relation target="n1_r1b9" sidePair="center-center,middle-middle"/>
+    </image>
+    <list id="n5_r1b9" name="TabList" xy="31,45" size="740,93" layout="row" defaultItem="ui://e818d6byr1b9e" align="center" vAlign="middle" autoClearItems="true">
+      <relation target="n1_r1b9" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_r2zd" name="CloseBtn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1484">
+      <gearDisplay controller="tab" pages="1"/>
+      <relation target="n1_r1b9" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

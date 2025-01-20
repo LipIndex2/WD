@@ -1,0 +1,118 @@
+
+meiguifashi.png
+size: 1413,799
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+aixin1
+  rotate: true
+  xy: 1229, 52
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+aixin2
+  rotate: true
+  xy: 1342, 90
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+aixin3
+  rotate: true
+  xy: 1342, 16
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 484, 375
+  size: 802, 424
+  orig: 802, 424
+  offset: 0, 0
+  index: -1
+daaixin
+  rotate: false
+  xy: 0, 361
+  size: 483, 438
+  orig: 483, 438
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1229, 164
+  size: 210, 149
+  orig: 210, 149
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 0, 0
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 123, 0
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 103
+  size: 257, 258
+  orig: 257, 258
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1287, 620
+  size: 120, 179
+  orig: 120, 179
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1287, 435
+  size: 107, 184
+  orig: 107, 184
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 259, 34
+  size: 326, 217
+  orig: 326, 217
+  offset: 0, 0
+  index: -1
+xiangji
+  rotate: false
+  xy: 484, 12
+  size: 744, 362
+  orig: 744, 362
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 1229, 16
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: true
+  xy: 1287, 393
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+xing3
+  rotate: false
+  xy: 1379, 372
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1

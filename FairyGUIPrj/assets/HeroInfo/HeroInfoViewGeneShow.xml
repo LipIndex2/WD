@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageOffsetY="50" designImageLayer="1">
+  <displayList>
+    <image id="n2_vb35" name="n2" src="vb3540" fileName="image/gene/TuBiaoZuDi.png" xy="46,712" size="708,713" group="n19_vb35"/>
+    <image id="n36_pitk" name="n36" src="pitk4t" fileName="image/gene/TaoZhuangDianLiangJinDuDi.png" xy="47,411" size="708,252" group="n19_vb35"/>
+    <image id="n37_pitk" name="n37" src="pitk4v" fileName="image/gene/GanTanHao.png" xy="158,1378" size="62,62" group="n19_vb35" scale="0.7,0.7"/>
+    <image id="n3_vb35" name="n3" src="vb3542" fileName="image/gene/TaoZhuangMingZiDi.png" xy="26,645" size="748,75" group="n19_vb35"/>
+    <image id="n43_hprm" name="n43" src="hprm51" fileName="image/ShuZiDi.png" xy="69,292" size="161,36" group="n19_vb35">
+      <relation target="n48_hprm" sidePair="width-width"/>
+    </image>
+    <image id="n44_hprm" name="n44" src="hprm51" fileName="image/ShuZiDi.png" xy="69,357" size="158,36" group="n19_vb35">
+      <relation target="n50_hprm" sidePair="width-width"/>
+    </image>
+    <image id="n46_hprm" name="n46" src="hprm51" fileName="image/ShuZiDi.png" xy="69,419" size="158,36" group="n19_vb35">
+      <relation target="n49_hprm" sidePair="width-width"/>
+    </image>
+    <group id="n19_vb35" name="n19" xy="26,292" size="748,1148"/>
+    <loader id="n47_hprm" name="IconMaterials1" xy="44,405" pivot="0.5,0.5" size="65,65" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true"/>
+    <loader id="n45_hprm" name="IconMaterials2" xy="44,343" pivot="0.5,0.5" size="65,65" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true"/>
+    <loader id="n42_hprm" name="IconMaterials3" xy="44,277" pivot="0.5,0.5" size="65,65" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true"/>
+    <loader id="n20_vb35" name="Icon" xy="150,70" pivot="0.5,0.5" size="500,500" scale="1.1,1.1" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n21_vb35" name="Name" xy="302,656" pivot="0.5,0.5" size="196,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="套装名称六字"/>
+    <text id="n49_hprm" name="MaterialsNum1" xy="108,416" pivot="0,0.5" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999"/>
+    <text id="n50_hprm" name="MaterialsNum2" xy="108,354" pivot="0,0.5" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999"/>
+    <text id="n48_hprm" name="MaterialsNum3" xy="108,289" pivot="0,0.5" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999"/>
+    <text id="n35_yu83" name="n35" xy="203,1382" pivot="0.5,0.5" size="394,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="前往魔王城击败僵尸领主获取基因"/>
+    <component id="n28_rty2" name="BtnInherit1" src="rty24j" fileName="components/BtnInherit.xml" xy="84,547" size="210,68">
+      <Button icon="ui://uivgkva9rty24l"/>
+      <property target="icon2" propertyId="1" value="ui://uivgkva9rty24o"/>
+    </component>
+    <component id="n12_vb35" name="BtnInherit2" src="rty24j" fileName="components/BtnInherit.xml" xy="297,547" size="210,68">
+      <Button icon="ui://uivgkva9rty24m"/>
+      <property target="icon2" propertyId="1" value="ui://uivgkva9rty24p"/>
+    </component>
+    <component id="n27_rty2" name="BtnInherit3" src="rty24j" fileName="components/BtnInherit.xml" xy="510,547" size="210,68">
+      <Button icon="ui://uivgkva9rty24n"/>
+      <property target="icon2" propertyId="1" value="ui://uivgkva9rty24q"/>
+    </component>
+    <component id="n52_hprm" name="BtnCompound" src="hprm56" fileName="components/BtnMod.xml" xy="669,376" size="76,76">
+      <Button icon="ui://uivgkva9hprm52"/>
+    </component>
+    <component id="n53_hprm" name="BtnAddition" src="hprm56" fileName="components/BtnMod.xml" xy="669,284" size="76,76">
+      <Button icon="ui://uivgkva9hprm53"/>
+    </component>
+    <component id="n30_rty2" name="WireSpine1" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="393,835" size="1,1" group="n41_hprm" alpha="0.5"/>
+    <component id="n31_rty2" name="WireSpine2" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="288,960" size="1,1" group="n41_hprm" scale="0.6,1" alpha="0.5" rotation="45"/>
+    <component id="n32_rty2" name="WireSpine3" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="513,960" size="1,1" group="n41_hprm" scale="0.6,1" alpha="0.5" rotation="135"/>
+    <component id="n33_rty2" name="WireSpine4" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="288,1140" size="1,1" group="n41_hprm" scale="0.6,1" alpha="0.5" rotation="-45"/>
+    <component id="n34_rty2" name="WireSpine5" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="513,1140" size="1,1" group="n41_hprm" scale="0.6,1" alpha="0.5" rotation="225"/>
+    <component id="n38_cr2x" name="WireSpine6" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="180,1013" size="1,1" group="n41_hprm" scale="0.7,1" alpha="0.5" rotation="90"/>
+    <component id="n39_cr2x" name="WireSpine7" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="408,1211" size="1,1" group="n41_hprm" alpha="0.5"/>
+    <component id="n40_cr2x" name="WireSpine8" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="613,1012" size="1,1" group="n41_hprm" scale="0.7,1" alpha="0.5" rotation="90"/>
+    <component id="n22_vb35" name="BtnGene1" src="vb354g" fileName="components/ButtonGene.xml" xy="77,729" size="210,206" group="n41_hprm"/>
+    <component id="n26_vb35" name="BtnGene2" src="vb354g" fileName="components/ButtonGene.xml" xy="515,729" size="210,206" group="n41_hprm"/>
+    <component id="n25_vb35" name="BtnGene3" src="vb354g" fileName="components/ButtonGene.xml" xy="295,902" size="210,206" group="n41_hprm"/>
+    <component id="n24_vb35" name="BtnGene4" src="vb354g" fileName="components/ButtonGene.xml" xy="77,1078" size="210,206" group="n41_hprm"/>
+    <component id="n23_vb35" name="BtnGene5" src="vb354g" fileName="components/ButtonGene.xml" xy="515,1078" size="210,206" group="n41_hprm"/>
+    <group id="n41_hprm" name="GpGene" xy="77,729" size="648,555"/>
+    <component id="n29_rty2" name="HeroUISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="500,260" size="1,1"/>
+    <component id="n54_srmr" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="740,388" size="30,30"/>
+  </displayList>
+  <transition name="HeroAni" frameRate="30">
+    <item time="0" type="XY" target="n20_vb35" tween="true" startValue="150,110" endValue="150,120" duration="40" yoyo="true"/>
+    <item time="40" type="XY" target="n20_vb35" tween="true" startValue="150,120" endValue="150,110" duration="40" yoyo="true"/>
+  </transition>
+</component>

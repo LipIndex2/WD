@@ -1,0 +1,41 @@
+
+robot_effect_boom.png
+size: 830,170
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1/0
+  rotate: false
+  xy: 2, 2
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+1/1
+  rotate: false
+  xy: 169, 2
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+1/2
+  rotate: false
+  xy: 336, 2
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+1/3
+  rotate: true
+  xy: 503, 3
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+1/4
+  rotate: false
+  xy: 668, 5
+  size: 160, 163
+  orig: 160, 163
+  offset: 0, 0
+  index: -1

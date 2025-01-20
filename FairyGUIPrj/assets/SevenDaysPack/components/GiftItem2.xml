@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="551,374" pivot="0.5,0.5" designImageOffsetX="-124" designImageOffsetY="-1088">
+  <displayList>
+    <image id="n9_7hb2" name="n9" src="7hb23" fileName="image/BaoXiangBeiJing2.png" xy="0,0"/>
+    <image id="n10_7hb2" name="n10" src="7hb2h" fileName="image/BiaoTiXian.png" xy="84,210" size="257,26" scale="0.8,0.8"/>
+    <image id="n11_7hb2" name="n11" src="7hb2i" fileName="image/DianJiJiXuHengXian.png" xy="294,217" size="176,8"/>
+    <image id="n4_7hb2" name="n4" src="7hb2d" fileName="image/6Yuan.png" xy="491,-6"/>
+    <text id="n16_m4fi" name="OpenDay" xy="203,265" pivot="0.5,0.5" size="144,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="3天后开放"/>
+    <text id="n5_7hb2" name="Day" xy="235,12" pivot="0.5,0.5" size="84,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="第7天"/>
+    <list id="n8_7hb2" name="List" xy="126,235" size="382,121" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="7" defaultItem="ui://gn62pyk3rjro31">
+      <item/>
+      <item/>
+    </list>
+    <component id="n17_ce3g" name="BtnBox" src="ce3gl" fileName="components/BtnBoxGift.xml" xy="15,58" size="521,151"/>
+    <image id="n13_7hb2" name="n13" src="7hb2k" fileName="image/MengCeng.png" xy="2,-5" pivot="0.5,0.5" size="557,374" group="n15_7hb2"/>
+    <image id="n14_7hb2" name="n14" src="7hb2f" fileName="image/DuiGou.png" xy="215,142" group="n15_7hb2"/>
+    <group id="n15_7hb2" name="Mask" xy="2,-5" size="557,374" visible="false" advanced="true"/>
+  </displayList>
+</component>

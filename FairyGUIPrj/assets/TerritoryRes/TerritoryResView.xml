@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://r4xhqqyretz21">
+  <displayList>
+    <component id="n0_etz2" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-25,284" size="851,1054">
+      <Label title="资源详情"/>
+    </component>
+    <image id="n15_u9g0" name="bg" src="u9g0e" fileName="image/JiaYuanTuBiaoYouHuaShiYi.png" xy="75,479"/>
+    <image id="n23_hp41" name="bg2" src="etz2d" fileName="image/YuanJiaoJuXing2.png" xy="96,414" size="210,58"/>
+    <image id="n13_etz2" name="bg3" src="etz2d" fileName="image/YuanJiaoJuXing2.png" xy="545,494" size="167,58"/>
+    <image id="n14_etz2" name="bg4" src="etz2d" fileName="image/YuanJiaoJuXing2.png" xy="545,564" size="167,58"/>
+    <image id="n24_hp41" name="deco_cart1" src="u9g0f" fileName="image/TuiChe2.png" xy="72,402" scale="0.8,0.8"/>
+    <image id="n17_u9g0" name="deco_cart2" src="u9g0f" fileName="image/TuiChe2.png" xy="525,552" scale="0.8,0.8"/>
+    <loader id="n16_u9g0" name="IconSp" xy="514,466" pivot="0.5,0.5" size="108,108" scale="0.8,0.8" autoSize="true"/>
+    <text id="n18_u9g0" name="ResNum" xy="670,499" pivot="1,0.5" size="24,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="right" vAlign="middle" autoClearText="true" text="5"/>
+    <text id="n19_u9g0" name="CartNum" xy="610,569" pivot="1,0.5" size="84,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="right" vAlign="middle" autoClearText="true" text="上限2"/>
+    <text id="n22_eioq" name="EmptyNum" xy="258,985" pivot="0.5,0.5" size="284,54" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#491916" align="center" vAlign="middle" text="暂无可用的灵狐"/>
+    <text id="n25_hp41" name="NumShow" xy="176,419" pivot="0.5,0.5" size="55,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" autoClearText="true" text="1/1"/>
+    <component id="n26_hp41" name="BtnCart" src="c6fnb5h" fileName="ButtonAddCurrency.xml" pkg="zokic7y2" xy="113,413"/>
+    <image id="n8_etz2" name="bg_t" src="etz2b" fileName="image/ShiJianDi.png" xy="265,920" size="271,67" group="n12_etz2"/>
+    <image id="n11_etz2" name="icon_t" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="272,930" group="n12_etz2" scale="0.8,0.8"/>
+    <component id="n10_etz2" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="310,932" pivot="0.5,0" size="200,42" group="n12_etz2" touchable="false">
+      <Label titleColor="#c4ff26" titleFontSize="40"/>
+    </component>
+    <group id="n12_etz2" name="GpTime" xy="265,920" size="271,68" visible="false" advanced="true"/>
+    <image id="n1_etz2" name="bg5" src="etz22" fileName="image/ShuZi.png" xy="293,1000" group="n21_eioq"/>
+    <text id="n2_etz2" name="CurNum" xy="395,1010" pivot="0.5,0.5" size="10,62" group="n21_eioq" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" autoClearText="true" text=""/>
+    <component id="n4_etz2" name="BtnSub" src="etz23" fileName="components/BtnSmall.xml" xy="202,1000" group="n21_eioq">
+      <Button icon="ui://r4xhqqyretz25"/>
+      <property target="bg" propertyId="1" value="ui://r4xhqqyretz24"/>
+    </component>
+    <component id="n5_etz2" name="BtnAdd" src="etz23" fileName="components/BtnSmall.xml" xy="512,1000" group="n21_eioq">
+      <Button icon="ui://r4xhqqyretz26"/>
+      <property target="bg" propertyId="1" value="ui://r4xhqqyretz27"/>
+    </component>
+    <component id="n7_etz2" name="BtnMin" src="etz28" fileName="components/BtnBig.xml" xy="96,1000" group="n21_eioq">
+      <Button title="最小" icon="ui://r4xhqqyretz2a"/>
+    </component>
+    <component id="n6_etz2" name="BtnMax" src="etz28" fileName="components/BtnBig.xml" xy="604,1000" group="n21_eioq">
+      <Button title="最大" icon="ui://r4xhqqyretz29"/>
+    </component>
+    <group id="n21_eioq" name="GpNum" xy="96,1000" size="606,82" advanced="true"/>
+    <component id="n3_etz2" name="BtnGather" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="251,1112">
+      <Button title="采 集" titleFontSize="49"/>
+    </component>
+    <component id="n20_s8hp" name="ItemShow" src="s8hpg" fileName="components/ItemShow.xml" xy="253,570"/>
+  </displayList>
+</component>

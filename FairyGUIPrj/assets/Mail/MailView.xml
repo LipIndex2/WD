@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://zqb4963i9k881">
+  <displayList>
+    <component id="n0_9k88" name="board" src="yjaqb4a" fileName="CommonBoard1.xml" pkg="r5d9xy63" xy="35,308" size="730,974">
+      <relation target="" sidePair="width-width,height-height"/>
+      <Label title="邮 箱"/>
+    </component>
+    <image id="n1_l09g" name="bg" src="l09gb" fileName="image/BeiJingKuang.png" xy="71,358" size="662,1028" visible="false"/>
+  </displayList>
+</component>

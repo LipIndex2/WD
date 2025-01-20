@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="224,224" pivot="0.5,0.5" extention="Button" designImage="ui://qrbaplf6bcxit" designImageOffsetX="-541" designImageOffsetY="-208">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_fe0v" name="bg1" src="fe0vk" fileName="image/YuanJiaoJuXing2.png" xy="0,0" size="224,224">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n5_fe0v" name="title" xy="28,161" pivot="0.5,0.5" size="167,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="评分：87886"/>
+    <component id="n6_ruxo" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="111,94"/>
+    <component id="n7_qbpc" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="165,55"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

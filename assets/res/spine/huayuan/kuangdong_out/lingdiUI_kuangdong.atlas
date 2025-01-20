@@ -1,0 +1,76 @@
+
+lingdiUI_kuangdong.png
+size: 792,755
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dong
+  rotate: false
+  xy: 122, 25
+  size: 204, 109
+  orig: 204, 109
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 327, 429
+  size: 437, 326
+  orig: 437, 326
+  offset: 0, 0
+  index: -1
+jin1
+  rotate: true
+  xy: 725, 294
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+jin2
+  rotate: false
+  xy: 725, 227
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+jin3
+  rotate: false
+  xy: 725, 361
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+jin4
+  rotate: false
+  xy: 0, 13
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+kuangdong
+  rotate: true
+  xy: 0, 135
+  size: 620, 326
+  orig: 620, 326
+  offset: 0, 0
+  index: -1
+louti
+  rotate: false
+  xy: 540, 8
+  size: 176, 110
+  orig: 176, 110
+  offset: 0, 0
+  index: -1
+shikuai1
+  rotate: true
+  xy: 540, 119
+  size: 309, 184
+  orig: 309, 184
+  offset: 0, 0
+  index: -1
+shikuai2
+  rotate: true
+  xy: 327, 0
+  size: 428, 212
+  orig: 428, 212
+  offset: 0, 0
+  index: -1

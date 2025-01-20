@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://p6iurwtvlgme1">
+  <displayList>
+    <component id="n15_lgme" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <component id="n18_pitk" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n15_lgme" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n19_pitk" name="n19" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n15_lgme" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_lgme" name="n2" src="lgme2" fileName="image/ShenMiShangDianBeiJingTu.png" xy="0,0">
+      <relation target="n15_lgme" sidePair="top-top"/>
+    </image>
+    <loader id="n3_lgme" name="bg" xy="0,432" pivot="0.5,0" size="800,1121" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="n15_lgme" sidePair="bottomext-bottom"/>
+      <relation target="n2_lgme" sidePair="top-bottom"/>
+    </loader>
+    <image id="n4_lgme" name="n4" src="lgme4" fileName="image/ShenMiShangRenWenZiDi.png" xy="217,145" group="n17_pgz2"/>
+    <image id="n13_lgme" name="n13" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="305,421" group="n17_pgz2"/>
+    <image id="n14_lgme" name="n14" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="290,416" group="n17_pgz2"/>
+    <group id="n17_pgz2" name="n17" xy="217,145" size="366,330" advanced="true">
+      <relation target="n15_lgme" sidePair="top-top"/>
+    </group>
+    <image id="n11_lgme" name="n11" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="29,491" size="741,946">
+      <relation target="n3_lgme" sidePair="top-top"/>
+    </image>
+    <image id="n0_lgme" name="n0" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n15_lgme" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <component id="n6_lgme" name="ExpShow" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="33,20" group="n10_lgme">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n7_lgme" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="197,20" group="n10_lgme">
+      <Label title="0" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n8_lgme" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="397,20" group="n10_lgme">
+      <Label title="0" icon="ui://5qhcb5rwu3z86o"/>
+    </component>
+    <component id="n9_lgme" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="626,20" group="n10_lgme">
+      <Label title="0" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <group id="n10_lgme" name="GpCurrency" xy="33,20" size="758,54" advanced="true">
+      <relation target="n18_pitk" sidePair="top-top"/>
+    </group>
+    <component id="n16_lgme" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="339,420" size="160,51">
+      <relation target="n15_lgme" sidePair="top-top"/>
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <text id="n5_lgme" name="Name" xy="306,154" pivot="0.5,0.5" size="188,62" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="神秘商人">
+      <relation target="n15_lgme" sidePair="top-top"/>
+    </text>
+    <list id="n12_lgme" name="list" xy="50,512" pivot="0.5,0.5" size="709,890" layout="flow_hz" overflow="scroll" lineGap="37" colGap="18" defaultItem="ui://p6iurwtvlgme7" autoClearItems="true">
+      <relation target="n11_lgme" sidePair="middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n1_lgme" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="17,1489">
+      <relation target="n15_lgme" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

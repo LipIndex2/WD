@@ -1,0 +1,41 @@
+
+yaoqing.png
+size: 188,100
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1
+  rotate: false
+  xy: 102, 8
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 159, 30
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 159, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 102, 57
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1

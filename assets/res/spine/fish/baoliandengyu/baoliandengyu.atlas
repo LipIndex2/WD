@@ -1,0 +1,27 @@
+
+baoliandengyu.png
+size: 112,40
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 98, 20
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 98, 25
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,31 @@
+{
+  "font": "",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "fontAdjustment": false,
+  "colorScheme": [
+    "白 #FFFFFF",
+    "黑 #000000",
+    "棕 #491916"
+  ],
+  "fontSizeScheme": [
+    "Size 20",
+    "Size 22",
+    "Size 24",
+    "Size 26",
+    "Size 32",
+    "Size 38"
+  ],
+  "fontScheme": [
+    "粗字体 ui://wqx8l8xqut2h1b"
+  ],
+  "scrollBars": {
+    "horizontal": "",
+    "vertical": "",
+    "defaultDisplay": "visible"
+  },
+  "tipsRes": "",
+  "buttonClickSound": "",
+  "pivot": "default",
+  "fileName": "Common"
+}

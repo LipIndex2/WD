@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ork8mgir">
+  <resources>
+    <image id="nvvf0" name="标题装饰.png" path="/image/" scale="9grid" scale9grid="69,0,148,17"/>
+    <image id="nvvf1" name="超值文字底.png" path="/image/" scale="9grid" scale9grid="22,22,44,44"/>
+    <image id="nvvf2" name="车.png" path="/image/"/>
+    <image id="nvvf3" name="大背景.png" path="/image/"/>
+    <image id="nvvf4" name="零件图标.png" path="/image/"/>
+    <image id="nvvf5" name="限时.png" path="/image/"/>
+    <image id="nvvf6" name="组 67.png" path="/image/"/>
+    <image id="nvvf7" name="背景底.png" path="/image/" scale="9grid" scale9grid="23,21,46,42"/>
+    <image id="nvvf8" name="零件礼包_.jpg" path="/"/>
+    <component id="nvvf9" name="TerritoryModGiftView.xml" path="/" exported="true"/>
+    <image id="nvvfa" name="英雄背后光.png" path="/image/" exported="true"/>
+    <image id="nvvfb" name="英雄前面光.png" path="/image/" exported="true"/>
+    <component id="nvvfe" name="Button1.xml" path="/components/" exported="true"/>
+    <component id="nvvff" name="GeneItem.xml" path="/components/" exported="true"/>
+    <image id="nvvfg" name="GuanBi.png" path="/image/"/>
+    <image id="nvvfh" name="ShiJianDi.png" path="/image/" exported="true" scale="9grid" scale9grid="53,13,106,26"/>
+    <image id="nvvfi" name="ShiJianicon.png" path="/image/" exported="true"/>
+    <component id="nvvfj" name="Button2.xml" path="/components/" exported="true"/>
+    <image id="8jetk" name="ItemCellBg2.png" path="/image/" exported="true"/>
+    <image id="8jetl" name="TongYongHeiDi.png" path="/image/" exported="true" scale="9grid" scale9grid="18,18,36,36"/>
+    <component id="8jetm" name="PartItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

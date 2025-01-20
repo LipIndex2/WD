@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="88,88" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_cj0g" name="n0" src="cj0g7b" fileName="image/shanghaishuju/RenWuDiBu.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_cj0g" name="n1" src="cj0g7a" fileName="image/shanghaishuju/PaiXing.png" xy="19,15"/>
+  </displayList>
+  <Button sound="ui://d0dr38ivnvx3k" downEffect="scale" downEffectValue=".8"/>
+</component>

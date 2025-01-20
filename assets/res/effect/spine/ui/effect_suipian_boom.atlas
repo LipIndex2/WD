@@ -1,0 +1,20 @@
+
+effect_suipian_boom.png
+size: 225,174
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guang
+  rotate: true
+  xy: 2, 2
+  size: 170, 172
+  orig: 256, 256
+  offset: 42, 44
+  index: -1
+pintu
+  rotate: false
+  xy: 176, 124
+  size: 47, 48
+  orig: 50, 50
+  offset: 2, 1
+  index: -1

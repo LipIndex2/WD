@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="319,218">
+  <displayList>
+    <image id="n0_iyea" name="n0" src="iyea19" fileName="image/ShuiLian.png" xy="0,0"/>
+    <text id="n1_iyea" name="n1" xy="69,218" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" leading="4" strokeColor="#491916" strokeSize="3" text="暂无排名"/>
+  </displayList>
+</component>

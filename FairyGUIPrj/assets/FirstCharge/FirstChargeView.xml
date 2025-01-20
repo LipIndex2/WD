@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://h6nb280cr9w51" designImageLayer="1">
+  <displayList>
+    <image id="n0_k2qf" name="n0" src="k2qf8" fileName="image/ShouChongDiBan.png" xy="46,350" pivot="0.5,0.5"/>
+    <image id="n1_k2qf" name="n1" src="k2qf4" fileName="image/YuanHua.png" xy="63,200" pivot="0.5,0.5" visible="false"/>
+    <image id="n6_k2qf" name="n6" src="k2qfc" fileName="image/XinShouLiBaoHengFu.png" xy="56,222" pivot="0.5,0.5" size="704,67" visible="false"/>
+    <text id="n2_k2qf" name="n2" xy="271,375" pivot="0.5,0.5" size="264,69" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491914" strokeSize="4" text="首充得豪礼"/>
+    <text id="n3_k2qf" name="Desc" xy="146,976" pivot="0.5,0.5" size="514,88" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" leading="15" autoSize="none" strokeColor="#491914" strokeSize="3" text="充值购买任意商品，即可获得超值奖励，仅此一次！"/>
+    <list id="n4_k2qf" name="List" xy="114,671" size="581,268" layout="row" margin="0,0,5,0" colGap="10" defaultItem="ui://h6nb280ck2qfd">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_k2qf" name="BtnShop" src="k2qfb" fileName="components/BtnShop.xml" xy="251,1090" pivot="0.5,0.5"/>
+    <component id="n7_k2qf" name="BtnAward" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1089" visible="false">
+      <Button title="领 取"/>
+    </component>
+    <component id="n8_k2qf" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="657,359"/>
+    <image id="n9_gw5x" name="n9" src="gw5xg" fileName="形态7-140X140.png" xy="533,493"/>
+    <text id="n10_gw5x" name="n10" xy="152,548" size="314,42" fontSize="30" color="#ffffff" autoSize="none" strokeColor="#000000" strokeSize="2" text="范围伤害   推关必备"/>
+  </displayList>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="660,467" designImage="ui://9hvw4r5ckj0y2" designImageOffsetX="-70" designImageOffsetY="-674" designImageLayer="1">
+  <displayList>
+    <list id="n0_kj0y" name="ShowList" xy="15,64" size="632,179" layout="row" overflow="scroll" colGap="6" defaultItem="ui://9hvw4r5ckj0yq" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_kj0y" name="ProgressBar4" src="kj0yr" fileName="components/ProgressBar.xml" xy="485,314" size="117,42">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n4_kj0y" name="ProgressBar3" src="kj0yr" fileName="components/ProgressBar.xml" xy="346,314" size="106,42">
+      <ProgressBar value="60" max="100" min="60"/>
+    </component>
+    <component id="n3_kj0y" name="ProgressBar2" src="kj0yr" fileName="components/ProgressBar.xml" xy="211,314" size="108,42">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n2_kj0y" name="ProgressBar1" src="kj0yr" fileName="components/ProgressBar.xml" xy="74,314" size="120,42">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n6_kj0y" name="n6" src="kj0ym" fileName="image/TuoYuan10.png" xy="25,298"/>
+    <text id="n7_kj0y" name="BarMinDay" xy="39,309" pivot="0.5,0.5" size="40,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="30"/>
+    <text id="n8_kj0y" name="Day" xy="229,408" pivot="0.5,0.5" size="203,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="当前登陆天数：2"/>
+  </displayList>
+</component>

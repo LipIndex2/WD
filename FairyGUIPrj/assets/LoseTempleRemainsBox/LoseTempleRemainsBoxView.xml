@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://9gxc7qgqyu831">
+  <displayList>
+    <component id="n0_yu83" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,286">
+      <Label title="遗 物"/>
+    </component>
+    <image id="n1_yu83" name="n1" src="yu838" fileName="image/YiWu.png" xy="233,318"/>
+    <text id="n2_yu83" name="Name" xy="110,470" pivot="0.5,0.5" size="579,86" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="7" autoSize="height" strokeColor="#491916" strokeSize="3" text="发现了年代不明的遗物，偷偷拿走一个应该没人发现吧"/>
+    <list id="n3_yu83" name="list" xy="59,575" size="682,480" layout="flow_hz" overflow="scroll" scrollBarFlags="160" colGap="8" defaultItem="ui://9gxc7qgqcr2x9" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_yu83" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1084">
+      <Button title="确 认"/>
+    </component>
+  </displayList>
+</component>

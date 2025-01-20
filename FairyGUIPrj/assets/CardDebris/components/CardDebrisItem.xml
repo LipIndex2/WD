@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120">
+  <displayList>
+    <component id="n0_k2qf" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="0,0" pivot="0.5,0.5"/>
+    <text id="n1_rmdb" name="title" xy="48,73" size="58,36" fontSize="26" color="#ffff33" strokeColor="#ff3333" strokeSize="3" text="13%">
+      <relation target="" sidePair="right-right"/>
+    </text>
+  </displayList>
+</component>

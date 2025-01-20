@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="622,150" designImage="ui://5mk2qj8mwpumm" designImageOffsetX="-90" designImageOffsetY="-441" designImageLayer="1">
+  <displayList>
+    <image id="n0_wpum" name="n0" src="wpum1" fileName="imange/BaiSeHeiBianDi.png" xy="0,0" size="622,150"/>
+    <loader id="n1_wpum" name="RankIcon" xy="75,75" pivot="0.5,0.5" anchor="true" size="68,68" url="ui://5mk2qj8mwpum3" clearOnPublish="true"/>
+    <text id="n2_wpum" name="RankText" xy="82,75" pivot="0.5,0.5" anchor="true" size="25,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="9"/>
+    <list id="n3_wpum" name="ItemList" xy="163,10" size="483,150" scale="0.85,0.85" layout="flow_vt" scroll="horizontal" defaultItem="ui://gn62pyk3rjro31" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

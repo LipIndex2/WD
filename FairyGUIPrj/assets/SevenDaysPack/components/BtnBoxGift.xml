@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,109" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n6_7hb2" name="icon" xy="0,0" pivot="0.5,0.5" size="127,109" url="ui://pjrxftt97hb26" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

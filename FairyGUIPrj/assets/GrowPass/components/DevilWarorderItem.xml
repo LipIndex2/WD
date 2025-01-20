@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,118">
+  <displayList>
+    <loader id="n0_v1z6" name="bg" xy="0,1" pivot="0.5,0.5" size="118,118" url="ui://0b60q2pqlwohx" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <loader id="n1_v1z6" name="Icon" xy="4,5" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle"/>
+    <image id="n2_v1z6" name="Lock" src="sltbq" fileName="image/Suo.png" xy="81,-2"/>
+    <text id="n3_v1z6" name="Num" xy="56,80" pivot="1,0.5" size="61,40" font="ui://wqx8l8xqut2h1b" fontSize="29" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="230"/>
+    <image id="n4_v1z6" name="n4" src="xaqq9" fileName="image/JinBiKuangMengCeng.png" xy="0,1" group="n6_v1z6"/>
+    <image id="n5_v1z6" name="Gou" src="xaqqj" fileName="image/Gou.png" xy="26,35" group="n6_v1z6"/>
+    <group id="n6_v1z6" name="GetPrize" xy="0,1" size="118,118" visible="false" advanced="true"/>
+  </displayList>
+</component>

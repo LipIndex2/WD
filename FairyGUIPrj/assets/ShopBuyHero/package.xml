@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="iqm76u2v">
+  <resources>
+    <component id="dtha0" name="ShopBuyHeroView.xml" path="/" exported="true"/>
+    <image id="dtha1" name="购买确认.jpg" path="/"/>
+    <component id="dtha2" name="ItemHero.xml" path="/components/"/>
+    <component id="dtha3" name="ButtonBuy.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

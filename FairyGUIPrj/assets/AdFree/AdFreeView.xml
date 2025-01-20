@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://ptkzoy35pd0x1" designImageLayer="1">
+  <displayList>
+    <image id="n0_pd0x" name="n0" src="pd0x4" fileName="image/ShouChongDiBan.png" xy="46,371" size="708,893" group="n19_pd0x"/>
+    <image id="n4_pd0x" name="n4" src="pd0x9" fileName="image/ZhuoZi.png" xy="27,322" group="n19_pd0x"/>
+    <image id="n24_pd0x" name="n24" src="pd0xi" fileName="image/HengFu.png" xy="15,544" group="n19_pd0x"/>
+    <image id="n12_pd0x" name="n12" src="pd0xc" fileName="image/ZuoXiaXingXing.png" xy="56,977" group="n19_pd0x"/>
+    <image id="n13_pd0x" name="n13" src="pd0x8" fileName="image/YouXiaXingXing.png" xy="597,1026" group="n19_pd0x"/>
+    <group id="n19_pd0x" name="n19" xy="15,322" size="770,942"/>
+    <text id="n20_pd0x" name="n20" xy="263,595" pivot="0.5,0.5" size="274,72" font="ui://wqx8l8xqut2h1b" fontSize="54" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="免广告特权"/>
+    <list id="n23_pd0x" name="List" xy="114,761" size="571,250" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="32" colGap="15" defaultItem="ui://ptkzoy35pd0xg" autoItemSize="false" align="center">
+      <item/>
+      <item/>
+    </list>
+    <component id="n22_pd0x" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="254,1076"/>
+    <component id="n21_pd0x" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="359,1390"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://2jxp9aqntm532" designImageOffsetX="-34" designImageOffsetY="-445" designImageLayer="1">
+  <displayList>
+    <component id="n0_ktto" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,515" size="730,569">
+      <Label title="确认解锁等级"/>
+    </component>
+    <image id="n2_tm53" name="n2" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="86,707" size="628,202"/>
+    <text id="n4_tm53" name="n4" xy="285,738" pivot="0.5,0.5" size="228,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" text="立即解锁当前等级"/>
+    <text id="n5_tm53" name="n5" xy="133,793" size="539,86" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" leading="10" autoSize="none" text="等级奖励将立即解锁，你收集到的积分数量仍然相同！"/>
+    <component id="n3_tm53" name="BtnBuy" src="hlneb57" fileName="BtnBuy.xml" pkg="zokic7y2" xy="310,957" scale="1.6,1.6"/>
+  </displayList>
+</component>

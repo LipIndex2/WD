@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fd0obv1h">
+  <resources>
+    <component id="hunn0" name="TerritoryRefreshView.xml" path="/" exported="true"/>
+    <image id="hunn1" name="标注5.png" path="/"/>
+    <image id="mobl4" name="XiaoShuZiYuan.png" path="/image/"/>
+    <component id="mobl5" name="ButtonBlue.xml" path="/components/" exported="true"/>
+    <component id="mobl7" name="ButtonOrange.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,62">
+  <displayList>
+    <image id="n0_ppj5" name="bg" src="jlw64" fileName="image/ShuXingHengFu.png" xy="0,0" size="632,62">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_ppj5" name="TitleShow" xy="0,0" size="632,62" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="附近农场">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+</component>

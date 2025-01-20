@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="91,84" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n1_lgme" name="icon" xy="0,0" pivot="0.5,0.5" size="91,84" url="ui://pppfbs53lgmed" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n2_cr2x" name="title" xy="40,75" pivot="0.5,0.5" size="10,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n3_cr2x" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="-36,112" pivot="0.5,0.5" size="164,36">
+      <Label titleFontSize="25"/>
+    </component>
+    <component id="n4_n4r6" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="80,5" touchable="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

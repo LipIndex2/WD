@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageOffsetY="-3" designImageAlpha="0" designImageLayer="1">
+  <controller name="HeroInfoState" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n4_uvlm" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-13,85" size="822,1408">
+      <Label title="地狱火龙果"/>
+    </component>
+    <image id="n47_ox88" name="n47" src="ox8868" fileName="image/DaKuang.png" xy="85,632" size="630,613" group="n45_ox88"/>
+    <image id="n36_ox88" name="n36" src="ox885c" fileName="image/Xian.png" xy="96,727" group="n45_ox88">
+      <relation target="n39_ox88" sidePair="top-bottom"/>
+    </image>
+    <image id="n52_omua" name="n52" src="m4fi6f" fileName="image/QiZhiDi.png" xy="297,232" size="230,40" group="n45_ox88" visible="false"/>
+    <image id="n53_omua" name="n53" src="m4fi6e" fileName="image/QiZhi.png" xy="275,231" group="n45_ox88" scale="0.58,0.58" visible="false"/>
+    <loader id="n46_ox88" name="RaceIcon" xy="103,644" pivot="0.5,0.5" size="40,40" group="n45_ox88" align="center" vAlign="middle"/>
+    <text id="n55_kb45" name="n55" xy="570,1291" pivot="0.5,0.5" size="154,42" group="n57_d83m" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="战力加成："/>
+    <text id="n56_kb45" name="Damage" xy="571,1331" pivot="0,0.5" size="92,42" group="n57_d83m" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffcf5d" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="+99%"/>
+    <group id="n57_d83m" name="GpDamage" xy="570,1291" size="154,82" group="n45_ox88" advanced="true"/>
+    <text id="n37_ox88" name="n37" xy="100,737" size="124,42" group="n45_ox88" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#753c13" text="门徒技能">
+      <relation target="n39_ox88" sidePair="top-bottom"/>
+    </text>
+    <text id="n38_ox88" name="RaceText" xy="145,644" pivot="0,0.5" size="124,42" group="n45_ox88" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#753c13" vAlign="middle" autoClearText="true" text="物理属性"/>
+    <text id="n39_ox88" name="HeroDesc" xy="102,690" size="557,38" group="n45_ox88" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#54301e" vAlign="middle" leading="5" autoSize="height" autoClearText="true" text="冰霜冰霜冰霜冰冰霜冰霜冰霜"/>
+    <text id="n40_ox88" name="LockDesc" xy="249,1313" pivot="0.5,0.5" size="297,59" group="n45_ox88" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="通过章节8解锁">
+      <relation target="n44_ox88" sidePair="top-top"/>
+    </text>
+    <text id="n54_omua" name="Integral" xy="323,235" pivot="0.5,0.5" size="186,34" group="n45_ox88" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#fffcbd" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="英雄积分：9999"/>
+    <list id="n41_ox88" name="EffectList" xy="311,290" pivot="0.5,0" size="401,322" group="n45_ox88" layout="flow_hz" overflow="scroll" scrollBarFlags="2720" lineGap="3" lineItemCount="1" defaultItem="ui://uivgkva9que1h" autoItemSize="true" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n42_ox88" name="SkillList" xy="102,785" size="605,422" group="n45_ox88" layout="flow_hz" overflow="scroll" lineGap="5" lineItemCount="1" defaultItem="ui://uivgkva9p2wa17" autoItemSize="true" autoClearItems="true">
+      <relation target="n39_ox88" sidePair="top-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n43_ox88" name="HeroCell" src="tm533c" fileName="HeroCell.xml" pkg="gn62pyk3" xy="104,316" group="n45_ox88" scale="1.1,1.1" touchable="false"/>
+    <component id="n44_ox88" name="BtnUpgrade" src="gy0i22" fileName="components/BtnUpgrade.xml" xy="252,1275" group="n45_ox88"/>
+    <component id="n48_gr38" name="BtnAttribute" src="gr386d" fileName="components/BtnAttribute.xml" xy="115,1291" group="n45_ox88" visible="false"/>
+    <component id="n49_gr38" name="BtnCompound" src="gr386c" fileName="components/BtnCompound.xml" xy="650,652" group="n45_ox88" visible="false"/>
+    <group id="n45_ox88" name="InfoShow" xy="85,231" size="639,1156" advanced="true">
+      <gearDisplay controller="HeroInfoState" pages="0"/>
+    </group>
+    <component id="n34_vb35" name="GenePanel" src="jmb43x" fileName="HeroInfoViewGeneShow.xml" xy="0,0">
+      <gearDisplay controller="HeroInfoState" pages="1"/>
+    </component>
+    <list id="n5_uvlm" name="TabList" xy="106,1434" size="587,75" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://uivgkva9uvlm3j" autoClearItems="true">
+      <relation target="" sidePair="top-bottom"/>
+      <item title="英 雄"/>
+      <item title="基 因"/>
+    </list>
+  </displayList>
+</component>

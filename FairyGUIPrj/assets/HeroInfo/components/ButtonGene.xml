@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,206" pivot="0.5,0.5" extention="Button" designImage="ui://uivgkva9rty24r" designImageOffsetX="-75" designImageOffsetY="-745" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="GeneState" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n0_vb35" name="Bg" xy="0,0" size="210,206" url="ui://uivgkva9vb3543"/>
+    <loader id="n3_vb35" name="Icon" xy="50,74" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle" clearOnPublish="true">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </loader>
+    <loader id="n4_vb35" name="AttrIcon" xy="10,8" pivot="0.5,0.5" size="40,40" align="center" vAlign="middle">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </loader>
+    <text id="n2_vb35" name="Place" xy="64,157" pivot="0.5,0.5" size="82,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="四号位">
+      <gearDisplay controller="GeneState" pages="0"/>
+    </text>
+    <text id="n5_vb35" name="Lv" xy="71,19" pivot="0.5,0.5" size="73,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="LV.12">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </text>
+    <text id="n6_vb35" name="Name" xy="9,-33" pivot="0.5,0.5" size="196,34" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" text="基因名称六字六字">
+      <gearDisplay controller="GeneState" pages=""/>
+    </text>
+    <text id="n7_vb35" name="AttrNum1" xy="29,212" pivot="0.5,0.5" size="152,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#fcff00" align="center" vAlign="middle" ubb="true" strokeColor="#491916" strokeSize="3" text="属性A：999">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </text>
+    <text id="n8_vb35" name="AttrNum2" xy="30,248" pivot="0.5,0.5" size="150,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" ubb="true" strokeColor="#491916" strokeSize="3" text="属性B：999">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </text>
+    <component id="n9_rty2" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="104,102">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </component>
+    <component id="n10_hprm" name="apparelSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="105,105">
+      <gearDisplay controller="GeneState" pages="1"/>
+    </component>
+    <component id="n12_en2l" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="182,22"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+  <transition name="GeneAni1" autoPlayRepeat="-1" frameRate="30">
+    <item time="0" type="XY" target="n3_vb35" tween="true" startValue="52,74" endValue="52,66" duration="40" repeat="-1" yoyo="true"/>
+    <item time="40" type="XY" target="n3_vb35" tween="true" startValue="52,66" endValue="52,74" duration="40" yoyo="true"/>
+  </transition>
+  <transition name="GeneAni2" autoPlayRepeat="-1" frameRate="30">
+    <item time="0" type="XY" target="n3_vb35" tween="true" startValue="52,65" endValue="52,74" duration="40" repeat="-1" yoyo="true"/>
+    <item time="40" type="XY" target="n3_vb35" tween="true" startValue="52,74" endValue="52,65" duration="40" yoyo="true"/>
+  </transition>
+  <transition name="GeneAni3" autoPlayRepeat="-1" frameRate="30">
+    <item time="0" type="XY" target="n3_vb35" tween="true" startValue="52,66" endValue="52,64" duration="20" yoyo="true"/>
+    <item time="20" type="XY" target="n3_vb35" tween="true" startValue="52,64" endValue="52,74" duration="39" yoyo="true"/>
+    <item time="59" type="XY" target="n3_vb35" tween="true" startValue="52,74" endValue="52,66" duration="20" yoyo="true"/>
+  </transition>
+  <transition name="GeneAni4" autoPlayRepeat="-1" frameRate="30">
+    <item time="0" type="XY" target="n3_vb35" tween="true" startValue="52,79" endValue="52,68" duration="40" yoyo="true"/>
+    <item time="40" type="XY" target="n3_vb35" tween="true" startValue="52,68" endValue="52,79" duration="40" yoyo="true"/>
+  </transition>
+  <transition name="GeneAni5" autoPlayRepeat="-1" frameRate="30">
+    <item time="0" type="XY" target="n3_vb35" tween="true" startValue="52,67" endValue="52,74" duration="31" yoyo="true"/>
+    <item time="31" type="XY" target="n3_vb35" tween="true" startValue="52,74" endValue="52,63" duration="39" yoyo="true"/>
+    <item time="70" type="XY" target="n3_vb35" tween="true" startValue="52,63" endValue="52,67" duration="10" yoyo="true"/>
+  </transition>
+</component>

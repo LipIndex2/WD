@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,156" designImage="ui://2keej48gpmm81" designImageOffsetX="-159" designImageOffsetY="-438">
+  <displayList>
+    <text id="n1_pmm8" name="NameShow" xy="30,117" pivot="0.5,0.5" size="60,39" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="白莲"/>
+    <component id="n0_pmm8" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="0,0"/>
+  </displayList>
+</component>

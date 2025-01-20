@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,329" designImageOffsetY="-829" designImageLayer="1">
+  <controller name="TrialState" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n0_m4fi" name="Bg" xy="19,0" pivot="0.5,0.5" size="762,329" touchable="false" align="center" vAlign="middle" clearOnPublish="true">
+      <gearLook controller="TrialState" pages="0,1" values="1,0,0,0|1,0,1,0"/>
+    </loader>
+    <loader id="n1_m4fi" name="Icon" xy="38,9" pivot="0.5,0.5" size="80,80" touchable="false" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <gearLook controller="TrialState" pages="0,1" values="1,0,0,0|1,0,1,0"/>
+    </loader>
+    <text id="n2_m4fi" name="Name" xy="124,25" pivot="0,0.5" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" autoClearText="true" text="英雄名字"/>
+    <list id="n3_m4fi" name="List" xy="63,199" size="414,121" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="3" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <gearLook controller="TrialState" pages="1" values="1,0,1,1" default="1,0,0,1"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_m4fi" name="BtnTrial" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="455,193">
+      <gearLook controller="TrialState" pages="1" values="1,0,0,0" default="1,0,0,1"/>
+      <Button title="前往试用"/>
+    </component>
+    <image id="n5_m4fi" name="n5" src="m4fi9" fileName="image/HuiSeZheZhao.png" xy="19,0">
+      <gearDisplay controller="TrialState" pages="1"/>
+    </image>
+    <image id="n6_m4fi" name="n6" src="m4fi3" fileName="image/YiWanChengDi.png" xy="282,132">
+      <gearDisplay controller="TrialState" pages="1"/>
+    </image>
+    <text id="n7_m4fi" name="n7" xy="344,141" pivot="0.5,0.5" size="112,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#77d442" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="已完成">
+      <gearDisplay controller="TrialState" pages="1"/>
+    </text>
+  </displayList>
+</component>

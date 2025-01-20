@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://db9woelguzf28" designImageLayer="1">
+  <displayList>
+    <loader id="n0_uzf2" name="Bg" xy="35,183" size="730,1245" url="ui://r5d9xy63o2mfb46" align="center" vAlign="middle" fill="scaleFree"/>
+    <component id="n16_uzf2" name="SpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="400,516"/>
+    <image id="n1_uzf2" name="n1" src="uzf23" fileName="image/bg.png" xy="46,540" group="n14_uzf2"/>
+    <image id="n4_uzf2" name="n4" src="uzf27" fileName="image/HengFu.png" xy="15,511" size="769,101" group="n14_uzf2"/>
+    <image id="n5_uzf2" name="n5" src="uzf29" fileName="image/ShiJianDi.png" xy="292,254" size="216,41" group="n14_uzf2"/>
+    <image id="n6_uzf2" name="n6" src="uzf2a" fileName="image/ShiZhongHuang.png" xy="328,257" group="n14_uzf2"/>
+    <text id="n7_uzf2" name="Name" xy="281,193" pivot="0.5,0.5" size="242,62" group="n14_uzf2" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#89fa8b" align="center" vAlign="middle" letterSpacing="2" strokeColor="#491916" strokeSize="3" text="农场耕种日"/>
+    <group id="n14_uzf2" name="n14" xy="15,193" size="769,1225"/>
+    <component id="n9_uzf2" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="312,249" size="213,48">
+      <Label title="29天02时" titleFontSize="24"/>
+    </component>
+    <component id="n11_uzf2" name="board" src="uzf216" fileName="BoardCultivate.xml" xy="0,0"/>
+    <component id="n15_uzf2" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="709,167"/>
+  </displayList>
+</component>

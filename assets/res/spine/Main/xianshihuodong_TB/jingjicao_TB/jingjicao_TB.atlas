@@ -1,0 +1,104 @@
+
+jingjicao_TB.png
+size: 104,133
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jianci1
+  rotate: true
+  xy: 87, 46
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+jianci2
+  rotate: false
+  xy: 86, 80
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+jianci3
+  rotate: true
+  xy: 58, 83
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 56, 0
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+jiao1_1
+  rotate: false
+  xy: 87, 7
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 0, 32
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+jiao2_2
+  rotate: true
+  xy: 80, 65
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 28, 3
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+jiao3_1
+  rotate: false
+  xy: 58, 65
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: false
+  xy: 58, 105
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+jiao4_1
+  rotate: false
+  xy: 87, 24
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 0, 4
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 82, 105
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 64
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1

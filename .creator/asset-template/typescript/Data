@@ -1,0 +1,24 @@
+import { CreateSMD, smartdata } from "data/SmartData";
+import { DataBase } from "../../data/DataBase";
+
+/*
+class LoginResultData{
+    @smartdata
+    result:number;
+}
+*/
+
+export class <%Name%> extends DataBase {  
+    //public ResultData : LoginResultData;
+    constructor(){
+        super();
+        this.createSmartData();
+    }
+
+    private createSmartData(){
+        /*
+        let self = this;
+        self.ResultData = CreateSMD(LoginResultData);
+        */
+    }
+}

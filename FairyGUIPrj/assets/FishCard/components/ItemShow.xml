@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="624,50" designImage="ui://05atindvhtrt1" designImageOffsetX="-88" designImageOffsetY="-837">
+  <displayList>
+    <text id="n0_htrt" name="DescShow" xy="53,2" pivot="0,0.5" size="208,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="立即获得钻石"/>
+    <loader id="n1_htrt" name="IconSp" xy="260,-9" pivot="0.5,0.5" size="63,69" group="n3_x6s6" scale="0.6,0.6" url="ui://5qhcb5rwtiuj64" autoSize="true" clearOnPublish="true">
+      <relation target="n0_htrt" sidePair="left-right"/>
+    </loader>
+    <text id="n2_htrt" name="NumShow" xy="323,3" pivot="0,0.5" size="70,46" group="n3_x6s6" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="200">
+      <relation target="n0_htrt" sidePair="left-right"/>
+    </text>
+    <group id="n3_x6s6" name="GpReward" xy="260,-9" size="133,69" visible="false" advanced="true"/>
+  </displayList>
+</component>

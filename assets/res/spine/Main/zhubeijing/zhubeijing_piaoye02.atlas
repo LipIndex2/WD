@@ -1,0 +1,48 @@
+
+zhubeijing_piaoye02.png
+size: 216,355
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shu10
+  rotate: true
+  xy: 0, 222
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+shu11
+  rotate: false
+  xy: 0, 15
+  size: 108, 48
+  orig: 108, 48
+  offset: 0, 0
+  index: -1
+shu12
+  rotate: false
+  xy: 109, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+shu7
+  rotate: false
+  xy: 143, 177
+  size: 73, 178
+  orig: 73, 178
+  offset: 0, 0
+  index: -1
+shu8
+  rotate: false
+  xy: 114, 31
+  size: 94, 145
+  orig: 94, 145
+  offset: 0, 0
+  index: -1
+shu9
+  rotate: false
+  xy: 0, 64
+  size: 113, 157
+  orig: 113, 157
+  offset: 0, 0
+  index: -1

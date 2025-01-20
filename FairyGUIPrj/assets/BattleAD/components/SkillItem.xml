@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,150" pivot="0.5,0.5" extention="Button" designImage="ui://qllfrhsralgr6p" designImageOffsetY="-1198" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <loader id="n3_jxlb" name="Qua" xy="129,24" size="566,131" url="ui://qllfrhsrjxlbj" fill="scaleFree"/>
+    <loader id="n4_jxlb" name="Qua2" xy="93,0" size="154,156" url="ui://qllfrhsrjxlbm" fill="scaleFree"/>
+    <loader id="n6_jxlb" name="Icon" xy="170,74" pivot="0.5,0.5" anchor="true" size="140,140" scale="0.9,0.9" fill="scaleFree" clearOnPublish="true"/>
+    <richtext id="n0_ut2h" name="BuffDesc" xy="267,87" pivot="0,0.5" anchor="true" size="398,111" fontSize="28" color="#491914" vAlign="middle" leading="2" autoSize="height" autoClearText="true" text="豌豆对敌方造成多10%伤害伤害伤害伤害伤害豌豆对敌方造成多10%伤害伤害伤害伤害"/>
+    <text id="n7_aj8z" name="IconValue" xy="172,115" pivot="0.5,0.5" anchor="true" size="83,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="+20%"/>
+    <component id="n8_algr" name="CountLabel" src="oabkn" fileName="components/CountLabel.xml" xy="503,0"/>
+  </displayList>
+  <Button sound="ui://d0dr38ivnvx3k" downEffect="scale" downEffectValue=".8"/>
+</component>

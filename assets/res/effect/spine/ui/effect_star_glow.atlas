@@ -1,0 +1,13 @@
+
+effect_star_glow.png
+size: 36,36
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+star3
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

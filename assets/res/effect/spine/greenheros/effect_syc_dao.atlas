@@ -1,0 +1,13 @@
+
+effect_syc_dao.png
+size: 171,179
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu1
+  rotate: false
+  xy: 2, 2
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1

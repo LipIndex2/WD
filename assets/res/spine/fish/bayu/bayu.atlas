@@ -1,0 +1,41 @@
+
+bayu.png
+size: 225,49
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+Y
+  rotate: false
+  xy: 190, 28
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 190, 1
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 189, 49
+  orig: 189, 49
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 206, 21
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 213, 18
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1

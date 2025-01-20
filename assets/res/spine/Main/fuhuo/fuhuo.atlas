@@ -1,0 +1,139 @@
+
+fuhuo.png
+size: 1183,682
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: false
+  xy: 1076, 142
+  size: 64, 113
+  orig: 64, 113
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 1114, 569
+  size: 64, 113
+  orig: 64, 113
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 1058, 7
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 1089, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 1037, 6
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 1015, 5
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 1076, 104
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+gaung2
+  rotate: true
+  xy: 0, 0
+  size: 682, 686
+  orig: 682, 686
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 687, 256
+  size: 426, 426
+  orig: 426, 426
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 687, 19
+  size: 236, 247
+  orig: 236, 247
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 1015, 27
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 1089, 30
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 1114, 498
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 1114, 381
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+xing3
+  rotate: false
+  xy: 1114, 266
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+xing4
+  rotate: true
+  xy: 935, 23
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 1114, 437
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 1114, 320
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+zhong
+  rotate: false
+  xy: 935, 101
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1

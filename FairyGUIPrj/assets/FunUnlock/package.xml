@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="nfkn4z53">
+  <resources>
+    <component id="k2qf0" name="FunUnlockView.xml" path="/" exported="true"/>
+    <image id="k2qf1" name="功能解锁界面参数.png" path="/"/>
+    <image id="k2qf2" name="GongNenJieSuoHengFu.png" path="/image/"/>
+    <image id="k2qfe" name="ZhangJieLiBao.png" path="/image/" exported="true"/>
+    <image id="gy0if" name="RiQian.png" path="/image/" exported="true"/>
+    <image id="gy0ig" name="JiJinTuBiao.png" path="/image/" exported="true"/>
+    <image id="gy0ih" name="KaPai.png" path="/image/" exported="true"/>
+    <image id="gy0ii" name="MiaoBiao.png" path="/image/" exported="true"/>
+    <image id="gy0ij" name="YouQianHua.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110" extention="Button">
+  <controller name="show_ctrl" pages="3,node,0,level,1,count,2,value" selected="3">
+    <remark page="0" value="只显示图标"/>
+    <remark page="1" value="显示等级"/>
+    <remark page="2" value="显示数量"/>
+    <remark page="3" value="显示数值"/>
+  </controller>
+  <displayList>
+    <loader id="n0_83sp" name="BG" xy="0,0" size="110,110" url="ui://rqg67c20rjro5h" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n1_83sp" name="Icon" xy="55,55" pivot="0.5,0.5" anchor="true" size="110,110" fill="scaleFree"/>
+    <text id="n2_83sp" name="Count" xy="103,110" pivot="1,1" anchor="true" size="51,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="bottom" strokeColor="#491914" text="99">
+      <gearDisplay controller="show_ctrl" pages="1"/>
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+    <text id="n3_83sp" name="ValueStr" xy="54,86" pivot="0.5,0.5" anchor="true" size="87,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" text="+20%">
+      <gearDisplay controller="show_ctrl" pages="2"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <text id="n4_83sp" name="Level" xy="106,112" pivot="1,1" anchor="true" size="77,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="right" vAlign="bottom" strokeColor="#491914" text="Lv.99">
+      <gearDisplay controller="show_ctrl" pages="0"/>
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

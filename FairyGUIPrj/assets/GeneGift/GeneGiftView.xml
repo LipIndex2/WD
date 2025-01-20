@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://0ve5vtdnf0g05" designImageLayer="1">
+  <displayList>
+    <component id="n0_f0g0" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="36,343"/>
+    <image id="n1_f0g0" name="bg" src="m4fia" fileName="image/BeiJing.png" xy="63,359" group="n8_f0g0"/>
+    <component id="n13_m4fi" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,780" group="n8_f0g0"/>
+    <image id="n2_f0g0" name="n2" src="f0g01" fileName="image/XinShouLiBaoHengFu.png" xy="17,284" group="n8_f0g0"/>
+    <image id="n3_f0g0" name="n3" src="f0g02" fileName="image/TeJiaDi.png" xy="628,395" group="n8_f0g0"/>
+    <image id="n4_f0g0" name="n4" src="f0g03" fileName="image/ShiJianDi.png" xy="190,672" size="443,54" group="n8_f0g0" visible="false"/>
+    <image id="n5_f0g0" name="n5" src="f0g04" fileName="image/ShiJianicon.png" xy="174,670" group="n8_f0g0" visible="false"/>
+    <text id="n6_f0g0" name="n6" xy="266,295" pivot="0.5,0.5" size="268,59" group="n8_f0g0" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="基因新手礼包"/>
+    <text id="n7_f0g0" name="n7" xy="366,678" pivot="0.5,0.5" size="94,42" group="n8_f0g0" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#c4fd24" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="无期限"/>
+    <group id="n8_f0g0" name="n8" xy="17,284" size="766,761"/>
+    <text id="n9_f0g0" name="DiscountShow" xy="664,393" size="116,52" rotation="30" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="800%"/>
+    <list id="n11_f0g0" name="List" xy="104,789" size="602,259" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://0ve5vtdnf0g06">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_f0g0" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="250,1091">
+      <Button title="¥45"/>
+    </component>
+  </displayList>
+</component>

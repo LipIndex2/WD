@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="260,28" designImage="ui://8dagvbo1cj0ge" designImageOffsetX="-474" designImageOffsetY="-349">
+  <displayList>
+    <loader id="n0_cj0g" name="icon" xy="0,0" pivot="1,0.5" size="260,28" url="ui://8dagvbo1cj0g1" fill="scaleFree" clearOnPublish="true">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </loader>
+    <text id="n1_cj0g" name="title" xy="250,13" pivot="1,0.5" anchor="true" size="200,29" font="ui://wqx8l8xqut2h1b" fontSize="18" color="#ffffff" align="right" vAlign="middle" autoSize="none" strokeColor="#141414" strokeSize="2" text="99.99k">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </text>
+  </displayList>
+</component>

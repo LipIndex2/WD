@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://g34coqigox882r">
+  <displayList>
+    <loader id="n0_ox88" name="bg" xy="422,277" size="170,146" group="n3_ox88" url="ui://g34coqigox882o" align="center" vAlign="middle" fill="scaleFree"/>
+    <component id="n1_ox88" name="BtnUpgrade" src="vb35b5f" fileName="ButtonOrangeSmall.xml" pkg="zokic7y2" xy="433,291" group="n3_ox88"/>
+    <component id="n2_ox88" name="BtnBattle" src="vb35b5g" fileName="ButtonBlueSmall.xml" pkg="zokic7y2" xy="433,351" group="n3_ox88">
+      <Button title="移 除"/>
+    </component>
+    <group id="n3_ox88" name="GpShow" xy="422,277" size="170,146" advanced="true"/>
+  </displayList>
+</component>

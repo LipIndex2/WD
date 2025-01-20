@@ -1,0 +1,62 @@
+
+effect_nc_daoju.png
+size: 588,114
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+icon10
+  rotate: false
+  xy: 114, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+icon11
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+liandao
+  rotate: false
+  xy: 226, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 562, 88
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lizi3
+  rotate: false
+  xy: 562, 62
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tiegao2
+  rotate: false
+  xy: 338, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 450, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+water1
+  rotate: false
+  xy: 562, 49
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1

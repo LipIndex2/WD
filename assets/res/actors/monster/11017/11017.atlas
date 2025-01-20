@@ -1,0 +1,62 @@
+
+11017.png
+size: 227,273
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 0, 1
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+dizuo_back
+  rotate: true
+  xy: 182, 139
+  size: 134, 45
+  orig: 134, 45
+  offset: 0, 0
+  index: -1
+dizuo_front
+  rotate: true
+  xy: 115, 105
+  size: 168, 66
+  orig: 168, 66
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 131
+  size: 114, 142
+  orig: 114, 142
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 182, 101
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: false
+  xy: 180, 57
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 149, 49
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 85, 0
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1

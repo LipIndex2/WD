@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- ActivityAdvertising/ActivityAdvertisingView.xml -->
+  <string name="fe00q8ryu3z8b6w-n4_u3z8" mz="BtnClose">确 定</string>
+  <!-- ActivityCombat/components/BtnMainChapter.xml -->
+  <string name="i8zxhpmasmc1c-n4_smc1" mz="title">主线章节</string>
+  <!-- ActivityCombat/components/PosterCell.xml -->
+  <string name="i8zxhpmasmc12-n14_smc1" mz="BtnOpen">开 始</string>
+  <string name="i8zxhpmasmc12-n9_smc1" mz="Desc">开启时间：</string>
+  <!-- ActivityCombatDifficulty/ActivityCombatDifficultyView.xml -->
+  <string name="0pnjm4assmc10-n10_kgci" mz="n10">奖励</string>
+  <string name="0pnjm4assmc10-n6_kgci" mz="n6">难度</string>
+  <string name="0pnjm4assmc10-n3_kgci" mz="Title">古墓探险</string>
+  <string name="0pnjm4assmc10-n11_kgci" mz="ResidueNum">今日剩余 2 次</string>
+  <string name="0pnjm4assmc10-n18_lwoh-cp-start" mz="BtnMopUp">扫 荡</string>
+  <!-- ActivityCombatDifficulty/components/BtnStart.xml -->
+  <string name="0pnjm4askgcic-n5_tiuj" mz="start">开 始</string>
+  <!-- ActivityCombatDifficulty/components/RewardItemCell.xml -->
+  <string name="0pnjm4asm1qti-n2_m1qt" mz="n2">首通奖励</string>
+  <!-- ActivityCombatMopUp/ActivityCombatMopUpView.xml -->
+  <string name="6lxl4kktlwoh0-n0_lwoh" mz="Board">扫 荡</string>
+  <string name="6lxl4kktlwoh0-n1_lwoh" mz="BtnMopUp">扫 荡</string>
+  <string name="6lxl4kktlwoh0-n8_lwoh" mz="BtnMax">MAX</string>
+  <string name="6lxl4kktlwoh0-n9_lwoh" mz="BtnMin">MIN</string>
+  <!-- ActivityCombatMopUp/components/BtnBig.xml -->
+  <string name="6lxl4kktlwoha-n1_lwoh" mz="title">MAN</string>
+  <!-- AdFree/AdFreeView.xml -->
+  <string name="ptkzoy35pd0x0-n20_pd0x" mz="n20">免广告特权</string>
+  <!-- Battle/components/AddSpeedBtn.xml -->
+  <string name="qllfrhsrlhxl61-n27_zysf" mz="n27">X</string>
+  <!-- Battle/components/CountLabel.xml -->
+  <string name="qllfrhsralgr6q-n9_algr" mz="title">当前数量：23</string>
+  <!-- Battle/components/FlushBtn.xml -->
+  <string name="qllfrhsrjxlb12-n1_jxlb" mz="title">刷新</string>
+  <!-- Battle/components/NewPlayerTip.xml -->
+  <string name="qllfrhsrtlif6r-n0_tlif" mz="title">三消不够强力时，不如尝试下五消吧</string>
+  <!-- Battle/components/RoundItem.xml -->
+  <string name="qllfrhsrjxlbt-n6_jxlb" mz="DayOn">第3天</string>
+  <string name="qllfrhsrjxlbt-n7_jxlb" mz="DayOff">第3天</string>
+  <!-- Battle/components/StepTip.xml -->
+  <string name="qllfrhsrp5yt1g-n54_p5yt" mz="n54">步数</string>
+  <!-- BattleDebug/BattleDebugView.xml -->
+  <string name="qagbbv3rwl910-n5_g2df" mz="OpenBtn">调试面板</string>
+  <string name="qagbbv3rwl910-n4_g2df" mz="JumpBtn">跳过三消</string>
+  <string name="qagbbv3rwl910-n1_wl91" mz="HeroAttackBtn">英雄攻击</string>
+  <string name="qagbbv3rwl910-n2_wl91" mz="MonsterAttackBtn">怪物攻击</string>
+  <string name="qagbbv3rwl910-n6_l9yi" mz="SaveBtn">提取存档</string>
+  <!-- BattleDebug/components/GMItem.xml -->
+  <string name="qagbbv3rg2df5-n1_g2df" mz="Btn">升级英雄</string>
+  <!-- BattleDebug/components/InputItem.xml -->
+  <string name="qagbbv3rg2df6-n2_g2df" mz="Text">回合数:</string>
+  <!-- BattleFinish/BattleFinishView.xml -->
+  <string name="mhntf50igv7ip-n5_gv7i" mz="WinText">胜 利</string>
+  <string name="mhntf50igv7ip-n24_kcz6" mz="n24">失 败</string>
+  <string name="mhntf50igv7ip-n15_kcz6" mz="n15">新记录</string>
+  <string name="mhntf50igv7ip-n6_gv7i" mz="n6">本次达到</string>
+  <string name="mhntf50igv7ip-n10_kcz6" mz="n10">累计造成总伤害</string>
+  <string name="mhntf50igv7ip-n12_kcz6" mz="SumScore">9999.74k</string>
+  <string name="mhntf50igv7ip-n16_kcz6" mz="n16">奖励</string>
+  <string name="mhntf50igv7ip-n48_kts3" mz="WinBoxGet">领取</string>
+  <!-- BattleFinish/components/AttackInfo.xml -->
+  <string name="mhntf50ikcz6r-n4_kcz6" mz="ValueText">2296.5k</string>
+  <!-- BattleFinish/components/ContinueBtn.xml -->
+  <string name="mhntf50ikcz6u-n3_kcz6" mz="title">点击继续</string>
+  <!-- BattleHarmInfo/components/ProgressBar.xml -->
+  <string name="8dagvbo1cj0gi-n1_cj0g" mz="title">99.99k</string>
+  <!-- BattlePause/BattlePause.xml -->
+  <string name="kmd03jrgjxlb0-n0_jxlb" mz="n0">暂停</string>
+  <string name="kmd03jrgjxlb0-n3_jxlb" mz="n3">技能</string>
+  <string name="kmd03jrgjxlb0-n9_zysf" mz="n9">当&lt;color=#036b16&gt;英雄攻击&lt;/color&gt;被抵抗时出现</string>
+  <string name="kmd03jrgjxlb0-n10_zysf" mz="n10">当&lt;color=9b231b&gt;怪物弱点&lt;/color&gt;被攻击时出现</string>
+  <string name="kmd03jrgjxlb0-n11_zysf" mz="n11">当&lt;color=#036b16&gt;英雄重击&lt;/color&gt;时出现</string>
+  <string name="kmd03jrgjxlb0-n12_enj6" mz="n12">当&lt;color=#036b16&gt;英雄暴击&lt;/color&gt;时出现</string>
+  <!-- BattlePause/components/ContinueBtn.xml -->
+  <string name="kmd03jrgjxlbd-n1_jxlb" mz="title">游戏继续</string>
+  <!-- BattleRelive/components/ButtonFree.xml -->
+  <string name="mxe50y2t8qer3-n12_8qer" mz="title">免费</string>
+  <!-- BattleRelive/components/ContinueBtn.xml -->
+  <string name="mxe50y2tmljj4-n3_kcz6" mz="title">点击继续</string>
+  <!-- BattleSaveSkill/BattleSaveSkillView.xml -->
+  <string name="1q105up5lhxl2-n5_lhxl" mz="n5">保留技能</string>
+  <!-- BattleSaveSkill/components/PlayBtn.xml -->
+  <string name="1q105up5lhxl6-n1_lhxl" mz="title">开 始</string>
+  <!-- BattleShenDian/BattleSpCellInfo1.xml -->
+  <string name="tqn5ptp8hwg26-n1_hwg2" mz="n1">特殊地形</string>
+  <string name="tqn5ptp8hwg26-n2_hwg2" mz="n2">新区域!</string>
+  <!-- BattleShenDian/components/Button1.xml -->
+  <string name="tqn5ptp8hwg28-n1_hwg2" mz="title">继续游戏</string>
+  <!-- CardDebris/CardDebrisView.xml -->
+  <string name="hol2307er9w50-n6_r9w5" mz="n6">可能得到以下英雄：</string>
+  <string name="hol2307er9w50-n2_r9w5" mz="BtnClose">确 定</string>
+  <!-- CommonBoard/components/ButtonTab1.xml -->
+  <string name="r5d9xy63yjaqb4b-n6_yjaq" mz="TitleUp">日 常</string>
+  <string name="r5d9xy63yjaqb4b-n5_yjaq" mz="TitleDown">日 常</string>
+  <!-- CommonButton/BtnOnGo.xml -->
+  <string name="zokic7y2ao36s-n2_ao36" mz="title">点击继续</string>
+  <!-- CommonButton/Toggle1.xml -->
+  <string name="zokic7y2vczwb5b-n4_vczw" mz="n4">关</string>
+  <string name="zokic7y2vczwb5b-n9_vczw" mz="n5">开</string>
+  <!-- CommonItem/HeroItem.xml -->
+  <string name="gn62pyk3h6p03m-n8_tiuj" mz="LevelShow">等级</string>
+  <string name="gn62pyk3h6p03m-n31_z6y8" mz="LevelLendShow">等级 2</string>
+  <!-- CommonItem/HeroSkillCellItem.xml -->
+  <string name="gn62pyk383sp3o-n4_83sp" mz="Level">Lv.99</string>
+  <!-- CommonItem/LoseTempleHeroitem.xml -->
+  <string name="gn62pyk3lgmef-n2_lgme" mz="n2">支援者</string>
+  <string name="gn62pyk3lgmef-n11_lhdl" mz="LevelShow">等级</string>
+  <string name="gn62pyk3lgmef-n24_hfof" mz="BtnUpgrade">信 息</string>
+  <!-- DeepCele/components/ExchangeItem.xml -->
+  <string name="l20hp0dcs6bvr-n12_day6" mz="geted">已兑换</string>
+  <!-- DeepCele/components/TaskItem.xml -->
+  <string name="l20hp0dct6to5-n1_ldm8" mz="BtnGet">领取</string>
+  <string name="l20hp0dct6to5-n12_day6" mz="geted">已领取</string>
+  <!-- DeepCeleGift/components/ButtonAd.xml -->
+  <string name="lg9v9nsat6ton-n9_iw5u" mz="title">免费</string>
+  <!-- DialogTips/DialogTipsView.xml -->
+  <string name="rkvf5k7i721h0-n0_721h" mz="Board">提 示</string>
+  <string name="rkvf5k7i721h0-n2_721h" mz="BtnConfirm">确 认</string>
+  <string name="rkvf5k7i721h0-n3_721h" mz="BtnCancel">取 消</string>
+  <!-- EnergyBuy/EnergyBuyView.xml -->
+  <string name="exxoc5e9digc0-n1_digc" mz="Board">体力购买</string>
+  <!-- FirstCharge/FirstChargeView.xml -->
+  <string name="h6nb280cr9w50-n2_k2qf" mz="n2">首充得豪礼</string>
+  <string name="h6nb280cr9w50-n3_k2qf" mz="Desc">充值购买任意商品，即可获得超值奖励，仅此一次！</string>
+  <string name="h6nb280cr9w50-n7_k2qf" mz="BtnAward">领 取</string>
+  <!-- FirstCharge/components/BtnShop.xml -->
+  <string name="h6nb280ck2qfb-n1_k2qf" mz="title">商店</string>
+  <!-- FunUnlock/FunUnlockView.xml -->
+  <string name="nfkn4z53k2qf0-n1_k2qf" mz="n1">功能已解锁</string>
+  <string name="nfkn4z53k2qf0-n3_k2qf" mz="Name">章节礼包 已解锁</string>
+  <!-- GeneAddition/GeneAdditionView.xml -->
+  <string name="fo2460rqhprm0-n0_hprm" mz="Board">基因加成</string>
+  <!-- GeneAddition/components/AdditionItem.xml -->
+  <string name="fo2460rqhprm2-n0_hprm" mz="Name">攻击力：</string>
+  <!-- GeneCompound/GeneCompoundView.xml -->
+  <string name="f6ru8aqehprm0-n3_hprm" mz="Board">基因合成</string>
+  <string name="f6ru8aqehprm0-n12_hprm" mz="n12">使用万能碎片合成随机基因部件</string>
+  <!-- GeneCompound/components/ButtonBlue.xml -->
+  <string name="f6ru8aqehprm2-n4_okyu" mz="title">x10</string>
+  <!-- GeneCompound/components/ButtonOrange.xml -->
+  <string name="f6ru8aqehprm5-n4_okyu" mz="title">x10</string>
+  <!-- GeneLevelUp/GeneLevelUpView.xml -->
+  <string name="pj9hx68fen2l0-n2_en2l" mz="Level1">Lv.12</string>
+  <string name="pj9hx68fen2l0-n4_en2l" mz="Level2">Lv.13</string>
+  <string name="pj9hx68fen2l0-n6_en2l" mz="Attr1">暴击伤害：35%</string>
+  <string name="pj9hx68fen2l0-n7_en2l" mz="Attr2">暴击伤害：35%</string>
+  <!-- GeneLevelUp/components/ButtonContinue.xml -->
+  <string name="pj9hx68fen2l7-n3_rjro" mz="title">点击继续</string>
+  <!-- GeneLevelUp/components/GeneLevelItem.xml -->
+  <string name="pj9hx68fen2l3-n5_vb35" mz="Lv">LV.12</string>
+  <!-- GrowPass/DevilWarorderView.xml -->
+  <string name="0b60q2pqn4r619-n44_g2so" mz="title">魔王战令</string>
+  <string name="0b60q2pqn4r619-n13_xaqq" mz="n13">免 费</string>
+  <string name="0b60q2pqn4r619-n34_aqvo" mz="n34">已购买</string>
+  <string name="0b60q2pqn4r619-n35_aqvo" mz="n35">已购买</string>
+  <!-- GrowPass/GrowPassView.xml -->
+  <string name="0b60q2pqxaqq0-n7_xaqq" mz="n7">购买成长基金后，您可以通过提升玩家
+等级获得许多钻石！</string>
+  <string name="0b60q2pqxaqq0-n8_xaqq" mz="n8">最高能获得</string>
+  <string name="0b60q2pqxaqq0-n13_xaqq" mz="n13">免 费</string>
+  <string name="0b60q2pqxaqq0-n34_aqvo" mz="n34">已购买</string>
+  <string name="0b60q2pqxaqq0-n35_aqvo" mz="n35">已购买</string>
+  <!-- GrowUpGift/GrowUpGiftView.xml -->
+  <string name="20s92986tm530-n14_tm53" mz="n14">成长礼包</string>
+  <string name="20s92986tm530-n5_tm53" mz="BtnBuy">¥45</string>
+  <!-- Hero/HeroItemBtnView.xml -->
+  <string name="g34coqigox882n-n2_ox88" mz="BtnBattle">移 除</string>
+  <!-- Hero/HeroView.xml -->
+  <string name="g34coqigjzmf2-n50_ox88" mz="n50">上阵英雄</string>
+  <!-- Hero/components/BtndayWish.xml -->
+  <string name="g34coqigox8828-n1_ox88" mz="n1">今日祝福</string>
+  <string name="g34coqigox8828-n4_ox88" mz="title">暗属性</string>
+  <!-- Hero/components/HeroItem.xml -->
+  <string name="g34coqigbdas16-n8_tiuj" mz="LevelShow">等级 2</string>
+  <string name="g34coqigbdas16-n17_thit" mz="Desk">通过章节6解锁</string>
+  <string name="g34coqigbdas16-n42_ox88" mz="BtnSummon">召 唤</string>
+  <!-- Hero/components/HeroTitle.xml -->
+  <string name="g34coqigque11g-n4_9dtw" mz="Title">已解锁</string>
+  <!-- HeroGeneBag/HeroGeneBagView.xml -->
+  <string name="n09zf5xxuvlm0-n0_uvlm" mz="Board">基因更换</string>
+  <string name="n09zf5xxuvlm0-n5_rty2" mz="n5">暂未获得基因</string>
+  <!-- HeroGeneBag/components/ButtonGene.xml -->
+  <string name="n09zf5xxrty2c-n8_u3z8" mz="n8">已装备</string>
+  <string name="n09zf5xxrty2c-n5_vb35" mz="Lv">LV.12</string>
+  <string name="n09zf5xxrty2c-n6_vb35" mz="Name">基因名称</string>
+  <!-- HeroGeneInfo/HeroGeneInfoView.xml -->
+  <string name="n1t70xwsuvlm0-n0_uvlm" mz="Board">基因详情</string>
+  <string name="n1t70xwsuvlm0-n16_rty2" mz="n6">基因效果：</string>
+  <string name="n1t70xwsuvlm0-n17_rty2" mz="Level">Lv1：</string>
+  <string name="n1t70xwsuvlm0-n7_uvlm" mz="BtnWear">装 备</string>
+  <string name="n1t70xwsuvlm0-n8_uvlm" mz="BtnResolve">分 解</string>
+  <string name="n1t70xwsuvlm0-n9_uvlm" mz="BtnUpgrade">升 级</string>
+  <!-- HeroGeneResolveHint/HeroGeneResolveHintView.xml -->
+  <string name="nel3xh16uvlm0-n0_uvlm" mz="Board">提 示</string>
+  <string name="nel3xh16uvlm0-n4_uvlm" mz="Title">升级将消耗：</string>
+  <string name="nel3xh16uvlm0-n2_uvlm" mz="BtnClose">返 回</string>
+  <string name="nel3xh16uvlm0-n3_uvlm" mz="BtnNotarize">确 认</string>
+  <!-- HeroGeneSuit/HeroGeneSuitView.xml -->
+  <string name="fjvmtwhdrty20-n1_rty2" mz="Name">套装名称六字</string>
+  <!-- HeroGeneSuit/components/Inherit.xml -->
+  <string name="fjvmtwhdrty26-n1_rty2" mz="Name">传承</string>
+  <string name="fjvmtwhdrty26-n2_rty2" mz="Word">技能效果技能效果技能效果</string>
+  <!-- HeroInfo/HeroInfoView.xml -->
+  <string name="uivgkva9uvlm3g-n37_ox88" mz="n37">植物能力</string>
+  <string name="uivgkva9uvlm3g-n40_ox88" mz="LockDesc">通过章节8解锁</string>
+  <!-- HeroInfo/HeroInfoViewGeneShow.xml -->
+  <string name="uivgkva9jmb43x-n21_vb35" mz="Name">套装名称六字</string>
+  <string name="uivgkva9jmb43x-n35_yu83" mz="n35">前往魔王城击败僵尸领主获取基因</string>
+  <!-- HeroInfo/components/BtnSkill.xml -->
+  <string name="uivgkva9p2wa17-n2_p2wa" mz="LevelLock">Lv. 7 解锁</string>
+  <string name="uivgkva9p2wa17-n5_ox88" mz="Title">幽灵的泡泡幽灵的泡泡幽灵的泡泡泡泡</string>
+  <!-- HeroInfo/components/BtnUpgrade.xml -->
+  <string name="uivgkva9gy0i22-n2_gy0i" mz="n2">升 级</string>
+  <!-- HeroInfo/components/ButtonGene.xml -->
+  <string name="uivgkva9vb354g-n2_vb35" mz="Place">四号位</string>
+  <string name="uivgkva9vb354g-n5_vb35" mz="Lv">LV.12</string>
+  <string name="uivgkva9vb354g-n6_vb35" mz="Name">基因名称六字六字</string>
+  <string name="uivgkva9vb354g-n7_vb35" mz="AttrNum1">属性A：999</string>
+  <string name="uivgkva9vb354g-n8_vb35" mz="AttrNum2">属性B：999</string>
+  <!-- HeroInfo/components/ButtonTab.xml -->
+  <string name="uivgkva9uvlm3j-n8_uvlm" mz="title">日 常</string>
+  <!-- HeroLevelUp/HeroLevelUpView.xml -->
+  <string name="2oflxec3xq150-n16_hf7r" mz="HeroDesc">雪花豌豆的雪花豌豆的雪花
+豌豆的雪花豌豆</string>
+  <string name="2oflxec3xq150-n4_u5os" mz="Name">雪花豌豆</string>
+  <!-- HeroLevelUp/components/CapacityCell.xml -->
+  <string name="2oflxec3xq151-n1_que1" mz="AttrName">攻击范围</string>
+  <!-- HeroLevelUp/components/SkillInfo.xml -->
+  <string name="2oflxec3r41h10-n12_hf7r" mz="SkillDesc">雪花</string>
+  <!-- HeroSkillInfo/components/SkillInfoItem.xml -->
+  <string name="fgkt5cvak2qf3-n1_aj74" mz="Name">Lv. 15 解锁</string>
+  <!-- InviteFriend/InviteFriendView.xml -->
+  <string name="x0i6y981o0za0-n4_o0za" mz="BtnInvite">前往邀请</string>
+  <!-- InviteFriend/components/InviteTaskCell.xml -->
+  <string name="x0i6y981o0za4-n3_ldm8" mz="Title">开启一次小宝箱</string>
+  <string name="x0i6y981o0za4-n1_ldm8" mz="BtnPrize">领取</string>
+  <string name="x0i6y981o0za4-n14_o0za" mz="BtnInvite">去邀请</string>
+  <!-- Login/LoginView-2.xml -->
+  <string name="zuqsa9o4ivdm3z-n46_f310" mz="notice">公告</string>
+  <string name="zuqsa9o4ivdm3z-n49_m2lm" mz="BtnProtocol">协议</string>
+  <string name="zuqsa9o4ivdm3z-n9_wm0t" mz="n9">账号 :</string>
+  <string name="zuqsa9o4ivdm3z-n18_wm0t" mz="n18">密码 :</string>
+  <string name="zuqsa9o4ivdm3z-n43_x4zb" mz="ButtonLogin">登录</string>
+  <string name="zuqsa9o4ivdm3z-n42_x4zb" mz="play">开始游戏</string>
+  <string name="zuqsa9o4ivdm3z-n34_leyh" mz="text">点击换区</string>
+  <string name="zuqsa9o4ivdm3z-n40_x4zb" mz="title_tips">健康游戏忠告</string>
+  <string name="zuqsa9o4ivdm3z-n41_x4zb" mz="tips">抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。
+适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。</string>
+  <!-- Login/LoginView.xml -->
+  <string name="zuqsa9o4wm0t0-n46_f310" mz="notice">公告</string>
+  <string name="zuqsa9o4wm0t0-n49_m2lm" mz="BtnProtocol">协议</string>
+  <string name="zuqsa9o4wm0t0-n43_x4zb" mz="ButtonLogin">登录</string>
+  <string name="zuqsa9o4wm0t0-n42_x4zb" mz="play">开始游戏</string>
+  <string name="zuqsa9o4wm0t0-n9_wm0t" mz="n9">账号 :</string>
+  <string name="zuqsa9o4wm0t0-n18_wm0t" mz="n18">密码 :</string>
+  <string name="zuqsa9o4wm0t0-n34_leyh" mz="text">点击换区</string>
+  <string name="zuqsa9o4wm0t0-n40_x4zb" mz="title_tips">健康游戏忠告</string>
+  <string name="zuqsa9o4wm0t0-n41_x4zb" mz="tips">抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。
+适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。</string>
+  <!-- LoseTemple/LoseTempleView.xml -->
+  <string name="pppfbs53n4lg0-n7_n4lg" mz="Name">魔王城</string>
+  <string name="pppfbs53n4lg0-n16_lgme" mz="TierNum">第五层（共六层）</string>
+  <string name="pppfbs53n4lg0-n18_lgme" mz="timer">刷新：1天8时</string>
+  <string name="pppfbs53n4lg0-n4_n4lg" mz="BtnTeam">阵容</string>
+  <string name="pppfbs53n4lg0-n5_n4lg" mz="BtnRemains">遗物</string>
+  <!-- LoseTempleAchievement/components/TaskItem.xml -->
+  <string name="ph2ogdmjno3yc-n1_ldm8" mz="BtnGet">领取</string>
+  <string name="ph2ogdmjno3yc-n12_day6" mz="geted">已领取</string>
+  <!-- LoseTempleBonfire/LoseTempleBonfireView.xml -->
+  <string name="pgjrwjnhlgme0-n0_lgme" mz="Board">选 择</string>
+  <string name="pgjrwjnhlgme0-n4_cr2x" mz="title1">为体力最低的</string>
+  <string name="pgjrwjnhlgme0-n13_cr2x" mz="title2">为体力最低的</string>
+  <string name="pgjrwjnhlgme0-n16_cr2x" mz="title3">为体力最低的</string>
+  <string name="pgjrwjnhlgme0-n3_cr2x" mz="BtnSelect1">选 择</string>
+  <string name="pgjrwjnhlgme0-n12_cr2x" mz="BtnSelect2">选 择</string>
+  <string name="pgjrwjnhlgme0-n15_cr2x" mz="BtnSelect3">选 择</string>
+  <!-- LoseTempleCombat/LoseTempleCombatView.xml -->
+  <string name="pe31subclgmeb-n2_lgme" mz="n2">战 斗</string>
+  <string name="pe31subclgmeb-n10_lgme" mz="n10">奖励</string>
+  <string name="pe31subclgmeb-n5_lgme" mz="day">通关所需天数：1</string>
+  <!-- LoseTempleCombat/components/ButtonStartYellow.xml -->
+  <string name="pe31subclgme3-n5_tiuj" mz="title">战 斗</string>
+  <!-- LoseTempleEnergy/LoseTempleEnergyView.xml -->
+  <string name="9hbogv4bpitk0-n0_pitk" mz="Board">恢复健康度</string>
+  <string name="9hbogv4bpitk0-n4_pitk" mz="Title">是否为投弹手补充 1 点体力</string>
+  <!-- LoseTempleMerchant/LoseTempleMerchantView.xml -->
+  <string name="p6iurwtvlgme0-n5_lgme" mz="Name">神秘商人</string>
+  <!-- LoseTempleMerchant/components/MerchantItem.xml -->
+  <string name="p6iurwtvlgme7-n10_pitk" mz="n10">已购买</string>
+  <string name="p6iurwtvlgme7-n1_lgme" mz="Name">随机四号位史诗基因</string>
+  <string name="p6iurwtvlgme7-n4_lgme" mz="Count">剩余次数：1</string>
+  <string name="p6iurwtvlgme7-n6_lgme" mz="Num">x2500</string>
+  <string name="p6iurwtvlgme7-n8_pitk" mz="HeroNum">x5</string>
+  <!-- LoseTempleRemains/LoseTempleRemainsView.xml -->
+  <string name="pechu8thyu834-n1_yu83" mz="n1">遗物</string>
+  <string name="pechu8thyu834-n2_yu83" mz="n2">已获得遗物</string>
+  <string name="pechu8thyu834-n4_yu83" mz="BtnClose">游戏继续</string>
+  <!-- LoseTempleRemains/components/BonfireSelectItem.xml -->
+  <string name="pechu8thyu837-n2_lgme" mz="Name">为体力最</string>
+  <string name="pechu8thyu837-n4_yu83" mz="title">为体力最</string>
+  <!-- LoseTempleRemainsBox/LoseTempleRemainsBoxView.xml -->
+  <string name="9gxc7qgqyu830-n0_yu83" mz="Board">遗 物</string>
+  <string name="9gxc7qgqyu830-n2_yu83" mz="Name">发现了年代不明的遗物，偷偷拿走一个应该没人发现吧</string>
+  <string name="9gxc7qgqyu830-n4_yu83" mz="BtnConfirm">确 认</string>
+  <!-- LoseTempleRemainsBox/components/BonfireSelectItem.xml -->
+  <string name="9gxc7qgqcr2x9-n3_cr2x" mz="title">为体力最</string>
+  <!-- LoseTempleTavern/LoseTempleTavernView.xml -->
+  <string name="p1ik4cgclgme0-n0_lgme" mz="Board">酒 馆</string>
+  <string name="p1ik4cgclgme0-n1_lgme" mz="BtnSelect">确 认</string>
+  <!-- LoseTempleTavern/components/BtnRefresh.xml -->
+  <string name="p1ik4cgcyu834-n4_okyu" mz="title">刷 新</string>
+  <!-- LoseTempleTavern/components/ButtonLoseHeroItem.xml -->
+  <string name="p1ik4cgccr2xa-n12_cr2x" mz="n12">支援者</string>
+  <string name="p1ik4cgccr2xa-n13_cr2x" mz="LevelShow">等级</string>
+  <string name="p1ik4cgccr2xa-n14_cr2x" mz="BtnHeroInfo">信 息</string>
+  <!-- LoseTempleTavern/components/LoseHeroItem.xml -->
+  <string name="p1ik4cgcyu833-n10_cr2x" mz="n10">支援者</string>
+  <string name="p1ik4cgcyu833-n12_cr2x" mz="LevelShow">等级</string>
+  <string name="p1ik4cgcyu833-n1_yu83" mz="BtnHeroInfo">信 息</string>
+  <!-- LoseTempleTeam/LoseTempleTeamView.xml -->
+  <string name="pq1c6jbrlgme0-n0_lgme" mz="Board">阵 容</string>
+  <string name="pq1c6jbrlgme0-n2_lgme" mz="n2">英 雄</string>
+  <!-- Mail/MailView.xml -->
+  <string name="zqb4963i9k880-n0_9k88" mz="board">邮 箱</string>
+  <!-- Mail/MailViewNormalPanel.xml -->
+  <string name="zqb4963i9k889-n2_l09g" mz="tips">暂无邮件</string>
+  <!-- Mail/MailViewSystemPanel.xml -->
+  <string name="zqb4963i9k882-n2_l09g" mz="tips">暂无邮件</string>
+  <!-- MailDetail/MailDetailView.xml -->
+  <string name="5c9jx0gil09g0-n5_l09g" mz="title_reward">奖 励</string>
+  <string name="5c9jx0gil09g0-n4_l09g" mz="BtnGet">领取</string>
+  <!-- Main/MainView.xml -->
+  <string name="dvcfzaq1v00159-n10_tiuj" mz="BtnBlueL">每日挑战</string>
+  <string name="dvcfzaq1v00159-n9_tiuj" mz="BtnBlueR">活动关卡</string>
+  <string name="dvcfzaq1v00159-n9_tiuj-texts_0" mz="BtnBlueR">主线关卡</string>
+  <string name="dvcfzaq1v00159-n9_tiuj-texts_def" mz="BtnBlueR">活动关卡</string>
+  <!-- Main/MainViewChallenge.xml -->
+  <string name="dvcfzaq1k23u72-n46_t6zv" mz="TipsShow">今日挑战英雄</string>
+  <string name="dvcfzaq1k23u72-n1_k23u" mz="TitleShow">每日挑战</string>
+  <string name="dvcfzaq1k23u72-n5_k23u" mz="RecordShow">最高记录：0</string>
+  <!-- Main/components/ButtonStartBlueL.xml -->
+  <string name="dvcfzaq1tiuj6f-n5_tiuj" mz="title">每日挑战</string>
+  <!-- Main/components/ButtonStartBlueR.xml -->
+  <string name="dvcfzaq1tiuj6c-n5_tiuj" mz="title">活动关卡</string>
+  <!-- Main/components/ButtonStartYellow.xml -->
+  <string name="dvcfzaq1tiuj61-n5_tiuj" mz="start">开 始</string>
+  <!-- Main/components/ButtonTask.xml -->
+  <string name="dvcfzaq1k23u6v-n5_k23u" mz="title">任务</string>
+  <!-- Main/components/ItemActR.xml -->
+  <string name="dvcfzaq1tiuj5m-n12_jviy" mz="timer">6天 22时</string>
+  <!-- Main/components/task/ButtonTaskReward1.xml -->
+  <string name="dvcfzaq1k23u6u-n8_k23u" mz="title">收集奖励</string>
+  <!-- MainChallengeAttr/MainChallengeAttrView.xml -->
+  <string name="wgepcuy7fnrr0-n1_wodn" mz="AttrShow">全局攻击力 +30%</string>
+  <!-- MainLevelInfo/MainLevelBossPanel.xml -->
+  <string name="czbmy05rfr824-n2_fr82" mz="n2">精英怪信息</string>
+  <!-- MainLevelInfo/MainLevelPlayerPanel.xml -->
+  <string name="czbmy05rfr825-n1_srmr" mz="NoData">暂无数据</string>
+  <!-- MainLevelInfo/components/BossInfoItem.xml -->
+  <string name="czbmy05rfr828-n7_srmr" mz="NoData">无抗性</string>
+  <!-- MainLevelInfo/components/BtnClearanceTeam.xml -->
+  <string name="czbmy05rfr82f-n3_fr82" mz="title">通关阵容</string>
+  <!-- MainLevelInfo/components/PlayerItem.xml -->
+  <string name="czbmy05rfr82e-n1_fr82" mz="Name">GamePlayer</string>
+  <!-- MainMenu/components/TabItem.xml -->
+  <string name="d69enuquizn76-n10_pp34" mz="LockShow">通关第7关
+可解锁</string>
+  <!-- MainOther/MainOtherView.xml -->
+  <string name="9z1ojc0wngq70-n1_okyu" mz="BtnMail">邮箱</string>
+  <string name="9z1ojc0wngq70-n2_okyu" mz="BtnSetting">设置</string>
+  <string name="9z1ojc0wngq70-n3_o0za" mz="BtnInvite">好友邀请</string>
+  <!-- NewPack/NewPackView.xml -->
+  <string name="fb3aorqhk9x2i-n14_tm53" mz="n14">新手礼包</string>
+  <string name="fb3aorqhk9x2i-n23_lwoh" mz="n23">无期限</string>
+  <string name="fb3aorqhk9x2i-n5_tm53" mz="BtnBuy">¥45</string>
+  <!-- OpenServiceSevenDay/OpenServiceSevenDayView.xml -->
+  <string name="0wkbc9c9l6cb0-n12_ldm8-0" mz="TabList">第1天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-0-title2" mz="TabList">第1天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-1" mz="TabList">第2天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-1-title2" mz="TabList">第2天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-2" mz="TabList">第3天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-2-title2" mz="TabList">第3天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-3" mz="TabList">第4天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-3-title2" mz="TabList">第4天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-4" mz="TabList">第5天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-4-title2" mz="TabList">第5天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-5" mz="TabList">第6天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-5-title2" mz="TabList">第6天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-6" mz="TabList">第7天</string>
+  <string name="0wkbc9c9l6cb0-n12_ldm8-6-title2" mz="TabList">第7天</string>
+  <!-- OpenServiceSevenDay/components/TabCell.xml -->
+  <string name="0wkbc9c9ldm8p-n12_lwoh" mz="title1">第1天</string>
+  <string name="0wkbc9c9ldm8p-n8_ldm8" mz="title">第1天</string>
+  <!-- OpenServiceSevenDay/components/taskCell.xml -->
+  <string name="0wkbc9c9ldm8h-n3_ldm8" mz="Title">开启一次小宝箱</string>
+  <string name="0wkbc9c9ldm8h-n1_ldm8" mz="BtnPrize">领取</string>
+  <string name="0wkbc9c9ldm8h-n12_day6" mz="n12">已领取</string>
+  <!-- PlaceRapidReturns/PlaceRapidReturnsView.xml -->
+  <string name="0ivp5ltjln420-n0_ln42" mz="Board">挂机收益</string>
+  <string name="0ivp5ltjln420-n1_ln42" mz="n1">章节越高，收益越大</string>
+  <!-- PlaceRapidReturns/components/BtnFree.xml -->
+  <string name="0ivp5ltjln427-n4_okyu" mz="NameShow">免费</string>
+  <!-- PlaceReturns/PlaceReturnsView.xml -->
+  <string name="03tr3h0sln420-n0_ln42" mz="Board">挂机收益</string>
+  <string name="03tr3h0sln420-n6_ln42" mz="n6">最长挂机16小时</string>
+  <string name="03tr3h0sln420-n1_ln42" mz="n1">章节越高，收益越大</string>
+  <string name="03tr3h0sln420-n14_ln42" mz="AttrNum1">72/小时</string>
+  <string name="03tr3h0sln420-n15_ln42" mz="AttrNum2">84/小时</string>
+  <string name="03tr3h0sln420-n17_lwoh" mz="TimeShow">当前收益时间：16:00:00</string>
+  <string name="03tr3h0sln420-n7_ln42" mz="BtnReturns">快速收益</string>
+  <string name="03tr3h0sln420-n8_ln42" mz="BtnGetPrize">领 取</string>
+  <!-- Rank/RankView.xml -->
+  <string name="3cgsf82ptlom0-n7_tlom" mz="title">主线章节排名</string>
+  <!-- RewardGet/RewardGetView.xml -->
+  <string name="g13qdvs5rjro0-n2_rjro" mz="NameShow">你获得了</string>
+  <!-- RewardGet/components/ButtonContinue.xml -->
+  <string name="g13qdvs5rjro2-n3_rjro" mz="title">点击继续</string>
+  <!-- RewardGet/components/GeneShow.xml -->
+  <string name="g13qdvs5hprm5-n5_vb35" mz="Lv">LV.12</string>
+  <string name="g13qdvs5hprm5-n6_vb35" mz="AttrNum1">基因名称</string>
+  <string name="g13qdvs5hprm5-n10_hprm" mz="AttrNum2">基因名称</string>
+  <!-- RewardGetBox/RewardGetBoxView.xml -->
+  <string name="x30uryedh6p04-n14_h6p0" mz="BtnOpen">直接开启</string>
+  <string name="x30uryedh6p04-n8_h6p0" mz="NameShow">你获得了</string>
+  <!-- RewardGetBox/components/ButtonContinue.xml -->
+  <string name="x30uryedh6p01-n3_rjro" mz="title">点击继续</string>
+  <!-- RewardGetBox/components/HeroItemShow.xml -->
+  <string name="x30uryedh6p02-n4_h6p0" mz="Num">x9</string>
+  <!-- RoleInfo/RoleInfoView.xml -->
+  <string name="cad21wdsfr820-n0_fr82" mz="Board">玩家信息</string>
+  <string name="cad21wdsfr820-n6_fr82" mz="Name">我叫谁谁谁</string>
+  <string name="cad21wdsfr820-n7_fr82" mz="LockDesc">通关主线章节20后解锁</string>
+  <string name="cad21wdsfr820-n12_fr82" mz="UseDesc">使用中</string>
+  <string name="cad21wdsfr820-n13_fr82" mz="BtnUse">使 用</string>
+  <!-- RoleInfo/components/BtnHeadFrame.xml -->
+  <string name="cad21wdsfr82a-n3_fr82" mz="n3">使用中</string>
+  <!-- RoleLevelUp/RoleLevelUpView.xml -->
+  <string name="bqis4qbsj0910-n0_j091" mz="title">等级提升</string>
+  <string name="bqis4qbsj0910-n5_j091" mz="title_r">奖 励</string>
+  <string name="bqis4qbsj0910-n6_j091" mz="BtnGet">领取</string>
+  <!-- RoundActivity/RoundActivityView.xml -->
+  <string name="6xavofrvlwoh4-n17_lwoh" mz="n17">免 费</string>
+  <string name="6xavofrvlwoh4-n30_aqvo" mz="n30">已购买</string>
+  <string name="6xavofrvlwoh4-n24_lwoh" mz="n24">拥有深渊祝福后，在游戏内度过天数将会获得丰厚奖励</string>
+  <string name="6xavofrvlwoh4-n31_aqvo" mz="n31">已购买</string>
+  <!-- SavingPot/SavingPotView.xml -->
+  <string name="foyp9th59dtw0-n34_r9w5" mz="n34">有钱花</string>
+  <string name="foyp9th59dtw0-n25_o2mf" mz="n25">x4.0
+超值</string>
+  <string name="foyp9th59dtw0-n20_ao36" mz="Desc">挑战关卡并收集至少300钻石，你就可以在打开存钱罐时获得一笔划算的交易</string>
+  <!-- SelectServer/components/ItemServer.xml -->
+  <string name="zriuspr6n4512s-n10_10s7j" mz="n10">我</string>
+  <!-- Setting/SettingView.xml -->
+  <string name="ehn3wwnkvczw0-n0_vczw" mz="Board">设 置</string>
+  <string name="ehn3wwnkvczw0-n3_vczw" mz="name_music">音乐</string>
+  <string name="ehn3wwnkvczw0-n6_vczw" mz="name_audio">音效</string>
+  <string name="ehn3wwnkvczw0-n21_vczw" mz="PublishShow">上海游兰网络科技有限公司武汉分公司</string>
+  <string name="ehn3wwnkvczw0-n17_vczw" mz="BtnExchange">兑换码</string>
+  <string name="ehn3wwnkvczw0-n16_vczw" mz="BtnSupport">支 持</string>
+  <string name="ehn3wwnkvczw0-n18_vczw" mz="BtnProto1">使用条款</string>
+  <string name="ehn3wwnkvczw0-n19_vczw" mz="BtnProto2">隐私政策</string>
+  <!-- Setting/components/BtnDelete.xml -->
+  <string name="ehn3wwnkvczwf-n2_ao36" mz="title">删除账号</string>
+  <!-- Setting/components/BtnProto.xml -->
+  <string name="ehn3wwnkvczwj-n2_ao36" mz="title">使用条款</string>
+  <!-- Setting/components/ButtonExit.xml -->
+  <string name="ehn3wwnkvczwd-n5_vczw" mz="n5">退出登录</string>
+  <!-- SettingExchange/SettingExchangeView.xml -->
+  <string name="39astmzknjst0-n0_njst" mz="Board">兑换码</string>
+  <string name="39astmzknjst0-n1_njst" mz="tips">每个兑换码仅能使用一次！</string>
+  <string name="39astmzknjst0-n5_njst" mz="InputTips">请输入兑换码</string>
+  <string name="39astmzknjst0-n2_njst" mz="BtnExchange">确认</string>
+  <!-- SettingUsertServe/SettingUsertServeView.xml -->
+  <string name="h92kxfo8r9w50-n2_r9w5" mz="BtnClose">确 认</string>
+  <!-- SevenDayHero/SevenDayHeroView.xml -->
+  <string name="8rjn0pkn9nol0-n33_ggdq" mz="title">7日英雄补给卡</string>
+  <string name="8rjn0pkn9nol0-n25_ggdq" mz="reward_t">奖励</string>
+  <string name="8rjn0pkn9nol0-n26_ggdq" mz="TipsShow">每天可选择1个S卡英雄碎片，总
+计活动7个S卡英雄碎片</string>
+  <string name="8rjn0pkn9nol0-n37_oaho" mz="na">未生效</string>
+  <string name="8rjn0pkn9nol0-n35_ggdq" mz="BtnGet">领 取</string>
+  <!-- SevenDayHeroReward/SevenDayHeroRewardView.xml -->
+  <string name="r9j1fcy3721h0-n0_721h" mz="Board">7日英雄补给卡</string>
+  <string name="r9j1fcy3721h0-n2_721h" mz="BtnConfirm">确 认</string>
+  <!-- Shop/components/ButtonMainCard.xml -->
+  <string name="gp6652l2iw5u9-n8_sfj3" mz="title">通行证</string>
+  <string name="gp6652l2iw5u9-n12_sfj3" mz="open">立即开通</string>
+  <!-- Shop/components/ButtonMainDiscount.xml -->
+  <string name="gp6652l2iw5uv-n14_gy0i" mz="n14">已购买</string>
+  <string name="gp6652l2iw5uv-n17_lwoh" mz="ItemShowNum">x9</string>
+  <!-- Shop/components/ButtonMainDiscountFlush.xml -->
+  <string name="gp6652l2iw5u11-n8_iw5u" mz="title">刷新</string>
+  <!-- Shop/components/ButtonPreferenceGifr.xml -->
+  <string name="gp6652l2rplfb6s-n9_pd0x" mz="n9">查看优惠</string>
+  <string name="gp6652l2rplfb6s-n4_pd0x" mz="Name">超值实惠！</string>
+  <string name="gp6652l2rplfb6s-n12_pd0x" mz="Num">x9</string>
+  <!-- Shop/components/ButtonTab.xml -->
+  <string name="gp6652l2iw5ub52-n4_iw5u" mz="TitleUp">特惠商品</string>
+  <string name="gp6652l2iw5ub52-n5_iw5u" mz="TitleDown">特惠商品</string>
+  <!-- Shop/components/ShopMain1.xml -->
+  <string name="gp6652l2iw5ut-n12_iw5u" mz="TitleShow">宝 箱</string>
+  <!-- Shop/components/ShopMain3.xml -->
+  <string name="gp6652l2iw5u14-n12_iw5u" mz="TitleShow">钻 石</string>
+  <!-- Shop/components/ShopMain4.xml -->
+  <string name="gp6652l2iw5u1b-n12_iw5u" mz="TitleShow">金 币</string>
+  <!-- Shop/components/ShopMain5.xml -->
+  <string name="gp6652l2rplfb6k-n3_pd0x" mz="n3">特别优惠</string>
+  <!-- Shop/components/ShopSale0.xml -->
+  <string name="gp6652l2rjrob54-n12_lwoh" mz="Limitation">限购一次</string>
+  <string name="gp6652l2rjrob54-n6_rjro" mz="NameShow">第2章礼包</string>
+  <string name="gp6652l2rjrob54-n13_lwoh" mz="OriginalCost">原价：¥128</string>
+  <!-- ShopBoxLevelUp/ShopBoxLevelUpView.xml -->
+  <string name="xnefdhl67jsoi-n4_7jso" mz="n5">宝箱等级提升</string>
+  <string name="xnefdhl67jsoi-n5_7jso" mz="LevelShow">Lv.7</string>
+  <!-- ShopBoxLevelUp/components/ItemShow.xml -->
+  <string name="xnefdhl67jso0-n4_oqnq" mz="NoAddShow">无额外奖励加成</string>
+  <!-- ShopBoxReward/ShopBoxRewardView.xml -->
+  <string name="3pbetjrwoqnq1-n0_oqnq" mz="Board">宝箱奖励</string>
+  <string name="3pbetjrwoqnq1-n3_oqnq" mz="LevelShow">Lv.1</string>
+  <string name="3pbetjrwoqnq1-n6_oqnq" mz="TipsShow">开宝箱提升等级，增加宝箱奖励</string>
+  <!-- ShopBoxReward/components/HeroItemShow.xml -->
+  <string name="3pbetjrwo4uzi-n4_h6p0" mz="Num">x9</string>
+  <!-- ShopBoxReward/components/ItemShow.xml -->
+  <string name="3pbetjrwoqnq7-n4_oqnq" mz="NoAddShow">无额外奖励加成</string>
+  <!-- ShopBuyHero/ShopBuyHeroView.xml -->
+  <string name="iqm76u2vdtha0-n0_dtha" mz="Board">购买确认</string>
+  <string name="iqm76u2vdtha0-n5_jmb4" mz="ItemShowNum">x9</string>
+  <!-- ShopSpecialOffer/ShopSpecialOfferView.xml -->
+  <string name="pud1uv8npd0x0-n9_pd0x" mz="timer">剩余时间：17:25:25</string>
+  <string name="pud1uv8npd0x0-n10_pd0x" mz="n10">随机获得以上内容之一</string>
+  <string name="pud1uv8npd0x0-n11_pd0x" mz="Name">限时精选</string>
+  <string name="pud1uv8npd0x0-n17_en2l" mz="GeneWord">购买后获得一定数量的随机史诗英雄基因</string>
+  <!-- ShopTreasureBox/ShopTreasureBoxView.xml -->
+  <string name="06rutj3rl6cb0-n7_l6cb" mz="n7">奖励</string>
+  <!-- ShopTreasureBox/components/BtnBuy.xml -->
+  <string name="06rutj3rl6cb9-n1_hlne" mz="title">X1</string>
+  <!-- Task/TaskView.xml -->
+  <string name="lkjqth93yjaq0-n1_yjaq" mz="board">任 务</string>
+  <string name="lkjqth93yjaq0-n3_rqb9" mz="TimeShow">剩余时间：17 天 20 时</string>
+  <!-- Task/components/ButtonGet.xml -->
+  <string name="lkjqth93x1z41a-n9_x1z4" mz="title">领 取</string>
+  <!-- Task/components/ItemTaskNormal.xml -->
+  <string name="lkjqth93h5f616-n9_rqb9" mz="title_reward">奖励</string>
+  <string name="lkjqth93h5f616-n18_x1z4" mz="geted">已领取</string>
+  <string name="lkjqth93h5f616-n25_qohw" mz="n25">通行证专属任务</string>
+  <!-- TodayGain/TodayGainView.xml -->
+  <string name="wf9yjiko943m0-n3_943m" mz="title">今日祝福</string>
+  <string name="wf9yjiko943m0-n11_943m" mz="title_h">英雄</string>
+  <string name="wf9yjiko943m0-n12_943m" mz="tips">该属性的英雄在今日收到祝福</string>
+  <!-- TopLayer/components/BtnGM.xml -->
+  <string name="wtoeu39ms4yw1-n3_s4yw" mz="title">GM</string>
+  <!-- TopLayer/components/GMCmdItem.xml -->
+  <string name="wtoeu39mh7xwg-n26_h7xw" mz="BtnTest">测试</string>
+  <string name="wtoeu39mh7xwg-n22_h7xw" mz="BtnSend">发送GM</string>
+  <!-- TopLayer/components/TaskItem.xml -->
+  <string name="wtoeu39mon5hm-n9_rqb9" mz="title_reward">奖励</string>
+  <!-- TrafficPermit/TrafficPermitView.xml -->
+  <string name="2p9t3mbkqf1r0-n11_qf1r" mz="n11">免费通行证</string>
+  <string name="2p9t3mbkqf1r0-n12_qf1r" mz="n12">黄金通行证</string>
+  <!-- TrafficPermit/components/BtnActivate.xml -->
+  <string name="2p9t3mbkhlne1b-n1_hlne" mz="title">激活黄金通行证</string>
+  <!-- TrafficPermit/components/BtnAwardBox.xml -->
+  <string name="2p9t3mbkwr3y1x-n1_wr3y" mz="title">奖励宝箱</string>
+  <string name="2p9t3mbkwr3y1x-n2_k9x2" mz="n2">当你完成通行证的所有内容，每1000个
+积分可以获取一个奖励宝箱！</string>
+  <!-- TrafficPermit/components/BtnSkin.xml -->
+  <string name="2p9t3mbkgkss1s-n16_qf1r" mz="n16">奖励</string>
+  <string name="2p9t3mbkgkss1s-n30_hlne" mz="NextLevel">等级40</string>
+  <!-- TrafficPermitBox/TrafficPermitBoxView.xml -->
+  <string name="fscihaszaj740-n7_l6cb" mz="n7">奖励</string>
+  <string name="fscihaszaj740-n22_aj74" mz="n22">黄金通行证</string>
+  <string name="fscihaszaj740-n23_aj74" mz="n23">获得高级通行证，+10级
+立即获得，更多奖励！</string>
+  <string name="fscihaszaj740-n24_aj74" mz="BtnClose">确 认</string>
+  <!-- TrafficPermitCurrency/TrafficPermitCurrencyView.xml -->
+  <string name="6f4tayhxlwoh22-n1_lwoh" mz="Board">资源不足</string>
+  <string name="6f4tayhxlwoh22-n4_lwoh" mz="n4">是否购买更多的       ?</string>
+  <!-- TrafficPermitCurrency/components/BtnShop.xml -->
+  <string name="6f4tayhxlwoh0-n1_k2qf" mz="title">商店</string>
+  <!-- TrafficPermitGold/TrafficPermitGoldView.xml -->
+  <string name="28ympfpktm530-n0_tm53" mz="Board">通行证</string>
+  <string name="28ympfpktm530-n5_tm53" mz="n5">解锁通行证奖励</string>
+  <string name="28ympfpktm530-n10_tm53" mz="n10">黄金通行证</string>
+  <string name="28ympfpktm530-n11_tm53" mz="n11">黄金通行证</string>
+  <string name="28ympfpktm530-n12_tm53" mz="n12">解锁奖励和奖励任务！</string>
+  <string name="28ympfpktm530-n13_tm53" mz="n13">获得高级通行证，+10级
+立即获得，更多奖励！</string>
+  <string name="28ympfpktm530-n14_tm53" mz="Time">剩余时间：</string>
+  <string name="28ympfpktm530-n20_gy0i" mz="timer">17天20时</string>
+  <!-- TrafficPermitPopUp/TrafficPermitPopUpView.xml -->
+  <string name="263pythxtm530-n0_tm53" mz="Board">通行证</string>
+  <string name="263pythxtm530-n7_tm53" mz="n7">黄金通行证</string>
+  <string name="263pythxtm530-n8_tm53" mz="n8">奖 励</string>
+  <string name="263pythxtm530-n4_tm53-0" mz="n4">可获得更多的宝箱</string>
+  <string name="263pythxtm530-n4_tm53-1" mz="n4">可获得更多的英雄卡片</string>
+  <string name="263pythxtm530-n4_tm53-2" mz="n4">可获得更多的钻石</string>
+  <string name="263pythxtm530-n4_tm53-3" mz="n4">可获得更多的任务</string>
+  <string name="263pythxtm530-n6_tm53" mz="BtnConfirm">确认</string>
+  <!-- TrafficPermitPopUp/components/ListCell.xml -->
+  <string name="263pythxtm533-n0_tm53" mz="title">可获得更多的宝箱</string>
+  <!-- TrafficPermitUnlock/TrafficPermitUnlockView.xml -->
+  <string name="2jxp9aqnktto0-n0_ktto" mz="Board">确认解锁等级</string>
+  <string name="2jxp9aqnktto0-n4_tm53" mz="n4">立即解锁当前等级</string>
+  <string name="2jxp9aqnktto0-n5_tm53" mz="n5">等级奖励将立即解锁，你收集到的积分数量仍然相同！</string>
+  <!-- Wait/WaitView.xml -->
+  <string name="oi78hcdtcdzf0-n0_iz3j" mz="DescShow">重连中…</string>
+  <!-- ZombieLogTips/ZombieLogTipsView.xml -->
+  <string name="cozaf0rbfr824-n10_fr82" mz="BtnSkip">前 往</string>
+</resources>

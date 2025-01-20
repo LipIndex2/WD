@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://6734rus6qzyf1" designImageLayer="1">
+  <displayList>
+    <image id="n0_qzyf" name="n0" src="qzyfe" fileName="image/Zu 11.png" xy="15,139" size="770,104"/>
+    <image id="n5_gvyg" name="n5" src="gvygh" fileName="image/ChouKaZhuYeShiJianDi.png" xy="267,244" size="266,67"/>
+    <image id="n6_gvyg" name="n6" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="278,254" scale="0.8,0.8"/>
+    <loader id="n14_gvyg" name="CostIcon1" xy="152,1208" pivot="0.5,0.5" size="70,70" align="center" vAlign="middle" fill="scale" shrinkOnly="true">
+      <relation target="n16_gvyg" sidePair="right-left"/>
+    </loader>
+    <loader id="n15_gvyg" name="CostIcon2" xy="501,1208" pivot="0.5,0.5" size="70,70" align="center" vAlign="middle" fill="scale" shrinkOnly="true">
+      <relation target="n17_gvyg" sidePair="right-left"/>
+    </loader>
+    <component id="n7_gvyg" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="299,245" size="244,62">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="36"/>
+    </component>
+    <text id="n16_gvyg" name="CostTxt1" xy="229,1223" pivot="0.5,0.5" size="70,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="1/23"/>
+    <text id="n17_gvyg" name="CostTxt2" xy="577,1223" pivot="0.5,0.5" size="70,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="1/23"/>
+    <text id="n1_gvyg" name="Title" xy="302,152" pivot="0.5,0.5" size="195,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="PLCK UP"/>
+    <text id="n9_gvyg" name="DrawCount" xy="162,1400" size="476,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" strokeColor="#491916" strokeSize="3" autoClearText="true" text="固定获得UP英雄的抽取次数：0/70"/>
+    <component id="n12_gvyg" name="DrawUp1" src="gvygk" fileName="components/DrawUp1.xml" xy="54,306"/>
+    <component id="n13_gvyg" name="DrawUp2" src="gvygp" fileName="components/DrawUp2.xml" xy="54,753"/>
+    <component id="n2_gvyg" name="ButtonTips" src="gvygg" fileName="components/ButtonTips.xml" xy="608,150"/>
+    <component id="n8_gvyg" name="BtnChance" src="gvygj" fileName="components/ButtonChance.xml" xy="657,251" visible="false" touchable="false"/>
+    <component id="n10_gvyg" name="BtnDraw1" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="81,1273">
+      <Button title="抽取1次"/>
+    </component>
+    <component id="n11_gvyg" name="BtnDraw2" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="427,1273">
+      <Button title="抽取10次"/>
+    </component>
+    <component id="n18_ayqi" name="redPoint1" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="359,1292"/>
+    <component id="n19_ayqi" name="redPoint2" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="707,1292"/>
+  </displayList>
+</component>

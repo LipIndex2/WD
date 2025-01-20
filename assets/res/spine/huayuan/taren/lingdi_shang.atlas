@@ -1,0 +1,55 @@
+
+lingdi_shang.png
+size: 849,360
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dimian
+  rotate: false
+  xy: 0, 0
+  size: 709, 360
+  orig: 709, 360
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 781, 85
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 710, 200
+  size: 137, 76
+  orig: 137, 76
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 710, 5
+  size: 124, 70
+  orig: 124, 70
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 781, 40
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 710, 277
+  size: 83, 139
+  orig: 83, 139
+  offset: 0, 0
+  index: -1
+zhilupai
+  rotate: true
+  xy: 710, 130
+  size: 69, 128
+  orig: 69, 128
+  offset: 0, 0
+  index: -1

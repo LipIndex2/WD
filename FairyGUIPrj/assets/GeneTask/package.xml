@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cdclde5b">
+  <resources>
+    <component id="rtw38" name="GeneTaskView.xml" path="/" exported="true"/>
+    <component id="rtw36" name="TaskItem.xml" path="/components/" exported="true"/>
+    <image id="rtw37" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <component id="rtw39" name="TaskProgressBar.xml" path="/components/"/>
+    <image id="rtw3a" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <image id="rtw3b" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="rtw3c" name="MengBan.png" path="/image/" scale="9grid" scale9grid="20,20,40,40"/>
+    <image id="rtw3d" name="YiLingQuMengCeng2.png" path="/image/"/>
+    <image id="rtw3e" name="DuiGouicon.png" path="/image/"/>
+    <image id="n3nif" name="HuoDongBiaoTiHengFuZi.png" path="/image/"/>
+    <image id="n3nig" name="基因引导.jpg" path="/"/>
+    <image id="ce3gh" name="基因引导_.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

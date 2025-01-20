@@ -1,0 +1,39 @@
+
+message PB_CSHeroReq {//!< 2020					英雄操作
+	optional int32	req_type = 1;				//!<操作类型
+	repeated int32	param_list = 2;				//!<参数list
+}
+
+message PB_HeroNode{
+	optional int32	hero_id = 1;
+	optional int32	hero_level = 2;
+	repeated int32	gene_id = 3;
+	optional int32	ra_lt_energy =4;		//失落神殿 体力
+}
+
+message PB_SCHeroInfo {//!< 2021				英雄信息
+	optional int32	send_type = 1;				//!<0:初始化 1:操作回调
+	repeated PB_HeroNode	hero_list = 2;		//!<参数list
+}
+
+
+message PB_GeneNode{
+	optional int32	gene_index = 1;
+	optional int32	gene_id = 2;
+	optional int32	rand_attr = 3;
+}
+
+message PB_SCGeneInfo {//!< 2022				基因信息
+	optional int32	send_type = 1;
+	repeated PB_GeneNode gene_list = 2;
+}
+
+message PB_SCTodayGainInfo {//!< 2023				今日增益
+	optional int32	seq = 1;
+	repeated int32  param = 2;
+}
+
+message PB_SCGeneTaskInfo {//!< 2024				基因任务
+	repeated int32 task_progress = 1;		//!< 任务类型对应的进度
+	repeated bool is_fetch = 2;				//!< 任务seq对应的是否领取
+}

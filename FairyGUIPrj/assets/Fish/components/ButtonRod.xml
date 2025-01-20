@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,180" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n5_bcxi" name="bg" src="bcxi14" fileName="image/YuGanTuBiaoDi.png" xy="0,0" visible="false"/>
+    <loader id="n8_lb7c" name="QuaIcon" xy="0,0" pivot="0.5,0.5" size="180,180" align="center" vAlign="middle" fill="scaleFree"/>
+    <loader id="n9_lb7c" name="Icon" xy="0,0" pivot="0.5,0.5" size="180,180" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true" clearOnPublish="true"/>
+    <text id="n7_epzq" name="RbTxt" xy="85,134" pivot="0.5,0.5" size="10,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+    <component id="n11_gu7e" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="165,15"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

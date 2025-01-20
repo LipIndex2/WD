@@ -1,0 +1,132 @@
+
+zhubeijing.png
+size: 2016,959
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+cao1
+  rotate: false
+  xy: 1756, 162
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 1955, 0
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 0, 157
+  size: 802, 1602
+  orig: 802, 1602
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 1756, 200
+  size: 114, 278
+  orig: 114, 278
+  offset: 0, 0
+  index: -1
+shu10
+  rotate: true
+  xy: 1812, 13
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+shu11
+  rotate: true
+  xy: 1955, 38
+  size: 108, 48
+  orig: 108, 48
+  offset: 0, 0
+  index: -1
+shu12
+  rotate: false
+  xy: 1923, 483
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 1756, 687
+  size: 173, 272
+  orig: 173, 272
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: false
+  xy: 1756, 479
+  size: 166, 207
+  orig: 166, 207
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: false
+  xy: 1604, 11
+  size: 207, 145
+  orig: 207, 145
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: true
+  xy: 1923, 514
+  size: 172, 93
+  orig: 172, 93
+  offset: 0, 0
+  index: -1
+shu6
+  rotate: false
+  xy: 1812, 147
+  size: 185, 52
+  orig: 185, 52
+  offset: 0, 0
+  index: -1
+shu7
+  rotate: false
+  xy: 1930, 781
+  size: 73, 178
+  orig: 73, 178
+  offset: 0, 0
+  index: -1
+shu8
+  rotate: true
+  xy: 1871, 226
+  size: 94, 145
+  orig: 94, 145
+  offset: 0, 0
+  index: -1
+shu9
+  rotate: false
+  xy: 1871, 321
+  size: 113, 157
+  orig: 113, 157
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: false
+  xy: 803, 4
+  size: 800, 152
+  orig: 800, 152
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: true
+  xy: 1603, 157
+  size: 802, 152
+  orig: 802, 152
+  offset: 0, 0
+  index: -1
+tiao3
+  rotate: false
+  xy: 0, 4
+  size: 802, 152
+  orig: 802, 152
+  offset: 0, 0
+  index: -1

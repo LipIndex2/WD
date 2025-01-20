@@ -1,0 +1,27 @@
+
+dianman.png
+size: 209,53
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 193, 53
+  orig: 193, 53
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 194, 11
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 194, 30
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1

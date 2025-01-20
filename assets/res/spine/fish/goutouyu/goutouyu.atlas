@@ -1,0 +1,27 @@
+
+goutouyu.png
+size: 129,48
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 111, 29
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 111, 10
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

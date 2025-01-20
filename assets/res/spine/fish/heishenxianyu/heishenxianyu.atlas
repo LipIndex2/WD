@@ -1,0 +1,20 @@
+
+heishenxianyu.png
+size: 160,102
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+yan
+  rotate: false
+  xy: 140, 82
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 0, 0
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1

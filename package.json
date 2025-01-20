@@ -1,0 +1,22 @@
+{
+  "creator": {
+    "version": "3.7.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "crypto-js": "^4.2.0",
+    "exceljs": "^4.4.0",
+    "fairygui-cc": "^1.2.2",
+    "fs-extra": "^10.0.1",
+    "long": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "protobufjs": "^6.11.3"
+  },
+  "name": "DevArt",
+  "type": "3d",
+  "uuid": "a130919b-00bb-4ce4-888d-dab825be9ed3",
+  "version": "3.5.1",
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2"
+  }
+}

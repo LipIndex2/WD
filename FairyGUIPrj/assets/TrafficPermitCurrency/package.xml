@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6f4tayhx">
+  <resources>
+    <component id="lwoh22" name="TrafficPermitCurrencyView.xml" path="/" exported="true"/>
+    <component id="lwoh0" name="BtnShop.xml" path="/components/"/>
+    <image id="lwoh1" name="AnNiu.png" path="/image/"/>
+    <image id="lwoh2" name="ShouChongShangCheng.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

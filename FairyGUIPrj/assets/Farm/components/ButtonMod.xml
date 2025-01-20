@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="111,111" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_uzf2" name="n0" src="uzf29" fileName="image/ShangDiKuang.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n2_uzf2" name="icon" xy="13,0" pivot="0.5,0.5" size="84,85" url="ui://dryw07k7uzf2a" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n1_uzf2" name="title" xy="50,80" pivot="0.5,0.5" size="10,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5mk2qj8m">
+  <resources>
+    <image id="wpum0" name="3.png" path="/imange/" exported="true"/>
+    <image id="wpum1" name="BaiSeHeiBianDi.png" path="/imange/" scale="9grid" scale9grid="46,26,92,52"/>
+    <image id="wpum2" name="HengLaBeiJing.png" path="/imange/" scale="9grid" scale9grid="1,0,5,1600"/>
+    <image id="wpum3" name="1.png" path="/imange/" exported="true"/>
+    <image id="wpum4" name="2.png" path="/imange/" exported="true"/>
+    <component id="wpum5" name="ArenaReportView.xml" path="/" exported="true"/>
+    <image id="wpum6" name="竞技-战报.JPG" path="/"/>
+    <component id="wpum7" name="ReportItem.xml" path="/components/"/>
+    <image id="wpum8" name="Shu.png" path="/imange/" exported="true"/>
+    <image id="wpum9" name="Ying.png" path="/imange/" exported="true"/>
+    <image id="wpuma" name="GongJi.png" path="/imange/" exported="true"/>
+    <image id="wpumb" name="FangShou.png" path="/imange/" exported="true"/>
+    <image id="wpumc" name="HongTiao.png" path="/imange/"/>
+    <image id="wpumd" name="LanTiao.png" path="/imange/"/>
+    <image id="wpume" name="LanZu.png" path="/imange/" scale="9grid" scale9grid="0,140,767,23"/>
+    <image id="wpumf" name="HongZu.png" path="/imange/" scale="9grid" scale9grid="0,149,767,16"/>
+    <image id="wpumg" name="VS.png" path="/imange/"/>
+    <image id="wpumh" name="竞技-匹配到对手.JPG" path="/"/>
+    <component id="wpumj" name="HeroItem.xml" path="/components/"/>
+    <image id="wpumk" name="竞技-阵容.JPG" path="/components/"/>
+    <component id="wpuml" name="ArenaRankReward.xml" path="/" exported="true"/>
+    <image id="wpumm" name="花园竞技场排名.jpg" path="/"/>
+    <component id="wpumn" name="RankRewardItem.xml" path="/components/" exported="true"/>
+    <component id="wpumo" name="ArenaMatching.xml" path="/" exported="true"/>
+    <image id="wpump" name="竞技-匹配SPE.jpg" path="/"/>
+    <component id="wpumq" name="ArenaRankChange.xml" path="/" exported="true"/>
+    <image id="wpumr" name="排位结算.JPG" path="/"/>
+    <image id="wpums" name="I.png" path="/"/>
+    <image id="wpumt" name="V-7.png" path="/"/>
+    <component id="wpumu" name="ProgressBar1.xml" path="/components/"/>
+    <image id="wpumv" name="ZhongJianJinDuTiao2.png" path="/imange/" scale="9grid" scale9grid="98,0,196,40"/>
+    <image id="wpumw" name="ZhongJianJinDuTiao1.png" path="/imange/" scale="tile" scale9grid="96,0,192,32"/>
+    <image id="wpumx" name="ShangPingDi.png" path="/imange/"/>
+    <component id="wpumy" name="ArenaShopView.xml" path="/" exported="true"/>
+    <image id="wpumz" name="竞技-商城.JPG" path="/"/>
+    <image id="wpum10" name="YeQianDiBu.png" path="/imange/" scale="9grid" scale9grid="8,32,16,64"/>
+    <component id="wpum11" name="ShopItem.xml" path="/components/"/>
+    <image id="wpum12" name="ShiJianicon.png" path="/imange/"/>
+    <image id="wpum13" name="ShiJianDi.png" path="/imange/"/>
+    <image id="wpum15" name="LvSeXiaoAnNiu.png" path="/imange/"/>
+    <component id="wpum16" name="BuyBtn.xml" path="/components/"/>
+    <image id="wpum17" name="ShuXingHengFu.png" path="/imange/" scale="9grid" scale9grid="96,0,192,62"/>
+    <image id="wpum18" name="JingJiJiFen6.png" path="/imange/"/>
+    <component id="wpum19" name="MatchInfo.xml" path="/"/>
+    <component id="wpum1a" name="RankRewardItem2.xml" path="/components/" exported="true"/>
+    <component id="wpum1b" name="ArenaRankReward2.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

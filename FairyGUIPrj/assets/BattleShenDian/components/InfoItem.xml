@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="678,188" designImage="ui://tqn5ptp8hwg21" designImageOffsetX="-61" designImageOffsetY="-507" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_hwg2" name="n0" src="hwg20" fileName="image/LieBiaoDi.png" xy="0,0" size="678,188"/>
+    <text id="n1_hwg2" name="title" xy="153,94" pivot="0,0.5" anchor="true" size="460,82" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#663b18" vAlign="middle" autoSize="none" autoClearText="true" text="位于该区域的英雄伤害+20位于该区域的英雄伤害+20"/>
+    <loader id="n2_b9gn" name="icon" xy="33,44" size="100,100" fill="scaleFree"/>
+  </displayList>
+</component>

@@ -1,0 +1,55 @@
+
+qingwa.png
+size: 184,74
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao1
+  rotate: false
+  xy: 86, 0
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+jiao1_1
+  rotate: false
+  xy: 86, 36
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 152, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+jiao2_1
+  rotate: true
+  xy: 131, 31
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 13
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 122, 1
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 169, 59
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

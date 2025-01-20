@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bqis4qbs">
+  <resources>
+    <component id="j0910" name="RoleLevelUpView.xml" path="/" exported="true"/>
+    <image id="j0911" name="BiaoTiXian.png" path="/image/"/>
+    <image id="j0912" name="等级提升获得道具UI.jpg" path="/"/>
+    <image id="j0913" name="Zu 21.png" path="/image/"/>
+    <component id="j0914" name="ItemShow.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

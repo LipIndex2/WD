@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="503,81" extention="Label">
+  <displayList>
+    <image id="n2_iyea" name="n2" src="iyea4" fileName="imange/ShuXingDi.png" xy="0,12" size="501,54"/>
+    <image id="n3_iyea" name="n3" src="iyea6" fileName="imange/ZengYiTuBiao.png" xy="13,0"/>
+    <image id="n4_iyea" name="n4" src="iyeae" fileName="imange/GanTan.png" xy="445,7" scale="1.2,1.2"/>
+    <richtext id="n5_iyea" name="title" xy="250,39" pivot="0.5,0.5" anchor="true" size="253,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="全体伤害加成+5%"/>
+  </displayList>
+</component>

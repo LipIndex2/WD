@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0ivp5ltj">
+  <resources>
+    <component id="ln420" name="PlaceRapidReturnsView.xml" path="/" exported="true"/>
+    <image id="ln421" name="挂机收益2参数.png" path="/"/>
+    <component id="ln427" name="BtnFree.xml" path="/components/" exported="true"/>
+    <component id="ln428" name="BtnExpend.xml" path="/components/" exported="true"/>
+    <image id="ln422" name="XiaoShuZiYuan.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

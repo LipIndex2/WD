@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="272,102" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2sxqb4" designImageOffsetX="-264" designImageOffsetY="-1300">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n6_iw5u" name="bg" src="sfj3b5c" fileName="image/HuangSeXiaoAnNiu.png" pkg="zokic7y2" xy="0,0" size="272,102"/>
+    <loader id="n7_iw5u" name="icon" xy="44,30" pivot="0.5,0.5" size="61,44" url="ui://rqg67c2010ewu6j" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n8_iw5u" name="title" xy="118,21" pivot="0,0.5" size="84,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="刷新"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

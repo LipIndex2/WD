@@ -1,0 +1,62 @@
+
+huojumu_TB.png
+size: 66,243
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+cibang
+  rotate: true
+  xy: 0, 65
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+cibang2
+  rotate: true
+  xy: 0, 16
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+fadai
+  rotate: false
+  xy: 0, 99
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 40, 33
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: true
+  xy: 0, 38
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 38, 0
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 183
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+yetou
+  rotate: false
+  xy: 0, 136
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1

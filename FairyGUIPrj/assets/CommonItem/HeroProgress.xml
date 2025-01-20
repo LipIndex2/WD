@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,46" extention="ProgressBar">
+  <displayList>
+    <loader id="n2_tiuj" name="bg" xy="17,-1" size="139,38" url="ui://rqg67c20r9w56a" fill="scaleFree" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n7_pgz2" name="bar" src="pgz23v" fileName="image/YingXiongJinDu2.png" xy="9,-1" size="150,38" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n5_r9w5" name="BarShow" src="r9w56d" fileName="hero_info/JinDuTiao2.png" pkg="rqg67c20" xy="10,-3" pivot="0.5,0.5" size="148,41" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n6_r9w5" name="DebrisShow" src="tiuj5f" fileName="PinTu.png" pkg="rqg67c20" xy="10,-3" pivot="0.5,0.5">
+      <relation target="n5_r9w5" sidePair="middle-middle"/>
+    </image>
+    <text id="n4_r9w5" name="Title" xy="33,0" pivot="0.5,0.5" size="104,33" font="SimHei" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491914" strokeSize="2" text="99999/99999">
+      <relation target="n5_r9w5" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

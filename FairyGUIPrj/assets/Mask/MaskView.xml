@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1500" opaque="false">
+  <displayList>
+    <component id="n4_leyh" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" size="800,1500"/>
+    <loader id="n5_s5du" name="BG" xy="0,0" pivot="0.5,0.5" size="800,1500" group="n2_ogof" alpha="0.8" url="ui://d63lu6q7pvzx1" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="n4_leyh" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n8_gy1n" name="Block" xy="0,0" pivot="0.5,0.5" size="800,1500" group="n2_ogof" alpha="0" url="ui://d63lu6q7pvzx1" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="n4_leyh" sidePair="width-width,height-height"/>
+    </loader>
+    <group id="n2_ogof" name="view" xy="0,0" size="800,1500" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

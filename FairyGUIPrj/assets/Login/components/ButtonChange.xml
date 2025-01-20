@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="372,76" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_bgav" name="n3" src="bgav36" fileName="image/ShuRuKuangChang.png" xy="0,0"/>
+    <text id="n1_leyh" name="title" xy="0,0" pivot="0.5,0.5" size="372,76" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqnven1" fontSize="30" color="#f5ad00" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

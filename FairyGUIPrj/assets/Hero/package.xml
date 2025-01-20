@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="g34coqig">
+  <resources>
+    <component id="jzmf2" name="HeroView.xml" path="/" exported="true"/>
+    <image id="bdas12" name="DaHengFuLan.png" path="/image/" scale9grid="92,0,184,33"/>
+    <image id="bdas15" name="DaHengFuHuang.png" path="/image/" scale9grid="157,0,55,33"/>
+    <component id="bdas16" name="HeroItem.xml" path="/components/" exported="true"/>
+    <component id="que11g" name="HeroTitle.xml" path="/components/" exported="true"/>
+    <component id="que11i" name="HeroListCell.xml" path="/components/" exported="true"/>
+    <component id="hgmz1z" name="parent.xml" path="/components/"/>
+    <image id="ox8821" name="YingXiongTian.png" path="/image/"/>
+    <component id="ox8822" name="HeroBattleItem.xml" path="/components/" exported="true"/>
+    <component id="ox8823" name="ProgressHero.xml" path="/components/"/>
+    <image id="ox8824" name="JinDuTiao.png" path="/image/" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="ox8827" name="JinRiZhuFu.png" path="/image/"/>
+    <component id="ox8828" name="BtndayWish.xml" path="/components/"/>
+    <image id="ox8829" name="英雄界面2.png" path="/"/>
+    <image id="ox882a" name="ShuXingKuangTongYongDi.png" path="/image/"/>
+    <image id="ox882j" name="HeroColor1.png" path="/image/" exported="true" scale="9grid" scale9grid="40,130,12,6"/>
+    <image id="ox882k" name="HeroColor2.png" path="/image/" exported="true" scale="9grid" scale9grid="40,130,12,6"/>
+    <image id="ox882l" name="HeroColor3.png" path="/image/" exported="true" scale="9grid" scale9grid="40,130,12,6"/>
+    <component id="ox882n" name="HeroItemBtnView.xml" path="/" exported="true"/>
+    <image id="ox882o" name="ShangZhenAnNiu3.png" path="/image/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="ox882p" name="ShangZhenAnNiu2.png" path="/image/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="ox882q" name="ShangZhenAnNiu1.png" path="/image/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="ox882s" name="JinDuTiaoMax.png" path="/image/" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="ox882t" name="HeroColor_2.png" path="/image/" exported="true" scale="9grid" scale9grid="40,35,12,11"/>
+    <image id="ox882u" name="HeroColor_1.png" path="/image/" exported="true" scale="9grid" scale9grid="40,35,12,11"/>
+    <image id="ox882v" name="HeroColor_3.png" path="/image/" exported="true" scale="9grid" scale9grid="40,35,12,11"/>
+    <image id="eit32w" name="JinDuDi1.png" path="/image/" exported="true" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="eit32x" name="JinDuDi2.png" path="/image/" exported="true" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="eit32y" name="JinDuDi3.png" path="/image/" exported="true" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="pszf2w" name="DaKuang.png" path="/image/" scale="9grid" scale9grid="157,76,314,152"/>
+    <image id="pszf2x" name="ShangZhenYingXiongDi.png" path="/image/" scale9grid="92,0,184,33"/>
+    <image id="pszf2y" name="ShuXingTuBiaoXiaoDi.png" path="/image/"/>
+    <component id="pszf30" name="BtnBless.xml" path="/components/"/>
+    <image id="pszf31" name="JinRiZhuFuDi.png" path="/image/"/>
+    <image id="m4fi32" name="QiZhi.png" path="/image/"/>
+    <image id="m4fi33" name="QiZhiDi.png" path="/image/" scale="9grid" scale9grid="75,11,150,22"/>
+    <image id="omua36" name="英雄界面.jpg" path="/"/>
+    <image id="omua37" name="GanTanHao.png" path="/image/"/>
+    <component id="omua38" name="ButtonIntegral.xml" path="/components/"/>
+    <image id="gcet39" name="Game_BG.jpg" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

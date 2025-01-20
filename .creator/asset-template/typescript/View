@@ -1,0 +1,43 @@
+import * as fgui from "fairygui-cc";
+import { BaseView, ViewLayer } from 'modules/common/BaseView';
+import { Language } from 'modules/common/Language';
+
+@BaseView.registView
+export class <%Name%> extends BaseView {
+
+    protected viewRegcfg = {
+        UIPackName: "Temp",
+        ViewName: "<%Name%>",
+        LayerType: ViewLayer.Normal,
+    };
+
+    /* protected boardCfg = {
+        BoardTitle: Language.Temp.Title,
+        TabberCfg: [
+            { panel: TempPanel, viewName: "TempPanel", titleName: Language.Temp.TabberTemp },
+        ]
+    }; */
+
+    /* protected viewNode = {
+        Name: <fgui.GTextField>null,
+    }; */
+
+    /* protected extendsCfg = [
+        { ResName: "组件名", ExtendsClass: 拓展类 }
+    ]; */
+
+    InitData() {
+    }
+
+    InitUI() {
+    }
+
+    DoOpenWaitHandle() {
+    }
+
+    OpenCallBack() {
+    }
+
+    CloseCallBack() {
+    }
+}

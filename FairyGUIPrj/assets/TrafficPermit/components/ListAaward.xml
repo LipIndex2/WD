@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,208" opaque="false" designImage="ui://2p9t3mbkr9w520" designImageOffsetY="-735" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_hlne" name="n0" src="hlne1h" fileName="image/HuangSeMeiCeng.png" xy="400,0" size="400,208"/>
+    <image id="n1_hlne" name="n1" src="hlne1i" fileName="image/LanSeMeiCeng.png" xy="0,0" size="400,208"/>
+    <image id="n2_hlne" name="n2" src="hlne1e" fileName="image/JinDuShuTiao.png" xy="378,0" size="44,208"/>
+    <image id="n3_hlne" name="ScheduleImg" src="hlne1f" fileName="image/JinDuShuTiao2.png" xy="382,0" size="36,208"/>
+    <image id="n4_hlne" name="LevelBg" src="qf1r18" fileName="image/MeiCengShuZiCaiSe.png" xy="358,62" group="n20_l6cb" grayed="true"/>
+    <text id="n6_hlne" name="Level" xy="374,78" pivot="0.5,0.5" size="51,49" group="n20_l6cb" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="33"/>
+    <component id="n13_tm53" name="PrizeItem1" src="gkss1t" fileName="components/PrizeItem.xml" xy="110,26" group="n20_l6cb"/>
+    <component id="n19_gkss" name="PrizeItem2" src="gkss1t" fileName="components/PrizeItem.xml" xy="535,26" group="n20_l6cb"/>
+    <image id="n8_hlne" name="Mask" src="hlne1m" fileName="image/LanSeMeiCengMengCeng.png" xy="0,0" size="800,208" group="n20_l6cb"/>
+    <component id="n21_r9w5" name="BtnBuy" src="r9w521" fileName="components/BtnBuy.xml" xy="298,-36" pivot="0.5,0.5" group="n20_l6cb"/>
+    <group id="n20_l6cb" name="NodeShow" xy="0,-36" size="800,244" advanced="true"/>
+  </displayList>
+</component>

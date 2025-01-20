@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,206" pivot="0.5,0.5" designImage="ui://pj9hx68fen2l5" designImageOffsetX="-97" designImageOffsetY="-525" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n0_vb35" name="Bg" xy="0,0" size="210,206" url="ui://n09zf5xxrty2f"/>
+    <loader id="n3_vb35" name="Icon" xy="32,54" pivot="0.5,0.5" size="150,150" url="ui://uivgkva9vb354h" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n4_vb35" name="AttrIcon" xy="10,8" pivot="0.5,0.5" size="40,40" align="center" vAlign="middle"/>
+    <text id="n5_vb35" name="Lv" xy="71,19" pivot="0.5,0.5" size="73,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="LV.12"/>
+  </displayList>
+</component>

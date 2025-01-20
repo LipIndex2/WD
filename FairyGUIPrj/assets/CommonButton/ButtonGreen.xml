@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="194,85" pivot="0.5,0.5" extention="Button" designImageOffsetX="-406" designImageOffsetY="-979">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_okyu" name="bg" src="iw5ub53" fileName="image/LvAnNiuXiao.png" xy="6,13" size="180,60">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n6_11ysf" name="icon" xy="43,50" pivot="0.5,0.5" anchor="true" size="0,0" group="n7_11ysf" aspect="true" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n4_okyu" name="title" xy="43,25" pivot="0.5,0.5" size="108,36" group="n7_11ysf" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="按钮名称">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n7_11ysf" name="n7" xy="43,25" size="108,36" advanced="true" layout="hz" colGap="10" excludeInvisibles="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

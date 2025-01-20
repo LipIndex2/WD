@@ -1,0 +1,111 @@
+
+effect_sysd_gx.png
+size: 962,538
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+k_00001
+  rotate: true
+  xy: 2, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00003
+  rotate: false
+  xy: 2, 98
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00005
+  rotate: true
+  xy: 98, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00007
+  rotate: true
+  xy: 194, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00009
+  rotate: true
+  xy: 290, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00011
+  rotate: false
+  xy: 2, 2
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00013
+  rotate: false
+  xy: 346, 98
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00015
+  rotate: true
+  xy: 386, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00017
+  rotate: true
+  xy: 482, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00019
+  rotate: true
+  xy: 578, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00021
+  rotate: true
+  xy: 674, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00023
+  rotate: false
+  xy: 346, 2
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00025
+  rotate: true
+  xy: 770, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+k_00027
+  rotate: true
+  xy: 866, 194
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 690, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

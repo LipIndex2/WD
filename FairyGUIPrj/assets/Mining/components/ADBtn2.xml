@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="71,65" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_mgkh" name="n0" src="10ewu6l" fileName="DaGuangGao.png" pkg="rqg67c20" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_mgkh" name="title" xy="7,53" pivot="0.5,0.5" size="55,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="2/2"/>
+  </displayList>
+  <Button/>
+</component>

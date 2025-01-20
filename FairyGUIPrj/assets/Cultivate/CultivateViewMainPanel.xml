@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://db9woelguzf21" designImageLayer="1">
+  <displayList>
+    <image id="n0_uzf2" name="n0" src="uzf25" fileName="image/bg02.png" xy="142,636" size="511,518"/>
+    <image id="n10_uzf2" name="n10" src="uzf2k" fileName="image/DaoJuDi3.png" xy="642,494"/>
+    <image id="n11_uzf2" name="n11" src="uzf2o" fileName="image/JinChanZi.png" xy="663,506"/>
+    <text id="n4_uzf2" name="n4" xy="81,1300" pivot="0.5,0.5" size="148,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="今日剩余次数"/>
+    <text id="n5_uzf2" name="Count" xy="133,1330" pivot="0.5,0.5" size="35,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="99"/>
+    <text id="n12_uzf2" name="ItemNum" xy="679,578" pivot="0.5,0.5" size="33,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="99"/>
+    <text id="n13_9y97" name="Desc" xy="56,527" size="463,62" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="完成任务时可以获得银铲子和金铲子，参与抽奖和兑换，活动结束时会被回收，请及时使用"/>
+    <component id="n9_uzf2" name="ProgressBarBox" src="uzf214" fileName="components/ProgressBarBox.xml" xy="52,641" size="86,513">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <list id="n1_uzf2" name="CultivateList" xy="151,647" size="494,493" layout="flow_hz" overflow="scroll" scrollBarFlags="2720" lineGap="-195" colGap="3" lineItemCount="5" defaultItem="ui://db9woelguzf2v" vAlign="middle" renderOrder="descent" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n2_uzf2" name="ItemShowList1" xy="50,1155" size="708,103" layout="row" overflow="scroll" scrollBarFlags="2720" colGap="4" defaultItem="ui://db9woelguzf2x" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n3_uzf2" name="ItemShowList2" xy="653,649" size="111,505" overflow="scroll" scrollBarFlags="2720" lineGap="3" defaultItem="ui://db9woelguzf2x" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n8_uzf2" name="ButtonCultivate" src="uzf2y" fileName="components/ButtonCultivate.xml" xy="251,1275"/>
+  </displayList>
+</component>

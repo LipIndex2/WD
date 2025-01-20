@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://0ivp5ltjln421" designImageLayer="1">
+  <displayList>
+    <component id="n0_ln42" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-39,425" size="878,853">
+      <Label title="挂机收益"/>
+    </component>
+    <image id="n2_ln42" name="n2" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="62,662" size="675,363" visible="false"/>
+    <text id="n1_ln42" name="n1" xy="262,603" pivot="0.5,0.5" size="274,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" align="center" vAlign="middle" text="章节越高，收益越大"/>
+    <list id="n3_ln42" name="List" xy="80,686" size="640,316" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_ln42" name="BtnFree" src="ln427" fileName="components/BtnFree.xml" xy="100,1050"/>
+    <component id="n5_ln42" name="BtnExpend" src="ln428" fileName="components/BtnExpend.xml" xy="408,1051"/>
+  </displayList>
+</component>

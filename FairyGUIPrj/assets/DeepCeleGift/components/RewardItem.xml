@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" designImage="ui://lg9v9nsana5xo" designImageOffsetX="-78" designImageOffsetY="-565">
+  <displayList>
+    <component id="n2_na5x" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="0,0"/>
+    <text id="n3_na5x" name="NumShow" xy="34,108" pivot="0.5,0.5" size="51,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="20"/>
+  </displayList>
+</component>

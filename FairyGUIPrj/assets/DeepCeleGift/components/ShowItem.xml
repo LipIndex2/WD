@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="684,187" designImage="ui://lg9v9nsana5xo" designImageOffsetX="-58" designImageOffsetY="-544">
+  <displayList>
+    <image id="n0_t6to" name="bg" src="na5xp" fileName="image/DaoJuDiKuang.png" xy="0,0"/>
+    <text id="n1_t6to" name="TimesShow" xy="491,130" pivot="0.5,0.5" size="140,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#28170f" strokeSize="3" autoClearText="true" text="剩余次数：1"/>
+    <component id="n8_t6to" name="BtnAd" src="t6ton" fileName="components/ButtonAd.xml" xy="458,45" visible="false"/>
+    <component id="n7_t6to" name="BtnBuy" src="t6tol" fileName="components/ButtonBuy.xml" xy="458,45" visible="false"/>
+    <image id="n4_t6to" name="bg_rare" src="t6tok" fileName="image/BaiFenBi.png" xy="565,0" group="n9_t6to"/>
+    <text id="n5_t6to" name="RateShow" xy="592,3" pivot="0.5,0.5" size="75,34" group="n9_t6to" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#28170f" strokeSize="3" text="800%"/>
+    <group id="n9_t6to" name="GpBuy" xy="565,0" size="119,43" visible="false" advanced="true"/>
+    <list id="n10_t6to" name="RewardList" xy="21,21" size="376,150" layout="row" colGap="8" defaultItem="ui://lg9v9nsana5xq" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

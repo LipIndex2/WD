@@ -1,0 +1,34 @@
+
+haishe.png
+size: 261,108
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+haishe
+  rotate: false
+  xy: 0, 0
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+sheshen
+  rotate: false
+  xy: 121, 65
+  size: 140, 43
+  orig: 140, 43
+  offset: 0, 0
+  index: -1
+wei
+  rotate: false
+  xy: 121, 5
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 219, 45
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

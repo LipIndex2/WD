@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,178" overflow="scroll" scroll="horizontal" designImage="ui://qllfrhsrwl916b" designImageOffsetX="-33" designImageOffsetY="-176">
+  <displayList>
+    <component id="n35_jxlb" name="Progress" src="jxlbx" fileName="components/RoundProgressBar.xml" xy="-55,117" size="646,32">
+      <ProgressBar value="20" max="100"/>
+    </component>
+    <list id="n37_jxlb" name="RoundList" xy="0,145" pivot="0,0.5" anchor="true" size="638,172" layout="row" scroll="horizontal" colGap="31" defaultItem="ui://qllfrhsrjxlbt" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <transition name="move">
+    <item time="0" type="XY" target="n35_jxlb" tween="true" startValue="-55,117" endValue="-88,117" duration="24"/>
+    <item time="0" type="XY" target="n37_jxlb" tween="true" startValue="0,145" endValue="-23,145" duration="24"/>
+    <item time="48" type="XY" target="n37_jxlb" value="-23,145"/>
+  </transition>
+</component>

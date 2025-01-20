@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hol2307e">
+  <resources>
+    <component id="r9w50" name="CardDebrisView.xml" path="/" exported="true"/>
+    <image id="r9w51" name="稀有卡牌参数.png" path="/"/>
+    <image id="r9w52" name="KeNenDeDaoDeKuang.png" path="/image/"/>
+    <component id="k2qf3" name="CardDebrisItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

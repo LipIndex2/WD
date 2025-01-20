@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cozaf0rb">
+  <resources>
+    <component id="fr824" name="ZombieLogTipsView.xml" path="/" exported="true"/>
+    <image id="fr821" name="HuoDongBiaoTiHengFuZi.png" path="/image/"/>
+    <image id="fr826" name="今日祝福2.png" path="/"/>
+    <image id="fr827" name="JinRiZhuFuShangTu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

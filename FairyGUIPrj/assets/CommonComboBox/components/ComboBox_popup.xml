@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,289" designImage="ui://exeypfksfznd7" designImageOffsetX="-342" designImageOffsetY="-753">
+  <displayList>
+    <image id="n0_fznd" name="bg" src="fznd9" fileName="image/YuanJiaoJuXing.png" xy="-12,10" size="234,289">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n1_fznd" name="list" xy="0,25" size="210,260" overflow="scroll" lineGap="4" defaultItem="ui://exeypfksfznd1">
+      <relation target="" sidePair="width-width"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <relation target="n1_fznd" sidePair="height-height"/>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <controller name="show" pages="0,vip,1,svip" selected="0"/>
+  <displayList>
+    <component id="n5_g2df" name="OpenBtn" src="wl912" fileName="components/Btn.xml" xy="196,18">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="调试面板" titleColor="#000000"/>
+    </component>
+    <component id="n4_g2df" name="JumpBtn" src="wl912" fileName="components/Btn.xml" xy="323,18">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="跳过三消" titleColor="#ffffff"/>
+    </component>
+    <component id="n1_wl91" name="HeroAttackBtn" src="wl912" fileName="components/Btn.xml" xy="451,18">
+      <gearDisplay controller="show" pages="1"/>
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="英雄攻击" titleColor="#ffffff"/>
+    </component>
+    <component id="n2_wl91" name="MonsterAttackBtn" src="wl912" fileName="components/Btn.xml" xy="582,18">
+      <gearDisplay controller="show" pages="1"/>
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="怪物攻击" titleColor="#ffffff"/>
+    </component>
+    <component id="n3_g2df" name="Panel" src="g2df3" fileName="BattleDebugPanel.xml" xy="81,137" visible="false"/>
+    <component id="n6_l9yi" name="SaveBtn" src="wl912" fileName="components/Btn.xml" xy="195,-36">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="提取存档" titleColor="#ff0000"/>
+    </component>
+    <text id="n7_g00j" name="SceneId" xy="17,233" size="142,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ff0000" autoClearText="true" text="场景ID:888"/>
+  </displayList>
+</component>

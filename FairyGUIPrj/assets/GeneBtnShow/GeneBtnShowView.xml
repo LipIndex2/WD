@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://06tpgekn9s561" designImageLayer="1">
+  <displayList>
+    <loader id="n4_9s56" name="BtnClose" xy="0,0" size="800,1600"/>
+    <image id="n0_9s56" name="n0" src="9s562" fileName="image/JuXing.png" xy="539,950" size="164,143" group="n3_9s56"/>
+    <component id="n1_9s56" name="BtnReplace" src="vb35b5g" fileName="ButtonBlueSmall.xml" pkg="zokic7y2" xy="547,1024" group="n3_9s56">
+      <Button title="替 换"/>
+    </component>
+    <component id="n2_9s56" name="BtnInfo" src="vb35b5f" fileName="ButtonOrangeSmall.xml" pkg="zokic7y2" xy="547,961" group="n3_9s56">
+      <Button title="详 情"/>
+    </component>
+    <group id="n3_9s56" name="GpShow" xy="539,950" size="164,143" advanced="true"/>
+  </displayList>
+</component>

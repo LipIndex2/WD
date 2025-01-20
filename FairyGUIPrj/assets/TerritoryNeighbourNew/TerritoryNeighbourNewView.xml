@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://85d5czsep1u3d">
+  <displayList>
+    <component id="n6_jlw6" name="Board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="-49,0" size="895,1600">
+      <Label title="仙 友"/>
+    </component>
+    <component id="n9_o6bc" name="BtnFlush" src="o6bc0" fileName="components/ButtonFlush.xml" xy="137,239" size="62,64"/>
+    <component id="n8_p1u3" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="67,301" pivot="0.5,0.5" size="200,36">
+      <Label titleFontSize="24"/>
+    </component>
+    <list id="n5_jlw6" name="ShowList" xy="85,337" size="632,965" overflow="scroll" lineGap="11" defaultItem="ui://us9sq04xo6bc4" autoClearItems="true" scrollItemToViewOnClick="false"/>
+  </displayList>
+</component>

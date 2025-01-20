@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="108,128" pivot="0.5,0.5" extention="Button" designImageOffsetX="-680" designImageOffsetY="-300">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_tiuj" name="bg" src="tiuj5l" fileName="image/act/TuBiaoQiZhiDi.png" xy="0,0" visible="false"/>
+    <loader id="n4_tiuj" name="icon" xy="0,1" size="108,108" touchable="false" url="ui://dvcfzaq1tiuj5s" fill="scale" clearOnPublish="true"/>
+    <component id="n13_nfq4" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="55,90"/>
+    <image id="n5_tiuj" name="bg_b" src="tiuj5v" fileName="image/act/QiPao.png" xy="-48,-26" group="n9_tiuj"/>
+    <loader id="n7_tiuj" name="IconShow" xy="-44,-21" pivot="0.5,0.5" size="51,44" group="n9_tiuj" scale="0.8,0.8" touchable="false" url="ui://5qhcb5rwtiuj5w" align="center" vAlign="middle" fill="scaleFree" autoSize="true"/>
+    <text id="n8_tiuj" name="NumShow" xy="6,-19" pivot="0.5,0.5" size="59,39" group="n9_tiuj" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="350"/>
+    <group id="n9_tiuj" name="GpBubble" xy="-48,-26" size="119,65" visible="false" advanced="true"/>
+    <component id="n12_jviy" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="-20,93" pivot="0.5,0.5" size="150,34" visible="false" touchable="false">
+      <Label title="6天 22时" titleFontSize="25"/>
+    </component>
+    <component id="n11_k23u" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="95,0" touchable="false"/>
+    <text id="n15_ddwh" name="title" xy="24,87" pivot="0.5,0.5" size="60,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="任务"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

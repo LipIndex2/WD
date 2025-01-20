@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://0dgaz20zhtrt1">
+  <displayList>
+    <component id="n0_htrt" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,445" size="730,650">
+      <Label title="钓鱼托管"/>
+    </component>
+    <image id="n2_htrt" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="88,630" size="624,274"/>
+    <component id="n5_rri1" name="BtnStop" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="252,961" visible="false">
+      <Button title="停止"/>
+    </component>
+    <component id="n1_htrt" name="BtnStart" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,961" visible="false">
+      <Button title="开始"/>
+    </component>
+    <list id="n3_htrt" name="ShowList" xy="88,645" size="624,233" lineGap="11" defaultItem="ui://0dgaz20zhtrt2">
+      <item title="达到新纪录时停止"/>
+      <item title="解锁新图鉴时停止"/>
+      <item title="自动提交订单"/>
+      <item title="鱼饵用尽时停止"/>
+    </list>
+    <text id="n4_dswb" name="title" xy="143,911" pivot="0.5,0.5" size="514,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="托管后退出钓鱼界面后，托管不会中断"/>
+  </displayList>
+</component>

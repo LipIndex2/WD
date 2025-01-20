@@ -1,0 +1,104 @@
+
+lingdiUI_yanjiusuo.png
+size: 644,528
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+fangzi1
+  rotate: false
+  xy: 208, 202
+  size: 235, 326
+  orig: 235, 326
+  offset: 0, 0
+  index: -1
+fangzi2
+  rotate: false
+  xy: 0, 14
+  size: 207, 514
+  orig: 207, 514
+  offset: 0, 0
+  index: -1
+guandao1
+  rotate: false
+  xy: 208, 57
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+guandao1_1
+  rotate: false
+  xy: 444, 384
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+guandao2
+  rotate: false
+  xy: 598, 385
+  size: 46, 143
+  orig: 46, 143
+  offset: 0, 0
+  index: -1
+guandao2_1
+  rotate: true
+  xy: 362, 9
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+guandao3
+  rotate: false
+  xy: 362, 42
+  size: 85, 159
+  orig: 85, 159
+  offset: 0, 0
+  index: -1
+guandao3_1
+  rotate: false
+  xy: 588, 7
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+guanzi
+  rotate: false
+  xy: 444, 238
+  size: 148, 145
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 448, 0
+  size: 83, 139
+  orig: 83, 139
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 448, 89
+  size: 88, 148
+  orig: 88, 148
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: false
+  xy: 588, 73
+  size: 44, 164
+  orig: 44, 164
+  offset: 0, 0
+  index: -1
+yaoping
+  rotate: true
+  xy: 208, 6
+  size: 50, 153
+  orig: 50, 153
+  offset: 0, 0
+  index: -1
+yaoping2
+  rotate: false
+  xy: 537, 84
+  size: 50, 153
+  orig: 50, 153
+  offset: 0, 0
+  index: -1

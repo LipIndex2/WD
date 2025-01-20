@@ -1,0 +1,41 @@
+
+effect_bin.png
+size: 326,266
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guang
+  rotate: false
+  xy: 2, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 260, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: false
+  xy: 260, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: false
+  xy: 260, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tu6
+  rotate: false
+  xy: 260, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

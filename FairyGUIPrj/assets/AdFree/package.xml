@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ptkzoy35">
+  <resources>
+    <component id="pd0x0" name="AdFreeView.xml" path="/" exported="true"/>
+    <image id="pd0x1" name="免广告特权_spec.png" path="/"/>
+    <image id="pd0x4" name="ShouChongDiBan.png" path="/image/"/>
+    <image id="pd0x8" name="YouXiaXingXing.png" path="/image/"/>
+    <image id="pd0x9" name="ZhuoZi.png" path="/image/"/>
+    <image id="pd0xc" name="ZuoXiaXingXing.png" path="/image/"/>
+    <component id="pd0xg" name="GiftCell.xml" path="/components/" exported="true"/>
+    <image id="pd0xi" name="HengFu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

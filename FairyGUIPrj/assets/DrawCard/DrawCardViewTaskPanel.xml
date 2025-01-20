@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://6734rus6qzyf4" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n9_s13y" name="n9" src="s13y16" fileName="image/Zu 404.png" xy="0,0"/>
+    <image id="n2_gvyg" name="n2" src="gvygt" fileName="image/Zu 397.png" xy="0,258" size="800,92"/>
+    <image id="n6_gvyg" name="n6" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="41,194" size="248,54"/>
+    <image id="n4_gvyg" name="n4" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="50,203" scale="0.6,0.6"/>
+    <image id="n1_gvyg" name="n1" src="gvygr" fileName="image/_LocZu 340.png" xy="45,25"/>
+    <component id="n5_gvyg" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="58,189" size="244,62">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="36"/>
+    </component>
+    <list id="n7_gvyg" name="TabList" xy="0,270" size="801,85" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2048" margin="0,0,20,0" defaultItem="ui://6734rus6ead913" autoItemSize="false" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n8_gvyg" name="ShowList" xy="0,366" size="800,1085" overflow="scroll" lineGap="10" defaultItem="ui://6734rus6gvygv" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

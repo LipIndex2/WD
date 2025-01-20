@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://df41fkxkiy999" designImageLayer="1">
+  <displayList>
+    <component id="n0_9quy" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,472" size="730,623">
+      <Label title="装修"/>
+    </component>
+    <list id="n1_9quy" name="ShowList" xy="58,685" size="686,350" layout="row" colGap="8" defaultItem="ui://df41fkxk9quy6" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

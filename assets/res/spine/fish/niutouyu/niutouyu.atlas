@@ -1,0 +1,34 @@
+
+niutouyu.png
+size: 141,41
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 116, 41
+  orig: 116, 41
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 117, 23
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yuqi1
+  rotate: false
+  xy: 117, 1
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: false
+  xy: 129, 10
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

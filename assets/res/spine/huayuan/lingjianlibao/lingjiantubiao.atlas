@@ -1,0 +1,48 @@
+
+lingjiantubiao.png
+size: 378,265
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chilun1
+  rotate: false
+  xy: 146, 124
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+chilun1_1
+  rotate: true
+  xy: 0, 121
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+chilun2
+  rotate: true
+  xy: 0, 0
+  size: 120, 119
+  orig: 120, 119
+  offset: 0, 0
+  index: -1
+chilun2_1
+  rotate: false
+  xy: 146, 0
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+chilun3
+  rotate: false
+  xy: 287, 173
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+chilun3_1
+  rotate: false
+  xy: 271, 27
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1

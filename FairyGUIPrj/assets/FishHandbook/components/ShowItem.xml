@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="594,230" designImage="ui://2keej48gpmm81" designImageOffsetX="-143" designImageOffsetY="-374">
+  <displayList>
+    <image id="n1_pmm8" name="bg" src="pmm88" fileName="image/BaiSeHeiBianDi.png" xy="0,0" size="594,230"/>
+    <image id="n2_pmm8" name="line" src="pmm8a" fileName="image/TuCeng618.png" xy="23,52"/>
+    <text id="n3_pmm8" name="NameShow" xy="32,6" pivot="0,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="餐桌常客"/>
+    <text id="n4_pmm8" name="Actived" xy="457,6" pivot="0.5,0.5" size="94,42" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#8e5043" strokeSize="3" text="已激活"/>
+    <component id="n7_woq6" name="BtnActive" src="woq6i" fileName="components/ButtonActive.xml" xy="453,-6" visible="false"/>
+    <component id="n8_dxc4" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="546,15"/>
+    <component id="n5_pmm8" name="RewardCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="449,64"/>
+    <list id="n6_pmm8" name="ShowList" xy="15,65" size="364,156" layout="row" overflow="scroll" scroll="horizontal" colGap="2" defaultItem="ui://2keej48gpmm8b" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

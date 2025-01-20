@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="273,104" pivot="0.5,0.5" extention="Button" designImage="ui://qllfrhsrwl916c" designImageOffsetX="-257" designImageOffsetY="-918" designImageAlpha="0" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_wl91" name="n3" src="nvx360" fileName="image/ChengSeDaAnNiu.png" xy="0,0" size="366,134" scale="0.8,0.8"/>
+    <image id="n4_wl91" name="n4" src="10ewu6j" fileName="GuangGao.png" pkg="rqg67c20" xy="57,31"/>
+    <text id="n1_jxlb" name="title" xy="43,1" size="273,104" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491914" strokeSize="3" text="刷新">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button sound="ui://d0dr38ivnvx3k" downEffect="scale" downEffectValue=".8"/>
+</component>

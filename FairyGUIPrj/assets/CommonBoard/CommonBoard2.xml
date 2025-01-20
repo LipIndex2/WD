@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" extention="Label">
+  <displayList>
+    <loader id="n3_zysf" name="bg" xy="35,167" size="730,1256" url="ui://r5d9xy63zysfb4h" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n4_zysf" name="n4" src="zysfb4i" fileName="image/2JiBanZiHua1.png" xy="137,157" visible="false">
+      <relation target="n3_zysf" sidePair="left-left,bottom-top"/>
+    </image>
+    <image id="n5_zysf" name="n5" src="zysfb4j" fileName="image/2JiBanZiHua2.png" xy="514,185" visible="false">
+      <relation target="n3_zysf" sidePair="right-right,bottom-top"/>
+    </image>
+    <component id="n2_tpft" name="BtnClose" src="tpftb40" fileName="components/ButtonClose.xml" xy="619,238">
+      <relation target="" sidePair="left-right,bottom-top"/>
+    </component>
+    <text id="n0_tpft" name="title" xy="354,257" pivot="0.5,0.5" size="92,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="标题">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+</component>

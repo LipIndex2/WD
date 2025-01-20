@@ -1,0 +1,34 @@
+
+effect_150.png
+size: 332,248
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+8
+  rotate: false
+  xy: 176, 59
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 260, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+light6
+  rotate: false
+  xy: 2, 2
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 2, 176
+  size: 70, 328
+  orig: 70, 328
+  offset: 0, 0
+  index: -1

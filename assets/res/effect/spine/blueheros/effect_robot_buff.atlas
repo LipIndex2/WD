@@ -1,0 +1,55 @@
+
+effect_robot_buff.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+2/dian1
+  rotate: true
+  xy: 260, 219
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+2/dian2
+  rotate: false
+  xy: 260, 132
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+2/dian3
+  rotate: false
+  xy: 2, 3
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+2/dian4
+  rotate: false
+  xy: 132, 3
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+2/dian5
+  rotate: false
+  xy: 347, 262
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+2/dian6
+  rotate: true
+  xy: 262, 2
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+mh_tex_lighting_03
+  rotate: false
+  xy: 2, 91
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

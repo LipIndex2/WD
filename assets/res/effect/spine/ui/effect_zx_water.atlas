@@ -1,0 +1,69 @@
+
+effect_zx_water.png
+size: 802,202
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+icon
+  rotate: true
+  xy: 83, 179
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+icon0
+  rotate: false
+  xy: 595, 102
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+icon1
+  rotate: false
+  xy: 2, 2
+  size: 798, 98
+  orig: 798, 98
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 138, 172
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 190, 124
+  size: 228, 76
+  orig: 228, 76
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 420, 124
+  size: 173, 76
+  orig: 173, 76
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: true
+  xy: 2, 192
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: true
+  xy: 38, 184
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+tu7
+  rotate: false
+  xy: 15, 186
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1

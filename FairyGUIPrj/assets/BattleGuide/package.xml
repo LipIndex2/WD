@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0319c9gq">
+  <resources>
+    <component id="cy080" name="BattleGuideView.xml" path="/" exported="true"/>
+    <image id="cy081" name="shouzhi.png" path="/image/"/>
+    <component id="r7ud2" name="ShouZhi.xml" path="/components/"/>
+    <component id="r7ud3" name="Block.xml" path="/components/"/>
+    <component id="v7za4" name="DragGuideView.xml" path="/" exported="true"/>
+    <component id="h6lm5" name="BlockDrag.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

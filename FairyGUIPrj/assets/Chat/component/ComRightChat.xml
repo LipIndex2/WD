@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="307,139">
+  <displayList>
+    <component id="n14_ft2s" name="ComHead" src="rru77" fileName="component/HeadItem.xml" xy="182,5" size="120,120" group="n18_ft2s"/>
+    <richtext id="n15_ft2s" name="txName" xy="64,14" size="114,48" group="n18_ft2s" fontSize="35" align="right" strokeColor="#ffffff" strokeSize="2" text="玄墨11">
+      <relation target="n14_ft2s" sidePair="right-left"/>
+    </richtext>
+    <image id="n11_lz3d" name="n11" src="lz3d69" fileName="image/7.png" xy="119,69" size="56,64" group="n18_ft2s">
+      <relation target="n16_ft2s" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <richtext id="n16_ft2s" name="title" xy="132,84" size="19,36" restrictSize="0,460,0,0" group="n18_ft2s" touchable="false" fontSize="26" color="#ffffff" text="1">
+      <relation target="n14_ft2s" sidePair="right-right"/>
+    </richtext>
+    <group id="n18_ft2s" name="n18" xy="64,5" size="238,128" advanced="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </group>
+  </displayList>
+  <relation target="n11_lz3d" sidePair="bottomext-bottom"/>
+</component>

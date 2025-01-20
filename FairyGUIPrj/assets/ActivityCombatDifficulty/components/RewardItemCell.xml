@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,150">
+  <displayList>
+    <component id="n4_m1qt" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="5,27"/>
+    <image id="n1_m1qt" name="n1" src="m1qtj" fileName="image/ShouTongJiangLi.png" xy="-2,3" group="n3_m1qt"/>
+    <text id="n2_m1qt" name="n2" xy="13,7" pivot="0.5,0.5" size="104,35" group="n3_m1qt" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="首通奖励"/>
+    <group id="n3_m1qt" name="FirstPass" xy="-2,3" size="134,42" advanced="true"/>
+  </displayList>
+</component>

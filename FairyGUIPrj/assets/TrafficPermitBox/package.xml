@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fscihasz">
+  <resources>
+    <component id="aj740" name="TrafficPermitBoxView.xml" path="/" exported="true"/>
+    <image id="aj741" name="TaiZi.png" path="/image/"/>
+    <image id="aj742" name="BiaoTiXian.png" path="/image/"/>
+    <image id="aj744" name="通行证UI补充-金箱子spe.jpg" path="/"/>
+    <image id="aj745" name="DiBuGuangXiao.png" path="/image/"/>
+    <image id="aj74a" name="HuangJinTongXingZheng3JiDiBan2.png" path="/image/"/>
+    <image id="aj74b" name="HuangJinTongXingZhengTuBiaoXiao.png" path="/image/"/>
+    <image id="aj74c" name="XiangZi1.png" path="/image/" exported="true"/>
+    <image id="aj74d" name="XiangZi2.png" path="/image/" exported="true"/>
+    <image id="aj74e" name="XiangZi3.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

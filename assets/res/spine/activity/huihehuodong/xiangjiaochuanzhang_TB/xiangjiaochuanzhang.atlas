@@ -1,0 +1,55 @@
+
+xiangjiaochuanzhang.png
+size: 107,144
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chuan
+  rotate: false
+  xy: 0, 107
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 73, 39
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 58
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+xiangjiao
+  rotate: false
+  xy: 0, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+yiling1
+  rotate: true
+  xy: 38, 35
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+yiling2
+  rotate: true
+  xy: 38, 12
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+zhuanlun
+  rotate: false
+  xy: 68, 0
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="294,90" pivot="0.5,0.5" extention="Button" designImage="ui://2keej48gpmm81" designImageOffsetX="-6" designImageOffsetY="-284">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_pmm8" name="bg" src="pmm83" fileName="image/Zu65.png" xy="0,0"/>
+    <text id="n4_pmm8" name="title" xy="101,13" pivot="0,0.5" size="100,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#fff392" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="热带鱼"/>
+  </displayList>
+  <Button mode="Check" downEffect="scale" downEffectValue=".9"/>
+</component>

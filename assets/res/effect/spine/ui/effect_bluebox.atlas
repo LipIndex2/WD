@@ -1,0 +1,27 @@
+
+effect_bluebox.png
+size: 505,318
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+box3
+  rotate: true
+  xy: 353, 3
+  size: 313, 150
+  orig: 313, 150
+  offset: 0, 0
+  index: -1
+box4
+  rotate: true
+  xy: 2, 2
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+open1
+  rotate: true
+  xy: 179, 24
+  size: 292, 172
+  orig: 292, 172
+  offset: 0, 0
+  index: -1

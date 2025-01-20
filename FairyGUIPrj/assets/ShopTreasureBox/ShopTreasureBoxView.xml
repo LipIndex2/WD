@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n0_l6cb" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-17,285" size="833,1024"/>
+    <image id="n1_l6cb" name="n1" src="l6cb5" fileName="image/TaiZi.png" xy="219,637" size="361,85" group="n12_l6cb"/>
+    <image id="n4_l6cb" name="n4" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="86,782" size="628,260" group="n12_l6cb"/>
+    <image id="n5_l6cb" name="n5" src="l6cb8" fileName="image/BiaoTiXian.png" xy="115,807" group="n12_l6cb"/>
+    <image id="n6_l6cb" name="n6" src="l6cb8" fileName="image/BiaoTiXian.png" xy="684,807" group="n12_l6cb" scale="-1,1"/>
+    <text id="n7_l6cb" name="n7" xy="359,792" pivot="0.5,0.5" size="84,54" group="n12_l6cb" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="奖励"/>
+    <group id="n12_l6cb" name="n12" xy="86,637" size="806,405"/>
+    <loader id="n2_l6cb" name="Icon" xy="282,487" pivot="0.5,1" size="236,182" autoSize="true" clearOnPublish="true"/>
+    <text id="n13_c6oi" name="TipsShow" xy="400,1124" pivot="0.5,0.5" size="10,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+    <component id="n9_l6cb" name="BtnBuy" src="l6cb9" fileName="components/BtnBuy.xml" xy="253,1085"/>
+    <list id="n10_l6cb" name="List" xy="130,866" size="540,120" layout="row" colGap="20" defaultItem="ui://gn62pyk3rjro31" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n14_rmdb" name="txCount" xy="358,727" size="84,42" fontSize="30" color="#66ff00" strokeColor="#000000" text="50/50"/>
+  </displayList>
+</component>

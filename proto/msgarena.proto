@@ -1,0 +1,72 @@
+import "msgrole.proto";
+
+message PB_CSArenaReq {//!< 9640 操作
+	optional int32	type = 1;	//操作类型
+	repeated int32	param1 = 2;	//操作参数数组
+	repeated int32	param2 = 3;	//操作参数数组
+}
+
+message PB_SCArenaInfo {//!< 9641 主界面信息
+	repeated int32 hero_id = 1;		//英雄列表
+	repeated int32 hero_level = 2;	//英雄列表
+	repeated int32 buff_list = 3;	//词条列表
+	optional int32 rank = 4;
+	optional int32 rank_order = 5;
+	optional int32 score = 6;
+	optional int32 skin_seq = 7;				//地图皮肤seq
+	optional int32 fight_item_num = 8;			//挑战券数量
+	optional int32 hero_damage = 9;
+	repeated bool rank_reward_fetch = 10;		//排名奖励领取情况
+}
+
+message PB_SCArenaHeroInfo{
+	optional int32 hero_id = 1;		//英雄
+	optional int32 hero_level = 2;	//英雄等级
+	repeated int32 gene_id =3;		//基因
+}
+
+message PB_SCArenaTalentLevelInfo{
+	optional int32 talent_id = 1;		
+	optional int32 talent_level = 2;	
+}
+
+message PB_SCArenaTargetInfo {//!< 9642 匹配到的对手信息
+	optional int32 hero_damage = 1;
+	optional int32 skin_seq = 2;				//地图皮肤seq
+	repeated int32 buff_list = 3;				//词条列表
+	optional int32 rank = 4;
+	optional int32 rank_order = 5;
+	optional PB_RoleInfo role_info = 6;
+	repeated PB_SCArenaHeroInfo hero_list = 7;	//英雄列表
+	repeated PB_SCArenaTalentLevelInfo talent_list = 8;			//研究所技能等级
+}
+
+message PB_SCArenaShopInfo {//!< 9643 商店信息
+	repeated int32 buy_count = 1;		//购买次数
+}
+
+message PB_SCArenaReportNode{
+	optional PB_RoleInfo role_info = 1;		//对方信息
+	optional bool is_attack = 2;
+	optional bool is_win = 3;
+	optional int64 time = 4;
+	optional int32 rank = 5;
+	optional int32 rank_order = 6;
+}
+
+message PB_SCArenaReportInfo {//!< 9644 战报信息
+	repeated PB_SCArenaReportNode report_info = 1;
+}
+
+message PB_SCArenaMapData{
+	optional int32 seq = 1;
+	optional int64 end_time = 2;
+}
+
+message PB_SCArenaMapInfo {//!< 9645 地图信息
+	repeated PB_SCArenaMapData map_list = 1;	//已激活的地图 空的不发
+}
+
+message PB_SCArenaBuyInfo {//!< 9646
+	 optional int32 buy_item_count = 1;	//买了几次挑战券
+}

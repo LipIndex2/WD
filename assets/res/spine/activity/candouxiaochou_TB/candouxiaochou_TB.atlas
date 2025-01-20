@@ -1,0 +1,34 @@
+
+candouxiaochou_TB.png
+size: 114,85
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+qiu
+  rotate: false
+  xy: 90, 37
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: true
+  xy: 90, 16
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 90, 61
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1

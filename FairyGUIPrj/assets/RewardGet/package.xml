@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="g13qdvs5">
+  <resources>
+    <component id="rjro0" name="RewardGetView.xml" path="/" exported="true"/>
+    <image id="rjro1" name="通用获得界面参数.png" path="/"/>
+    <component id="rjro2" name="ButtonContinue.xml" path="/components/"/>
+    <component id="rjro3" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="u3z84" name="基因获得界面1.png" path="/"/>
+    <component id="hprm5" name="GeneShow.xml" path="/components/" exported="true"/>
+    <image id="hprm8" name="基因获得界面2.png" path="/"/>
+    <component id="vkjw9" name="ButtonShow.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

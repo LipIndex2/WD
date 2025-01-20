@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="682,158" designImage="ui://db9woelguzf2r" designImageOffsetX="-60" designImageOffsetY="-625" designImageLayer="1">
+  <displayList>
+    <image id="n1_uzf2" name="n1" src="uzf22" fileName="image/DiKuang.png" xy="0,-1" size="682,158"/>
+    <image id="n10_uzf2" name="n10" src="uzf2l" fileName="image/DaoJuDi1.png" xy="28,19"/>
+    <image id="n3_uzf2" name="n3" src="uzf2t" fileName="image/Zu40.png" xy="183,49"/>
+    <image id="n12_uzf2" name="n12" src="uzf217" fileName="image/YinChanZi.png" xy="52,33" scale="0.9,0.9"/>
+    <text id="n9_uzf2" name="ItemNum" xy="62,96" pivot="0.5,0.5" size="33,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="99"/>
+    <text id="n6_uzf2" name="BuyNum" xy="495,119" pivot="0.5,0.5" size="130,29" font="ui://wqx8l8xqut2h1b" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="剩余次数：10"/>
+    <component id="n4_uzf2" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="297,17"/>
+    <component id="n5_uzf2" name="BtnBuy" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="463,35" size="194,85">
+      <Button title="兑换" titleFontSize="34"/>
+    </component>
+  </displayList>
+</component>

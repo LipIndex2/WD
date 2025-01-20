@@ -1,0 +1,41 @@
+
+11013.png
+size: 283,132
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+nian
+  rotate: false
+  xy: 191, 48
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 132, 190
+  orig: 132, 190
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 191, 11
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 225, 11
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 259, 1
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1

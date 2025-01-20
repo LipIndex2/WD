@@ -1,0 +1,69 @@
+
+11043.png
+size: 373,258
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: false
+  xy: 315, 11
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: false
+  xy: 194, 17
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: false
+  xy: 0, 14
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+qun3
+  rotate: false
+  xy: 97, 14
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 276, 36
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 336, 60
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 276, 0
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 229, 99
+  size: 144, 159
+  orig: 144, 159
+  offset: 0, 0
+  index: -1
+zhang
+  rotate: false
+  xy: 0, 99
+  size: 228, 159
+  orig: 228, 159
+  offset: 0, 0
+  index: -1

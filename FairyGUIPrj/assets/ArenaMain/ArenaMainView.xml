@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://ejt7h3xzr1b9b">
+  <displayList>
+    <component id="n26_wpum" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n27_wpum" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n26_wpum" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n25_wpum" name="n25" src="wpumv" fileName="imange/HengLaBeiJing.png" xy="0,0" size="800,1600">
+      <relation target="n26_wpum" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n29_wpum" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799" scale="1.15,1.15"/>
+    <image id="n23_wpum" name="n23" src="wpumu" fileName="imange/YeQianDiBu.png" xy="0,1470" size="800,130">
+      <relation target="n26_wpum" sidePair="width-width,center-center,bottom-bottom"/>
+    </image>
+    <image id="n12_wpum" name="n12" src="wpuml" fileName="imange/ShiJianDi.png" xy="300,448" size="200,54"/>
+    <image id="n13_wpum" name="n13" src="wpumk" fileName="imange/ShiJian.png" xy="309,457" scale="0.6,0.6"/>
+    <component id="n21_wpum" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="313,449" size="200,50">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <text id="n1_r1b9" name="Title" xy="292,311" pivot="0.5,0.5" size="216,76" font="ui://wqx8l8xqut2h1b" fontSize="58" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" autoClearText="true" text="第9赛季"/>
+    <text id="n2_r1b9" name="Name" xy="313,394" pivot="0.5,0.5" size="174,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="花园竞技场"/>
+    <text id="n3_r1b9" name="RankText" xy="399,886" pivot="0.5,0.5" anchor="true" size="261,69" font="ui://wqx8l8xqut2h1b" fontSize="52" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="荣耀黄金|||"/>
+    <component id="n5_wpum" name="Curr2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="255,20">
+      <relation target="n27_wpum" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n31_wpum" name="Curr3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="485,20">
+      <relation target="n27_wpum" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n6_wpum" name="RoleInfo" src="wpume" fileName="components/RoleInfo.xml" xy="5,0">
+      <relation target="n27_wpum" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n15_wpum" name="ProgressBar" src="wpumo" fileName="components/ProgressBar1.xml" xy="191,943" size="418,40">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n7_wpum" name="ShopBtn" src="wpumg" fileName="components/FuncBtn.xml" xy="21,170">
+      <Button icon="ui://ejt7h3xzr1b97"/>
+    </component>
+    <component id="n8_wpum" name="RankBtn" src="wpumg" fileName="components/FuncBtn.xml" xy="673,170">
+      <Button title="排行榜" icon="ui://ejt7h3xzr1b96"/>
+    </component>
+    <component id="n10_wpum" name="TipBtn" src="wpumh" fileName="components/TipBtn.xml" xy="523,328"/>
+    <component id="n18_wpum" name="ReportBtn" src="wpumq" fileName="components/FuncBtn2.xml" xy="75,1033"/>
+    <component id="n19_wpum" name="ArrayBtn" src="wpumq" fileName="components/FuncBtn2.xml" xy="311,1034">
+      <Button title="阵容" icon="ui://ejt7h3xzr1b95"/>
+    </component>
+    <component id="n20_wpum" name="RewardBtn" src="wpumr" fileName="components/FuncBtn3.xml" xy="680,1488">
+      <relation target="n26_wpum" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n33_iyea" name="MapBtn" src="wpumq" fileName="components/FuncBtn2.xml" xy="547,1034">
+      <Button title="场景" icon="ui://ejt7h3xziyea1b"/>
+    </component>
+    <component id="n22_wpum" name="MatchBtn" src="wpumt" fileName="components/MatchBtn.xml" xy="252,1304"/>
+    <component id="n24_wpum" name="CloseBtn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="13,1489">
+      <relation target="n26_wpum" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n30_wpum" name="ZhanLingBtn" src="wpumx" fileName="components/ZhanLingBtn.xml" xy="143,151"/>
+    <component id="n35_k8hh" name="GiftBtn" src="wpumg" fileName="components/FuncBtn.xml" xy="673,339">
+      <Button title="每日礼包"/>
+    </component>
+    <loader id="n28_wpum" name="RankIcon" xy="399,663" pivot="0.5,0.5" anchor="true" size="257,246" url="ui://ejt7h3xzwpumw" autoSize="true" clearOnPublish="true"/>
+    <component id="n32_wpum" name="ArenaPassRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="644,157"/>
+    <component id="n34_h6lm" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="767,1494">
+      <relation target="n26_wpum" sidePair="right-right,bottom-bottom"/>
+    </component>
+  </displayList>
+  <transition name="rank_icon" autoPlayRepeat="-1" frameRate="30">
+    <item time="0" type="XY" target="n28_wpum" tween="true" startValue="399,663" endValue="399,651" duration="24"/>
+    <item time="24" type="XY" target="n28_wpum" tween="true" startValue="399,651" endValue="399,663" duration="24"/>
+  </transition>
+</component>

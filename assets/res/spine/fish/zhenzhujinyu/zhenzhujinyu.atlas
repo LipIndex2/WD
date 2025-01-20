@@ -1,0 +1,20 @@
+
+zhenzhujinyu.png
+size: 94,67
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 83, 55
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1

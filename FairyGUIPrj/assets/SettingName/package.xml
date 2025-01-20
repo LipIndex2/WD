@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0g8jswr8">
+  <resources>
+    <component id="f0g00" name="SettingNameView.xml" path="/" exported="true"/>
+    <image id="f0g01" name="修改昵称.png" path="/"/>
+    <component id="f0g02" name="ButtonOrange.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

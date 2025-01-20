@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://fe00q8ryu3z80" designImageLayer="1">
+  <displayList>
+    <component id="n12_rmcb" name="InsideSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="405,429"/>
+    <component id="n11_u3z8" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,900"/>
+    <image id="n8_u3z8" name="n8" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="298,859" pivot="0.5,0.5" size="203,54" scale="1.7,1.7"/>
+    <image id="n9_u3z8" name="n9" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="240,857"/>
+    <text id="n5_u3z8" name="Word" xy="395,941" pivot="0.5,0.5" size="10,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <text id="n6_u3z8" name="Title" xy="395,363" pivot="0.5,0.5" size="10,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#feff02" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" autoClearText="true" text=""/>
+    <component id="n10_u3z8" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="200,835">
+      <Label title="17:25" titleColor="#c4ff26" titleFontSize="48"/>
+    </component>
+    <component id="n4_u3z8" name="BtnClose" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,991">
+      <Button title="确 定"/>
+    </component>
+  </displayList>
+</component>

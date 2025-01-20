@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,58" extention="Label">
+  <displayList>
+    <loader id="n3_sb2j" name="icon" xy="0,0" pivot="0.5,0.5" size="58,58" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n2_sb2j" name="title" xy="63,9" pivot="0,0.5" size="10,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+  </displayList>
+</component>

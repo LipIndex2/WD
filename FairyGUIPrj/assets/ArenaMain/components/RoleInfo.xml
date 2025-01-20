@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="204,90">
+  <displayList>
+    <image id="n0_wpum" name="n0" src="wpumd" fileName="imange/ZhuJieMianXinXiDi.png" xy="0,0" size="204,90"/>
+    <component id="n2_wpum" name="n2" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="53,16" size="280,54" scale="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n1_wpum" name="headItem" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="9,9" scale="0.4,0.4"/>
+    <text id="n3_wpum" name="lb_name" xy="87,52" pivot="0,0.5" size="94,26" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqut2h1b" fontSize="18" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="我叫谁谁谁"/>
+  </displayList>
+</component>

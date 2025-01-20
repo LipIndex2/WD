@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="177,37" extention="ProgressBar">
+  <displayList>
+    <image id="n0_uzf2" name="n0" src="uzf2d" fileName="image/JinDuTiao2-01.png" xy="0,0" size="177,37">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_uzf2" name="bar" src="uzf2e" fileName="image/JinDuTiao2-02.png" xy="4,4" size="169,29"/>
+    <text id="n2_uzf2" name="title" xy="68,2" pivot="0.5,0.5" size="41,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="2/5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

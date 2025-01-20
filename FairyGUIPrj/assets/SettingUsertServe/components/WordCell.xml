@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="523,42" extention="Label">
+  <displayList>
+    <text id="n0_r9w5" name="title" xy="0,0" size="523,42" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" leading="10" autoSize="height" autoClearText="true" text="11133"/>
+  </displayList>
+  <relation target="n0_r9w5" sidePair="height-height"/>
+</component>

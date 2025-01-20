@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n3_fe0v" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n4_fe0v" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5">
+      <relation target="n3_fe0v" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <loader id="n21_e0iz" name="bg" xy="0,0" size="800,1472"/>
+    <component id="n28_nxnc" name="FishPanel" src="nxnc1c" fileName="FishViewFishPanel.xml" xy="0,0"/>
+    <component id="n27_ol08" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799"/>
+    <image id="n26_bcxi" name="bg_down" src="bcxi16" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130"/>
+    <component id="n0_fe0v" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="87,60" group="n2_fe0v"/>
+    <component id="n1_fe0v" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="320,60" group="n2_fe0v"/>
+    <group id="n2_fe0v" name="GpCurrency" xy="87,60" size="398,54" advanced="true"/>
+    <component id="n12_fe0v" name="ProgressLevel" src="fe0va" fileName="components/ProgressLevel.xml" xy="148,147" size="591,36" group="n15_fe0v">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n20_g7l6" name="BtnLevel" src="g7l6r" fileName="components/ButtonLevel.xml" xy="51,130" group="n15_fe0v"/>
+    <group id="n15_fe0v" name="GpLevel" xy="51,130" size="688,67"/>
+    <component id="n5_fe0v" name="BtnReturn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="13,1489" group="n16_fe0v"/>
+    <component id="n6_fe0v" name="BtnBread" src="fe0v2" fileName="components/ButtonMod.xml" xy="20,934" group="n16_fe0v">
+      <Button title="免费面包" icon="ui://qrbaplf6bcxiv"/>
+    </component>
+    <component id="n7_fe0v" name="BtnCard" src="fe0v2" fileName="components/ButtonMod.xml" xy="20,1084" group="n16_fe0v">
+      <Button title="渔夫卡" icon="ui://qrbaplf6bcxiu"/>
+    </component>
+    <component id="n8_fe0v" name="BtnSetting" src="fe0v2" fileName="components/ButtonMod.xml" xy="20,1233" group="n16_fe0v">
+      <Button title="托管" icon="ui://qrbaplf6bcxiy"/>
+    </component>
+    <component id="n9_fe0v" name="BtnHandbook" src="fe0v2" fileName="components/ButtonMod.xml" xy="665,934" group="n16_fe0v">
+      <Button title="图鉴" icon="ui://qrbaplf6bcxix"/>
+    </component>
+    <component id="n10_fe0v" name="BtnShop" src="fe0v2" fileName="components/ButtonMod.xml" xy="665,1084" group="n16_fe0v">
+      <Button title="商店" icon="ui://qrbaplf6bcxiw"/>
+    </component>
+    <component id="n11_fe0v" name="BtnMap" src="fe0v2" fileName="components/ButtonMod.xml" xy="665,1233" group="n16_fe0v">
+      <Button title="渔岛" icon="ui://qrbaplf6bcxiz"/>
+    </component>
+    <component id="n27_kb45" name="BtnPass" src="fe0v2" fileName="components/ButtonMod.xml" xy="20,787" group="n16_fe0v">
+      <Button title="通行证" icon="ui://qrbaplf6kb451e"/>
+    </component>
+    <component id="n28_kb45" name="BtnRank" src="fe0v2" fileName="components/ButtonMod.xml" xy="665,787" group="n16_fe0v">
+      <Button title="排行榜" icon="ui://qrbaplf6kb451g"/>
+    </component>
+    <group id="n16_fe0v" name="GpBtns" xy="13,787" size="770,802"/>
+    <component id="n17_fe0v" name="BtnOrder" src="fe0ve" fileName="components/ButtonOrder.xml" xy="517,452"/>
+    <component id="n18_fe0v" name="BtnBox" src="fe0vj" fileName="components/ButtonBox.xml" xy="541,208"/>
+    <component id="n19_fe0v" name="ItemTool" src="fe0vm" fileName="components/ItemTool.xml" xy="35,208"/>
+    <image id="n22_bcxi" name="line1" src="bcxi11" fileName="image/LianBianShengZi.png" xy="0,261" group="n25_bcxi"/>
+    <image id="n23_bcxi" name="line2" src="bcxi11" fileName="image/LianBianShengZi.png" xy="746,261" pivot="0.5,0.5" group="n25_bcxi" scale="-1,1"/>
+    <image id="n24_bcxi" name="line3" src="bcxi12" fileName="image/ZhongJianShengZi.png" xy="517,261" group="n25_bcxi"/>
+    <group id="n25_bcxi" name="lines" xy="0,261" size="800,114"/>
+  </displayList>
+</component>

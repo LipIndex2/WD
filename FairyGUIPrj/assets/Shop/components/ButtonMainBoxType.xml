@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="242,92" extention="Button" designImage="ui://gp6652l2pp34b6y" designImageOffsetX="-48" designImageOffsetY="-816">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_pp34" name="icon" xy="13,13" size="216,66" clearOnPublish="true"/>
+    <image id="n3_pp34" name="sel" src="pp34b70" fileName="image/main_box/XuanZhong.png" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <richtext id="n5_pp34" name="title" xy="117,22" pivot="0.5,0.5" size="10,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#ffffff" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n6_pp34" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="227,15"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

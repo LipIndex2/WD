@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,350">
+  <displayList>
+    <loader id="n0_lgme" name="bg" xy="1,39" pivot="0.5,0.5" size="218,311" touchable="false" url="ui://pppfbs53lgmei" align="center" vAlign="middle" autoSize="true"/>
+    <component id="n1_lgme" name="BtnMapItem" src="yu83u" fileName="components/BtnMapItem.xml" xy="35,0" visible="false"/>
+    <component id="n2_pitk" name="stoneSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="109,174"/>
+    <component id="n3_pitk" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="109,119"/>
+    <component id="n5_pp34" name="MyParent" src="pp3410" fileName="components/MyParent.xml" xy="109,140"/>
+  </displayList>
+</component>

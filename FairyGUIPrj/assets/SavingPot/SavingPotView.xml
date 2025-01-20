@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n43_lwoh" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="33,556" pivot="0.5,0.5" size="730,704"/>
+    <image id="n38_lwoh" name="n38" src="r9w510" fileName="image/YouQianHuaAnDi.png" xy="74,738" size="652,482"/>
+    <image id="n35_r9w5" name="n35" src="r9w511" fileName="image/YuanHua2.png" xy="55,477" pivot="0.5,0.5"/>
+    <image id="n33_r9w5" name="n33" src="r9w5x" fileName="image/YouQianHuaHengFu.png" xy="19,520"/>
+    <image id="n36_r9w5" name="n36" src="9dtwb" fileName="image/ShangBiao.png" xy="66,239" pivot="0.5,0.5"/>
+    <image id="n40_lwoh" name="n40" src="lwoh18" fileName="image/XiaZuanShiDui.png" xy="551,750"/>
+    <component id="n37_r9w5" name="ProgressBar" src="r9w513" fileName="components/ProgressBar.xml" xy="136,883" pivot="0.5,0.5">
+      <ProgressBar value="300" max="600"/>
+    </component>
+    <image id="n39_lwoh" name="n39" src="lwoh18" fileName="image/XiaZuanShiDui.png" xy="318,750" group="n45_ig9o"/>
+    <text id="n22_ao36" name="Num1" xy="361,825" size="82,54" group="n45_ig9o" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="300"/>
+    <image id="n44_ig9o" name="n44" src="cqilr" fileName="image/JiaoBiao.png" xy="390,878" pivot="0.5,0.5" group="n45_ig9o"/>
+    <group id="n45_ig9o" name="BuyNumShow" xy="318,750" size="168,150" advanced="true"/>
+    <text id="n34_r9w5" name="n34" xy="333,534" pivot="0.5,0.5" size="136,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="有钱花"/>
+    <text id="n25_o2mf" name="n25" xy="104,271" pivot="0.5,0.5" size="95,111" font="ui://wqx8l8xqut2h1b" fontSize="43" color="#fff27c" align="center" vAlign="middle" leading="0" strokeColor="#491914" strokeSize="5" text="x4.0&#xA;超值"/>
+    <text id="n24_ao36" name="Num2" xy="596,825" size="82,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="600"/>
+    <text id="n20_ao36" name="Desc" xy="110,629" size="584,102" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="12" autoSize="none" strokeColor="#491914" strokeSize="3" text="挑战关卡并收集至少300钻石，你就可以在打开存钱罐时获得一笔划算的交易"/>
+    <component id="n11_eoo2" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1066" scale="1.3,1.3">
+      <Button title="$30" titleFontSize="46"/>
+    </component>
+    <component id="n17_eoo2" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="359,1299"/>
+    <component id="n42_lwoh" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799"/>
+  </displayList>
+</component>

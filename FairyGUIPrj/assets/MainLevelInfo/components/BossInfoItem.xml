@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,166" designImage="ui://czbmy05rfr822" designImageOffsetX="-85" designImageOffsetY="-436" designImageLayer="1">
+  <displayList>
+    <image id="n0_fr82" name="n0" src="fr82a" fileName="image/YouJianKuang.png" xy="0,0" size="630,166"/>
+    <image id="n2_fr82" name="n2" src="fr82b" fileName="image/DiTu.png" xy="187,22" size="320,36"/>
+    <text id="n4_fr82" name="Desc" xy="184,66" size="414,94" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#663b18" leading="1" autoSize="none" autoClearText="true" text="传说中的大喷谷武士，死亡时召唤手下协助作战，抗性较高水火属抗性较高性抗性较高抗性较高抗性较高"/>
+    <text id="n7_srmr" name="NoData" xy="309,23" pivot="0.5,0.5" size="76,34" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="无抗性"/>
+    <list id="n3_fr82" name="list" xy="193,20" size="313,40" layout="row" overflow="scroll" colGap="5" defaultItem="ui://czbmy05rfr82c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n6_fr82" name="SpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="90,155" scale="0.7,0.7"/>
+  </displayList>
+</component>

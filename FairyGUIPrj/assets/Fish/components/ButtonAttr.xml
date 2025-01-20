@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="58,184" pivot="0.5,0.5" extention="Button" designImage="ui://qrbaplf6fe0v1" designImageOffsetX="-468" designImageOffsetY="-232">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n4_bcxi" name="bg" src="bcxi15" fileName="image/DiaoYuShuXingAnNiu.png" xy="0,0"/>
+    <text id="n3_fe0v" name="title" xy="10,3" pivot="0.5,0.5" size="38,178" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="钓&#xA;鱼&#xA;属&#xA;性"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

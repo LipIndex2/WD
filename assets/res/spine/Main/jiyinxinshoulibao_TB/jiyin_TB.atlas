@@ -1,0 +1,48 @@
+
+jiyin_TB.png
+size: 109,140
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guang
+  rotate: true
+  xy: 0, 31
+  size: 109, 53
+  orig: 109, 53
+  offset: 0, 0
+  index: -1
+lihe
+  rotate: true
+  xy: 54, 68
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+suipian1
+  rotate: false
+  xy: 0, 3
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+suipian2
+  rotate: false
+  xy: 62, 1
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 54, 51
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: true
+  xy: 33, 0
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,922" extention="Label" designImageOffsetX="-35" designImageOffsetY="-428">
+  <displayList>
+    <image id="n1_tpft" name="bg" src="o2mfb46" fileName="image/Di.png" xy="0,0" size="730,922">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_tpft" name="BtnClose" src="tpftb40" fileName="components/ButtonClose.xml" xy="633,11">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <text id="n0_tpft" name="title" xy="312,71" pivot="0.5,0.5" size="107,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" singleLine="true" autoClearText="true" text="标 题">
+      <relation target="" sidePair=""/>
+    </text>
+  </displayList>
+</component>

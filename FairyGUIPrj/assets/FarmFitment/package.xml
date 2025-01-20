@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="df41fkxk">
+  <resources>
+    <component id="9quy0" name="FarmFitmentView.xml" path="/" exported="true"/>
+    <image id="9quy2" name="TuBiao2.png" path="/image/" exported="true"/>
+    <image id="9quy3" name="TuBiao0.png" path="/image/" exported="true"/>
+    <image id="9quy4" name="TuBiao1.png" path="/image/" exported="true"/>
+    <image id="9quy5" name="DiKuang.png" path="/image/"/>
+    <component id="9quy6" name="FitmentItem.xml" path="/components/" exported="true"/>
+    <component id="9quy7" name="BtnBuy.xml" path="/components/"/>
+    <image id="9quy8" name="HuangAnNiu.png" path="/image/"/>
+    <image id="iy999" name="温室-装修.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

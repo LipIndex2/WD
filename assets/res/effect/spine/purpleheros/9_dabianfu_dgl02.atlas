@@ -1,0 +1,118 @@
+
+9_dabianfu_dgl02.png
+size: 515,515
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+9_4x4_bianfu_01_01
+  rotate: false
+  xy: 0, 387
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_02
+  rotate: false
+  xy: 0, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_03
+  rotate: false
+  xy: 129, 387
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_04
+  rotate: false
+  xy: 0, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_05
+  rotate: false
+  xy: 129, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_06
+  rotate: false
+  xy: 258, 387
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_07
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_08
+  rotate: false
+  xy: 129, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_09
+  rotate: false
+  xy: 258, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_10
+  rotate: false
+  xy: 387, 387
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_11
+  rotate: false
+  xy: 129, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_12
+  rotate: false
+  xy: 258, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_13
+  rotate: false
+  xy: 387, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_14
+  rotate: false
+  xy: 258, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_15
+  rotate: false
+  xy: 387, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+9_4x4_bianfu_01_16
+  rotate: false
+  xy: 387, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

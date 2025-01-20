@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,115" opaque="false" extention="Label" designImage="ui://g34coqigomua36" designImageOffsetY="-695">
+  <controller name="TitleState" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n6_m4fi" name="n6" src="m4fi33" fileName="image/QiZhiDi.png" xy="229,66" pivot="0.5,0.5" size="342,47" visible="false">
+      <gearDisplay controller="TitleState" pages="0"/>
+    </image>
+    <image id="n7_m4fi" name="n7" src="m4fi32" fileName="image/QiZhi.png" xy="275,67" scale="0.58,0.58" visible="false">
+      <gearDisplay controller="TitleState" pages="0"/>
+      <relation target="n8_m4fi" sidePair="right-left"/>
+    </image>
+    <image id="n2_que1" name="bg1" src="bdas15" fileName="image/DaHengFuHuang.png" xy="27,0" size="749,54">
+      <gearDisplay controller="TitleState" pages="0"/>
+    </image>
+    <image id="n3_que1" name="bg2" src="bdas12" fileName="image/DaHengFuLan.png" xy="45,0" size="707,54">
+      <gearDisplay controller="TitleState" pages="1"/>
+    </image>
+    <text id="n4_9dtw" name="Title" xy="350,6" pivot="0.5,0.5" size="100,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已解锁"/>
+    <text id="n8_m4fi" name="Integral" xy="318,71" pivot="0.5,0.5" size="162,34" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#fffcbd" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="英雄池积分:10">
+      <gearDisplay controller="TitleState" pages="0"/>
+    </text>
+    <component id="n9_omua" name="BtnIntegral" src="omua38" fileName="components/ButtonIntegral.xml" xy="518,73" scale="0.5,0.5" visible="false">
+      <gearDisplay controller="TitleState" pages="0"/>
+    </component>
+  </displayList>
+</component>

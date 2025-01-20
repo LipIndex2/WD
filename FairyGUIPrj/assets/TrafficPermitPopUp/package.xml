@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="263pythx">
+  <resources>
+    <component id="tm530" name="TrafficPermitPopUpView.xml" path="/" exported="true"/>
+    <image id="tm531" name="通行证2级弹窗.png" path="/"/>
+    <image id="tm532" name="TongXingZheng2JiDanChuangHengFu.png" path="/image/"/>
+    <component id="tm533" name="ListCell.xml" path="/components/" exported="true"/>
+    <image id="tm534" name="GengDuoBaoXiang.png" path="/image/"/>
+    <image id="tm535" name="GengDuoRenWu.png" path="/image/"/>
+    <image id="tm536" name="GengDuoYingXiongKa.png" path="/image/"/>
+    <image id="tm537" name="GengDuoZuanShi.png" path="/image/"/>
+    <image id="r41h8" name="TongXingZheng2JiDanChuangChaHua.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

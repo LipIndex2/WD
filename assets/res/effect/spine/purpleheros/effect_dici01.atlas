@@ -1,0 +1,27 @@
+
+effect_dici01.png
+size: 593,504
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+ci1
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: true
+  xy: 504, 378
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 504, 279
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1

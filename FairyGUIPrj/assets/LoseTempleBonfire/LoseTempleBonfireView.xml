@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n0_lgme" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,365" size="730,815">
+      <Label title="选 择"/>
+    </component>
+    <image id="n2_cr2x" name="n2" src="lgme2" fileName="image/XuanZeKuang1.png" xy="62,552"/>
+    <image id="n11_cr2x" name="n11" src="lgme2" fileName="image/XuanZeKuang1.png" xy="294,552"/>
+    <image id="n14_cr2x" name="n14" src="lgme2" fileName="image/XuanZeKuang1.png" xy="524,552"/>
+    <text id="n4_cr2x" name="title1" xy="87,737" size="174,89" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" leading="2" autoSize="height" strokeColor="#000000" strokeSize="3" text="为体力最低的"/>
+    <text id="n13_cr2x" name="title2" xy="319,737" size="174,89" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" leading="2" autoSize="height" strokeColor="#000000" strokeSize="3" text="为体力最低的"/>
+    <text id="n16_cr2x" name="title3" xy="549,737" size="174,89" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" leading="2" autoSize="height" strokeColor="#000000" strokeSize="3" text="为体力最低的"/>
+    <component id="n3_cr2x" name="BtnSelect1" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="24,1024" scale="0.7,0.7">
+      <Button title="选 择" titleFontSize="56"/>
+    </component>
+    <component id="n12_cr2x" name="BtnSelect2" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="256,1024" scale="0.7,0.7">
+      <Button title="选 择" titleFontSize="56"/>
+    </component>
+    <component id="n15_cr2x" name="BtnSelect3" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="486,1024" scale="0.7,0.7">
+      <Button title="选 择" titleFontSize="56"/>
+    </component>
+  </displayList>
+</component>

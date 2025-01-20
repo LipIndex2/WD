@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://1hxe9fq9opeg1">
+  <displayList>
+    <image id="n11_g6s3" name="bg" src="g6s3b" fileName="image/TuCeng20.png" xy="35,306"/>
+    <list id="n10_opeg" name="ShowList" xy="35,300" size="730,950" overflow="scroll" lineGap="-38" defaultItem="ui://1hxe9fq9opeg8" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item url="ui://1hxe9fq9opega"/>
+      <item/>
+      <item url="ui://1hxe9fq9opeg9"/>
+      <item/>
+      <item url="ui://1hxe9fq9opeg9"/>
+      <item/>
+      <item url="ui://1hxe9fq9opeg9"/>
+      <item/>
+    </list>
+    <image id="n2_opeg" name="deco1" src="opeg4" fileName="image/TuCeng18.png" xy="216,90" group="n7_opeg"/>
+    <image id="n3_opeg" name="deco2" src="opeg5" fileName="image/TuCeng19.png" xy="87,182" group="n7_opeg"/>
+    <image id="n4_opeg" name="deco3" src="opeg6" fileName="image/Zu1.png" xy="425,147" group="n7_opeg"/>
+    <image id="n0_opeg" name="bg1" src="opeg2" fileName="image/TuCeng14.png" xy="4,208" group="n7_opeg"/>
+    <image id="n1_opeg" name="bg2" src="opeg3" fileName="image/TuCeng16.png" xy="14,1211" group="n7_opeg"/>
+    <text id="n6_opeg" name="title" xy="303,235" pivot="0.5,0.5" size="196,64" group="n7_opeg" font="ui://wqx8l8xqut2h1b" fontSize="48" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" singleLine="true" text="渔岛地图">
+      <relation target="" sidePair=""/>
+    </text>
+    <group id="n7_opeg" name="board" xy="4,90" size="793,1249"/>
+    <component id="n8_opeg" name="BtnReturn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="13,1489"/>
+  </displayList>
+</component>

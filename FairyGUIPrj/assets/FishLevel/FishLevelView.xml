@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://dq72frzeg7l61">
+  <displayList>
+    <component id="n0_g7l6" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040"/>
+    <image id="n3_g7l6" name="bg1" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="87,451" size="625,296"/>
+    <image id="n11_g7l6" name="bg2" src="g7l6b4l" fileName="image/ShuXingHengFu.png" pkg="r5d9xy63" xy="84,406" size="632,62"/>
+    <image id="n10_g7l6" name="arrow" src="g7l62" fileName="image/KeHeChengJianTou.png" xy="481,570" pivot="0.5,0.5" scale="1,-1"/>
+    <text id="n5_g7l6" name="title" xy="128,410" pivot="0,0.5" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" vAlign="middle" strokeColor="#8e5043" strokeSize="3" text="等级加成"/>
+    <text id="n6_g7l6" name="cur_level" xy="149,511" pivot="0,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="当前等级"/>
+    <text id="n7_g7l6" name="next_level" xy="149,642" pivot="0,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="下一等级"/>
+    <richtext id="n8_g7l6" name="CurDesc" xy="370,511" pivot="0,0.5" size="272,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="出售鱼获得鱼币+20"/>
+    <richtext id="n9_g7l6" name="NextDesc" xy="370,645" pivot="0,0.5" size="272,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="出售鱼获得鱼币+40"/>
+    <text id="n2_g7l6" name="tips" xy="111,792" size="574,82" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" strokeColor="#491916" strokeSize="3" text="每次钓鱼可获得渔夫经验，鱼的品质越高。&#xA;经验越多"/>
+    <component id="n1_g7l6" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="247,972">
+      <Button title="确定"/>
+    </component>
+  </displayList>
+</component>

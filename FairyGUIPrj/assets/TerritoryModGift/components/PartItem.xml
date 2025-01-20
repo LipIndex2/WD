@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="177,211">
+  <displayList>
+    <image id="n0_8jet" name="n0" src="8jetl" fileName="image/TongYongHeiDi.png" xy="0,0" size="177,211"/>
+    <image id="n1_8jet" name="n1" src="8jetk" fileName="image/ItemCellBg2.png" xy="29,23"/>
+    <loader id="n2_8jet" name="Icon" xy="33,28" pivot="0.5,0.5" size="110,110" aspect="true" vAlign="middle" autoSize="true"/>
+    <text id="n4_8jet" name="Num" xy="34,143" pivot="0.5,0.5" size="108,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="5000"/>
+  </displayList>
+</component>

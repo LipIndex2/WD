@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n9_9quy" name="board" src="yjaqb4a" fileName="CommonBoard1.xml" pkg="r5d9xy63" xy="-30,166" size="863,1433">
+      <relation target="" sidePair="width-width,height-height"/>
+      <Label title="邻居"/>
+    </component>
+    <component id="n7_p1u3" name="BtnFlush" src="p1u3f" fileName="components/ButtonFlush.xml" xy="573,282" visible="false" touchable="false"/>
+    <component id="n8_p1u3" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="520,245" pivot="0.5,0.5" size="200,50" visible="false" touchable="false">
+      <Label titleFontSize="24"/>
+    </component>
+  </displayList>
+</component>

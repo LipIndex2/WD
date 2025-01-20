@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <list id="n11_uzf2" name="TabList" xy="86,1425" size="632,83" layout="row" overflow="scroll" scrollBarFlags="160" colGap="15" defaultItem="ui://db9woelguzf2g" autoItemSize="false" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

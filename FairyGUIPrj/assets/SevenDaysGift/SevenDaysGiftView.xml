@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <controller name="GiftState" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n22_m4fi" name="Spine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,431">
+      <gearXY controller="GiftState" pages="1" values="399,431" default="399,565"/>
+    </component>
+    <loader id="n20_m4fi" name="bg" xy="42,483" pivot="0.5,0.5" size="716,852" url="ui://pe9wi0j6m4fic" align="center" vAlign="middle" fill="scaleFree">
+      <gearSize controller="GiftState" pages="1" values="716,852,1,1" default="716,665,1,1"/>
+    </loader>
+    <image id="n15_7hb2" name="n15" src="7hb26" fileName="image/HuoDongBiaoTiHengFu.png" xy="15,428">
+      <gearXY controller="GiftState" pages="1" values="15,428" default="15,562"/>
+    </image>
+    <image id="n17_m5mw" name="n17" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="85,909" size="630,233">
+      <gearDisplay controller="GiftState" pages="1"/>
+    </image>
+    <text id="n16_7hb2" name="Name" xy="339,441" pivot="0.5,0.5" size="121,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="第5天">
+      <gearXY controller="GiftState" pages="1" values="339,441" default="339,575"/>
+    </text>
+    <text id="n18_m5mw" name="TipsShow" xy="109,943" size="432,94" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491914" leading="15" autoSize="none" text="可选择1个S卡英雄，即该英雄的3个英雄碎片">
+      <gearDisplay controller="GiftState" pages="1"/>
+    </text>
+    <list id="n11_7hb2" name="List" xy="95,596" pivot="0.5,0.5" size="609,259" layout="row" overflow="scroll" scroll="horizontal" colGap="20" defaultItem="ui://pe9wi0j67hb27">
+      <gearXY controller="GiftState" pages="0,1" values="95,728|95,596"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n19_m5mw" name="BtnReward" src="m5mwa" fileName="components/ButtonReward.xml" xy="579,935">
+      <gearDisplay controller="GiftState" pages="1"/>
+    </component>
+    <component id="n12_7hb2" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1182">
+      <gearXY controller="GiftState" pages="0,1" values="252,1041|252,1182"/>
+      <Button title="¥45"/>
+    </component>
+    <component id="n21_m4fi" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="359,1378">
+      <gearXY controller="GiftState" pages="1" values="359,1378" default="359,1276"/>
+    </component>
+  </displayList>
+</component>

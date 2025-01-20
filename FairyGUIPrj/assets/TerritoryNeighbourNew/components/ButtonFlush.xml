@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,74" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n6_o6bc" name="n6" src="o6bc9" fileName="image/SouSuo.png" xy="6,1" size="49,49" fillMethod="vt">
+      <relation target="" sidePair=""/>
+    </image>
+    <text id="n4_p1u3" name="n4" xy="0,46" pivot="0.5,0.5" size="61,29" font="ui://wqx8l8xqut2h1b" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" text="刷新"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

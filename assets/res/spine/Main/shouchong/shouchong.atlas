@@ -1,0 +1,48 @@
+
+shouchong.png
+size: 202,207
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: true
+  xy: 183, 120
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+fire_01
+  rotate: true
+  xy: 105, 0
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+fire_02
+  rotate: false
+  xy: 0, 13
+  size: 104, 97
+  orig: 104, 97
+  offset: 0, 0
+  index: -1
+fire_03
+  rotate: false
+  xy: 0, 111
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 110, 156
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 110, 102
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="304,95" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_iw5u" name="bg" src="9quy5" fileName="image/YeQianAnNiu.png" xy="0,0" size="304,95">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n4_iw5u" name="TitleUp" xy="70,20" pivot="0.5,0.5" size="164,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="特惠商品">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n5_iw5u" name="TitleDown" xy="70,20" pivot="0.5,0.5" size="164,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="特惠商品">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n6_iw5u" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="255,23"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

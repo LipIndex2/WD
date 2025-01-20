@@ -1,0 +1,48 @@
+
+effect_diaoyu_gx.png
+size: 979,928
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian9
+  rotate: false
+  xy: 390, 302
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+glow90
+  rotate: false
+  xy: 0, 0
+  size: 389, 376
+  orig: 389, 376
+  offset: 0, 0
+  index: -1
+glow91
+  rotate: false
+  xy: 552, 101
+  size: 377, 377
+  orig: 377, 377
+  offset: 0, 0
+  index: -1
+glow92
+  rotate: false
+  xy: 552, 479
+  size: 427, 449
+  orig: 427, 449
+  offset: 0, 0
+  index: -1
+glow93
+  rotate: false
+  xy: 0, 377
+  size: 551, 551
+  orig: 551, 551
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 390, 321
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

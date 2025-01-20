@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="198,279" designImage="ui://1di608jhopeg1" designImageOffsetX="-78" designImageOffsetY="-365">
+  <displayList>
+    <image id="n0_opeg" name="bg" src="opeg3" fileName="image/TuCeng119.png" xy="0,0"/>
+    <text id="n2_opeg" name="NameShow" xy="92,146" pivot="0.5,0.5" size="10,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n3_opeg" name="BtnBuy" src="opeg4" fileName="components/ButtonBuy.xml" xy="21,196"/>
+    <component id="n1_opeg" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="39,24"/>
+  </displayList>
+</component>

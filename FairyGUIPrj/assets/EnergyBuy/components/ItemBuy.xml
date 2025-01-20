@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="322,544" designImage="ui://exxoc5e9digc1" designImageOffsetX="-71" designImageOffsetY="-618">
+  <displayList>
+    <image id="n5_8i6c" name="bg" src="digc3" fileName="image/TiLiJieMianZi.png" xy="0,0" size="322,544"/>
+    <image id="n1_digc" name="icon" src="digc2" fileName="image/TiLiJieMianDaTaiYang.png" xy="132,108"/>
+    <text id="n2_digc" name="NumShow" xy="128,222" pivot="0.5,0.5" size="68,48" font="ui://wqx8l8xqut2h1b" fontSize="35" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="x15"/>
+    <text id="n3_digc" name="TimesShow" xy="63,368" size="200,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" align="center" autoClearText="true" text="今日剩余次数 3"/>
+    <component id="n4_digc" name="BtnBuy" src="digc6" fileName="components/ButtonBlue.xml" xy="13,418"/>
+  </displayList>
+</component>

@@ -1,0 +1,104 @@
+
+effect_el.png
+size: 482,356
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+ci
+  rotate: true
+  xy: 2, 2
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1
+ci1
+  rotate: false
+  xy: 157, 112
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 283, 117
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 289, 42
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 345, 117
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 407, 130
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+h5
+  rotate: false
+  xy: 407, 68
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+h6
+  rotate: false
+  xy: 351, 6
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+icon3
+  rotate: true
+  xy: 157, 13
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+icon4
+  rotate: true
+  xy: 223, 13
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+shuibao_1
+  rotate: true
+  xy: 2, 192
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+shuibao_2
+  rotate: true
+  xy: 2, 28
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+shuibao_3
+  rotate: false
+  xy: 157, 201
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+shuibao_4
+  rotate: true
+  xy: 321, 192
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1

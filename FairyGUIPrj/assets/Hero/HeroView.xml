@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageLayer="1">
+  <displayList>
+    <component id="n1_v001" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n27_6xgg" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n1_v001" sidePair="bottom-bottom"/>
+    </component>
+    <loader id="n73_gcet" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" url="ui://g34coqiggcet39" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </loader>
+    <list id="n10_bdas" name="List" xy="0,581" pivot="0.5,0" size="800,862" layout="flow_hz" overflow="scroll" margin="10,0,0,0" defaultItem="ui://g34coqigque11i" align="center" renderOrder="descent" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="n1_v001" sidePair="topext-top,bottomext-bottom"/>
+      <relation target="" sidePair="center-center"/>
+      <item/>
+    </list>
+    <loader id="n24_xd57" name="BattleClose" xy="0,0" pivot="0.5,0.5" size="801,1600" visible="false">
+      <relation target="n1_v001" sidePair="topext-top,bottomext-bottom"/>
+    </loader>
+    <component id="n17_yobf" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="103,20" group="n26_et29">
+      <Label title="23" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n18_yobf" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="303,20" group="n26_et29">
+      <Label title="23/60" icon="ui://5qhcb5rwtiuj63"/>
+    </component>
+    <component id="n19_yobf" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="532,20" group="n26_et29">
+      <Label title="23" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <group id="n26_et29" name="GpCurrency" xy="103,20" size="594,54" advanced="true">
+      <relation target="n27_6xgg" sidePair="top-top"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <image id="n52_pszf" name="bg_h1" src="pszf2w" fileName="image/DaKuang.png" xy="18,278" size="766,285" group="n65_pszf"/>
+    <image id="n53_pszf" name="bg_h2" src="pszf2x" fileName="image/ShangZhenYingXiongDi.png" xy="24,180" size="754,64" group="n65_pszf"/>
+    <text id="n58_pszf" name="title_h" xy="74,192" size="132,44" group="n65_pszf" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" strokeColor="#491914" strokeSize="3" text="上阵门徒"/>
+    <image id="n54_pszf" name="bg_bi" src="pszf2y" fileName="image/ShuXingTuBiaoXiaoDi.png" xy="389,232" pivot="0.5,0.5" anchor="true" size="68,59" group="n67_pszf" visible="false"/>
+    <loader id="n55_pszf" name="RaceIcon" xy="391,212" pivot="0.5,0.5" anchor="true" size="40,40" group="n67_pszf" scale="0.9,0.9" touchable="false" url="ui://rqg67c20ln425o" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n56_pszf" name="RaceName" xy="440,186" pivot="0,0.5" size="10,24" group="n67_pszf" font="ui://wqx8l8xqut2h1b" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text=""/>
+    <text id="n57_pszf" name="BlessDesc" xy="440,212" pivot="0,0.5" size="10,21" group="n67_pszf" font="ui://wqx8l8xqut2h1b" fontSize="18" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n66_pszf" name="ParentArrow" src="hgmz1z" fileName="components/parent.xml" xy="418,229" size="1,0" group="n67_pszf" scale="0.6,0.6"/>
+    <component id="n64_pszf" name="BtnBless" src="pszf30" fileName="components/BtnBless.xml" xy="565,176" size="186,52" group="n67_pszf" visible="false"/>
+    <text id="n72_j445" name="title_h" xy="613,190" size="92,32" group="n67_pszf" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" strokeColor="#491914" strokeSize="3" text="今日加成"/>
+    <group id="n67_pszf" name="GpBless" xy="355,176" size="396,83" group="n65_pszf" advanced="true"/>
+    <component id="n68_9s56" name="HeroItem1" src="bdas16" fileName="components/HeroItem.xml" xy="22,287" group="n65_pszf"/>
+    <component id="n69_9s56" name="HeroItem2" src="bdas16" fileName="components/HeroItem.xml" xy="209,287" group="n65_pszf"/>
+    <component id="n70_9s56" name="HeroItem3" src="bdas16" fileName="components/HeroItem.xml" xy="398,287" group="n65_pszf"/>
+    <component id="n71_9s56" name="HeroItem4" src="bdas16" fileName="components/HeroItem.xml" xy="585,287" group="n65_pszf"/>
+    <group id="n65_pszf" name="GpHeros" xy="18,176" size="766,387" advanced="true">
+      <relation target="n1_v001" sidePair="top-top"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <image id="n39_ox88" name="n39" src="ox8821" fileName="image/YingXiongTian.png" xy="28,141" group="n51_ox88"/>
+    <text id="n50_ox88" name="n50" xy="324,381" size="148,49" group="n51_ox88" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#e9cfb2" align="center" strokeColor="#a68b6b" strokeSize="3" text="上阵英雄"/>
+    <component id="n46_ox88" name="HeroBattleItem1" src="ox8822" fileName="components/HeroBattleItem.xml" xy="68,178" group="n51_ox88"/>
+    <component id="n49_ox88" name="HeroBattleItem2" src="ox8822" fileName="components/HeroBattleItem.xml" xy="424,178" group="n51_ox88"/>
+    <component id="n48_ox88" name="HeroBattleItem3" src="ox8822" fileName="components/HeroBattleItem.xml" xy="68,419" group="n51_ox88"/>
+    <component id="n47_ox88" name="HeroBattleItem4" src="ox8822" fileName="components/HeroBattleItem.xml" xy="424,419" group="n51_ox88"/>
+    <component id="n45_ox88" name="BtndayWish" src="ox8828" fileName="components/BtndayWish.xml" xy="273,287" group="n51_ox88"/>
+    <group id="n51_ox88" name="GpNewHero" xy="28,141" size="744,536" visible="false" advanced="true">
+      <relation target="n1_v001" sidePair="top-top"/>
+    </group>
+  </displayList>
+  <transition name="HeroItemAnim">
+    <item time="0" type="Scale" target="n68_9s56" tween="true" startValue="1,1" endValue="1.1,1.1" duration="12"/>
+    <item time="0" type="Scale" target="n69_9s56" tween="true" startValue="1,1" endValue="1.1,1.1" duration="12"/>
+    <item time="0" type="Scale" target="n70_9s56" tween="true" startValue="1,1" endValue="1.1,1.1" duration="12"/>
+    <item time="0" type="Scale" target="n71_9s56" tween="true" startValue="1,1" endValue="1.1,1.1" duration="12"/>
+    <item time="12" type="Scale" target="n68_9s56" tween="true" startValue="1.1,1.1" endValue="1,1" duration="12" yoyo="true"/>
+    <item time="12" type="Scale" target="n69_9s56" tween="true" startValue="1.1,1.1" endValue="1,1" duration="12" yoyo="true"/>
+    <item time="12" type="Scale" target="n70_9s56" tween="true" startValue="1.1,1.1" endValue="1,1" duration="12" yoyo="true"/>
+    <item time="12" type="Scale" target="n71_9s56" tween="true" startValue="1.1,1.1" endValue="1,1" duration="12" yoyo="true"/>
+  </transition>
+</component>

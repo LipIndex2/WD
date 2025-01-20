@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,62" extention="Button" designImage="ui://exeypfksfznd7" designImageOffsetX="-354" designImageOffsetY="-768">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_fznd" name="bg" src="fznd8" fileName="image/JuXing.png" xy="0,0" size="210,62">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <richtext id="n2_fznd" name="title" xy="0,0" pivot="0.5,0.5" size="210,62" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="简体中文">
+      <relation target="" sidePair="width-width"/>
+    </richtext>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

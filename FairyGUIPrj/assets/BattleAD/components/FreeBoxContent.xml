@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="854,835">
+  <displayList>
+    <image id="n3_oabk" name="n3" src="zysfb4h" fileName="image/2Ji3JiBanZi.png" pkg="r5d9xy63" xy="89,270" size="730,565" group="n15_oabk"/>
+    <image id="n12_oabk" name="n12" src="oabkt" fileName="Image/CanDouXiaoChou.png" xy="0,0" group="n15_oabk"/>
+    <component id="n1_ocqm" name="CloseBtn" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="145,691" group="n15_oabk">
+      <Button title="Cruel refusal"/>
+    </component>
+    <component id="n5_oabk" name="SkillItem" src="oabkl" fileName="components/SkillItem.xml" xy="54,485" group="n15_oabk"/>
+    <component id="n8_oabk" name="GetBtn" src="oabkp" fileName="components/ButtonOrange.xml" xy="463,692" group="n15_oabk">
+      <Button title="Get"/>
+    </component>
+    <group id="n15_oabk" name="Group" xy="0,0" size="854,835" advanced="true"/>
+  </displayList>
+</component>

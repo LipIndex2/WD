@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="n1t70xws">
+  <resources>
+    <component id="uvlm0" name="HeroGeneInfoView.xml" path="/" exported="true"/>
+    <image id="uvlm2" name="XiaoKuangDan.png" path="/image/" scale="9grid" scale9grid="72,32,144,64"/>
+    <image id="rty27" name="ZhuShuXingTiao.png" path="/image/"/>
+    <image id="hprmb" name="ShuZiDi.png" path="/image/" scale="9grid" scale9grid="30,9,60,18"/>
+    <image id="9s56d" name="基因弹窗改_.jpg" path="/"/>
+    <image id="9s56i" name="JuXing.png" path="/image/" scale="9grid" scale9grid="29,20,58,40"/>
+    <image id="9s56j" name="YuanJiao.png" path="/image/"/>
+    <image id="9s56k" name="ChuanCheng1.png" path="/image/" exported="true"/>
+    <image id="9s56l" name="ChuanCheng2.png" path="/image/" exported="true"/>
+    <image id="9s56m" name="ChuanCheng3.png" path="/image/" exported="true"/>
+    <image id="9s56n" name="ChuanChengAn1.png" path="/image/" exported="true"/>
+    <image id="9s56o" name="ChuanChengAn2.png" path="/image/" exported="true"/>
+    <image id="9s56p" name="ChuanChengAn3.png" path="/image/" exported="true"/>
+    <component id="9s56q" name="Inherit.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,62 @@
+
+11048.png
+size: 252,513
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: false
+  xy: 0, 331
+  size: 226, 182
+  orig: 226, 182
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 227, 467
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 0, 235
+  size: 226, 95
+  orig: 226, 95
+  offset: 0, 0
+  index: -1
+tieqiu01
+  rotate: false
+  xy: 0, 106
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+tieqiu02
+  rotate: false
+  xy: 126, 106
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 105, 144
+  orig: 105, 144
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 145, 28
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: false
+  xy: 197, 28
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1

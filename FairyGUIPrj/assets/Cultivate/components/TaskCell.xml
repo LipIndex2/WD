@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="682,188" designImage="ui://db9woelguzf28" designImageOffsetX="-58" designImageOffsetY="-622" designImageLayer="1">
+  <displayList>
+    <image id="n0_uzf2" name="n0" src="uzf2c" fileName="image/DiKuang02.png" xy="0,0" size="682,188"/>
+    <text id="n1_uzf2" name="Name" xy="27,14" pivot="0,0.5" size="112,38" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="获得一个"/>
+    <list id="n2_uzf2" name="ItemList" xy="19,61" size="396,117" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n3_uzf2" name="ProgressBar" src="uzf2f" fileName="components/BarTask.xml" xy="475,101" size="184,37">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n4_uzf2" name="BtnGetReward" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="467,79" size="194,85">
+      <Button title="领取"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="670,75" designImage="ui://ufz1cam7omua1" designImageOffsetX="-64" designImageOffsetY="-626" designImageLayer="1">
+  <displayList>
+    <image id="n0_omua" name="bg" src="omua2" fileName="image/JuXing.png" xy="0,0" size="670,75"/>
+    <text id="n5_omua" name="n5" xy="215,15" pivot="0.5,0.5" size="68,44" group="n8_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#b6fc87" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="普通"/>
+    <text id="n6_omua" name="n6" xy="381,15" pivot="0.5,0.5" size="68,44" group="n8_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#68e7fb" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="稀有"/>
+    <text id="n7_omua" name="n7" xy="548,15" pivot="0.5,0.5" size="68,44" group="n8_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#f4a0ff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="史诗"/>
+    <group id="n8_omua" name="Color" xy="215,15" size="401,44" visible="false" advanced="true"/>
+    <text id="n1_omua" name="Lv" xy="40,17" pivot="0.5,0.5" size="89,44" group="n9_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="等级1"/>
+    <text id="n2_omua" name="General" xy="217,18" pivot="0.5,0.5" size="62,42" group="n9_omua" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" autoClearText="true" text="100"/>
+    <text id="n3_omua" name="Rare" xy="383,18" pivot="0.5,0.5" size="62,42" group="n9_omua" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" autoClearText="true" text="200"/>
+    <text id="n4_omua" name="Epic" xy="551,18" pivot="0.5,0.5" size="62,42" group="n9_omua" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" autoClearText="true" text="300"/>
+    <group id="n9_omua" name="Integral" xy="40,17" size="573,44" visible="false" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,27 @@
+
+libaohuizong.png
+size: 69,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jinbi
+  rotate: false
+  xy: 35, 12
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+libao
+  rotate: false
+  xy: 0, 50
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: true
+  xy: 0, 0
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1

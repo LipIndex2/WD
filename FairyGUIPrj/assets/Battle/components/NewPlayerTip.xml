@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="566,131" extention="Label">
+  <displayList>
+    <image id="n1_tlif" name="n1" src="jxlbl" fileName="image/SkillQua3.png" xy="0,0" size="566,131"/>
+    <text id="n0_tlif" name="title" xy="0,0" size="566,131" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491914" align="center" vAlign="middle" autoSize="none" singleLine="true" text="三消不够强力时，不如尝试下五消吧">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+</component>

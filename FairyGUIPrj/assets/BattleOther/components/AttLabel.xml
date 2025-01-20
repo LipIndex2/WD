@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,46" extention="Label" designImage="ui://8r5kai8opp4u1" designImageOffsetX="-24" designImageOffsetY="-560">
+  <displayList>
+    <image id="n0_pp4u" name="n0" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="0,0" size="350,46"/>
+    <component id="n3_pp4u" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="13,23"/>
+    <richtext id="n2_pp4u" name="title" xy="49,1" pivot="0,0.5" size="288,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="全体伤害加成：+99%"/>
+  </displayList>
+</component>

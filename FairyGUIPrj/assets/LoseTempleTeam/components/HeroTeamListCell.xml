@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="755,300">
+  <displayList>
+    <list id="n0_en2l" name="list" xy="0,0" size="755,300" layout="flow_hz" overflow="scroll" scrollBarFlags="928" lineGap="5" colGap="8" defaultItem="ui://gn62pyk3lgmef" renderOrder="descent" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

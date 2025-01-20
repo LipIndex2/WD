@@ -1,0 +1,83 @@
+
+11056.png
+size: 372,270
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dun
+  rotate: true
+  xy: 271, 190
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 0, 11
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 215, 128
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 252, 128
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+mashen
+  rotate: true
+  xy: 184, 23
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+matou
+  rotate: false
+  xy: 289, 58
+  size: 83, 131
+  orig: 83, 131
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 73, 127
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 215, 193
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 271, 0
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 73, 9
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 0, 33
+  size: 72, 237
+  orig: 72, 237
+  offset: 0, 0
+  index: -1

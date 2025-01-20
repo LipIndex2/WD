@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1500" designImage="ui://zriuspr6poct2k" designImageAlpha="48" designImageLayer="1">
+  <displayList>
+    <component id="n17_9321" name="Board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="6,-64"/>
+    <list id="n14_poct" name="grouplist" xy="61,347" size="222,935" overflow="scroll" lineGap="11" defaultItem="ui://zriuspr6poct2o" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n15_n451" name="itemlist" xy="307,333" size="444,949" overflow="scroll" lineGap="7" defaultItem="ui://zriuspr6n4512s" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

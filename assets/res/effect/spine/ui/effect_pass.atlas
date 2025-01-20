@@ -1,0 +1,55 @@
+
+effect_pass.png
+size: 459,461
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+01
+  rotate: false
+  xy: 42, 51
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 97, 51
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 47
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 434, 144
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 264, 2
+  size: 168, 177
+  orig: 168, 177
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 2, 85
+  size: 374, 260
+  orig: 374, 260
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: true
+  xy: 264, 181
+  size: 278, 193
+  orig: 278, 193
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="119,78" pivot="0.5,0.5" extention="Button" designImageOffsetX="-1" designImageOffsetY="-334">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_tiuj" name="bg" src="tiuj5l" fileName="image/act/TuBiaoQiZhiDi.png" xy="0,0" pivot="0.5,0.5" scale="-1,1"/>
+    <loader id="n4_tiuj" name="icon" xy="5,-17" size="108,108" url="ui://dvcfzaq1tiuj5q" autoSize="true" clearOnPublish="true"/>
+    <image id="n5_tiuj" name="bg_b" src="tiuj5v" fileName="image/act/QiPao.png" xy="40,-51" pivot="0.5,0.5" group="n9_tiuj" scale="-1,1"/>
+    <loader id="n7_tiuj" name="IconShow" xy="50,-45" pivot="0.5,0.5" size="38,42" group="n9_tiuj" scale="0.8,0.8" url="ui://5qhcb5rwtiuj5w" align="center" vAlign="middle" fill="scaleFree" autoSize="true"/>
+    <text id="n8_tiuj" name="NumShow" xy="94,-44" pivot="0.5,0.5" size="59,39" group="n9_tiuj" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="350"/>
+    <group id="n9_tiuj" name="GpBubble" xy="40,-51" size="119,66" visible="false" advanced="true"/>
+    <text id="n10_tiuj" name="TimeShow" xy="5,63" pivot="0.5,0.5" size="116,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="02:00:48"/>
+    <component id="n11_k23u" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="24,0"/>
+    <component id="n12_jviy" name="timer" src="k2g826" fileName="TimeMeterCu.xml" pkg="1kdklxk3" xy="-746,-127"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

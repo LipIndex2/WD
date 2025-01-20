@@ -1,0 +1,41 @@
+
+haitu.png
+size: 182,85
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+e
+  rotate: true
+  xy: 152, 21
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 152, 1
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+haitu
+  rotate: false
+  xy: 0, 0
+  size: 151, 85
+  orig: 151, 85
+  offset: 0, 0
+  index: -1
+wei
+  rotate: true
+  xy: 152, 62
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 152, 38
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

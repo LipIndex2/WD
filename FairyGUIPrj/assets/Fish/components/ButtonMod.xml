@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,118" pivot="0.5,0.5" extention="Button" designImage="ui://qrbaplf6bcxit" designImageOffsetX="-20" designImageOffsetY="-935">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_ule5" name="icon" xy="0,0" pivot="0.5,0.5" size="118,118" url="ui://qrbaplf6bcxiv" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n5_jpdo" name="title" xy="-3,86" pivot="0.5,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="免费面包">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <component id="n6_gu7e" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="103,15"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

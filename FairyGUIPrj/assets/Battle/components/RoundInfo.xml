@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,180" designImage="ui://qllfrhsrwl916b" designImageOffsetY="-169" designImageLayer="1">
+  <displayList>
+    <image id="n31_jxlb" name="n31" src="jxlbg" fileName="image/TianShuDi.png" xy="0,46" size="800,139">
+      <relation target="" sidePair="width-width,center-center"/>
+    </image>
+    <image id="n32_jxlb" name="QiZi" src="jxlba" fileName="image/MuBiaoicon.png" xy="735,134" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <component id="n35_jxlb" name="RountProgress" src="68535p" fileName="components/RoundProgress.xml" xy="354,97" pivot="0.5,0.5" anchor="true" touchable="false">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <text id="n47_6853" name="MaxRoundText" xy="734,80" pivot="0.5,0.5" anchor="true" size="96,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491914" align="center" vAlign="middle" autoClearText="true" text="第10天">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+</component>

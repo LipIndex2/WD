@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://2keej48gpmm81">
+  <displayList>
+    <loader id="n0_pmm8" name="bg" xy="0,190" size="800,1220"/>
+    <text id="n2_pmm8" name="title" xy="322,201" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="钓鱼图集"/>
+    <text id="n3_pmm8" name="title_p" xy="392,319" pivot="0,0.5" size="124,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="收集进度："/>
+    <component id="n4_pmm8" name="ProgressShow" src="pmm85" fileName="components/ProgressShow.xml" xy="513,320" size="220,36">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n6_e0iz" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="682,92"/>
+    <list id="n5_pmm8" name="ShowList" xy="144,374" size="594,900" overflow="scroll" lineGap="23" defaultItem="ui://2keej48gpmm89" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n7_v78a" name="BgType" src="v78ac" fileName="image/TuCeng47.png" xy="0,347" size="275,900" visible="false"/>
+    <component id="n1_pmm8" name="BtnType" src="pmm84" fileName="components/ButtonType.xml" xy="6,284"/>
+    <component id="n11_dxc4" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="275,290"/>
+    <list id="n9_v78a" name="TypeList" xy="22,390" size="226,813" visible="false" overflow="scroll" lineGap="18" defaultItem="ui://2keej48gv78af" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,48 @@
+
+effect_boss_in.png
+size: 1024,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+icon
+  rotate: false
+  xy: 929, 97
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 486, 58
+  size: 441, 98
+  orig: 441, 98
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 19
+  size: 482, 137
+  orig: 482, 137
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 929, 36
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 486, 2
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 547, 7
+  size: 293, 49
+  orig: 293, 49
+  offset: 0, 0
+  index: -1

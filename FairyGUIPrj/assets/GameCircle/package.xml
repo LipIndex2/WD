@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9hvw4r5c">
+  <resources>
+    <component id="kj0y0" name="GameCircleView.xml" path="/" exported="true"/>
+    <image id="kj0y1" name="萌新.jpg" path="/"/>
+    <image id="kj0y2" name="签到.jpg" path="/"/>
+    <image id="kj0y3" name="首页.jpg" path="/"/>
+    <image id="kj0y4" name="bg.png" path="/image/"/>
+    <image id="kj0y5" name="YouXiJi.png" path="/image/"/>
+    <image id="kj0y6" name="HengFu.png" path="/image/"/>
+    <image id="kj0y7" name="LiHua.png" path="/image/"/>
+    <image id="kj0y8" name="CaiDai.png" path="/image/"/>
+    <image id="kj0y9" name="YuanHuaMengXin.png" path="/image/"/>
+    <image id="kj0ya" name="YuanHuaQianDao.png" path="/image/"/>
+    <image id="kj0yb" name="YuanHuaShouYe.png" path="/image/"/>
+    <image id="kj0yc" name="_LocYiShuZi_ShouYe01.png" path="/image/"/>
+    <image id="kj0yd" name="_LocYiShuZi_ShouYe02.png" path="/image/"/>
+    <image id="kj0ye" name="_LocYiShuZi_MengXin.png" path="/image/"/>
+    <image id="kj0yf" name="_LocYiShuZi_QianDao.png" path="/image/"/>
+    <image id="kj0yg" name="_Loc5.png" path="/image/"/>
+    <image id="kj0yh" name="DiGuang.png" path="/image/"/>
+    <image id="kj0yi" name="bg02.png" path="/image/" scale="9grid" scale9grid="27,25,54,50"/>
+    <image id="kj0yj" name="HengFu02.png" path="/image/" scale="9grid" scale9grid="13,16,26,32"/>
+    <image id="kj0yk" name="FenGeXian.png" path="/image/"/>
+    <component id="kj0yl" name="SignInPanel.xml" path="/"/>
+    <image id="kj0ym" name="TuoYuan10.png" path="/image/"/>
+    <image id="kj0yn" name="JinDuTiao01.png" path="/image/" scale="9grid" scale9grid="12,10,24,20"/>
+    <image id="kj0yo" name="JinDuTiao02.png" path="/image/" scale="9grid" scale9grid="11,8,22,16"/>
+    <image id="kj0yp" name="JuXing31.png" path="/image/"/>
+    <component id="kj0yq" name="SignInItem.xml" path="/components/" exported="true"/>
+    <component id="kj0yr" name="ProgressBar.xml" path="/components/"/>
+    <component id="kj0ys" name="ButtonTab.xml" path="/components/" exported="true"/>
+    <image id="kj0yt" name="YeQian2.png" path="/image/"/>
+    <image id="kj0yu" name="YeQian1.png" path="/image/" scale="9grid" scale9grid="49,20,98,40"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

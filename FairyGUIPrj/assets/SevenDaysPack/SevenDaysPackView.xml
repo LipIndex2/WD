@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://pjrxftt97hb2c" designImageLayer="1">
+  <displayList>
+    <component id="n1_7hb2" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <loader id="n0_7hb2" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="n1_7hb2" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n12_7hb2" name="Spine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="400,271">
+      <relation target="n1_7hb2" sidePair="top-top"/>
+    </component>
+    <image id="n9_7hb2" name="bg_down" src="7hb29" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n1_7hb2" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n2_7hb2" name="n2" src="7hb24" fileName="image/HengFu.png" xy="179,20" group="n11_7hb2"/>
+    <image id="n7_7hb2" name="n7" src="7hb28" fileName="image/TuCeng.png" xy="0,272" size="800,38" group="n11_7hb2"/>
+    <image id="n4_7hb2" name="n4" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="333,268" size="193,54" group="n11_7hb2" scale="0.8,0.8"/>
+    <image id="n5_7hb2" name="n5" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="314,266" group="n11_7hb2" scale="0.8,0.8"/>
+    <text id="n3_7hb2" name="Name" xy="279,26" pivot="0.5,0.5" size="242,46" group="n11_7hb2" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="七日获史诗整卡"/>
+    <text id="n14_m4fi" name="Describe" xy="395,224" pivot="0.5,0.5" size="10,42" group="n11_7hb2" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#faefaf" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n6_7hb2" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="336,268" size="151,42" group="n11_7hb2" touchable="false">
+      <Label title="3天03时" titleColor="#c4ff26" titleFontSize="22"/>
+    </component>
+    <group id="n11_7hb2" name="n11" xy="0,20" size="800,304" advanced="true">
+      <relation target="n1_7hb2" sidePair="top-top"/>
+    </group>
+    <list id="n8_7hb2" name="list" xy="10,311" size="790,768" layout="flow_hz" overflow="scroll" scrollBarFlags="2208" margin="15,0,0,0" lineGap="15" colGap="10" defaultItem="ui://pjrxftt97hb2a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n13_7hb2" name="GiftItem" src="7hb2g" fileName="components/GiftItem2.xml" xy="124,1088"/>
+    <component id="n10_7hb2" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1488">
+      <relation target="n1_7hb2" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,102 @@
+import { HouZaiTanXianView } from 'modules/ActHouZaiTanXian/HouZaiTanXianView';
+import { ActivityCombatView } from 'modules/ActivityCombat/ActivityCombatView';
+import { AdFreeView } from 'modules/AdFree/AdFreeView';
+import { ArenaMainView } from 'modules/Arena/ArenaMainView';
+import { ArenaPassView } from 'modules/ArenaPass/ArenaPassView';
+import { CavePassView } from 'modules/CavePass/CavePassView';
+import { CultivateView } from 'modules/Cultivate/CultivateView';
+import { DefensePassCheckView } from 'modules/DefensePassCheck/DefensePassCheckView';
+import { FarmView } from 'modules/Farm/FarmView';
+import { FirstChargeView } from 'modules/FirstCharge/FirstChargeView';
+import { GameCircleView } from 'modules/GameCircle/GameCircleView';
+import { GeneGiftView } from 'modules/GeneGift/GeneGiftView';
+import { GeneOrientationView } from 'modules/GeneOrientation/GeneOrientationView';
+import { GeneTaskView } from 'modules/GeneTask/GeneTaskView';
+import { GrowPassView } from 'modules/GrowPass/GrowPassView';
+import { GrowUpGiftView } from 'modules/GrowUpGift/GrowUpGiftView';
+import { HeroTrialView } from 'modules/HeroTrial/HeroTrialView';
+import { InstituteView } from 'modules/Institute/InstituteView';
+import { InviteFriendView } from 'modules/InviteFriend/InviteFriendView';
+import { LimitedRechargeView } from 'modules/LimitedRecharge/LimitedRechargeView';
+import { MiningView } from 'modules/Mining/MiningView';
+import { NewPackView } from 'modules/NewPack/NewPackView';
+import { OpenServiceSevenDayView } from 'modules/OpenServiceSevenDay/OpenServiceSevenDayView';
+import { PlaceReturnsView } from 'modules/PlaceReturns/PlaceReturnsView';
+import { RoundActivityView } from 'modules/RoundActivity/RoundActivityView';
+import { SavingPotView } from 'modules/SavingPot/SavingPotView';
+import { SevenDaysPackView } from 'modules/SevenDaysPack/SevenDaysPackView';
+import { TrafficPermitView } from 'modules/TrafficPermit/TrafficPermitView';
+import { DeepCeleGiftView } from 'modules/deep_cele/DeepCeleGiftView';
+import { DeepCeleView } from 'modules/deep_cele/DeepCeleView';
+import { DefenseHomeView } from 'modules/defense_home/DefenseHomeView';
+import { FishView } from 'modules/fish/FishView';
+import { HeroView } from 'modules/hero/HeroView';
+import { MailView } from 'modules/mail/MailView';
+import { MainActCollectView } from 'modules/main/MainActCollectView';
+import { MainView } from 'modules/main/MainView';
+import { RankView } from 'modules/rank/RankView';
+import { AddDesktopView } from 'modules/role/AddDesktopView';
+import { SevenDayHeroView } from 'modules/seven_day_hero/SevenDayHeroView';
+import { ShopView } from 'modules/shop/ShopView';
+import { TaskView } from 'modules/task/TaskView';
+import { TerritoryModGiftView } from 'modules/territory/TerritoryModGiftView';
+import { TerritoryView } from 'modules/territory/TerritoryView';
+import { BaseCtrl, regMod } from './BaseCtrl';
+import { Mod } from './ModuleDefine';
+import { DrawCardView } from 'modules/DrawCard/DrawCardView';
+
+export class ModRegister extends BaseCtrl {
+    ModCfg(): regMod[] {
+        return [
+            { modKey: Mod.Main.View, vClass: MainView },
+            { modKey: Mod.Shop.View, vClass: ShopView },
+            { modKey: Mod.Hero.View, vClass: HeroView },
+            { modKey: Mod.SevenDayHero.View, vClass: SevenDayHeroView },
+            { modKey: Mod.DeepCele.View, vClass: DeepCeleView },
+            { modKey: Mod.DeepCeleGift.View, vClass: DeepCeleGiftView },
+            { modKey: Mod.SavingPot.View, vClass: SavingPotView },
+            { modKey: Mod.GrowUpGift.View, vClass: GrowUpGiftView },
+            { modKey: Mod.PlaceReturns.View, vClass: PlaceReturnsView },
+            { modKey: Mod.GrowPass.View, vClass: GrowPassView },
+            { modKey: Mod.OpenServiceSevenDay.View, vClass: OpenServiceSevenDayView },
+            { modKey: Mod.Task.View, vClass: TaskView },
+            { modKey: Mod.TrafficPermit.View, vClass: TrafficPermitView },
+            { modKey: Mod.ActivityCombat.View, vClass: ActivityCombatView },
+            { modKey: Mod.NewPack.View, vClass: NewPackView },
+            { modKey: Mod.FirstCharge.View, vClass: FirstChargeView },
+            { modKey: Mod.MainOther.Mail, vClass: MailView },
+            { modKey: Mod.RoundActivity.View, vClass: RoundActivityView },
+            { modKey: Mod.Mail.View, vClass: MailView },
+            { modKey: Mod.Mail.Normal, vClass: MailView },
+            { modKey: Mod.AdFree.View, vClass: AdFreeView },
+            { modKey: Mod.Rank.View, vClass: RankView },
+            { modKey: Mod.InviteFriend.View, vClass: InviteFriendView },
+            { modKey: Mod.HouZai.View, vClass: HouZaiTanXianView },
+            { modKey: Mod.GeneTask.View, vClass: GeneTaskView },
+            { modKey: Mod.LimitedRecharge.View, vClass: LimitedRechargeView },
+            { modKey: Mod.SevenDaysPack.View, vClass: SevenDaysPackView },
+            { modKey: Mod.GeneGift.View, vClass: GeneGiftView },
+            { modKey: Mod.MainActCollect.Gift, vClass: MainActCollectView },
+            { modKey: Mod.MainActCollect.activity, vClass: MainActCollectView },
+            { modKey: Mod.Mining.View, vClass: MiningView },
+            { modKey: Mod.Territory.View, vClass: TerritoryView },
+            { modKey: Mod.GeneOrientation.View, vClass: GeneOrientationView },
+            { modKey: Mod.CavePass.View, vClass: CavePassView },
+            { modKey: Mod.HeroTrial.View, vClass: HeroTrialView },
+            { modKey: Mod.Institute.View, vClass: InstituteView },
+            { modKey: Mod.TerritoryModGift.View, vClass: TerritoryModGiftView },
+            { modKey: Mod.ActivityCombat.Defense, vClass: DefenseHomeView },
+            { modKey: Mod.DefensePassCheck.View, vClass: DefensePassCheckView },
+            { modKey: Mod.Cultivate.View, vClass: CultivateView },
+            { modKey: Mod.Farm.View, vClass: FarmView },
+            { modKey: Mod.Fish.View, vClass: FishView },
+            { modKey: Mod.MainOther.WeChatGameHub, vClass: GameCircleView },
+            { modKey: Mod.Arena.View, vClass: ArenaMainView },
+            { modKey: Mod.ArenaPass.View, vClass: ArenaPassView },
+            { modKey: Mod.AddDesktop.View, vClass: AddDesktopView },
+            { modKey: Mod.DrawCard.View, vClass: DrawCardView },
+        ]
+    }
+}
+
+

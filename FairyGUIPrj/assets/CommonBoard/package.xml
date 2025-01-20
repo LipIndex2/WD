@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r5d9xy63">
+  <resources>
+    <component id="tpftb40" name="ButtonClose.xml" path="/components/"/>
+    <image id="tpftb41" name="GuanBi.png" path="/image/"/>
+    <component id="tpftb43" name="CommonBoard2.xml" path="/" exported="true"/>
+    <component id="tpftb44" name="CommonBoard3.xml" path="/" exported="true"/>
+    <image id="tm531" name="XiaoKuangDan.png" path="/image/" exported="true" scale="9grid" scale9grid="72,32,144,64"/>
+    <image id="o2mfb46" name="Di.png" path="/image/" exported="true" scale="9grid" scale9grid="47,51,26,25"/>
+    <image id="o2mfb49" name="HuoDongBiaoTiHengFu.png" path="/image/" exported="true"/>
+    <component id="yjaqb4a" name="CommonBoard1.xml" path="/" exported="true"/>
+    <component id="yjaqb4b" name="ButtonTab1.xml" path="/components/" exported="true"/>
+    <image id="yjaqb4c" name="YeQian1.png" path="/image/"/>
+    <image id="yjaqb4d" name="YeQian2.png" path="/image/"/>
+    <component id="kqn1b4e" name="CommonBoard4.xml" path="/" exported="true"/>
+    <component id="kqn1b4f" name="parent.xml" path="/components/"/>
+    <component id="t6tob4g" name="CommonBoard5.xml" path="/" exported="true"/>
+    <image id="zysfb4h" name="2Ji3JiBanZi.png" path="/image/" exported="true" scale="9grid" scale9grid="167,343,464,492"/>
+    <image id="zysfb4i" name="2JiBanZiHua1.png" path="/image/"/>
+    <image id="zysfb4j" name="2JiBanZiHua2.png" path="/image/"/>
+    <image id="g7l6b4l" name="ShuXingHengFu.png" path="/image/" exported="true" scale="9grid" scale9grid="96,15,192,30"/>
+  </resources>
+  <publish name="">
+    <atlas name="background" index="0"/>
+  </publish>
+</packageDescription>

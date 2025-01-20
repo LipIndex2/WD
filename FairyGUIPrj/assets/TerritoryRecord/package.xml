@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8ckzzwsb">
+  <resources>
+    <component id="jlw60" name="TerritoryRecordView.xml" path="/" exported="true"/>
+    <image id="jlw61" name="标注4.png" path="/"/>
+    <image id="jlw62" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <component id="jlw63" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="jlw64" name="TuCeng37.png" path="/image/"/>
+    <image id="jlw65" name="TuCeng38.png" path="/image/"/>
+    <component id="jlw66" name="ButtonGo.xml" path="/components/"/>
+    <image id="eioq7" name="Zu42.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

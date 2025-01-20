@@ -1,0 +1,132 @@
+
+effect_el_du.png
+size: 958,504
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dd/dd_00114
+  rotate: false
+  xy: 135, 89
+  size: 10, 10
+  orig: 248, 300
+  offset: 125, 110
+  index: -1
+dd/dd_00116
+  rotate: false
+  xy: 135, 101
+  size: 29, 47
+  orig: 248, 300
+  offset: 115, 89
+  index: -1
+dd/dd_00118
+  rotate: false
+  xy: 908, 67
+  size: 47, 69
+  orig: 248, 300
+  offset: 104, 79
+  index: -1
+dd/dd_00121
+  rotate: true
+  xy: 2, 26
+  size: 122, 131
+  orig: 248, 300
+  offset: 85, 48
+  index: -1
+dd/dd_00124
+  rotate: true
+  xy: 166, 9
+  size: 142, 196
+  orig: 248, 300
+  offset: 64, 15
+  index: -1
+dd/dd_00127
+  rotate: false
+  xy: 751, 175
+  size: 155, 190
+  orig: 248, 300
+  offset: 62, 28
+  index: -1
+dd/dd_00130
+  rotate: true
+  xy: 201, 331
+  size: 171, 172
+  orig: 248, 300
+  offset: 52, 48
+  index: -1
+dd/dd_00132
+  rotate: true
+  xy: 570, 323
+  size: 179, 165
+  orig: 248, 300
+  offset: 46, 45
+  index: -1
+dd/dd_00134
+  rotate: false
+  xy: 375, 152
+  size: 164, 178
+  orig: 248, 300
+  offset: 39, 38
+  index: -1
+dd/dd_00138
+  rotate: true
+  xy: 2, 150
+  size: 174, 162
+  orig: 248, 300
+  offset: 40, 30
+  index: -1
+dd/dd_00140
+  rotate: true
+  xy: 201, 153
+  size: 176, 162
+  orig: 248, 300
+  offset: 41, 28
+  index: -1
+dd/dd_00143
+  rotate: false
+  xy: 375, 332
+  size: 193, 170
+  orig: 248, 300
+  offset: 32, 22
+  index: -1
+dd/dd_00145
+  rotate: false
+  xy: 2, 326
+  size: 197, 176
+  orig: 248, 300
+  offset: 29, 20
+  index: -1
+dd/dd_00148
+  rotate: false
+  xy: 541, 166
+  size: 208, 155
+  orig: 248, 300
+  offset: 24, 41
+  index: -1
+dd/dd_00151
+  rotate: false
+  xy: 364, 17
+  size: 211, 133
+  orig: 248, 300
+  offset: 27, 68
+  index: -1
+dd/dd_00154
+  rotate: false
+  xy: 737, 367
+  size: 219, 135
+  orig: 248, 300
+  offset: 20, 70
+  index: -1
+dd/dd_00157
+  rotate: true
+  xy: 908, 138
+  size: 227, 39
+  orig: 248, 300
+  offset: 15, 71
+  index: -1
+glow
+  rotate: false
+  xy: 751, 2
+  size: 155, 171
+  orig: 155, 171
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="402,137" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_f3m0" name="n0" src="uzf2n" fileName="image/HuaPenFang.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_f3m0" name="Botany" src="f3m011" fileName="components/Botany.xml" xy="131,-45"/>
+  </displayList>
+  <Button/>
+</component>

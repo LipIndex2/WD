@@ -1,0 +1,69 @@
+
+effect_slsd_liug.png
+size: 518,488
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1/lg_00000
+  rotate: false
+  xy: 2, 326
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00002
+  rotate: false
+  xy: 2, 164
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00004
+  rotate: false
+  xy: 174, 326
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00006
+  rotate: false
+  xy: 2, 2
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00007
+  rotate: false
+  xy: 174, 164
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00008
+  rotate: false
+  xy: 346, 326
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00009
+  rotate: false
+  xy: 174, 2
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00011
+  rotate: false
+  xy: 346, 164
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+1/lg_00013
+  rotate: false
+  xy: 346, 2
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,180">
+  <displayList>
+    <loader id="n0_fr82" name="Head" xy="10,10" pivot="0.5,0.5" size="160,160" url="ui://gn62pyk3fr8240" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n1_fr82" name="HeadFrame" xy="0,0" pivot="0.5,0.5" size="180,180" url="ui://gn62pyk3fr823z" align="center" vAlign="middle" clearOnPublish="true"/>
+  </displayList>
+</component>

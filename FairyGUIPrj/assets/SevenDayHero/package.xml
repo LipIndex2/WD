@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8rjn0pkn">
+  <resources>
+    <component id="9nol0" name="SevenDayHeroView.xml" path="/" exported="true"/>
+    <image id="ggdqe" name="7日英雄新参数.png" path="/"/>
+    <image id="ggdqf" name="YouQianHuaHengFu.png" path="/image/"/>
+    <image id="ggdql" name="JiangLi.png" path="/image/"/>
+    <component id="ggdqm" name="ButtonBuy.xml" path="/components/"/>
+    <image id="ggdqn" name="7RiAnNiu.png" path="/image/"/>
+    <image id="ggdqp" name="7RiJinBi.png" path="/image/"/>
+    <image id="ggdqq" name="+.png" path="/image/"/>
+    <component id="ggdqr" name="ButtonReward.xml" path="/components/"/>
+    <component id="ggdqs" name="ButtonClose.xml" path="/components/"/>
+    <image id="ggdqt" name="GuanBi.png" path="/image/"/>
+    <component id="ggdqu" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="ggdqv" name="bgi1.png" path="/image/" exported="true"/>
+    <image id="ggdqw" name="bg2.png" path="/image/" exported="true"/>
+    <image id="ggdqx" name="bgi2.png" path="/image/" exported="true"/>
+    <image id="ggdqy" name="icon1.png" path="/image/" exported="true"/>
+    <image id="ggdqz" name="icon2.png" path="/image/" exported="true"/>
+    <image id="ggdq10" name="icon3.png" path="/image/" exported="true"/>
+    <image id="ggdq11" name="JiaSu.png" path="/image/"/>
+    <image id="ggdq12" name="bg3.png" path="/image/" exported="true"/>
+    <image id="ggdq13" name="bgi3.png" path="/image/" exported="true"/>
+    <image id="ggdq14" name="bg1.png" path="/image/" exported="true"/>
+    <image id="ggdq15" name="JiangLiHengXian.png" path="/image/"/>
+    <image id="oaho16" name="WeiShengXiao.png" path="/image/"/>
+    <image id="tbhh17" name="7日英雄新-新增英雄碎片.jpg" path="/"/>
+    <component id="a9ka18" name="HeroHeadItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

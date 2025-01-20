@@ -1,0 +1,105 @@
+//!< 2140	
+message PB_CSRoleFishReq {						
+	optional int32	req_type = 1;				//!<操作类型
+	optional int32	p1 = 2;				//!<
+	optional int32	p2 = 3;				//!<
+	optional int32	p3 = 4;				//!<
+}
+
+message PB_RoleFishFish {
+   	optional int32 fish_id = 1;			//鱼id
+	optional int32 fish_len = 2;			//鱼长度	
+}
+
+message PB_RoleFishTaskInfo {
+	optional int32 task_id=1; //任务id
+	optional int32 process_num=2; //进度
+	optional int32 is_fetch=3; //是否领取
+}
+
+message PB_RoleFishToolInfo {
+	optional int32 level=1;			//等级
+	optional int32 huan_hua_id=2;			//幻化id
+}
+
+message PB_RoleFishHistoryInfo {
+	optional int32 fish_history_len=1;			//钓到鱼历史长度
+}
+
+message PB_SCRoleFishInfo {//!< 2141				
+    optional int32 power=1;			//当前体力值	
+	optional int32 next_power_time=2;		//下次体力恢复时间	
+	optional int32 level=3;			//钓鱼等级
+	optional int32 exp=4;			//钓鱼经验
+	optional uint64 huan_hua_active_flag=5;			//幻化激活标记
+	repeated int32 buy_times=6;  //购买次数记录
+	repeated bool book_reward_fetch_flag=7;
+	optional PB_RoleFishFish fish=8;         //当前钓到鱼的信息,可以出售或者放入水族馆
+	repeated PB_RoleFishFish fish_list=9;    //水族馆列表，每个id的鱼只能有一条
+	repeated PB_RoleFishTaskInfo task_info=10;    //任务信息
+	repeated PB_RoleFishToolInfo tool_info=11;
+	repeated PB_RoleFishHistoryInfo history_info=12;
+    optional uint32 fish_card_time=13;        //渔夫卡到期时间
+    optional int32 is_fetch_card_reward=14;        //是否领取渔夫卡每日奖励	
+	optional int32 area_id=15;     				//岛屿id
+	optional int32 bait_id=16;     				//鱼饵id
+}
+
+message PB_SCRoleFishPowerInfo {       //!< 2142			体力信息
+    optional int32 power=1;			//当前体力值	
+	optional int32 next_power_time=2;		//下次体力恢复时间	
+}
+
+message PB_SCRoleFishCommonInfo {       //!< 2143			普通信息
+    optional int32 fish_card_time=1;        //渔夫卡到期时间
+    optional int32 is_fetch_card_reward=2;        //是否领取渔夫卡每日奖励
+	optional int32 area_id=3;     				//岛屿id
+	optional int32 bait_id=4;     				//鱼饵id
+}
+
+message PB_SCRoleFishFishInfo {       //!< 2144			鱼信息
+	optional int32 state=1;         //0是出售变化下发，1是成功，2逃跑，3是断线
+    optional PB_RoleFishFish fish=2;         //当前钓到鱼的信息,可以出售或者放入水族馆
+}
+
+message PB_SCRoleFishFishListInfo {       //!< 2145			水族馆信息
+    optional int32 index =1;			//水族馆列表index
+    optional PB_RoleFishFish fish=2;         //当前钓到鱼的信息,可以出售或者放入水族馆
+}
+
+message PB_SCRoleFishLevelInfo {       //!< 2146			等级信息
+	optional int32 level=1;			//钓鱼等级
+	optional int32 exp=2;			//钓鱼经验
+}
+
+
+message PB_SCRoleFishBookRewardInfo {       //!< 2147			图鉴奖励信息
+    repeated bool book_reward_fetch_flag=1;
+}
+
+
+message PB_SCRoleFishToolInfo {       //!< 2148			工具信息
+    repeated PB_RoleFishToolInfo tool_info=1;
+    optional int32 huan_hua_active_flag = 2;
+}
+
+message PB_SCRoleFishShopInfo {       //!< 2149			商店信息
+    repeated int32 buy_times=1;  //购买次数记录
+}
+
+message PB_SCRoleFishTaskInfo {       //!< 2150			任务信息
+   	repeated PB_RoleFishTaskInfo task_info=1;    //任务信息
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

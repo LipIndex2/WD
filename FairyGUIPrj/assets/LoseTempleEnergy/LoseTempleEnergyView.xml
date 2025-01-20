@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://9hbogv4bpitk1" designImageLayer="1">
+  <displayList>
+    <component id="n0_pitk" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,469" size="730,569">
+      <Label title="恢复健康度"/>
+    </component>
+    <image id="n1_pitk" name="n1" src="rjro5i" fileName="item_info/PinZhi3.png" pkg="rqg67c20" xy="345,661"/>
+    <image id="n2_pitk" name="n2" src="n4lg3" fileName="TiLi1.png" pkg="rqg67c20" xy="365,681"/>
+    <text id="n3_pitk" name="n3" xy="414,735" pivot="1,0.5" size="42,40" font="ui://wqx8l8xqut2h1b" fontSize="29" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" text="+1"/>
+    <text id="n4_pitk" name="Title" xy="213,803" pivot="0.5,0.5" size="374,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="是否为投弹手补充 1 点体力"/>
+    <component id="n5_pitk" name="BtnAd" src="pitk3" fileName="components/ButtonOrange.xml" xy="89,891"/>
+    <component id="n6_pitk" name="BtnEnergy" src="pitk2" fileName="components/ButtonBlue.xml" xy="416,891">
+      <Button title="1"/>
+    </component>
+  </displayList>
+</component>

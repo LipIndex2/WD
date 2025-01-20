@@ -1,0 +1,17 @@
+{
+  "name": "compile-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-proto": "npm run build-proto:pbjs && npm run build-proto:pbts",
+    "build-proto:pbjs": "pbjs --target static-module --wrap ./wrap-pbjs.js --out ../../assets/script/proto/proto.js ../../proto/*.proto",
+    "build-proto:pbts": "pbts --main --out ../../assets/script/proto/proto.d.ts ../../assets/script/proto/proto.js && node ./wrap-pbts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.0.1",
+    "protobufjs": "^6.11.2"
+  }
+}

@@ -1,0 +1,83 @@
+
+15000.png
+size: 659,516
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: true
+  xy: 618, 444
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 0, 13
+  size: 56, 125
+  orig: 56, 125
+  offset: 0, 0
+  index: -1
+jiao1_1
+  rotate: false
+  xy: 467, 152
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+jiao1_2
+  rotate: false
+  xy: 565, 151
+  size: 94, 147
+  orig: 94, 147
+  offset: 0, 0
+  index: -1
+jiao1_3
+  rotate: true
+  xy: 252, 0
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 346, 0
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+jiao2_1
+  rotate: true
+  xy: 126, 14
+  size: 55, 125
+  orig: 55, 125
+  offset: 0, 0
+  index: -1
+jiao2_2
+  rotate: false
+  xy: 467, 5
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+jiao2_3
+  rotate: false
+  xy: 565, 3
+  size: 94, 147
+  orig: 94, 147
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 467, 299
+  size: 150, 217
+  orig: 150, 217
+  offset: 0, 0
+  index: -1
+zhuwang
+  rotate: false
+  xy: 0, 70
+  size: 466, 446
+  orig: 466, 446
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+diaoyu_TXZ.png
+size: 978,323
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beijing
+  rotate: false
+  xy: 0, 56
+  size: 802, 267
+  orig: 802, 267
+  offset: 0, 0
+  index: -1
+tex1
+  rotate: false
+  xy: 0, 0
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+tex2
+  rotate: false
+  xy: 119, 0
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+tex4
+  rotate: true
+  xy: 900, 65
+  size: 14, 52
+  orig: 14, 52
+  offset: 0, 0
+  index: -1
+tex5
+  rotate: false
+  xy: 803, 2
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+yugan
+  rotate: false
+  xy: 803, 80
+  size: 175, 243
+  orig: 175, 243
+  offset: 0, 0
+  index: -1
+yuxian
+  rotate: true
+  xy: 238, 30
+  size: 25, 110
+  orig: 25, 110
+  offset: 0, 0
+  index: -1

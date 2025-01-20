@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pppfbs53">
+  <resources>
+    <component id="n4lg0" name="LoseTempleView.xml" path="/" exported="true"/>
+    <image id="n4lg1" name="失落神殿标注.png" path="/"/>
+    <image id="n4lg2" name="HuoDongBiaoTiHengFuZi.png" path="/image/"/>
+    <image id="n4lg4" name="ZhenRong.png" path="/image/"/>
+    <image id="n4lg5" name="YiWu.png" path="/image/"/>
+    <image id="n4lg6" name="ZhenRongKuang.png" path="/image/"/>
+    <component id="n4lg7" name="BtnMod.xml" path="/components/"/>
+    <image id="n4lg8" name="GanTanHao.png" path="/image/"/>
+    <component id="n4lg9" name="ButtonTips.xml" path="/components/"/>
+    <component id="lgmea" name="LoseTempleMap.xml" path="/components/" exported="true"/>
+    <image id="lgmeb" name="TuBiao3.png" path="/image/" exported="true"/>
+    <image id="lgmec" name="TuBiao1.png" path="/image/" exported="true"/>
+    <component id="lgmee" name="BtnItem.xml" path="/components/" exported="true"/>
+    <component id="lgmeh" name="MapItem.xml" path="/components/" exported="true"/>
+    <image id="lgmei" name="DiBan3.png" path="/image/" exported="true"/>
+    <image id="lgmej" name="DiBan1.png" path="/image/" exported="true"/>
+    <image id="lgmek" name="DiBan2.png" path="/image/" exported="true"/>
+    <image id="lgmel" name="ShiJian7.png" path="/image/" exported="true"/>
+    <image id="lgmem" name="ShiJian1.png" path="/image/" exported="true"/>
+    <image id="lgmen" name="ShiJian3.png" path="/image/" exported="true"/>
+    <image id="lgmeo" name="ShiJian4.png" path="/image/" exported="true"/>
+    <image id="lgmep" name="ShiJian5.png" path="/image/" exported="true"/>
+    <image id="lgmeq" name="ShiJian2.png" path="/image/" exported="true"/>
+    <image id="no3ys" name="AiXinDi.png" path="/image/"/>
+    <image id="yu83t" name="ShiJian6.png" path="/image/" exported="true"/>
+    <component id="yu83u" name="BtnMapItem.xml" path="/components/"/>
+    <image id="cr2xv" name="失落神图标加文字_spec.png" path="/"/>
+    <image id="en2lx" name="TuBiao2.png" path="/image/" exported="true"/>
+    <component id="tprmy" name="parent.xml" path="/components/"/>
+    <component id="pp3410" name="MyParent.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

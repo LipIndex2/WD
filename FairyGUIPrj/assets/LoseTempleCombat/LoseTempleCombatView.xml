@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://pe31subclgme0" designImageLayer="1">
+  <displayList>
+    <component id="n0_lgme" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,460"/>
+    <image id="n14_pgz2" name="n14" src="pgz2c" fileName="image/ZhanDouShiJianDingBu.png" xy="89,129" group="n15_pgz2"/>
+    <image id="n1_lgme" name="n1" src="lgme1" fileName="image/HuoDongBiaoTiHengFuZi.png" xy="13,463" group="n15_pgz2"/>
+    <image id="n4_lgme" name="n4" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="212,569" size="391,54" group="n15_pgz2"/>
+    <image id="n3_lgme" name="n3" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="203,566" group="n15_pgz2"/>
+    <image id="n6_lgme" name="n6" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="85,943" size="627,240" group="n15_pgz2"/>
+    <image id="n8_lgme" name="n8" src="lgme2" fileName="image/BiaoTiXian.png" xy="113,961" group="n15_pgz2"/>
+    <image id="n9_lgme" name="n9" src="lgme2" fileName="image/BiaoTiXian.png" xy="684,961" group="n15_pgz2" scale="-1,1"/>
+    <group id="n15_pgz2" name="n15" xy="13,129" size="879,1054"/>
+    <text id="n2_lgme" name="n2" xy="346,474" pivot="0.5,0.5" size="107,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="战 斗"/>
+    <text id="n10_lgme" name="n10" xy="358,947" size="84,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" strokeColor="#491914" strokeSize="3" text="奖励"/>
+    <text id="n5_lgme" name="day" xy="296,575" pivot="0.5,0.5" size="234,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#c4ff26" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="通关所需天数：1"/>
+    <list id="n11_lgme" name="ItemList" xy="126,1029" size="543,118" layout="row" overflow="scroll" colGap="25" defaultItem="ui://gn62pyk3rjro31" align="center" vAlign="middle">
+      <item/>
+      <item/>
+    </list>
+    <list id="n13_lgme" name="HeroList" xy="63,634" size="753,321" scale="0.9,0.9" layout="row" overflow="scroll" scrollBarFlags="2560" colGap="9" defaultItem="ui://gn62pyk3lgmef" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_lgme" name="BtnCombat" src="lgme3" fileName="components/ButtonStartYellow.xml" xy="217,1208" size="366,129">
+      <Button titleFontSize="45"/>
+    </component>
+    <component id="n16_pitk" name="SpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,433"/>
+  </displayList>
+</component>

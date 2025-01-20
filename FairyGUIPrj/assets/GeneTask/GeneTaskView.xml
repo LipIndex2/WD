@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://cdclde5bn3nig" designImageLayer="1">
+  <displayList>
+    <component id="n0_rtw3" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <component id="n30_rtw3" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n0_rtw3" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n6_rtw3" name="n6" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n0_rtw3" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n31_n3ni" name="n31" src="n3nif" fileName="image/HuoDongBiaoTiHengFuZi.png" xy="15,35">
+      <relation target="n0_rtw3" sidePair="top-top"/>
+    </image>
+    <text id="n32_n3ni" name="n32" xy="310,48" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#80359f" strokeSize="4" text="基因成就">
+      <relation target="n0_rtw3" sidePair="top-top"/>
+    </text>
+    <list id="n7_rtw3" name="list" xy="0,162" size="800,1311" overflow="scroll" lineGap="5" defaultItem="ui://cdclde5brtw36" autoClearItems="true">
+      <relation target="n0_rtw3" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n27_rtw3" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="16,1491">
+      <relation target="n0_rtw3" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

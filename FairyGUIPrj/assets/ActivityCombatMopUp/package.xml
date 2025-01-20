@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6lxl4kkt">
+  <resources>
+    <component id="lwoh0" name="ActivityCombatMopUpView.xml" path="/" exported="true"/>
+    <image id="lwoh1" name="扫荡弹窗标注.png" path="/"/>
+    <image id="lwoh2" name="max.png" path="/image/"/>
+    <image id="lwoh3" name="min.png" path="/image/"/>
+    <image id="lwoh4" name="Jia.png" path="/image/"/>
+    <image id="lwoh5" name="JiaHao.png" path="/image/"/>
+    <image id="lwoh6" name="Jian.png" path="/image/"/>
+    <image id="lwoh7" name="JianHao.png" path="/image/"/>
+    <image id="lwoh8" name="ShuZi.png" path="/image/"/>
+    <component id="lwoh9" name="BtnSmall.xml" path="/components/"/>
+    <component id="lwoha" name="BtnBig.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,61 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "23d877e9-9cb4-4d2c-980b-25d324168dbc",
+  "files": [],
+  "subMetas": {
+    "b8a2d": {
+      "importer": "gltf-mesh",
+      "uuid": "23d877e9-9cb4-4d2c-980b-25d324168dbc@b8a2d",
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b60b9": {
+      "importer": "gltf-scene",
+      "uuid": "23d877e9-9cb4-4d2c-980b-25d324168dbc@b60b9",
+      "displayName": "",
+      "id": "b60b9",
+      "name": "9_yuanhuan_001.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "23d877e9-9cb4-4d2c-980b-25d324168dbc@b60b9",
+    "assetFinder": {
+      "meshes": [
+        "23d877e9-9cb4-4d2c-980b-25d324168dbc@b8a2d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "23d877e9-9cb4-4d2c-980b-25d324168dbc@b60b9"
+      ]
+    }
+  }
+}

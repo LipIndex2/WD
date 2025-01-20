@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o66z8pn9">
+  <resources>
+    <component id="eybi0" name="ItemReward.xml" path="/components/" exported="true"/>
+    <image id="eybi1" name="QiPaoDa.png" path="/image/"/>
+    <image id="eybi2" name="LvXiaoKuang.png" path="/image/"/>
+    <image id="eybi3" name="GanTanHao.png" path="/image/"/>
+    <component id="eybi4" name="MainTaskRewardView.xml" path="/" exported="true"/>
+    <image id="eybi5" name="中间关卡礼包改大_spec.png" path="/"/>
+    <image id="eybi6" name="XiaoQiPao.png" path="/image/" scale="9grid" scale9grid="68,25,19,15" smoothing="false"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

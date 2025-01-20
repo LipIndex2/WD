@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="174,83" designImage="ui://3pbetjrwoqnq0" designImageOffsetX="-330" designImageOffsetY="-556">
+  <displayList>
+    <image id="n0_oqnq" name="bg" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="0,0" size="174,83"/>
+    <text id="n1_oqnq" name="NumShow" xy="80,17" pivot="0,0.5" size="87,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#c4ff26" vAlign="middle" strokeColor="#491914" strokeSize="3" text="+555"/>
+    <component id="n3_rqb9" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="8,8" scale="0.55,0.55"/>
+    <component id="n2_yjaq" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="86,41"/>
+  </displayList>
+</component>

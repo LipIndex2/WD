@@ -1,0 +1,27 @@
+
+effect_jingu.png
+size: 379,143
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+light5
+  rotate: true
+  xy: 234, 2
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+mh_tex_ring_09
+  rotate: false
+  xy: 104, 13
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

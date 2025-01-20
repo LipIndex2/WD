@@ -1,0 +1,69 @@
+
+11057.png
+size: 466,258
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dao
+  rotate: false
+  xy: 296, 153
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: false
+  xy: 219, 12
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 396, 154
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: false
+  xy: 368, 48
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+kuijia
+  rotate: true
+  xy: 0, 0
+  size: 116, 218
+  orig: 116, 218
+  offset: 0, 0
+  index: -1
+liantiao
+  rotate: true
+  xy: 319, 1
+  size: 151, 48
+  orig: 151, 48
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 117
+  size: 141, 295
+  orig: 141, 295
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 368, 4
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 416, 4
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1

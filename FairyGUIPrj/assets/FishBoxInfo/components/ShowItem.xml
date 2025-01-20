@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="624,168" designImage="ui://iyuzwqcye0iz4" designImageOffsetX="-88" designImageOffsetY="-367">
+  <displayList>
+    <image id="n0_e0iz" name="bg" src="e0iz6" fileName="image/BaiSeHeiBianDi.png" xy="0,0" size="624,168">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n5_e0iz" name="QuaSp" xy="26,64" size="120,68" url="ui://iyuzwqcye0izb" clearOnPublish="true"/>
+    <loader id="n6_l7xm" name="FishIcon" xy="31,4" pivot="0.5,0.5" size="110,110" autoSize="true" clearOnPublish="true"/>
+    <text id="n1_e0iz" name="NameShow" xy="182,27" pivot="0,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="红十字鱼"/>
+    <text id="n2_e0iz" name="ScoreShow" xy="182,79" pivot="0,0.5" size="167,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="评分：99999"/>
+    <text id="n4_e0iz" name="LengthShow" xy="37,111" pivot="0.5,0.5" size="105,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="4.33CM"/>
+    <component id="n3_e0iz" name="BtnSell" src="rjrob54" fileName="ButtonGreen.xml" pkg="zokic7y2" xy="403,40">
+      <Button title="出售"/>
+    </component>
+  </displayList>
+</component>

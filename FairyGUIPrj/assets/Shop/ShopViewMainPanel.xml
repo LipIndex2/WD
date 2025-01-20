@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://gp6652l2sxqb3">
+  <displayList>
+    <list id="n15_9nol" name="ShowList" xy="0,274" size="800,1197" overflow="scroll" lineGap="15" defaultItem="ui://gp6652l2iw5us" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="width-width,center-center"/>
+      <item/>
+      <item url="ui://gp6652l2iw5ut"/>
+      <item url="ui://gp6652l2iw5uu"/>
+      <item url="ui://gp6652l2iw5u14"/>
+      <item url="ui://gp6652l2iw5u1b"/>
+    </list>
+  </displayList>
+</component>

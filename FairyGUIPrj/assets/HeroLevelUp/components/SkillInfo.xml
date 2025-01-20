@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="736,136">
+  <displayList>
+    <image id="n9_hf7r" name="n9" src="hf7rx" fileName="image/JiNenKuangChang.png" xy="0,0"/>
+    <component id="n10_hf7r" name="BtnSkill" src="hf7ry" fileName="components/BtnSkill.xml" xy="12,13" touchable="false"/>
+    <richtext id="n12_hf7r" name="SkillDesc" xy="150,14" pivot="0,0.5" size="571,108" font="ui://wqx8l8xqut2h1b" fontSize="30" vAlign="middle" autoSize="none" text="雪花"/>
+  </displayList>
+</component>

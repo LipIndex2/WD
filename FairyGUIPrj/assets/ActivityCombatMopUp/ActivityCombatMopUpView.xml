@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://6lxl4kktlwoh1" designImageLayer="1">
+  <displayList>
+    <component id="n0_lwoh" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="33,486" size="730,569">
+      <Label title="扫 荡"/>
+    </component>
+    <image id="n3_lwoh" name="n3" src="tiuj63" fileName="image/Big40004.png" pkg="5qhcb5rw" xy="295,852" scale="0.8,0.8"/>
+    <image id="n4_lwoh" name="n4" src="lwoh8" fileName="image/ShuZi.png" xy="293,716"/>
+    <text id="n5_lwoh" name="Consume" xy="350,854" pivot="0.5,0.5" size="144,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" strokeColor="#491914" strokeSize="3" text="166 - 156"/>
+    <text id="n10_lwoh" name="Num" xy="383,726" pivot="0.5,0.5" size="34,62" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="1"/>
+    <component id="n1_lwoh" name="BtnMopUp" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="251,910">
+      <Button title="扫 荡" titleFontSize="49"/>
+    </component>
+    <component id="n6_lwoh" name="BtnSubtract" src="lwoh9" fileName="components/BtnSmall.xml" xy="202,716">
+      <Button icon="ui://6lxl4kktlwoh6"/>
+      <property target="bg" propertyId="1" value="ui://6lxl4kktlwoh5"/>
+    </component>
+    <component id="n7_lwoh" name="BtnAdd" src="lwoh9" fileName="components/BtnSmall.xml" xy="512,716">
+      <Button icon="ui://6lxl4kktlwoh4"/>
+      <property target="bg" propertyId="1" value="ui://6lxl4kktlwoh7"/>
+    </component>
+    <component id="n8_lwoh" name="BtnMax" src="lwoha" fileName="components/BtnBig.xml" xy="604,716">
+      <Button title="最大" icon="ui://6lxl4kktlwoh2"/>
+    </component>
+    <component id="n9_lwoh" name="BtnMin" src="lwoha" fileName="components/BtnBig.xml" xy="96,716">
+      <Button title="最小" icon="ui://6lxl4kktlwoh3"/>
+    </component>
+  </displayList>
+</component>

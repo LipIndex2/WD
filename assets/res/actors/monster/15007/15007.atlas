@@ -1,0 +1,76 @@
+
+15007.png
+size: 636,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daozi1
+  rotate: true
+  xy: 300, 101
+  size: 220, 333
+  orig: 220, 333
+  offset: 0, 0
+  index: -1
+daozi2
+  rotate: false
+  xy: 2, 300
+  size: 221, 333
+  orig: 221, 333
+  offset: 0, 0
+  index: -1
+geboyou
+  rotate: false
+  xy: 546, 544
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+gebozuo
+  rotate: false
+  xy: 546, 324
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 48
+  size: 296, 250
+  orig: 296, 250
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 546, 469
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 546, 394
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 225, 323
+  size: 319, 310
+  orig: 319, 310
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 300, 39
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 377, 43
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1

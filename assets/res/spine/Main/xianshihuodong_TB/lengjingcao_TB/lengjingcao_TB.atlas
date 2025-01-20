@@ -1,0 +1,27 @@
+
+lengjingcao_TB.png
+size: 163,102
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+gantan
+  rotate: false
+  xy: 86, 0
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 0, 8
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: false
+  xy: 86, 26
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1

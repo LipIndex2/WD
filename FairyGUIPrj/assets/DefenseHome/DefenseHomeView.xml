@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://lqre3h3fe20v1" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n0_e20v" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,335"/>
+    <component id="n19_r1b9" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="400,846"/>
+    <image id="n1_e20v" name="n1" src="e20v8" fileName="image/JuXing 27 KaoBei.png" xy="118,372"/>
+    <image id="n2_e20v" name="n2" src="e20v2" fileName="image/ZiBiaoTi.png" xy="15,286"/>
+    <image id="n4_e20v" name="n4" src="e20v4" fileName="image/ShiJianDi.png" xy="304,379"/>
+    <image id="n5_e20v" name="n5" src="e20v3" fileName="image/ShiJianTuBiao.png" xy="289,378"/>
+    <image id="n8_e20v" name="n8" src="e20v5" fileName="image/RiLi TuBiao.png" xy="358,476" scale="0.7,0.7"/>
+    <image id="n10_e20v" name="n10" src="e20vb" fileName="image/Xian.png" xy="71,356"/>
+    <text id="n3_e20v" name="n3" xy="310,297" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#80359f" strokeSize="4" text="守卫后院"/>
+    <text id="n7_e20v" name="n6" xy="400,456" pivot="0.5,0.5" anchor="true" size="154,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491914" align="center" vAlign="middle" text="已安全度过"/>
+    <text id="n9_e20v" name="Num" xy="424,501" pivot="0.5,0.5" anchor="true" size="43,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#54301e" strokeSize="4" autoClearText="true" text="99"/>
+    <text id="n16_e20v" name="RemainCount" xy="400,1066" pivot="0.5,0.5" anchor="true" size="140,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#663b18" strokeSize="3" autoClearText="true" text="今日剩余2次"/>
+    <component id="n12_e20v" name="ActBtn1" src="e20vc" fileName="components/ActBtn.xml" xy="11,520"/>
+    <component id="n13_e20v" name="ActBtn2" src="e20vc" fileName="components/ActBtn.xml" xy="11,696">
+      <Button icon="ui://lqre3h3fe20vh"/>
+    </component>
+    <component id="n17_e20v" name="StartBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1087">
+      <Button title="开始"/>
+    </component>
+    <component id="n6_e20v" name="Timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="218,355">
+      <Label titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <component id="n15_e20v" name="Progress" src="e20vg" fileName="components/ProgressBar1.xml" xy="161,917">
+      <ProgressBar value="33" max="100"/>
+    </component>
+    <list id="n18_e20v" name="BoxList" xy="270,880" size="482,100" layout="row" colGap="78" defaultItem="ui://lqre3h3fe20vi" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

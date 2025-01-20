@@ -1,0 +1,62 @@
+
+15021.png
+size: 841,400
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: false
+  xy: 606, 128
+  size: 164, 127
+  orig: 164, 127
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 606, 0
+  size: 163, 127
+  orig: 163, 127
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 770, 53
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 154, 20
+  size: 451, 380
+  orig: 451, 380
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 771, 169
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 771, 82
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+suolian
+  rotate: true
+  xy: 0, 12
+  size: 388, 153
+  orig: 388, 153
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 606, 256
+  size: 144, 233
+  orig: 144, 233
+  offset: 0, 0
+  index: -1

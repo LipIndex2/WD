@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://cad21wdsm4fik" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n0_fr82" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-43,168" size="885,1308">
+      <Label title="玩家信息"/>
+    </component>
+    <image id="n4_fr82" name="n4" src="fr822" fileName="image/TouXiangKuangDi.png" xy="58,616" size="684,548"/>
+    <image id="n14_f0g0" name="n14" src="f0g0e" fileName="image/MingZiDi.png" xy="324,470" size="396,77"/>
+    <image id="n11_fr82" name="HeadImg" src="fr828" fileName="image/AnNiuKong.png" xy="251,1251"/>
+    <component id="n1_fr82" name="HeadItem" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="101,365"/>
+    <component id="n3_fr82" name="ExpShow" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="343,388" size="374,54" visible="false">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n6_fr82" name="Name" xy="341,483" pivot="0,0.5" size="174,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="我叫谁谁谁"/>
+    <text id="n7_fr82" name="LockDesc" xy="254,1193" pivot="0.5,0.5" size="292,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="通关主线章节20后解锁"/>
+    <text id="n12_fr82" name="UseDesc" xy="330,1277" size="136,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" strokeColor="#491914" strokeSize="4" text="使用中"/>
+    <text id="n21_m4fi" name="RoleID" xy="98,549" pivot="0.5,0.5" size="177,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491916" align="center" vAlign="middle" text="等级:999999"/>
+    <list id="n5_fr82" name="list" xy="70,681" size="661,466" layout="flow_hz" overflow="scroll" scrollBarFlags="2048" margin="4,0,25,0" lineGap="47" colGap="64" defaultItem="ui://cad21wdsfr82a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n19_f0g0" name="HeadList" xy="70,681" size="661,466" layout="flow_hz" overflow="scroll" scrollBarFlags="2048" margin="4,0,25,0" lineGap="47" colGap="64" defaultItem="ui://cad21wdsf0g0j" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n18_f0g0" name="BtnTitleList" xy="58,592" size="686,83" layout="row" overflow="scroll" scrollBarFlags="32" colGap="-5" defaultItem="ui://cad21wdsf0g0i">
+      <item title="头像"/>
+      <item title="头像框"/>
+    </list>
+    <component id="n13_fr82" name="BtnUse" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1252">
+      <Button title="使 用"/>
+    </component>
+    <component id="n15_f0g0" name="BtnName" src="f0g0f" fileName="components/BtnName.xml" xy="653,478"/>
+    <component id="n20_m4fi" name="ButtonCut" src="m4fim" fileName="components/ButtonCut.xml" xy="235,496"/>
+  </displayList>
+</component>

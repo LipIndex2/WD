@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ehn3wwnk">
+  <resources>
+    <component id="vczw0" name="SettingView.xml" path="/" exported="true"/>
+    <image id="vczw1" name="3级弹窗设置参数.png" path="/"/>
+    <image id="vczw6" name="Qian.png" path="/image/" scale="9grid" scale9grid="17,17,34,34"/>
+    <image id="vczw8" name="ZiTiao.png" path="/image/" scale="9grid" scale9grid="19,14,38,28"/>
+    <component id="vczw9" name="ButtonCopy.xml" path="/components/"/>
+    <image id="vczwa" name="idTuBiao.png" path="/image/"/>
+    <image id="vczwb" name="Shen.png" path="/image/"/>
+    <image id="vczwc" name="WeiXinAnNiu.png" path="/image/"/>
+    <component id="vczwd" name="ButtonExit.xml" path="/components/"/>
+    <image id="vczwe" name="WeiXin.png" path="/image/"/>
+    <component id="vczwf" name="BtnDelete.xml" path="/components/"/>
+    <image id="vczwh" name="HengXian2.png" path="/image/"/>
+    <image id="vczwi" name="HengXian1.png" path="/image/"/>
+    <component id="vczwj" name="BtnProto.xml" path="/components/"/>
+    <image id="mbrsk" name="3级弹窗设置改_.jpg" path="/"/>
+    <component id="dbwml" name="BtnGame.xml" path="/components/"/>
+    <image id="dbwmm" name="YouXiQuanTuBiao.png" path="/image/"/>
+    <image id="dbwmn" name="+游戏圈.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

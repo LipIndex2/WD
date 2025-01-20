@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d63lu6q7">
+  <resources>
+    <component id="kkn50" name="MaskView.xml" path="/" exported="true"/>
+    <image id="pvzx1" name="HeiSeMengBan.png" path="/image/" exported="true" scale="9grid" scale9grid="2,2,4,4"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

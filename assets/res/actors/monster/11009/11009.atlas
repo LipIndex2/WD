@@ -1,0 +1,41 @@
+
+11009.png
+size: 182,290
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: false
+  xy: 0, 125
+  size: 174, 165
+  orig: 174, 165
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 106, 47
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 106, 0
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 3
+  size: 105, 121
+  orig: 105, 121
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: true
+  xy: 106, 94
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1

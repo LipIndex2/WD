@@ -1,0 +1,55 @@
+
+11001.png
+size: 265,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: true
+  xy: 237, 41
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 124, 43
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 124, 3
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 195, 89
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 0
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 195, 48
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 195, 8
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1

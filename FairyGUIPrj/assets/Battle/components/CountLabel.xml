@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="201,47" extention="Label">
+  <displayList>
+    <image id="n8_algr" name="n8" src="algr6o" fileName="image/DangQianShuLiangDi.png" xy="26,5" size="136,32"/>
+    <text id="n9_algr" name="title" xy="54,18" pivot="0,0.5" anchor="true" size="105,24" font="ui://wqx8l8xqut2h1b" fontSize="16" color="#491914" vAlign="middle" text="当前数量：23"/>
+  </displayList>
+</component>

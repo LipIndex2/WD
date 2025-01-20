@@ -1,0 +1,27 @@
+
+effect_biaoti_sj.png
+size: 754,77
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian
+  rotate: false
+  xy: 688, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+wenzi3
+  rotate: false
+  xy: 436, 2
+  size: 250, 73
+  orig: 250, 73
+  offset: 0, 0
+  index: -1
+wenzi7
+  rotate: false
+  xy: 2, 13
+  size: 432, 62
+  orig: 432, 62
+  offset: 0, 0
+  index: -1

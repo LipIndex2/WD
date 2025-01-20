@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://9hvw4r5ckj0y2" designImageAlpha="0" designImageLayer="1">
+  <controller name="stateShow" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <loader id="n0_kj0y" name="bg" xy="36,346" size="726,975" url="ui://9hvw4r5ckj0y4"/>
+    <image id="n13_kj0y" name="n13" src="kj0yi" fileName="image/bg02.png" xy="69,676" size="660,467" group="n15_kj0y">
+      <gearDisplay controller="stateShow" pages="1,2"/>
+    </image>
+    <image id="n4_kj0y" name="n4" src="kj0yh" fileName="image/DiGuang.png" xy="155,7" group="n15_kj0y"/>
+    <image id="n5_kj0y" name="n5" src="kj0y8" fileName="image/CaiDai.png" xy="75,71" group="n15_kj0y"/>
+    <image id="n3_kj0y" name="n3" src="kj0y7" fileName="image/LiHua.png" xy="92,107" group="n15_kj0y"/>
+    <image id="n2_kj0y" name="n2" src="kj0y5" fileName="image/YouXiJi.png" xy="282,148" group="n15_kj0y"/>
+    <image id="n1_kj0y" name="n1" src="kj0y6" fileName="image/HengFu.png" xy="96,295" group="n15_kj0y"/>
+    <group id="n15_kj0y" name="n15" xy="69,7" size="711,1135" group="n34_kj0y"/>
+    <image id="n7_kj0y" name="n7" src="kj0yb" fileName="image/YuanHuaShouYe.png" xy="69,427" group="n10_kj0y"/>
+    <image id="n8_kj0y" name="n8" src="kj0yc" fileName="image/_LocYiShuZi_ShouYe01.png" xy="100,1041" group="n10_kj0y">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <image id="n9_kj0y" name="n9" src="kj0yd" fileName="image/_LocYiShuZi_ShouYe02.png" xy="116,444" group="n10_kj0y">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <group id="n10_kj0y" name="n10" xy="69,427" size="661,710" group="n34_kj0y" advanced="true">
+      <gearDisplay controller="stateShow" pages="0"/>
+    </group>
+    <image id="n22_kj0y" name="n22" src="kj0ya" fileName="image/YuanHuaQianDao.png" xy="70,427" group="n23_kj0y"/>
+    <image id="n21_kj0y" name="n21" src="kj0yf" fileName="image/_LocYiShuZi_QianDao.png" xy="397,495" group="n23_kj0y"/>
+    <group id="n23_kj0y" name="n23" xy="70,427" size="660,239" group="n34_kj0y" advanced="true">
+      <gearDisplay controller="stateShow" pages="2"/>
+    </group>
+    <image id="n11_kj0y" name="n11" src="kj0y9" fileName="image/YuanHuaMengXin.png" xy="70,427" group="n16_kj0y"/>
+    <image id="n12_kj0y" name="n12" src="kj0ye" fileName="image/_LocYiShuZi_MengXin.png" xy="395,493" group="n16_kj0y"/>
+    <image id="n14_kj0y" name="n14" src="kj0yj" fileName="image/HengFu02.png" xy="96,713" size="608,65" group="n16_kj0y"/>
+    <image id="n17_kj0y" name="n17" src="kj0yk" fileName="image/FenGeXian.png" xy="166,988" group="n16_kj0y"/>
+    <text id="n18_kj0y" name="n18" xy="167,725" pivot="0.5,0.5" size="214,42" group="n16_kj0y" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="首次加入游戏圈"/>
+    <text id="n19_kj0y" name="n19" xy="376,718" pivot="0.5,0.5" size="135,49" group="n16_kj0y" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffe669" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="点赞2次"/>
+    <text id="n20_kj0y" name="n20" xy="510,725" pivot="0.5,0.5" size="124,42" group="n16_kj0y" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="即可获得"/>
+    <group id="n16_kj0y" name="n16" xy="70,427" size="660,586" group="n34_kj0y" advanced="true">
+      <gearDisplay controller="stateShow" pages="1"/>
+    </group>
+    <text id="n6_kj0y" name="n6" xy="288,337" pivot="0.5,0.5" size="224,59" group="n34_kj0y" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="加入游戏圈"/>
+    <group id="n34_kj0y" name="n34" xy="69,7" size="711,1135"/>
+    <list id="n27_kj0y" name="ItemList" xy="131,822" size="537,127" layout="row" overflow="scroll" scroll="horizontal" colGap="30" defaultItem="ui://gn62pyk3rjro31" align="center" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="stateShow" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n32_kj0y" name="TabList" xy="91,1317" size="620,88" layout="row" overflow="scroll" scroll="horizontal" colGap="11" defaultItem="ui://9hvw4r5ckj0ys" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n31_kj0y" name="SignInPanel" src="kj0yl" fileName="SignInPanel.xml" xy="70,675">
+      <gearDisplay controller="stateShow" pages="2"/>
+    </component>
+    <component id="n29_kj0y" name="BtnReward" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="252,1017" scale="0.7,0.7">
+      <gearDisplay controller="stateShow" pages="1"/>
+      <Button title="领取"/>
+    </component>
+    <component id="n25_kj0y" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="692,325"/>
+    <component id="n26_kj0y" name="BtnGame" src="kj0yb5o" fileName="ButtonGreenBig.xml" pkg="zokic7y2" xy="252,1163">
+      <Button title="加入游戏圈"/>
+    </component>
+  </displayList>
+</component>

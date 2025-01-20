@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ph2ogdmj">
+  <resources>
+    <component id="lgme0" name="LoseTempleAchievementView.xml" path="/" exported="true"/>
+    <image id="pgz21" name="积分成就页面新.jpg" path="/"/>
+    <component id="no3yc" name="TaskItem.xml" path="/components/" exported="true"/>
+    <image id="no3yd" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <component id="no3ye" name="TaskProgressBar.xml" path="/components/"/>
+    <image id="no3yf" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <image id="no3yg" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="no3yh" name="MengBan.png" path="/image/" scale="9grid" scale9grid="20,20,40,40"/>
+    <image id="no3yi" name="YiLingQuMengCeng2.png" path="/image/"/>
+    <image id="no3yj" name="DuiGouicon.png" path="/image/"/>
+    <image id="no3yl" name="TuCeng4.png" path="/image/" scale="9grid" scale9grid="200,48,400,3"/>
+    <component id="no3ym" name="BtnBox.xml" path="/components/"/>
+    <image id="no3yp" name="LiHe.png" path="/image/" exported="true"/>
+    <image id="no3yq" name="LiHeKai.png" path="/image/" exported="true"/>
+    <component id="no3yr" name="BoxProgressBar.xml" path="/components/"/>
+    <image id="no3ys" name="HuoBiDiKeLaShen.png" path="/image/" scale="9grid" scale9grid="32,13,64,26"/>
+    <image id="no3yt" name="DengJiJinDuTiao.png" path="/image/" scale="9grid" scale9grid="30,11,60,22"/>
+    <image id="no3yu" name="JinDuTiao1.png" path="/image/" scale="9grid" scale9grid="81,8,162,16"/>
+    <image id="no3yv" name="JinDuTiao2.png" path="/image/" scale="9grid" scale9grid="176,10,352,20"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

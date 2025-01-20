@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://czbmy05rsrmrh" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <text id="n1_srmr" name="NoData" xy="278,780" size="244,79" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="60" color="#c9955e" text="暂无数据"/>
+    <list id="n0_fr82" name="list" xy="85,357" size="630,1003" overflow="scroll" lineGap="10" defaultItem="ui://czbmy05rfr82e" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

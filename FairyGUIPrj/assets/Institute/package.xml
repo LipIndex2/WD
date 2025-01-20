@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="km0iyz3h">
+  <resources>
+    <component id="mizf0" name="InstituteView.xml" path="/" exported="true"/>
+    <image id="mizf1" name="JuXing.png" path="/image/" scale="9grid" scale9grid="25,24,6,17"/>
+    <image id="mizf2" name="JuXing2.png" path="/image/" scale="9grid" scale9grid="26,23,9,7"/>
+    <image id="mizf3" name="Tiao1.png" path="/image/" scale="9grid" scale9grid="33,0,42,32"/>
+    <image id="mizf4" name="Tiao2.png" path="/image/" scale="9grid" scale9grid="25,0,50,24"/>
+    <image id="mizf5" name="JuXing3.png" path="/image/" scale="9grid" scale9grid="27,21,10,12"/>
+    <image id="mizf6" name="KaFeiDou2.png" path="/image/"/>
+    <image id="mizf7" name="Xian1.png" path="/image/" exported="true"/>
+    <image id="mizf8" name="AnXian1.png" path="/image/" exported="true"/>
+    <image id="mizf9" name="SanJiaoXing.png" path="/image/"/>
+    <image id="mizfa" name="研究所01.jpg" path="/"/>
+    <image id="mizfb" name="研究所02.jpg" path="/"/>
+    <component id="mizfc" name="InstituteItem.xml" path="/components/"/>
+    <image id="mizfd" name="ShuZiDi.png" path="/image/"/>
+    <image id="mizfe" name="40000.png" path="/image/"/>
+    <component id="mizff" name="DescLabel.xml" path="/components/"/>
+    <image id="mizfg" name="XuanZhongGuang.png" path="/image/"/>
+    <image id="mizfh" name="YiManZhuangTai.png" path="/image/"/>
+    <component id="mizfi" name="ProgressBar.xml" path="/components/"/>
+    <component id="mizfj" name="InstituteLineItem.xml" path="/components/"/>
+    <component id="mizfk" name="SkillDescLabel.xml" path="/components/"/>
+    <component id="mizfl" name="Instituting.xml" path="/components/"/>
+    <image id="mizfm" name="YuanJiaoJuXing.png" path="/image/"/>
+    <image id="xxocn" name="AnXian2.png" path="/image/" exported="true"/>
+    <image id="xxoco" name="AnXian3.png" path="/image/" exported="true"/>
+    <image id="xxocp" name="Xian3.png" path="/image/" exported="true"/>
+    <image id="xxocq" name="Xian2.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

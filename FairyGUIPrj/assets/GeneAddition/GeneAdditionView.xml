@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://fo2460rqhprm1">
+  <displayList>
+    <component id="n0_hprm" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,517" size="730,567">
+      <Label title="基因加成"/>
+    </component>
+    <image id="n1_hprm" name="n1" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="85,706" size="630,328"/>
+    <list id="n2_hprm" name="list" xy="85,727" size="630,293" overflow="scroll" scrollBarFlags="32" lineGap="15" defaultItem="ui://fo2460rqhprm2">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

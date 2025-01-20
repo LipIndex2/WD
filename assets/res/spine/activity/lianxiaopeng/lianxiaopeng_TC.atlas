@@ -1,0 +1,209 @@
+
+lianxiaopeng_TC.png
+size: 1624,1050
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+LXP_guangdian1
+  rotate: true
+  xy: 1494, 771
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+LXP_guangdian2
+  rotate: false
+  xy: 1175, 405
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+LXP_guangdian3
+  rotate: false
+  xy: 1563, 773
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+LXP_guangdian4
+  rotate: false
+  xy: 1563, 711
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+LXP_guangdian5
+  rotate: false
+  xy: 1175, 352
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+LXP_jiao1
+  rotate: true
+  xy: 618, 2
+  size: 266, 333
+  orig: 266, 333
+  offset: 0, 0
+  index: -1
+LXP_jiao2
+  rotate: true
+  xy: 1020, 458
+  size: 107, 206
+  orig: 107, 206
+  offset: 0, 0
+  index: -1
+LXP_jiao3
+  rotate: false
+  xy: 1355, 173
+  size: 191, 98
+  orig: 191, 98
+  offset: 0, 0
+  index: -1
+LXP_jiao4
+  rotate: false
+  xy: 996, 566
+  size: 237, 121
+  orig: 237, 121
+  offset: 0, 0
+  index: -1
+LXP_jiao5
+  rotate: true
+  xy: 403, 257
+  size: 294, 200
+  orig: 294, 200
+  offset: 0, 0
+  index: -1
+LXP_jiao6
+  rotate: false
+  xy: 826, 285
+  size: 193, 279
+  orig: 193, 279
+  offset: 0, 0
+  index: -1
+LXP_shenti
+  rotate: true
+  xy: 403, 552
+  size: 498, 402
+  orig: 498, 402
+  offset: 0, 0
+  index: -1
+LXP_yan
+  rotate: false
+  xy: 806, 565
+  size: 189, 122
+  orig: 189, 122
+  offset: 0, 0
+  index: -1
+LXP_ye1
+  rotate: true
+  xy: 0, 0
+  size: 247, 217
+  orig: 247, 217
+  offset: 0, 0
+  index: -1
+LXP_ye10
+  rotate: false
+  xy: 1355, 26
+  size: 180, 146
+  orig: 180, 146
+  offset: 0, 0
+  index: -1
+LXP_ye11
+  rotate: false
+  xy: 1287, 701
+  size: 206, 136
+  orig: 206, 136
+  offset: 0, 0
+  index: -1
+LXP_ye12
+  rotate: true
+  xy: 1020, 288
+  size: 169, 154
+  orig: 169, 154
+  offset: 0, 0
+  index: -1
+LXP_ye13
+  rotate: true
+  xy: 806, 688
+  size: 362, 270
+  orig: 362, 270
+  offset: 0, 0
+  index: -1
+LXP_ye14
+  rotate: false
+  xy: 1234, 501
+  size: 351, 194
+  orig: 351, 194
+  offset: 0, 0
+  index: -1
+LXP_ye15
+  rotate: true
+  xy: 1150, 50
+  size: 237, 204
+  orig: 237, 204
+  offset: 0, 0
+  index: -1
+LXP_ye2
+  rotate: true
+  xy: 604, 269
+  size: 282, 221
+  orig: 282, 221
+  offset: 0, 0
+  index: -1
+LXP_ye3
+  rotate: true
+  xy: 463, 0
+  size: 256, 154
+  orig: 256, 154
+  offset: 0, 0
+  index: -1
+LXP_ye4
+  rotate: true
+  xy: 952, 9
+  size: 275, 197
+  orig: 275, 197
+  offset: 0, 0
+  index: -1
+LXP_ye5
+  rotate: true
+  xy: 1077, 696
+  size: 354, 209
+  orig: 354, 209
+  offset: 0, 0
+  index: -1
+LXP_ye6
+  rotate: false
+  xy: 1287, 838
+  size: 331, 212
+  orig: 331, 212
+  offset: 0, 0
+  index: -1
+LXP_ye7
+  rotate: true
+  xy: 1414, 272
+  size: 228, 194
+  orig: 228, 194
+  offset: 0, 0
+  index: -1
+LXP_ye8
+  rotate: false
+  xy: 218, 1
+  size: 244, 246
+  orig: 244, 246
+  offset: 0, 0
+  index: -1
+LXP_ye9
+  rotate: false
+  xy: 1227, 296
+  size: 186, 204
+  orig: 186, 204
+  offset: 0, 0
+  index: -1
+beijing_TC
+  rotate: true
+  xy: 0, 248
+  size: 802, 402
+  orig: 802, 402
+  offset: 0, 0
+  index: -1

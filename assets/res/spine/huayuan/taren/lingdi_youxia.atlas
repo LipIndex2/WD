@@ -1,0 +1,62 @@
+
+lingdi_youxia.png
+size: 625,193
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+cao
+  rotate: false
+  xy: 523, 17
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 499, 1
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 545, 89
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 0, 12
+  size: 181, 279
+  orig: 181, 279
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 461, 9
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: true
+  xy: 547, 0
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+langan
+  rotate: true
+  xy: 280, 7
+  size: 186, 180
+  orig: 186, 180
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 461, 54
+  size: 83, 139
+  orig: 83, 139
+  offset: 0, 0
+  index: -1

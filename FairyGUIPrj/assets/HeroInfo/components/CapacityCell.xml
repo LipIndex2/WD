@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="401,50" designImageOffsetX="-314" designImageOffsetY="-409" designImageLayer="1">
+  <displayList>
+    <image id="n9_ox88" name="n9" src="ox885r" fileName="image/YuanJiaoJuXing.png" xy="0,0" size="401,50"/>
+    <text id="n1_que1" name="AttrName" xy="50,4" pivot="0,0.5" size="128,42" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#54301e" vAlign="middle" autoSize="none" autoClearText="true" text="攻击范围"/>
+    <text id="n5_p2wa" name="AttrValue" xy="241,7" pivot="0,0.5" size="66,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#54301e" vAlign="middle" autoClearText="true" text="2011"/>
+    <text id="n8_o6nk" name="AttrValue2" xy="312,7" pivot="0,0.5" size="82,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#449a35" vAlign="middle" autoClearText="true" text="+6110">
+      <relation target="n5_p2wa" sidePair="left-right"/>
+    </text>
+    <loader id="n4_p2wa" name="Icon" xy="2,4" pivot="0.5,0.5" size="42,42" url="ui://uivgkva9ox885m" align="center" vAlign="middle" fill="scale" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

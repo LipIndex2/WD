@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://638869571193z1" designImageLayer="1">
+  <displayList>
+    <component id="n0_1193z" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,168" size="730,1255">
+      <Label title="当前奖池概率"/>
+    </component>
+    <image id="n4_vqec" name="n4" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="77,369" size="646,986"/>
+    <component id="n1_vqec" name="HeroCell1" src="vqecz2" fileName="components/HeroCell.xml" xy="205,414"/>
+    <component id="n2_vqec" name="HeroCell2" src="vqecz2" fileName="components/HeroCell.xml" xy="426,414"/>
+    <list id="n3_vqec" name="ShowList" xy="99,708" size="756,764" scale="0.8,0.8" layout="flow_hz" overflow="scroll" lineGap="33" colGap="24" defaultItem="ui://63886957vqecz2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

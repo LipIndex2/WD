@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://lkjqth93qohw1f">
+  <displayList>
+    <component id="n1_rqb9" name="TaskItemAd" src="rqb97" fileName="components/ItemTaskSpecial.xml" xy="46,369"/>
+    <component id="n2_rqb9" name="TaskItemAll" src="rqb97" fileName="components/ItemTaskSpecial.xml" xy="46,547"/>
+    <list id="n0_rjro" name="ShowList" xy="85,374" size="636,954" overflow="scroll" lineGap="10" defaultItem="ui://lkjqth93h5f616" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

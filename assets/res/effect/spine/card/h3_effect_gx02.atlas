@@ -1,0 +1,48 @@
+
+h3_effect_gx02.png
+size: 655,248
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian8
+  rotate: false
+  xy: 498, 17
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+moguang02
+  rotate: false
+  xy: 498, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+star5
+  rotate: false
+  xy: 498, 36
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
+star6
+  rotate: false
+  xy: 577, 36
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
+tu8
+  rotate: false
+  xy: 0, 0
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+tu9
+  rotate: false
+  xy: 249, 0
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1

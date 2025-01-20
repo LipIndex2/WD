@@ -1,0 +1,27 @@
+
+maliyu.png
+size: 94,40
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 79, 25
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 79, 17
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1

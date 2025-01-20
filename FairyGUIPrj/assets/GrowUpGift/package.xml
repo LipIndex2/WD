@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="20s92986">
+  <resources>
+    <component id="tm530" name="GrowUpGiftView.xml" path="/" exported="true"/>
+    <image id="tm532" name="TeJiaDi.png" path="/image/"/>
+    <image id="tm533" name="TongYongHeiDi.png" path="/image/" scale="9grid" scale9grid="18,18,36,36"/>
+    <image id="tm535" name="ShiJianicon.png" path="/image/"/>
+    <image id="tm536" name="ShiJianDi.png" path="/image/" scale="9grid" scale9grid="53,13,106,26"/>
+    <image id="tm538" name="HuoDongBiaoTiHengFu.png" path="/image/"/>
+    <component id="tm53b" name="GiftCell.xml" path="/components/" exported="true"/>
+    <component id="lwohh" name="ButtonArrow.xml" path="/components/"/>
+    <image id="lwohi" name="JianTouHuang.png" path="/image/"/>
+    <image id="nj49k" name="成长礼包优化修改_spec.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

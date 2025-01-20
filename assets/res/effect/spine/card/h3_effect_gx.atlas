@@ -1,0 +1,62 @@
+
+h3_effect_gx.png
+size: 1740,539
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+moguang02
+  rotate: false
+  xy: 521, 0
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+star5
+  rotate: true
+  xy: 453, 13
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 453, 61
+  size: 481, 478
+  orig: 481, 478
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 0, 27
+  size: 452, 512
+  orig: 452, 512
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: true
+  xy: 1417, 13
+  size: 247, 302
+  orig: 247, 302
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 935, 13
+  size: 481, 286
+  orig: 481, 286
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: true
+  xy: 935, 300
+  size: 239, 545
+  orig: 239, 545
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 1481, 261
+  size: 259, 278
+  orig: 259, 278
+  offset: 0, 0
+  index: -1

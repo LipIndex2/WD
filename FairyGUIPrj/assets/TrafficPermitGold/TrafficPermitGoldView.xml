@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageOffsetY="-284" designImageLayer="1">
+  <displayList>
+    <component id="n0_tm53" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,313">
+      <Label title="通行证"/>
+    </component>
+    <image id="n19_r41h" name="n19" src="r41h9" fileName="image/TongXingZheng2JiDanChuangChaHua.png" xy="85,502" group="n18_tm53"/>
+    <image id="n4_tm53" name="n4" src="tm533" fileName="image/TongXingZheng2JiDanChuangHengFu.png" xy="84,689" group="n18_tm53"/>
+    <image id="n6_tm53" name="n6" src="tm535" fileName="image/HuangJinTongXingZheng3JiDiBan1.png" xy="84,773" group="n18_tm53"/>
+    <image id="n7_tm53" name="n7" src="tm534" fileName="image/HuangJinTongXingZheng3JiDiBan2.png" xy="85,993" group="n18_tm53"/>
+    <image id="n8_tm53" name="n8" src="tm536" fileName="image/HuangJinTongXingZhengTuBiaoXiao.png" xy="108,795" group="n18_tm53"/>
+    <image id="n9_tm53" name="n9" src="tm536" fileName="image/HuangJinTongXingZhengTuBiaoXiao.png" xy="108,1014" group="n18_tm53"/>
+    <text id="n5_tm53" name="n5" xy="272,696" pivot="0.5,0.5" size="256,49" group="n18_tm53" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="解锁通行证奖励"/>
+    <text id="n10_tm53" name="n10" xy="178,791" pivot="0,0.5" size="184,49" group="n18_tm53" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#fff286" vAlign="middle" strokeColor="#491914" strokeSize="3" text="黄金通行证"/>
+    <text id="n11_tm53" name="n11" xy="178,1011" pivot="0,0.5" size="184,49" group="n18_tm53" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#fff286" vAlign="middle" strokeColor="#491914" strokeSize="3" text="黄金通行证"/>
+    <text id="n12_tm53" name="n12" xy="107,880" size="254,35" group="n18_tm53" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="解锁奖励和奖励任务！"/>
+    <text id="n13_tm53" name="n13" xy="107,1073" size="278,86" group="n18_tm53" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" vAlign="middle" leading="19" autoSize="none" strokeColor="#491914" strokeSize="3" text="获得高级通行证，+10级&#xA;立即获得，更多奖励！"/>
+    <group id="n18_tm53" name="n18" xy="84,502" size="632,696"/>
+    <text id="n14_tm53" name="Time" xy="258,1219" pivot="0,0.5" size="129,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="剩余时间：">
+      <relation target="n20_gy0i" sidePair="right-left"/>
+    </text>
+    <component id="n20_gy0i" name="timer" src="k2g826" fileName="TimeMeterCu.xml" pkg="1kdklxk3" xy="370,1219" pivot="0.5,0.5" size="138,35">
+      <Label title="17天20时" titleFontSize="25"/>
+    </component>
+    <component id="n15_tm53" name="BtnPoint" src="tm538" fileName="components/BtnPoint.xml" xy="509,1209" scale="0.8,0.8"/>
+    <component id="n16_tm53" name="BtnBuy1" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="427,823" scale="0.8,0.8"/>
+    <component id="n17_tm53" name="BtnBuy2" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="427,1045" scale="0.8,0.8"/>
+  </displayList>
+</component>

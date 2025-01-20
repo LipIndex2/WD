@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" designImage="ui://g13qdvs5rjro1" designImageOffsetX="-80" designImageOffsetY="-490">
+  <displayList>
+    <loader id="n0_rjro" name="QuaIcon" xy="5,5" pivot="0.5,0.5" size="110,110" url="ui://rqg67c20rjro5h" align="center" vAlign="middle"/>
+    <loader id="n2_rjro" name="Icon" xy="5,5" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle" fill="scale" shrinkOnly="true" clearOnPublish="true"/>
+    <image id="n4_qklm" name="PieceShow" src="tiuj5f" fileName="PinTu.png" pkg="rqg67c20" xy="82,0" visible="false"/>
+    <image id="n5_gmnd" name="SShow" src="gmnd3r" fileName="image/S.png" xy="0,0" visible="false"/>
+    <text id="n3_rjro" name="RbTxt" xy="104,84" pivot="1,0.5" size="10,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="239,366" extention="Button" designImage="ui://gp6652l2sxqb4" designImageOffsetX="-275" designImageOffsetY="-511">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_iw5u" name="bg" src="iw5uw" fileName="image/main_discount/ShangPinDi.png" xy="14,0" size="222,366" group="n8_iw5u"/>
+    <image id="n4_iw5u" name="bg_t" src="iw5ux" fileName="image/main_discount/ShangPinMingZiDi.png" xy="18,4" group="n8_iw5u"/>
+    <text id="n5_iw5u" name="NameShow" xy="80,6" pivot="0.5,0.5" size="84,54" group="n8_iw5u" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="钻石"/>
+    <image id="n13_gy0i" name="n13" src="iw5ub53" fileName="image/LvAnNiuXiao.png" pkg="zokic7y2" xy="28,267" pivot="0.5,0.5" group="n15_gy0i" grayed="true"/>
+    <text id="n14_gy0i" name="n14" xy="57,280" pivot="0.5,0.5" size="136,59" group="n15_gy0i" grayed="true" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已购买"/>
+    <group id="n15_gy0i" name="BuyShow" xy="28,267" size="194,85" group="n8_iw5u" advanced="true"/>
+    <loader id="n10_tmsj" name="IconShow" xy="9,82" pivot="0.5,0.5" size="226,164" group="n8_iw5u" url="ui://gp6652l2iw5u17" autoSize="true"/>
+    <text id="n16_dtha" name="NumShow" xy="114,200" pivot="0.5,0.5" size="10,49" group="n8_iw5u" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+    <component id="n9_o4uz" name="ItemShow" src="o4uzb5b" fileName="components/ItemDiscountHero.xml" xy="56,76" group="n8_iw5u" scale="0.7,0.7" visible="false"/>
+    <text id="n17_lwoh" name="ItemShowNum" xy="146,144" pivot="1,0.5" size="46,49" group="n8_iw5u" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="x9"/>
+    <component id="n7_iw5u" name="BtnBuy" src="iw5uz" fileName="components/ButtonMainBuy.xml" xy="28,267" group="n8_iw5u"/>
+    <component id="n18_no3y" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="207,282" group="n8_iw5u"/>
+    <group id="n8_iw5u" name="GpShow" xy="9,0" size="234,366"/>
+  </displayList>
+  <Button/>
+</component>

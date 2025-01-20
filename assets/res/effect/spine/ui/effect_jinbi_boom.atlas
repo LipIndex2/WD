@@ -1,0 +1,20 @@
+
+effect_jinbi_boom.png
+size: 228,174
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guang
+  rotate: true
+  xy: 54, 2
+  size: 170, 172
+  orig: 256, 256
+  offset: 42, 44
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 122
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

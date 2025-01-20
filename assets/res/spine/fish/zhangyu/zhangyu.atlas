@@ -1,0 +1,34 @@
+
+zhangyu.png
+size: 192,134
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chushou
+  rotate: false
+  xy: 151, 69
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 150, 134
+  orig: 150, 134
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 151, 37
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 151, 6
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

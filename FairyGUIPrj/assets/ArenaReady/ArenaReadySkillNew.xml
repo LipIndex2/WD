@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://e818d6bypp4u10" designImageAlpha="0">
+  <displayList>
+    <component id="n4_r1b9" name="OkBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1418">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="锁 定" sound="ui://d0dr38ivnvx3k"/>
+    </component>
+    <list id="n7_pp4u" name="GourpList" xy="0,140" size="800,1136" overflow="scroll" scrollBarFlags="2048" margin="25,0,0,0" lineGap="30" defaultItem="ui://e818d6bypp4u11" autoClearItems="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n6_wpum" name="SelectCount" xy="287,1543" pivot="0.5,0.5" size="224,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="已选词条：0/24">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <component id="n1_r1b9" name="SkillInfo" src="r1b9o" fileName="components/SkillInfo.xml" xy="-50,1279">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

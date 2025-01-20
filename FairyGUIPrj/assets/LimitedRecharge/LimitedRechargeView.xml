@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://cm7m3oi57hb2g" designImageLayer="1">
+  <displayList>
+    <component id="n0_vkjw" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="-1,0"/>
+    <image id="n1_vkjw" name="bg1" src="vkjw2" fileName="image/TuCeng5.png" xy="-1,0" pivot="0.5,0.5" size="800,441">
+      <relation target="n0_vkjw" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n5_vkjw" name="bg2" src="vkjw6" fileName="image/TuCeng4.png" xy="-1,386" size="800,1214">
+      <relation target="n0_vkjw" sidePair="top-top,bottomext-bottom"/>
+    </image>
+    <image id="n6_vkjw" name="bg_down" src="vkjw7" fileName="image/YeQianDiBu.png" xy="-1,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n0_vkjw" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n2_vkjw" name="up" src="vkjw3" fileName="image/TuCeng3.png" xy="0,0" group="n10_vkjw">
+      <relation target="n0_vkjw" sidePair="top-top"/>
+    </image>
+    <image id="n14_7hb2" name="n14" src="7hb2f" fileName="image/XianShiLeiChongWenZi.png" xy="493,4" group="n10_vkjw"/>
+    <image id="n7_vkjw" name="n7" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="276,361" size="249,54" group="n10_vkjw" scale="1,1.2"/>
+    <image id="n8_vkjw" name="n8" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="287,370" group="n10_vkjw" scale="0.8,0.8"/>
+    <component id="n9_vkjw" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="325,364" pivot="0.5,0.5" size="192,55" group="n10_vkjw" touchable="false">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="39"/>
+    </component>
+    <text id="n15_gtik" name="Describe" xy="395,315" pivot="0.5,0.5" size="10,42" group="n10_vkjw" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <group id="n10_vkjw" name="n10" xy="0,0" size="801,428" advanced="true">
+      <relation target="n0_vkjw" sidePair="top-top"/>
+    </group>
+    <component id="n11_vkjw" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="13,1488">
+      <relation target="n0_vkjw" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <list id="n13_vkjw" name="list" xy="-1,435" size="800,1036" overflow="scroll" scrollBarFlags="2048" margin="8,0,0,0" lineGap="5" defaultItem="ui://cm7m3oi5vkjwd" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="n0_vkjw" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

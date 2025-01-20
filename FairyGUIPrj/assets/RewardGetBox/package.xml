@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="x30uryed">
+  <resources>
+    <component id="h6p01" name="ButtonContinue.xml" path="/components/"/>
+    <component id="h6p02" name="HeroItemShow.xml" path="/components/" exported="true"/>
+    <component id="h6p04" name="RewardGetBoxView.xml" path="/" exported="true"/>
+    <image id="h6p05" name="DiMian.png" path="/image/"/>
+    <image id="h6p07" name="任务完成UI参数.png" path="/"/>
+    <image id="h6p08" name="商城宝箱开启2.jpg" path="/"/>
+    <image id="h6p09" name="DaJianTou.png" path="/image/"/>
+    <image id="h6p0a" name="BiaoTi.png" path="/image/"/>
+    <component id="h6p0b" name="BtnBox.xml" path="/components/"/>
+    <image id="tko9c" name="BaoXiang0.png" path="/image/" exported="true"/>
+    <image id="tko9d" name="BaoXiang1.png" path="/image/" exported="true"/>
+    <image id="tko9e" name="BaoXiang2.png" path="/image/" exported="true"/>
+    <image id="ggdqf" name="ChaoJiWuDiDaBaoXiang.png" path="/image/"/>
+    <image id="kts3g" name="HuoBiDiKeLaShen.png" path="/image/" scale="9grid" scale9grid="40,0,50,54"/>
+    <image id="kts3i" name="Small40000.png" path="/image/"/>
+    <image id="lwohj" name="BaoXiang3.png" path="/image/" exported="true"/>
+    <image id="lwohk" name="BaoXiang4.png" path="/image/" exported="true"/>
+    <image id="lwohl" name="BaoXiang5.png" path="/image/" exported="true"/>
+    <component id="j2ukm" name="BtnOpen.xml" path="/components/"/>
+    <component id="vkjwn" name="ButtonShow.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

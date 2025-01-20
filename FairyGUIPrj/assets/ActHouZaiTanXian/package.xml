@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zlz34mq0">
+  <resources>
+    <image id="giwp0" name="BiaoTi.png" path="/image/"/>
+    <image id="giwp1" name="Lu.png" path="/image/"/>
+    <image id="giwp2" name="Zu.png" path="/image/"/>
+    <image id="giwp3" name="CellBg1.png" path="/image/" exported="true"/>
+    <image id="giwp4" name="CellBg2.png" path="/image/" exported="true"/>
+    <component id="giwp5" name="ActHouZaiTanXianView.xml" path="/" exported="true"/>
+    <image id="giwp6" name="后宅标注.png" path="/"/>
+    <component id="czjl8" name="ShopItem.xml" path="/components/"/>
+    <image id="czjl9" name="YuanJiaoJuXing 2.png" path="/image/" scale="9grid" scale9grid="42,0,84,66"/>
+    <image id="czjla" name="RiLi.png" path="/image/"/>
+    <image id="czjlb" name="LanSeGuangGao.png" path="/image/"/>
+    <image id="czjlc" name="LanSeAnNiu.png" path="/image/"/>
+    <image id="czjld" name="HuangSeAnNiu.png" path="/image/"/>
+    <component id="czjle" name="YellowBtn.xml" path="/components/"/>
+    <component id="czjlf" name="BuyItem.xml" path="/components/"/>
+    <component id="czjlg" name="BlueBtn.xml" path="/components/"/>
+    <image id="rmt9h" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

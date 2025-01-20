@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6ei5mvd5">
+  <resources>
+    <component id="m5mw0" name="EverydayChallengeView.xml" path="/" exported="true"/>
+    <image id="m5mw2" name="每日挑战弹窗_.jpg" path="/"/>
+    <image id="m5mw3" name="BOSSBeiJing.png" path="/image/"/>
+    <component id="m5mw4" name="ButtonChallengeTips.xml" path="/components/"/>
+    <image id="m5mw5" name="GanTanHao.png" path="/image/"/>
+    <image id="m5mw6" name="LvSeBan.png" path="/image/" scale="9grid" scale9grid="49,38,98,76"/>
+    <image id="m5mw7" name="BaiSeBan.png" path="/image/" scale="9grid" scale9grid="49,38,98,76"/>
+    <image id="m5mw8" name="QianZiHengTiao.png" path="/image/" scale="9grid" scale9grid="103,12,206,24"/>
+    <image id="m5mw9" name="DianDian.png" path="/image/"/>
+    <image id="m5mwa" name="BiaoTiXian.png" path="/image/" scale="9grid" scale9grid="52,6,104,12"/>
+    <image id="m5mwb" name="JiaoSeKaPianDi.png" path="/image/" scale="9grid" scale9grid="25,25,50,50"/>
+    <component id="m5mwc" name="ItemChallengeAttr.xml" path="/components/" exported="true"/>
+    <component id="m5mwd" name="ButtonChallengeReward.xml" path="/components/"/>
+    <image id="m5mwe" name="JuanZhou.png" path="/image/"/>
+    <image id="m5mwf" name="LvXiaoKuang.png" path="/image/"/>
+    <image id="m5mwg" name="HongXiaoKuang.png" path="/image/"/>
+    <image id="m5mwh" name="ShiJianXiaoTiao.png" path="/image/"/>
+    <image id="m5mwi" name="ShiZhongTuBiao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

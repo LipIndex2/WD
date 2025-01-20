@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="728,150" designImage="ui://5mk2qj8mwpum6" designImageOffsetX="-37" designImageOffsetY="-264" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_wpum" name="n0" src="wpum1" fileName="imange/BaiSeHeiBianDi.png" xy="0,0" size="728,150"/>
+    <component id="n5_wpum" name="HeadItem" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="395,28" scale="0.55,0.55"/>
+    <text id="n2_wpum" name="TimeDesc" xy="33,88" size="99,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="2小时前"/>
+    <text id="n4_wpum" name="State" xy="300,77" pivot="0.5,0.5" anchor="true" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="攻击"/>
+    <text id="n6_wpum" name="Name" xy="522,55" pivot="0,0.5" anchor="true" size="75,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="Pinko"/>
+    <text id="n7_wpum" name="RankText" xy="522,100" pivot="0,0.5" anchor="true" size="108,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="荣耀黄金"/>
+    <loader id="n3_wpum" name="StateIcon" xy="229,74" pivot="0.5,0.5" anchor="true" size="47,47" url="ui://5mk2qj8mwpuma" autoSize="true" clearOnPublish="true"/>
+    <loader id="n1_wpum" name="Result" xy="25,58" pivot="0,0.5" anchor="true" size="111,49" url="ui://5mk2qj8mwpum9" autoSize="true" clearOnPublish="true"/>
+    <loader id="n8_wpum" name="RankIcon" xy="489,35" pivot="0.5,0.5" anchor="true" size="128,128" scale="0.5,0.5" fill="scaleFree" autoSize="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uivgkva9">
+  <resources>
+    <component id="que1h" name="CapacityCell.xml" path="/components/" exported="true"/>
+    <component id="p2wa17" name="BtnSkill.xml" path="/components/" exported="true"/>
+    <image id="gy0i21" name="ChengSeDaAnNiu.png" path="/image/"/>
+    <component id="gy0i22" name="BtnUpgrade.xml" path="/components/"/>
+    <component id="uvlm3g" name="HeroInfoView.xml" path="/" exported="true"/>
+    <component id="uvlm3j" name="ButtonTab.xml" path="/components/" exported="true"/>
+    <image id="uvlm3k" name="YeQian2.png" path="/image/"/>
+    <image id="uvlm3l" name="YeQian1.png" path="/image/"/>
+    <component id="jmb43x" name="HeroInfoViewGeneShow.xml" path="/" exported="true"/>
+    <image id="vb3540" name="TuBiaoZuDi.png" path="/image/" scale="9grid" scale9grid="177,178,354,356"/>
+    <image id="vb3542" name="TaoZhuangMingZiDi.png" path="/image/" scale="9grid" scale9grid="16,18,32,36"/>
+    <image id="vb3543" name="TuBiaoDiWu.png" path="/image/" exported="true"/>
+    <image id="vb354c" name="TaoZhuangJinDuDi.png" path="/image/" scale="9grid" scale9grid="4,4,8,8"/>
+    <image id="vb354d" name="TaoZhuangJinDu.png" path="/image/" scale="9grid" scale9grid="7,7,3,3"/>
+    <component id="vb354g" name="ButtonGene.xml" path="/components/"/>
+    <component id="rty24j" name="BtnInherit.xml" path="/components/"/>
+    <image id="rty24l" name="ChuanCheng1.png" path="/image/" exported="true"/>
+    <image id="rty24m" name="ChuanCheng2.png" path="/image/" exported="true"/>
+    <image id="rty24n" name="ChuanCheng3.png" path="/image/" exported="true"/>
+    <image id="rty24o" name="ChuanChengAn1.png" path="/image/" exported="true"/>
+    <image id="rty24p" name="ChuanChengAn2.png" path="/image/" exported="true"/>
+    <image id="rty24q" name="ChuanChengAn3.png" path="/image/" exported="true"/>
+    <image id="pitk4t" name="TaoZhuangDianLiangJinDuDi.png" path="/image/" scale="9grid" scale9grid="144,155,67,40"/>
+    <image id="pitk4v" name="GanTanHao.png" path="/image/"/>
+    <image id="hprm4w" name="基因4标注.png" path="/"/>
+    <image id="hprm51" name="ShuZiDi.png" path="/image/" scale="9grid" scale9grid="30,9,60,18"/>
+    <image id="hprm52" name="HeChengTuBiao.png" path="/image/"/>
+    <image id="hprm53" name="JiaChengTuBiao.png" path="/image/"/>
+    <image id="hprm55" name="TuBiaoDi.png" path="/image/"/>
+    <component id="hprm56" name="BtnMod.xml" path="/components/"/>
+    <image id="ox885c" name="Xian.png" path="/image/"/>
+    <image id="ox885r" name="YuanJiaoJuXing.png" path="/image/" scale="9grid" scale9grid="15,12,30,24"/>
+    <image id="ox885u" name="BaoZhaFanWei.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox885v" name="DanSheShuLiang.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox885w" name="GongJiJuLi.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox885x" name="GongJiLeiXing.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox885y" name="GongJiLi.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox885z" name="GongJiSuDu.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8860" name="JianSuShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8861" name="JianSuXiaoGuo.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8862" name="LingDongShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8863" name="LiuXueShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8864" name="XuanYunShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8865" name="YiShangShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8866" name="ZhongDuShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8867" name="ZhuoShaoShiJian.png" path="/image/heroInfo/" exported="true"/>
+    <image id="ox8868" name="DaKuang.png" path="/image/" scale="9grid" scale9grid="29,20,58,40"/>
+    <component id="ox8869" name="HeroSmallHeadItem.xml" path="/components/" exported="true"/>
+    <image id="gr386a" name="ShuXing.png" path="/image/"/>
+    <image id="gr386b" name="HeCheng.png" path="/image/"/>
+    <component id="gr386c" name="BtnCompound.xml" path="/components/"/>
+    <component id="gr386d" name="BtnAttribute.xml" path="/components/"/>
+    <image id="m4fi6e" name="QiZhi.png" path="/image/"/>
+    <image id="m4fi6f" name="QiZhiDi.png" path="/image/" scale="9grid" scale9grid="35,10,70,20"/>
+    <image id="omua6i" name="2级弹窗属性界面_.jpg" path="/"/>
+    <image id="omua6j" name="属性框通用底示意_spec.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,48 @@
+
+effect_boss_in02.png
+size: 297,504
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+Enemy coming!
+  rotate: true
+  xy: 241, 153
+  size: 349, 49
+  orig: 349, 49
+  offset: 0, 0
+  index: -1
+icon
+  rotate: true
+  xy: 141, 2
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: true
+  xy: 141, 61
+  size: 441, 98
+  orig: 441, 98
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 20
+  size: 482, 137
+  orig: 482, 137
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 202, 5
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 241, 92
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1

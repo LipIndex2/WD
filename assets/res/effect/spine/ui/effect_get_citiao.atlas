@@ -1,0 +1,20 @@
+
+effect_get_citiao.png
+size: 829,172
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+light
+  rotate: false
+  xy: 2, 2
+  size: 768, 168
+  orig: 768, 168
+  offset: 0, 0
+  index: -1
+point12
+  rotate: false
+  xy: 772, 115
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

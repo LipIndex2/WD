@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ufz1cam7">
+  <resources>
+    <component id="omua0" name="HeroIntegralPreviewView.xml" path="/" exported="true"/>
+    <image id="omua1" name="英雄界面03.jpg" path="/"/>
+    <image id="omua2" name="JuXing.png" path="/image/" scale="9grid" scale9grid="12,12,24,24"/>
+    <component id="omua3" name="IntegralPreviewItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

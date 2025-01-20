@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="312,38" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <component id="n1_m33s" name="BossHpBar" src="m33s5x" fileName="components/BossHpBar.xml" xy="0,0">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <image id="n2_m33s" name="Icon" src="m33s5t" fileName="image/bossXueTiaoicon.png" xy="-22,-20" visible="false">
+      <relation target="n1_m33s" sidePair="middle-middle,left-left"/>
+    </image>
+    <component id="n3_m33s" name="BubbleInfo" src="m33s5y" fileName="components/BubbleInfo.xml" xy="45,-68">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+  <transition name="HideBubble">
+    <item time="0" type="Visible" target="n3_m33s" value="true"/>
+    <item time="48" type="Visible" target="n3_m33s" value="false"/>
+  </transition>
+</component>

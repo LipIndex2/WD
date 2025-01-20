@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://o66z8pn9eybi5" designImageOffsetX="-332" designImageOffsetY="-584">
+  <displayList>
+    <loader id="n18_9s56" name="BtnClose" xy="0,0" size="800,1600"/>
+    <image id="n3_wodn" name="bg_reward" src="eybi6" fileName="image/XiaoQiPao.png" xy="0,0" size="240,150" group="n10_wodn"/>
+    <component id="n16_8qer" name="RewardShow1" src="eybi0" fileName="components/ItemReward.xml" xy="17,19" group="n10_wodn"/>
+    <component id="n17_8qer" name="RewardShow2" src="eybi0" fileName="components/ItemReward.xml" xy="124,19" group="n10_wodn"/>
+    <group id="n10_wodn" name="GpReward" xy="0,0" size="240,150" advanced="true"/>
+  </displayList>
+</component>

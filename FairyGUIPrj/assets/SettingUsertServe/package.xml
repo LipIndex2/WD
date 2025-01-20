@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="h92kxfo8">
+  <resources>
+    <component id="r9w50" name="SettingUsertServeView.xml" path="/" exported="true"/>
+    <image id="r9w51" name="用户协议参数.png" path="/"/>
+    <component id="r9w53" name="WordCell.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

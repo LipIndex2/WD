@@ -1,0 +1,83 @@
+
+15022.png
+size: 531,518
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bing1
+  rotate: true
+  xy: 0, 56
+  size: 117, 233
+  orig: 117, 233
+  offset: 0, 0
+  index: -1
+bing2
+  rotate: true
+  xy: 236, 141
+  size: 117, 233
+  orig: 117, 233
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 419, 24
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 236, 259
+  size: 295, 259
+  orig: 295, 259
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 419, 82
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 188, 4
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 234, 4
+  size: 136, 184
+  orig: 136, 184
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 470, 142
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 0, 0
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 0, 174
+  size: 235, 344
+  orig: 235, 344
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 117, 0
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1

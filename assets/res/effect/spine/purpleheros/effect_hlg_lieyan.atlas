@@ -1,0 +1,223 @@
+
+effect_hlg_lieyan.png
+size: 882,912
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+lieyan/lieyan_00048
+  rotate: true
+  xy: 453, 8
+  size: 143, 145
+  orig: 200, 180
+  offset: 45, 14
+  index: -1
+lieyan/lieyan_00051
+  rotate: true
+  xy: 453, 153
+  size: 144, 146
+  orig: 200, 180
+  offset: 45, 15
+  index: -1
+lieyan/lieyan_00055
+  rotate: false
+  xy: 491, 449
+  size: 152, 150
+  orig: 200, 180
+  offset: 37, 12
+  index: -1
+lieyan/lieyan_00058
+  rotate: false
+  xy: 2, 444
+  size: 157, 150
+  orig: 200, 180
+  offset: 33, 11
+  index: -1
+lieyan/lieyan_00060
+  rotate: false
+  xy: 646, 469
+  size: 156, 147
+  orig: 200, 180
+  offset: 34, 13
+  index: -1
+lieyan/lieyan_00063
+  rotate: false
+  xy: 314, 299
+  size: 150, 146
+  orig: 200, 180
+  offset: 31, 12
+  index: -1
+lieyan/lieyan_00067
+  rotate: false
+  xy: 156, 289
+  size: 149, 145
+  orig: 200, 180
+  offset: 31, 12
+  index: -1
+lieyan/lieyan_00070
+  rotate: false
+  xy: 491, 601
+  size: 153, 150
+  orig: 200, 180
+  offset: 30, 11
+  index: -1
+lieyan/lieyan_00074
+  rotate: true
+  xy: 657, 765
+  size: 145, 160
+  orig: 200, 180
+  offset: 39, 5
+  index: -1
+lieyan/lieyan_00077
+  rotate: false
+  xy: 169, 588
+  size: 149, 164
+  orig: 200, 180
+  offset: 37, 3
+  index: -1
+lieyan/lieyan_00081
+  rotate: true
+  xy: 332, 756
+  size: 154, 163
+  orig: 200, 180
+  offset: 32, 5
+  index: -1
+lieyan/lieyan_00083
+  rotate: true
+  xy: 169, 754
+  size: 156, 161
+  orig: 200, 180
+  offset: 30, 9
+  index: -1
+lieyan/lieyan_00086
+  rotate: false
+  xy: 332, 598
+  size: 157, 156
+  orig: 200, 180
+  offset: 29, 13
+  index: -1
+lieyan/lieyan_00089
+  rotate: false
+  xy: 2, 752
+  size: 165, 158
+  orig: 200, 180
+  offset: 21, 11
+  index: -1
+lieyan/lieyan_00092
+  rotate: false
+  xy: 497, 753
+  size: 158, 157
+  orig: 200, 180
+  offset: 27, 9
+  index: -1
+lieyan/lieyan_00095
+  rotate: false
+  xy: 2, 3
+  size: 141, 143
+  orig: 200, 180
+  offset: 45, 17
+  index: -1
+lieyan/lieyan_00099
+  rotate: true
+  xy: 645, 319
+  size: 148, 149
+  orig: 200, 180
+  offset: 40, 11
+  index: -1
+lieyan/lieyan_00101
+  rotate: true
+  xy: 145, 23
+  size: 123, 152
+  orig: 200, 180
+  offset: 37, 10
+  index: -1
+lieyan/lieyan_00105
+  rotate: false
+  xy: 745, 16
+  size: 135, 154
+  orig: 200, 180
+  offset: 34, 10
+  index: -1
+lieyan/lieyan_00108
+  rotate: true
+  xy: 153, 148
+  size: 139, 152
+  orig: 200, 180
+  offset: 33, 13
+  index: -1
+lieyan/lieyan_00110
+  rotate: false
+  xy: 307, 2
+  size: 143, 145
+  orig: 200, 180
+  offset: 34, 9
+  index: -1
+lieyan/lieyan_00113
+  rotate: false
+  xy: 2, 148
+  size: 149, 145
+  orig: 200, 180
+  offset: 31, 11
+  index: -1
+lieyan/lieyan_00116
+  rotate: false
+  xy: 307, 149
+  size: 144, 148
+  orig: 200, 180
+  offset: 38, 10
+  index: -1
+lieyan/lieyan_00119
+  rotate: true
+  xy: 626, 172
+  size: 145, 148
+  orig: 200, 180
+  offset: 38, 13
+  index: -1
+lieyan/lieyan_00122
+  rotate: true
+  xy: 320, 447
+  size: 149, 153
+  orig: 200, 180
+  offset: 34, 9
+  index: -1
+lieyan/lieyan_00125
+  rotate: false
+  xy: 2, 596
+  size: 155, 154
+  orig: 200, 180
+  offset: 28, 8
+  index: -1
+lieyan/lieyan_00128
+  rotate: true
+  xy: 161, 436
+  size: 150, 151
+  orig: 200, 180
+  offset: 31, 10
+  index: -1
+lieyan/lieyan_00131
+  rotate: true
+  xy: 475, 299
+  size: 148, 149
+  orig: 200, 180
+  offset: 28, 13
+  index: -1
+lieyan/lieyan_00134
+  rotate: false
+  xy: 2, 295
+  size: 152, 147
+  orig: 200, 180
+  offset: 30, 14
+  index: -1
+lieyan/lieyan_00137
+  rotate: false
+  xy: 657, 618
+  size: 159, 145
+  orig: 200, 180
+  offset: 26, 12
+  index: -1
+lieyan/lieyan_00140
+  rotate: false
+  xy: 601, 23
+  size: 142, 147
+  orig: 200, 180
+  offset: 44, 11
+  index: -1

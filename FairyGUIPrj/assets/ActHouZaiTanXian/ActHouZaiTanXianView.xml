@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://zlz34mq0giwp6">
+  <displayList>
+    <component id="n8_rmt9" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n11_n4bi" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n8_rmt9" sidePair="bottom-bottom"/>
+    </component>
+    <loader id="n7_rmt9" name="BG" xy="0,0" size="800,1600" url="ui://zlz34mq0giwp2" fill="scaleFree" clearOnPublish="true">
+      <relation target="n8_rmt9" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </loader>
+    <list id="n4_czjl" name="List" xy="2,277" size="798,1162" overflow="scroll" scrollBarFlags="2048" margin="89,0,0,0" defaultItem="ui://zlz34mq0czjl8" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n10_rmt9" name="Spine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="401,268">
+      <relation target="n8_rmt9" sidePair="center-center,top-top"/>
+    </component>
+    <image id="n5_rmt9" name="n5" src="rmt9h" fileName="image/YeQianDiBu.png" xy="0,1600" pivot="0,1" anchor="true" size="800,130">
+      <relation target="n8_rmt9" sidePair="width-width,center-center,bottom-bottom"/>
+    </image>
+    <component id="n6_rmt9" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="16,1489">
+      <relation target="n8_rmt9" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <image id="n0_czjl" name="n0" src="giwp0" fileName="image/BiaoTi.png" xy="179,20" group="n9_rmt9"/>
+    <text id="n1_czjl" name="ActTitle" xy="400,49" pivot="0.5,0.5" anchor="true" size="132,44" group="n9_rmt9" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#2d2d2d" strokeSize="3" text="后宅探险"/>
+    <component id="n3_czjl" name="Timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="200,56" group="n9_rmt9">
+      <Label title="剩余时间:00:00:00" titleFontSize="24"/>
+    </component>
+    <group id="n9_rmt9" name="TopG" xy="179,20" size="442,136" advanced="true">
+      <relation target="n11_n4bi" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+</component>

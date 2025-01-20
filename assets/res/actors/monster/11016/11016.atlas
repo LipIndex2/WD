@@ -1,0 +1,55 @@
+
+11016.png
+size: 511,246
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: false
+  xy: 370, 24
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 290, 14
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 410, 136
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 289, 246
+  orig: 289, 246
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 441, 65
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 370, 52
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 290, 125
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+baicai.png
+size: 343,272
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao1
+  rotate: false
+  xy: 174, 57
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 234, 7
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 123, 153
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 215, 170
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 251, 67
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 0
+  size: 173, 101
+  orig: 173, 101
+  offset: 0, 0
+  index: -1
+toujin
+  rotate: true
+  xy: 305, 177
+  size: 95, 38
+  orig: 95, 38
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 174, 11
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 123, 109
+  size: 127, 43
+  orig: 127, 43
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 0, 102
+  size: 170, 122
+  orig: 170, 122
+  offset: 0, 0
+  index: -1

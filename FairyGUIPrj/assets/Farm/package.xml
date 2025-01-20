@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dryw07k7">
+  <resources>
+    <component id="uzf20" name="FarmView.xml" path="/" exported="true"/>
+    <image id="uzf21" name="温室.jpg" path="/"/>
+    <image id="uzf22" name="DaoJuDi.png" path="/image/"/>
+    <image id="uzf23" name="DaoJu0.png" path="/image/"/>
+    <image id="uzf24" name="DaoJu3.png" path="/image/"/>
+    <image id="uzf25" name="DaoJu2.png" path="/image/"/>
+    <image id="uzf26" name="DaoJu1.png" path="/image/"/>
+    <image id="uzf27" name="DaoJu4.png" path="/image/"/>
+    <component id="uzf28" name="BtnPlantItem.xml" path="/components/"/>
+    <image id="uzf29" name="ShangDiKuang.png" path="/image/"/>
+    <image id="uzf2a" name="BaiFang.png" path="/image/"/>
+    <image id="uzf2b" name="ShangDian.png" path="/image/"/>
+    <component id="uzf2c" name="ButtonMod.xml" path="/components/"/>
+    <image id="uzf2d" name="YuanJiaoJuXing2.png" path="/image/" scale="9grid" scale9grid="24,25,48,8"/>
+    <image id="uzf2j" name="ZhuangXiu.png" path="/image/"/>
+    <image id="uzf2k" name="HuaSa02.png" path="/image/" scale9grid="23,24,16,48"/>
+    <image id="uzf2l" name="ShuiGuan02.png" path="/image/" scale="9grid" scale9grid="9,24,4,14"/>
+    <image id="uzf2m" name="ZuoYouQieHuanAnNiu.png" path="/image/"/>
+    <image id="uzf2n" name="HuaPenFang.png" path="/image/"/>
+    <image id="uzf2o" name="HuaPenYuan.png" path="/image/"/>
+    <component id="9quyp" name="ListCell.xml" path="/components/" exported="true"/>
+    <component id="9quyq" name="FlowerpotItem.xml" path="/components/" exported="true"/>
+    <component id="9quys" name="BtnFitment.xml" path="/components/"/>
+    <image id="9quyt" name="PenSaChuCaoJiChe.png" path="/image/"/>
+    <image id="9quyu" name="HuaSa03.png" path="/image/"/>
+    <image id="9quyx" name="HuaSa01.png" path="/image/"/>
+    <image id="9quyy" name="ShuiGuan01.png" path="/image/"/>
+    <component id="9quyz" name="ButtonArrows.xml" path="/components/"/>
+    <image id="9quy10" name="bg.png" path="/image/" atlas="alone_npot"/>
+    <component id="f3m011" name="Botany.xml" path="/components/"/>
+    <component id="f3m012" name="BtnFriend.xml" path="/components/"/>
+    <component id="f3m013" name="parent.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

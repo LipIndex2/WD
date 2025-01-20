@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://ushz0imfm4fi12" designImageAlpha="0">
+  <displayList>
+    <component id="n39_hwhu" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5" touchable="false"/>
+    <image id="n40_hwhu" name="n40" src="m4fix" fileName="image/YeQianDiBu.png" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n39_hwhu" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n15_qf1r" name="n15" src="m4fix" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n39_hwhu" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <list id="n23_hlne" name="List" xy="0,467" pivot="0.5,0.5" size="800,1009" overflow="scroll" scrollBarFlags="128" lineGap="-3" defaultItem="ui://ushz0imfm4fi6" autoClearItems="true">
+      <relation target="n39_hwhu" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n50_m4fi" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,230" group="n21_hlne"/>
+    <image id="n1_qf1r" name="n1" src="m4fiw" fileName="image/ZiSeShangTiao.png" xy="0,226" group="n21_hlne"/>
+    <image id="n3_qf1r" name="n3" src="m4fiu" fileName="image/ShiZhongShiJianTiao.png" xy="283,189" group="n21_hlne"/>
+    <image id="n4_qf1r" name="n4" src="m4fiv" fileName="image/ShiZhongTuBiao.png" xy="298,193" group="n21_hlne"/>
+    <image id="n7_qf1r" name="n7" src="m4fis" fileName="image/MianFeiTongXingZhengQiZhi.png" xy="0,355" group="n21_hlne"/>
+    <image id="n8_qf1r" name="n8" src="m4fip" fileName="image/HuangJinTongXingZhengQiZhi.png" xy="400,356" group="n21_hlne"/>
+    <image id="n9_qf1r" name="n9" src="m4fiq" fileName="image/HuangJinTongXingZhengTuBiao.png" xy="446,381" group="n21_hlne"/>
+    <image id="n10_qf1r" name="n10" src="m4fit" fileName="image/MianFeiTongXingZhengTuBiao.png" xy="50,381" group="n21_hlne"/>
+    <image id="n45_m4fi" name="n45" src="m4fi14" fileName="image/TieGao.png" xy="238,254" group="n46_m4fi">
+      <relation target="n31_hlne" sidePair="right-left"/>
+    </image>
+    <text id="n31_hlne" name="NowadayLevel" xy="305,269" pivot="0.5,0.5" size="255,39" group="n46_m4fi" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="当前挖掘深度：666"/>
+    <group id="n46_m4fi" name="LevelShow" xy="238,254" size="322,67" group="n21_hlne" advanced="true"/>
+    <text id="n11_qf1r" name="n11" xy="169,389" pivot="0.5,0.5" size="184,49" group="n21_hlne" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#e5edff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="免费通行证"/>
+    <text id="n12_qf1r" name="n12" xy="568,389" pivot="0.5,0.5" size="184,49" group="n21_hlne" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#fff898" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="黄金通行证"/>
+    <group id="n21_hlne" name="n21" xy="0,189" size="800,324" advanced="true">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </group>
+    <component id="n38_aj74" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="331,192" pivot="0.5,0.5" size="183,34" visible="false" touchable="false">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+      <Label titleFontSize="24"/>
+    </component>
+    <component id="n13_qf1r" name="BtnSkin" src="m4fih" fileName="components/BtnSkin.xml" xy="88,1384" pivot="0.5,1">
+      <relation target="n39_hwhu" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n24_hlne" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1490">
+      <relation target="n39_hwhu" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n43_a9ka" name="BtnOneKeyGet" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="490,1480">
+      <relation target="n39_hwhu" sidePair="center-center,bottom-bottom"/>
+      <Button title="一键领取"/>
+    </component>
+    <component id="n47_m4fi" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="463,233">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

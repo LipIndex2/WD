@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://x0i6y981o0za3">
+  <displayList>
+    <component id="n6_90m5" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n9_90m5" name="bg1" src="90m5g" fileName="image/TuCeng5.png" xy="0,0" pivot="0.5,0.5" size="800,441">
+      <relation target="n6_90m5" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n5_90m5" name="up" src="90m5e" fileName="image/TuCeng3.png" xy="0,0">
+      <relation target="n6_90m5" sidePair="top-top"/>
+    </image>
+    <component id="n10_uvlm" name="parent" src="uvlmh" fileName="components/parent.xml" xy="400,388">
+      <relation target="n6_90m5" sidePair="top-top"/>
+    </component>
+    <image id="n13_hprm" name="n13" src="hprmj" fileName="image/XinZi.png" xy="550,232">
+      <relation target="n6_90m5" sidePair="top-top"/>
+    </image>
+    <image id="n7_90m5" name="bg2" src="90m5f" fileName="image/TuCeng4.png" xy="0,390" pivot="0.5,0" size="800,1210">
+      <relation target="n6_90m5" sidePair="width-width,top-top,bottomext-bottom"/>
+    </image>
+    <image id="n2_o0za" name="bg_down" src="o0zad" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n6_90m5" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n14_cfi8" name="n14" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="302,378" group="n18_cfi8"/>
+    <image id="n15_cfi8" name="n15" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="286,376" group="n18_cfi8"/>
+    <component id="n16_cfi8" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="344,383" size="151,42" group="n18_cfi8" touchable="false">
+      <Label titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <group id="n18_cfi8" name="n18" xy="286,376" size="228,58" advanced="true">
+      <relation target="n6_90m5" sidePair="top-top"/>
+    </group>
+    <component id="n3_o0za" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1488">
+      <relation target="n6_90m5" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n4_o0za" name="BtnInvite" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="253,1480">
+      <relation target="n6_90m5" sidePair="center-center,bottom-bottom"/>
+      <Button title="前往邀请"/>
+    </component>
+    <list id="n1_o0za" name="list" xy="0,437" size="800,1027" overflow="scroll" lineGap="-7" defaultItem="ui://x0i6y981o0za4" autoClearItems="true">
+      <relation target="n6_90m5" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

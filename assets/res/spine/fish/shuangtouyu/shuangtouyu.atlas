@@ -1,0 +1,41 @@
+
+shuangtouyu.png
+size: 153,93
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 127, 21
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 127, 69
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+yuqi1
+  rotate: true
+  xy: 127, 45
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: true
+  xy: 127, 0
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1

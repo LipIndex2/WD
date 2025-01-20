@@ -1,0 +1,83 @@
+
+11051.png
+size: 353,268
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: false
+  xy: 159, 50
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 303, 177
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 4
+  size: 158, 172
+  orig: 158, 172
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 0, 177
+  size: 91, 302
+  orig: 91, 302
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: true
+  xy: 320, 59
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+jiandai
+  rotate: true
+  xy: 285, 40
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 303, 214
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+shouhuan
+  rotate: true
+  xy: 285, 0
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: true
+  xy: 159, 17
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: true
+  xy: 222, 17
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+xiubai
+  rotate: false
+  xy: 285, 99
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1

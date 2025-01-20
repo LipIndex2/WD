@@ -1,0 +1,83 @@
+
+effect_slsd_glow.png
+size: 601,540
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow
+  rotate: false
+  xy: 221, 399
+  size: 176, 141
+  orig: 176, 141
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: true
+  xy: 0, 0
+  size: 226, 185
+  orig: 226, 185
+  offset: 0, 0
+  index: -1
+liewen1
+  rotate: false
+  xy: 186, 6
+  size: 218, 220
+  orig: 218, 220
+  offset: 0, 0
+  index: -1
+liewen2
+  rotate: true
+  xy: 221, 227
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+shitou0
+  rotate: false
+  xy: 0, 227
+  size: 220, 313
+  orig: 220, 313
+  offset: 0, 0
+  index: -1
+stone1
+  rotate: true
+  xy: 405, 178
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+stone2
+  rotate: true
+  xy: 476, 119
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+stone3
+  rotate: false
+  xy: 392, 256
+  size: 88, 142
+  orig: 88, 142
+  offset: 0, 0
+  index: -1
+stone4
+  rotate: true
+  xy: 405, 446
+  size: 94, 178
+  orig: 94, 178
+  offset: 0, 0
+  index: -1
+stone5
+  rotate: false
+  xy: 481, 202
+  size: 120, 243
+  orig: 120, 243
+  offset: 0, 0
+  index: -1
+stone6
+  rotate: false
+  xy: 405, 16
+  size: 93, 102
+  orig: 93, 102
+  offset: 0, 0
+  index: -1

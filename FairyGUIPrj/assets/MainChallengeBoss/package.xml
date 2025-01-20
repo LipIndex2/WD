@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jtz6itp4">
+  <resources>
+    <component id="gy1n0" name="MainChallengeBossView.xml" path="/" exported="true"/>
+    <image id="gy1n1" name="每日挑战界面3参数.png" path="/"/>
+    <image id="sb2j4" name="GanTanHaoQiPaoLiDeKuang.png" path="/image/" scale="9grid" scale9grid="23,45,46,24"/>
+    <image id="sb2j5" name="GanTanHaoQiPao.png" path="/image/" scale="9grid" scale9grid="25,50,15,14"/>
+    <component id="sb2j6" name="ItemShow.xml" path="/components/" exported="true"/>
+    <component id="sb2j7" name="ItemAttr.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

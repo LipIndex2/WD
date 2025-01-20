@@ -1,0 +1,20 @@
+
+zhenzhubang.png
+size: 218,143
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bang
+  rotate: false
+  xy: 0, 0
+  size: 182, 143
+  orig: 182, 143
+  offset: 0, 0
+  index: -1
+zhenzhu
+  rotate: false
+  xy: 183, 108
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

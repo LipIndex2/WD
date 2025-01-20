@@ -1,0 +1,27 @@
+
+makouyu.png
+size: 192,53
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 174, 53
+  orig: 174, 53
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 175, 34
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 175, 11
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1

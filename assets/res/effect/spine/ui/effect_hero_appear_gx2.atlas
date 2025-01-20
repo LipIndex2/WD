@@ -1,0 +1,20 @@
+
+effect_hero_appear_gx2.png
+size: 262,132
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+ring02
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ring03
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

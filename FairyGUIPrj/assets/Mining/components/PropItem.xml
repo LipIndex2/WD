@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110" extention="Label">
+  <displayList>
+    <loader id="n2_mgkh" name="icon" xy="0,0" size="110,110" fill="scaleFree"/>
+  </displayList>
+</component>

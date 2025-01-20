@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d8myv0zc">
+  <resources>
+    <component id="g7l60" name="FishToolView.xml" path="/" exported="true"/>
+    <image id="g7l61" name="渔具SPE.jpg" path="/"/>
+    <image id="g7l62" name="TuCeng618.png" path="/image/"/>
+    <image id="g7l63" name="KeHeChengJianTou.png" path="/image/"/>
+    <image id="gu7e4" name="渔具.jpg" path="/"/>
+    <image id="gu7e5" name="DiaoYuZhuangBan.png" path="/image/"/>
+    <component id="gu7e6" name="ButtonFashion.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

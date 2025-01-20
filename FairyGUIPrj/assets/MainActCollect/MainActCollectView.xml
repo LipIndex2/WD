@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <image id="n0_9s56" name="bg" src="9s566" fileName="image/JuXing.png" xy="279,250" pivot="1,0" size="403,296" group="n2_9s56">
+      <relation target="n1_9s56" sidePair="width-width,bottomext-bottom"/>
+    </image>
+    <list id="n1_9s56" name="list" xy="302,280" pivot="1,0" size="355,257" group="n2_9s56" layout="flow_hz" lineGap="10" colGap="15" defaultItem="ui://0i5u9mh79s567" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n2_9s56" name="GpShow" xy="279,250" size="403,296" advanced="true"/>
+  </displayList>
+</component>

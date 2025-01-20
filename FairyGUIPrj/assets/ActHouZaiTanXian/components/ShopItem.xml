@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,342" designImage="ui://zlz34mq0giwp6" designImageOffsetY="-375" designImageAlpha="0" designImageLayer="1">
+  <controller name="pos_ctrl" pages="0,left,1,right,2,first" selected="0"/>
+  <controller name="showCount" pages="0,hide,1,show" selected="0"/>
+  <displayList>
+    <image id="n1_czjl" name="Way" src="giwp1" fileName="image/Lu.png" xy="422,312" rotation="-90">
+      <gearXY controller="pos_ctrl" pages="1,2" values="110,24|110,-92" default="422,312"/>
+      <gearLook controller="pos_ctrl" pages="1,2" values="1,0,0,0|1,0,0,0" default="1,-90,0,0"/>
+    </image>
+    <loader id="n2_czjl" name="BG" xy="46,-9" size="354,342" group="n9_czjl" url="ui://zlz34mq0giwp4" clearOnPublish="true"/>
+    <text id="n10_117cf" name="Tip" xy="91,34" size="196,34" group="n9_czjl" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" strokeColor="#491916" strokeSize="2" text="只能获取一样奖励"/>
+    <image id="n3_czjl" name="n3" src="czjl9" fileName="image/YuanJiaoJuXing 2.png" xy="89,33" size="250,66" group="n9_czjl" scale="0.8,0.8">
+      <gearDisplay controller="showCount" pages="1"/>
+    </image>
+    <image id="n4_czjl" name="n4" src="czjla" fileName="image/RiLi.png" xy="81,26" group="n9_czjl" scale="0.8,0.8">
+      <gearDisplay controller="showCount" pages="1"/>
+    </image>
+    <text id="n7_czjl" name="Count" xy="155,33" pivot="0.5,0.5" size="88,49" group="n9_czjl" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#491916" align="center" vAlign="middle" autoClearText="true" text="0/30">
+      <gearDisplay controller="showCount" pages="1"/>
+    </text>
+    <list id="n8_czjl" name="List" xy="69,100" size="314,215" group="n9_czjl" layout="row" scroll="horizontal" colGap="8" defaultItem="ui://zlz34mq0czjlf" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <text id="n11_ow4c" name="GetedFlag" xy="176,240" pivot="0.5,0.5" size="94,42" group="n9_czjl" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="已领取"/>
+    <group id="n9_czjl" name="TopG" xy="46,-9" size="354,342" advanced="true">
+      <gearXY controller="pos_ctrl" pages="1,2" values="398,-9|398,-9" default="46,-9"/>
+    </group>
+  </displayList>
+</component>

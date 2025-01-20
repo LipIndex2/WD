@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://qllfrhsrwpum85" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n3_wpum" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n4_wpum" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n3_wpum" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n0_wpum" name="PauseBtn" src="jxlbr" fileName="components/PauseBtn.xml" xy="40,80" group="n2_wpum"/>
+    <component id="n1_wpum" name="AddSpeedBtn" src="lhxl61" fileName="components/AddSpeedBtn.xml" xy="36,178" group="n2_wpum"/>
+    <group id="n2_wpum" name="LeftTop" xy="36,80" size="163,155" advanced="true">
+      <relation target="n4_wpum" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n10_wpum" name="HpProgerssBarA" src="jxlbs" fileName="components/HpProgerssBar.xml" xy="58,1468" size="424,43" group="n21_wpum" scale="0.7,0.7">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n18_wpum" name="HpProgerssBarB" src="jxlbs" fileName="components/HpProgerssBar.xml" xy="477,1468" size="424,43" group="n21_wpum" scale="0.7,0.7">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <image id="n6_wpum" name="n6" src="wpum83" fileName="image/ArenaA.png" xy="779,1299" group="n21_wpum" scale="-1,1"/>
+    <image id="n7_wpum" name="n7" src="wpum82" fileName="image/ArenaB.png" xy="410,1299" group="n21_wpum" scale="-1,1"/>
+    <image id="n5_wpum" name="n5" src="wpum84" fileName="image/VS.png" xy="330,1253" group="n21_wpum"/>
+    <image id="n14_wpum" name="n14" src="whcr17" fileName="image/GuaiWuicon.png" xy="60,1295" group="n21_wpum"/>
+    <image id="n15_wpum" name="n15" src="whcr17" fileName="image/GuaiWuicon.png" xy="680,1295" group="n21_wpum"/>
+    <image id="n12_wpum" name="n12" src="jxlbf" fileName="image/ShengMingZhi.png" xy="27,1456" group="n21_wpum" scale="0.7,0.7"/>
+    <image id="n20_wpum" name="n20" src="jxlbf" fileName="image/ShengMingZhi.png" xy="446,1456" group="n21_wpum" scale="0.7,0.7"/>
+    <text id="n8_wpum" name="LeftName" xy="192,1403" pivot="0.5,0.5" anchor="true" size="140,46" group="n21_wpum" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="Pinko.M"/>
+    <text id="n9_wpum" name="RightName" xy="624,1403" pivot="0.5,0.5" anchor="true" size="208,46" group="n21_wpum" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="独孤求败胖次"/>
+    <text id="n16_wpum" name="LeftKill" xy="219,1333" pivot="0.5,0.5" anchor="true" size="155,76" group="n21_wpum" font="ui://wqx8l8xqut2h1b" fontSize="58" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="1245"/>
+    <text id="n17_wpum" name="RightKill" xy="573,1333" pivot="0.5,0.5" anchor="true" size="155,76" group="n21_wpum" font="ui://wqx8l8xqut2h1b" fontSize="58" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="1245"/>
+    <text id="n11_wpum" name="HpNumL" xy="336,1482" pivot="1,0.5" anchor="true" size="152,42" group="n21_wpum" scale="0.7,0.7" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="230/1000"/>
+    <text id="n19_wpum" name="HpNumR" xy="755,1482" pivot="1,0.5" anchor="true" size="152,42" group="n21_wpum" scale="0.7,0.7" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="230/1000"/>
+    <group id="n21_wpum" name="BottomGroup" xy="27,1253" size="1136,269" advanced="true">
+      <relation target="n3_wpum" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

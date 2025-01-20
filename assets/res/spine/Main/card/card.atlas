@@ -1,0 +1,27 @@
+
+card.png
+size: 183,75
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+card_1
+  rotate: false
+  xy: 69, 1
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+card_2
+  rotate: false
+  xy: 0, 0
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+point_1
+  rotate: false
+  xy: 128, 20
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

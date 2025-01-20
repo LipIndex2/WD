@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="174,246" designImageOffsetX="-33" designImageOffsetY="-923" designImageLayer="1">
+  <displayList>
+    <loader id="n5_tiuj" name="bg1" xy="1,0" size="170,267" url="ui://rqg67c20xaqq5w" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n26_hodu" name="HeroIcon" xy="40,42" pivot="0.5,0.5" size="95,110" fill="scale" autoSize="true" clearOnPublish="true"/>
+    <component id="n9_tiuj" name="Progress" src="tm533g" fileName="HeroProgress.xml" xy="17,200" size="149,46" group="n28_z6y8">
+      <ProgressBar value="1" max="100"/>
+    </component>
+    <text id="n8_tiuj" name="LevelShow" xy="57,159" pivot="0.5,0.5" size="60,39" group="n28_z6y8" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级"/>
+    <image id="n27_xyvk" name="Max" src="xyvk3q" fileName="image/MAX.png" xy="37,203" size="100,29" group="n28_z6y8"/>
+    <group id="n28_z6y8" name="GpNormal" xy="17,159" size="149,87" advanced="true"/>
+    <image id="n30_z6y8" name="bg_l" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="20,185" size="130,32" group="n32_z6y8"/>
+    <text id="n31_z6y8" name="LevelLendShow" xy="49,184" pivot="0.5,0.5" size="76,34" group="n32_z6y8" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级 2"/>
+    <group id="n32_z6y8" name="GpLend" xy="20,184" size="130,34" visible="false" advanced="true"/>
+  </displayList>
+</component>

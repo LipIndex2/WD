@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pud1uv8n">
+  <resources>
+    <component id="pd0x0" name="ShopSpecialOfferView.xml" path="/" exported="true"/>
+    <image id="pd0x1" name="LiBaoBeiJing.png" path="/image/" scale="9grid" scale9grid="167,553,334,303"/>
+    <image id="pd0x2" name="ZhanKai.png" path="/image/"/>
+    <image id="pd0x3" name="特别优惠礼包.png" path="/"/>
+    <image id="pd0x4" name="XinShouLiBaoHengFu.png" path="/image/"/>
+    <image id="pd0x5" name="DaZheBiaoQian.png" path="/image/"/>
+    <image id="pd0x6" name="成长礼包优化修改_spec.png" path="/"/>
+    <component id="pd0x7" name="GiftCell.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

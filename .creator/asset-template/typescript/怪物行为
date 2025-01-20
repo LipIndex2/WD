@@ -1,0 +1,26 @@
+import { _decorator, Component, Node, Vec3 } from 'cc';
+import { BattleCtrl } from '../BattleCtrl';
+import { IMoveFuncData, IMovePosInfo } from '../Function/MoveFunc';
+import { MonsterControl } from './MonsterControl';
+
+// 描述必须填写，在BattleConfig文件里面添加类型 MonsterCtrlMap
+
+// 怪物行为：固定向下移动攻击 视频编号xxx
+export class <%Name%> extends MonsterControl {
+    //定制攻击路线
+    GetRoute():IMoveFuncData{
+        let homePos = this.homePos;	//目标位置
+        let tPos = new Vec3(this.node.worldPosition.x, homePos.y,0);
+        let posInfo = <IMovePosInfo>{
+            speed:this.monsterObj.speed,
+            pos : tPos,
+        }
+        let data = <IMoveFuncData>{
+            node:this.node,
+            targetPosList:[posInfo],
+            ComleteFunc:this.MoveComlete.bind(this),
+        }
+        return data;
+    }
+}
+

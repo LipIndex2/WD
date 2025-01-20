@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://05elf6t39s561">
+  <displayList>
+    <component id="n0_9s56" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,318" size="730,1025"/>
+    <component id="n33_m4fi" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,942" visible="false"/>
+    <image id="n10_9s56" name="n10" src="9s568" fileName="image/QiZhi.png" xy="121,370" group="n32_9s56"/>
+    <image id="n1_9s56" name="n1" src="9s562" fileName="image/HuoDongBiaoTiHengFuZi.png" xy="16,283" size="770,54" group="n32_9s56" visible="false"/>
+    <image id="n5_9s56" name="n5" src="9s565" fileName="image/Xian.png" xy="72,356" group="n32_9s56" visible="false"/>
+    <image id="n8_9s56" name="n8" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="95,577" size="629,76" group="n32_9s56"/>
+    <image id="n29_9s56" name="n29" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="306,379" size="211,54" group="n32_9s56" visible="false"/>
+    <image id="n30_9s56" name="n30" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="290,377" group="n32_9s56" visible="false"/>
+    <image id="n11_9s56" name="n11" src="9s56b" fileName="image/bossTuBiao.png" xy="328,471" size="114,114" group="n32_9s56" scale="0.5,0.5"/>
+    <group id="n32_9s56" name="n32" xy="16,283" size="770,441"/>
+    <component id="n17_9s56" name="ProgressBar1" src="9s56c" fileName="components/BoxProgressBar.xml" xy="160,1022" size="133,40">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n19_9s56" name="ProgressBar2" src="9s56c" fileName="components/BoxProgressBar.xml" xy="302,1022" size="147,40">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n18_9s56" name="ProgressBar3" src="9s56c" fileName="components/BoxProgressBar.xml" xy="470,1022" size="160,40">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n12_9s56" name="n12" src="9s56b" fileName="image/bossTuBiao.png" xy="127,1016" size="114,114" scale="0.5,0.5"/>
+    <loader id="n22_9s56" name="AttrIcon" xy="427,594" pivot="0.5,0.5" size="40,40" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n23_9s56" name="AttrName" xy="474,596" size="88,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="土属性"/>
+    <text id="n13_9s56" name="n13" xy="328,436" size="144,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491916" align="center" vAlign="middle" text="已安全度过"/>
+    <text id="n14_9s56" name="n14" xy="232,596" size="172,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491916" align="center" vAlign="middle" text="今日妖魔弱点"/>
+    <text id="n9_9s56" name="Name" xy="338,330" pivot="0.5,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="守卫宗门"/>
+    <text id="n16_9s56" name="Time" xy="326,1155" pivot="0.5,0.5" size="148,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="今日剩余 2次"/>
+    <text id="n28_9s56" name="Num" xy="402,476" pivot="0.5,0.5" size="43,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="99"/>
+    <component id="n31_9s56" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="307,384" size="221,43" visible="false">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <component id="n15_9s56" name="BtnStart" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1193">
+      <Button title="开始"/>
+    </component>
+    <component id="n20_9s56" name="ButtonMod" src="9s56j" fileName="components/ButtonMod.xml" xy="10,520" visible="false">
+      <Button icon="ui://05elf6t39s569"/>
+    </component>
+    <component id="n21_9s56" name="ButtonRank" src="9s56j" fileName="components/ButtonMod.xml" xy="10,696" visible="false">
+      <Button icon="ui://05elf6t39s56h"/>
+    </component>
+    <component id="n24_9s56" name="ButtonBox1" src="9s56k" fileName="components/ButtonBox.xml" xy="251,990"/>
+    <component id="n25_9s56" name="ButtonBox2" src="9s56k" fileName="components/ButtonBox.xml" xy="417,990"/>
+    <component id="n26_9s56" name="ButtonBox3" src="9s56k" fileName="components/ButtonBox.xml" xy="583,990"/>
+    <component id="n34_m4fi" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="127,543" visible="false"/>
+    <loader id="n35_blfu" name="n35" xy="101,691" size="539,251" aspect="true" scale="1.15,1.2" url="ui://05elf6t3blfu13"/>
+  </displayList>
+</component>

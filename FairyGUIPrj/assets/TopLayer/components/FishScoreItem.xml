@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <image id="n4_afyn" name="bg" src="afyn13" fileName="image/cap/TuCeng132.png" xy="152,1000" group="n6_afyn"/>
+    <image id="n0_afyn" name="deco" src="afyn12" fileName="image/cap/PingFen.png" xy="152,994" group="n6_afyn"/>
+    <text id="n2_afyn" name="ScoreShow" xy="454,1002" pivot="0.5,0.5" size="10,69" group="n6_afyn" font="ui://wqx8l8xqut2h1b" fontSize="52" color="#fff392" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <text id="n3_afyn" name="ScoreAdd" xy="451,930" pivot="0.5,0.5" size="10,54" group="n5_afyn" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#c4ff26" align="center" vAlign="middle" strokeColor="#017f07" strokeSize="3" autoClearText="true" text=""/>
+    <image id="n1_afyn" name="arrow" src="afyn10" fileName="image/cap/KeHeChengJianTou.png" xy="591,990" group="n5_afyn"/>
+    <group id="n5_afyn" name="GpAdd" xy="451,930" size="178,108" group="n6_afyn" advanced="true"/>
+    <group id="n6_afyn" name="GpShow" xy="152,930" size="502,156" visible="false" advanced="true"/>
+  </displayList>
+  <transition name="ItemShow">
+    <item time="0" type="Alpha" target="n6_afyn" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Visible" target="n6_afyn" value="true"/>
+    <item time="36" type="Alpha" target="n6_afyn" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="48" type="Visible" target="n6_afyn" value="false"/>
+  </transition>
+</component>

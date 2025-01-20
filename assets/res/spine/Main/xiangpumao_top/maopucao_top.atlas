@@ -1,0 +1,209 @@
+
+maopucao_top.png
+size: 1951,658
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beijing
+  rotate: false
+  xy: 0, 300
+  size: 802, 358
+  orig: 802, 358
+  offset: 0, 0
+  index: -1
+cao
+  rotate: true
+  xy: 1788, 312
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+dimian1
+  rotate: false
+  xy: 0, 115
+  size: 583, 184
+  orig: 583, 184
+  offset: 0, 0
+  index: -1
+dimian2
+  rotate: false
+  xy: 0, 9
+  size: 357, 105
+  orig: 357, 105
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 1594, 0
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 1270, 0
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: false
+  xy: 1336, 0
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+hudiejie2
+  rotate: false
+  xy: 1459, 8
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+hudiejie3
+  rotate: true
+  xy: 1536, 30
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+hudiejie4
+  rotate: false
+  xy: 1393, 8
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+lang1
+  rotate: false
+  xy: 803, 318
+  size: 512, 340
+  orig: 512, 340
+  offset: 0, 0
+  index: -1
+lang2
+  rotate: false
+  xy: 803, 15
+  size: 466, 302
+  orig: 466, 302
+  offset: 0, 0
+  index: -1
+lang3
+  rotate: false
+  xy: 1316, 308
+  size: 471, 350
+  orig: 471, 350
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: false
+  xy: 1908, 547
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: true
+  xy: 1594, 75
+  size: 232, 209
+  orig: 232, 209
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 1662, 26
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: false
+  xy: 1804, 33
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1804, 171
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: true
+  xy: 1788, 438
+  size: 220, 119
+  orig: 220, 119
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: true
+  xy: 584, 121
+  size: 178, 202
+  orig: 178, 202
+  offset: 0, 0
+  index: -1
+weiba3
+  rotate: false
+  xy: 571, 36
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 1908, 607
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 614, 1
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: true
+  xy: 571, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1747, 26
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 358, 5
+  size: 212, 109
+  orig: 212, 109
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 1270, 58
+  size: 323, 249
+  orig: 323, 249
+  offset: 0, 0
+  index: -1
+zhuazi1
+  rotate: false
+  xy: 1497, 29
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+zhuazi2
+  rotate: false
+  xy: 1908, 578
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1

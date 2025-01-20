@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="490,175" designImage="ui://jtz6itp4gy1n1" designImageOffsetX="-235" designImageOffsetY="-439">
+  <displayList>
+    <image id="n0_sb2j" name="bg" src="sb2j4" fileName="image/GanTanHaoQiPaoLiDeKuang.png" xy="0,0" size="490,175"/>
+    <text id="n5_sb2j" name="DescShow" xy="182,48" size="300,94" font="ui://wqx8l8xqut2h1b" fontSize="21" color="#ffffff" leading="7" autoSize="height" autoClearText="true" text="专业攻城三十年，任何城堡都不在话下，极高的物理属性抗性，很高的土属性抗性"/>
+    <component id="n6_sb2j" name="AttrShow1" src="sb2j7" fileName="components/ItemAttr.xml" xy="187,0" pivot="0.5,0.5"/>
+    <component id="n7_sb2j" name="AttrShow2" src="sb2j7" fileName="components/ItemAttr.xml" xy="348,0" pivot="0.5,0.5"/>
+  </displayList>
+</component>

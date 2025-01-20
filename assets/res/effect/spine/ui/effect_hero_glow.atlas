@@ -1,0 +1,13 @@
+
+effect_hero_glow.png
+size: 264,264
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow3
+  rotate: false
+  xy: 2, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1

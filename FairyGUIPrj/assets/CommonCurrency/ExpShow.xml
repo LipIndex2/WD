@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,54" extention="ProgressBar" designImage="ui://dvcfzaq1dapl5a" designImageOffsetX="-33" designImageOffsetY="-60">
+  <displayList>
+    <image id="n2_k23u" name="bg" src="k23u4" fileName="image/HuoBiDiKeLaShen.png" xy="34,15" size="84,24">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n3_k23u" name="bar" src="k23u2" fileName="image/DengJiJinDuTiao.png" xy="31,18" size="85,18"/>
+    <image id="n4_k23u" name="n4" src="tiuj65" fileName="image/DengJiTuBiao.png" xy="-18,-10"/>
+    <text id="n5_k23u" name="LevelShow" xy="-6,5" pivot="0.5,0.5" size="40,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="23"/>
+    <text id="n6_ukr4" name="txHint" xy="49,4" pivot="0,0.5" size="242,46" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已达到最大等级"/>
+  </displayList>
+  <ProgressBar/>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://xmjwllpyp08g0">
+  <displayList>
+    <component id="n3_p08g" name="BtnContinue" src="p08g3" fileName="components/ButtonContinue.xml" xy="0,2" visible="false"/>
+  </displayList>
+</component>

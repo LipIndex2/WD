@@ -1,0 +1,76 @@
+
+15010.png
+size: 676,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingu
+  rotate: true
+  xy: 427, 6
+  size: 127, 42
+  orig: 129, 45
+  offset: 1, 2
+  index: -1
+jingubang
+  rotate: false
+  xy: 2, 317
+  size: 642, 356
+  orig: 642, 356
+  offset: 0, 0
+  index: -1
+qianbai
+  rotate: false
+  xy: 163, 8
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 263, 135
+  size: 208, 180
+  orig: 208, 180
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 471, 33
+  size: 106, 78
+  orig: 108, 80
+  offset: 1, 1
+  index: -1
+shoubi
+  rotate: false
+  xy: 473, 113
+  size: 117, 202
+  orig: 117, 202
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 93
+  size: 259, 222
+  orig: 261, 224
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 263, 2
+  size: 162, 131
+  orig: 162, 131
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 592, 159
+  size: 81, 156
+  orig: 81, 156
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 2, 10
+  size: 81, 159
+  orig: 81, 159
+  offset: 0, 0
+  index: -1

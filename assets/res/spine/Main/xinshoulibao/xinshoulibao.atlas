@@ -1,0 +1,34 @@
+
+xinshoulibao.png
+size: 168,144
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+gaizi
+  rotate: true
+  xy: 76, 0
+  size: 144, 44
+  orig: 144, 44
+  offset: 0, 0
+  index: -1
+hezi
+  rotate: true
+  xy: 0, 6
+  size: 138, 75
+  orig: 138, 75
+  offset: 0, 0
+  index: -1
+sidai1
+  rotate: true
+  xy: 121, 90
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: true
+  xy: 121, 30
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_xuanyun.png
+size: 185,132
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+mh_tex_ring_09
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: true
+  xy: 132, 76
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

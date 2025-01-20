@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="85d5czse">
+  <resources>
+    <component id="jlw60" name="FarmNeighbourView.xml" path="/" exported="true"/>
+    <component id="jlw63" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="jlw64" name="ShuXingHengFu.png" path="/image/" scale="9grid" scale9grid="22,13,15,36"/>
+    <image id="jlw66" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,30,28"/>
+    <image id="jlw67" name="KuoZhanTuBiao.png" path="/image/"/>
+    <component id="jlw68" name="ButtonGo.xml" path="/components/"/>
+    <component id="jlw69" name="ItemRes.xml" path="/components/" exported="true"/>
+    <component id="ppj5a" name="ItemTitle.xml" path="/components/" exported="true"/>
+    <component id="eioqb" name="ItemEmpty.xml" path="/components/" exported="true"/>
+    <image id="eioqc" name="Zu42.png" path="/image/"/>
+    <image id="p1u3e" name="SouSuo.png" path="/image/"/>
+    <component id="p1u3f" name="ButtonFlush.xml" path="/components/"/>
+    <image id="9quyg" name="邻居弹窗2.jpg" path="/"/>
+    <image id="9quyh" name="邻居弹窗.jpg" path="/"/>
+    <component id="kj0yi" name="FarmNeighbourViewMainPanel.xml" path="/" exported="true"/>
+    <component id="kj0yj" name="FarmNeighbourViewHelpPanel.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

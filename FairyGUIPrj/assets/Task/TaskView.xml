@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://lkjqth93yjaq1">
+  <displayList>
+    <component id="n1_yjaq" name="board" src="yjaqb4a" fileName="CommonBoard1.xml" pkg="r5d9xy63" xy="3,173" size="794,1247">
+      <relation target="" sidePair="width-width,height-height"/>
+      <Label title="任 务"/>
+    </component>
+    <component id="n3_rqb9" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="209,1298">
+      <Label title="剩余时间：17 天 20 时" titleFontSize="23"/>
+    </component>
+    <component id="n6_rqb9" name="BtnTips" src="rqb9b59" fileName="ButtonTips.xml" pkg="zokic7y2" xy="506,1345" visible="false"/>
+  </displayList>
+</component>

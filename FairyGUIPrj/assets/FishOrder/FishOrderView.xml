@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://q6vuep3wvxpk1">
+  <displayList>
+    <component id="n3_ts0a" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n4_ts0a" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,358" pivot="0.5,0.5">
+      <relation target="n3_ts0a" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <component id="n0_vxpk" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040">
+      <Label title="每日订单"/>
+    </component>
+    <component id="n1_vxpk" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="150,1102" size="500,50">
+      <Label titleFontSize="30"/>
+    </component>
+    <component id="n5_ts0a" name="CurrencyShow" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="55,48" group="n6_ts0a"/>
+    <group id="n6_ts0a" name="GpCurrency" xy="55,48" size="165,54" advanced="true">
+      <relation target="n4_ts0a" sidePair="top-top"/>
+    </group>
+    <list id="n2_vxpk" name="ShowList" xy="84,374" size="632,705" overflow="scroll" lineGap="24" defaultItem="ui://q6vuep3wvxpk2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

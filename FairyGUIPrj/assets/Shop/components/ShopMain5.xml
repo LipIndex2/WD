@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,950" designImage="ui://gp6652l2rplfb6l" designImageOffsetY="-270" designImageLayer="1">
+  <displayList>
+    <image id="n0_rplf" name="n0" src="rplfb6m" fileName="image/main_gift/HengFu.png" xy="44,0"/>
+    <image id="n1_rplf" name="n1" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="30,85" size="740,858">
+      <relation target="n2_rplf" sidePair="height-height"/>
+    </image>
+    <text id="n3_pd0x" name="n3" xy="326,6" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="特别优惠"/>
+    <list id="n2_rplf" name="ShowList" xy="52,95" size="713,830" layout="flow_hz" overflow="scroll" scrollBarFlags="2208" lineGap="1" defaultItem="ui://gp6652l2rplfb6s" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

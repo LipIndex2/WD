@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,66" extention="Label">
+  <displayList>
+    <image id="n3_m33s" name="n3" src="m33s5v" fileName="image/BossQiPao.png" xy="0,0" pivot="0.5,0.5" size="220,66"/>
+    <text id="n4_m33s" name="title" xy="15,29" pivot="0,0.5" anchor="true" size="158,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="离开这里，废物"/>
+  </displayList>
+</component>

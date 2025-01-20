@@ -1,0 +1,111 @@
+
+lingdiUI_diaoyu.png
+size: 689,366
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chitang
+  rotate: true
+  xy: 0, 51
+  size: 315, 531
+  orig: 315, 531
+  offset: 0, 0
+  index: -1
+heye1
+  rotate: false
+  xy: 0, 5
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+heye2
+  rotate: true
+  xy: 213, 7
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+heye3
+  rotate: false
+  xy: 422, 19
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+heye4
+  rotate: true
+  xy: 637, 131
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+heye5
+  rotate: false
+  xy: 282, 7
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+qiao
+  rotate: true
+  xy: 532, 197
+  size: 169, 149
+  orig: 169, 149
+  offset: 0, 0
+  index: -1
+shuibo1
+  rotate: true
+  xy: 499, 27
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+shuibo2
+  rotate: false
+  xy: 374, 19
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+shuibo3
+  rotate: true
+  xy: 637, 0
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+yu1
+  rotate: true
+  xy: 339, 17
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: false
+  xy: 468, 14
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+yugan
+  rotate: true
+  xy: 65, 6
+  size: 44, 147
+  orig: 44, 147
+  offset: 0, 0
+  index: -1
+yugou
+  rotate: false
+  xy: 532, 22
+  size: 104, 174
+  orig: 104, 174
+  offset: 0, 0
+  index: -1
+yulou
+  rotate: false
+  xy: 637, 76
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1

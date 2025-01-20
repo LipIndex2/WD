@@ -1,0 +1,97 @@
+
+effect_jyjm_sg.png
+size: 1005,636
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+5/f_00003
+  rotate: false
+  xy: 661, 356
+  size: 59, 63
+  orig: 365, 285
+  offset: 0, 208
+  index: -1
+5/f_00005
+  rotate: false
+  xy: 796, 316
+  size: 113, 116
+  orig: 365, 285
+  offset: 0, 155
+  index: -1
+5/f_00007
+  rotate: false
+  xy: 811, 153
+  size: 166, 161
+  orig: 365, 285
+  offset: 0, 101
+  index: -1
+5/f_00009
+  rotate: false
+  xy: 574, 421
+  size: 220, 213
+  orig: 365, 285
+  offset: 0, 47
+  index: -1
+5/f_00011
+  rotate: false
+  xy: 2, 2
+  size: 298, 280
+  orig: 365, 285
+  offset: 0, 5
+  index: -1
+5/f_00013
+  rotate: true
+  xy: 288, 307
+  size: 327, 284
+  orig: 365, 285
+  offset: 0, 1
+  index: -1
+5/f_00015
+  rotate: true
+  xy: 2, 284
+  size: 350, 284
+  orig: 365, 285
+  offset: 14, 1
+  index: -1
+5/f_00017
+  rotate: true
+  xy: 302, 5
+  size: 300, 259
+  orig: 365, 285
+  offset: 65, 1
+  index: -1
+5/f_00019
+  rotate: false
+  xy: 563, 55
+  size: 246, 250
+  orig: 365, 285
+  offset: 119, 1
+  index: -1
+5/f_00021
+  rotate: false
+  xy: 811, 434
+  size: 192, 200
+  orig: 365, 285
+  offset: 173, 1
+  index: -1
+5/f_00023
+  rotate: false
+  xy: 811, 5
+  size: 139, 146
+  orig: 365, 285
+  offset: 226, 1
+  index: -1
+5/f_00025
+  rotate: false
+  xy: 574, 327
+  size: 85, 92
+  orig: 365, 285
+  offset: 280, 1
+  index: -1
+5/f_00027
+  rotate: false
+  xy: 563, 15
+  size: 32, 38
+  orig: 365, 285
+  offset: 333, 2
+  index: -1

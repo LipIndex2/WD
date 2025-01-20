@@ -1,0 +1,27 @@
+
+haixiangyu.png
+size: 189,70
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+qi
+  rotate: true
+  xy: 169, 41
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 169, 18
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 0, 0
+  size: 168, 70
+  orig: 168, 70
+  offset: 0, 0
+  index: -1

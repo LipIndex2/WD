@@ -1,0 +1,62 @@
+
+effect_kuangd_shizi.png
+size: 604,260
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shizi1
+  rotate: true
+  xy: 518, 191
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+shizi2
+  rotate: false
+  xy: 518, 77
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+shizi3
+  rotate: true
+  xy: 569, 40
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+shizi4
+  rotate: true
+  xy: 518, 128
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+shizi5
+  rotate: true
+  xy: 518, 17
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+shizi6
+  rotate: false
+  xy: 569, 7
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1

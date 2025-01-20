@@ -1,0 +1,62 @@
+
+effect_pai_zise.png
+size: 966,396
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow8
+  rotate: true
+  xy: 2, 4
+  size: 201, 218
+  orig: 201, 218
+  offset: 0, 0
+  index: -1
+pai3
+  rotate: true
+  xy: 758, 184
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: false
+  xy: 222, 181
+  size: 526, 24
+  orig: 526, 24
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: false
+  xy: 222, 20
+  size: 374, 32
+  orig: 374, 32
+  offset: 0, 0
+  index: -1
+tiao3
+  rotate: false
+  xy: 2, 207
+  size: 754, 187
+  orig: 754, 187
+  offset: 0, 0
+  index: -1
+tiao4
+  rotate: false
+  xy: 598, 28
+  size: 290, 24
+  orig: 290, 24
+  offset: 0, 0
+  index: -1
+tiao5
+  rotate: false
+  xy: 598, 2
+  size: 270, 24
+  orig: 270, 24
+  offset: 0, 0
+  index: -1
+tiao6
+  rotate: false
+  xy: 222, 54
+  size: 668, 125
+  orig: 668, 125
+  offset: 0, 0
+  index: -1

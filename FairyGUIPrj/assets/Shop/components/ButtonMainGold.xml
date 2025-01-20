@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="222,367" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2iw5u12" designImageOffsetX="-50" designImageOffsetY="-1061">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n9_iw5u" name="bg" src="iw5u16" fileName="image/main_gold/JinBiDi.png" xy="0,0" size="222,318"/>
+    <loader id="n11_iw5u" name="IconSp" xy="-2,73" size="226,164" url="ui://gp6652l2iw5u17" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n10_iw5u" name="NameShow" xy="76,16" pivot="0.5,0.5" size="70,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="250"/>
+    <component id="n13_hmhi" name="BtnBuy" src="iw5uz" fileName="components/ButtonMainBuy.xml" xy="13,207"/>
+    <component id="n14_no3y" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="189,273"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

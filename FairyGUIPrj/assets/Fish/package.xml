@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="qrbaplf6">
+  <resources>
+    <component id="fe0v0" name="FishView.xml" path="/" exported="true"/>
+    <component id="fe0v2" name="ButtonMod.xml" path="/components/"/>
+    <component id="fe0va" name="ProgressLevel.xml" path="/components/"/>
+    <image id="fe0vb" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <image id="fe0vc" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,10,48,11"/>
+    <image id="fe0vd" name="DengJiDi.png" path="/image/"/>
+    <component id="fe0ve" name="ButtonOrder.xml" path="/components/" exported="true"/>
+    <image id="fe0vg" name="YuanJiaoJuXing6.png" path="/image/"/>
+    <component id="fe0vh" name="ItemOrder.xml" path="/components/" exported="true"/>
+    <image id="fe0vi" name="LvDuiGou.png" path="/image/"/>
+    <component id="fe0vj" name="ButtonBox.xml" path="/components/"/>
+    <image id="fe0vk" name="YuanJiaoJuXing2.png" path="/image/" scale="9grid" scale9grid="50,50,26,124"/>
+    <image id="fe0vl" name="TuCeng5.png" path="/image/"/>
+    <component id="fe0vm" name="ItemTool.xml" path="/components/" exported="true"/>
+    <component id="fe0vo" name="ButtonRod.xml" path="/components/" exported="true"/>
+    <component id="fe0vp" name="ButtonTool.xml" path="/components/" exported="true"/>
+    <component id="fe0vq" name="ButtonAttr.xml" path="/components/"/>
+    <component id="g7l6r" name="ButtonLevel.xml" path="/components/"/>
+    <component id="l7xms" name="ButtonBait.xml" path="/components/" exported="true"/>
+    <image id="bcxit" name="钓鱼主界面示意图_spec.png" path="/"/>
+    <image id="bcxiu" name="TuBiaoYuFuKa.png" path="/image/"/>
+    <image id="bcxiv" name="TuBiaoMianFeiMianBao.png" path="/image/"/>
+    <image id="bcxiw" name="TuBiaoShangDian.png" path="/image/"/>
+    <image id="bcxix" name="TuBiaoTuJian.png" path="/image/"/>
+    <image id="bcxiy" name="TuBiaoTuoGuan.png" path="/image/"/>
+    <image id="bcxiz" name="TuBiaoYuDao.png" path="/image/"/>
+    <image id="bcxi10" name="DingDanDiBan.png" path="/image/"/>
+    <image id="bcxi11" name="LianBianShengZi.png" path="/image/"/>
+    <image id="bcxi12" name="ZhongJianShengZi.png" path="/image/"/>
+    <image id="bcxi13" name="QiTaWuPinDi.png" path="/image/"/>
+    <image id="bcxi14" name="YuGanTuBiaoDi.png" path="/image/"/>
+    <image id="bcxi15" name="DiaoYuShuXingAnNiu.png" path="/image/"/>
+    <image id="bcxi16" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="lb7c17" name="PinZhi4.png" path="/image/" exported="true" scale="9grid" scale9grid="25,25,38,38"/>
+    <image id="lb7c18" name="PinZhi2.png" path="/image/" exported="true" scale="9grid" scale9grid="25,25,38,38"/>
+    <image id="lb7c19" name="PinZhi1.png" path="/image/" exported="true" scale="9grid" scale9grid="25,25,38,38"/>
+    <image id="lb7c1a" name="PinZhi3.png" path="/image/" exported="true" scale="9grid" scale9grid="25,25,38,38"/>
+    <image id="lb7c1b" name="PinZhi5.png" path="/image/" exported="true" scale="9grid" scale9grid="25,25,38,38"/>
+    <component id="nxnc1c" name="FishViewFishPanel.xml" path="/" exported="true"/>
+    <component id="nxnc1d" name="ButtonFish.xml" path="/components/"/>
+    <image id="kb451e" name="ASDAAA.png" path="/image/"/>
+    <image id="kb451f" name="dy1.jpg" path="/"/>
+    <image id="kb451g" name="TuBiaoRank.png" path="/image/"/>
+    <component id="ngcv1h" name="FishTips.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" pivot="0.5,1" opaque="false" designImageLayer="1">
+  <displayList>
+    <loader id="n4_jviy" name="BtnClose" xy="0,0" size="800,1600"/>
+    <component id="n0_aj74" name="SkillInfoItem" src="k2qf3" fileName="components/SkillInfoItem.xml" xy="154,838" pivot="0.5,1"/>
+  </displayList>
+</component>

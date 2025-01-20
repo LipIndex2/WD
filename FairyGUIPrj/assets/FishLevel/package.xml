@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dq72frze">
+  <resources>
+    <component id="g7l60" name="FishLevelView.xml" path="/" exported="true"/>
+    <image id="g7l61" name="渔夫等级SPE.jpg" path="/"/>
+    <image id="g7l62" name="KeHeChengJianTou.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

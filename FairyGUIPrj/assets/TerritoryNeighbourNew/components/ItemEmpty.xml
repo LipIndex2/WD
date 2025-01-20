@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,458">
+  <displayList>
+    <image id="n3_o6bc" name="img_empty" src="o6bca" fileName="image/Zu42.png" xy="61,0" group="n2_eioq"/>
+    <text id="n1_eioq" name="EmptyShow" xy="251,338" pivot="0.5,0.5" size="132,44" group="n2_eioq" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#fefefe" align="center" vAlign="middle" strokeColor="#4e301c" strokeSize="3" autoClearText="true" text="暂无日志"/>
+    <group id="n2_eioq" name="GpEmpty" xy="61,0" size="510,458" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,60">
+  <displayList>
+    <image id="n0_g2df" name="n0" src="g2df4" fileName="image/bai.jpg" xy="0,0" size="600,60" color="#999999">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n1_g2df" name="Btn" src="wl912" fileName="components/Btn.xml" xy="9,5">
+      <Button title="升级英雄"/>
+    </component>
+    <list id="n5_g2df" name="ParamList" xy="138,1" pivot="0,0.5" size="461,60" layout="row" margin="5,0,0,0" defaultItem="ui://qagbbv3rg2df6" vAlign="middle" autoClearItems="true">
+      <relation target="" sidePair="middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jlfm4vva">
+  <resources>
+    <image id="ts9f0" name="TuCeng7.png" path="/image/"/>
+    <image id="ts9f1" name="Zu410.png" path="/image/"/>
+    <image id="ts9f2" name="XinJiLuDi.png" path="/image/"/>
+    <component id="ts9f3" name="FishGetFashionView.xml" path="/" exported="true"/>
+    <image id="ts9f4" name="钓到.png" path="/"/>
+    <image id="ts9f5" name="钓到SPE.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

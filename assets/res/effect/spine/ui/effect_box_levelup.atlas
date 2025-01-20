@@ -1,0 +1,62 @@
+
+effect_box_levelup.png
+size: 998,282
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+light1
+  rotate: false
+  xy: 450, 148
+  size: 448, 132
+  orig: 448, 132
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 142
+  size: 446, 138
+  orig: 446, 138
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 450, 22
+  size: 416, 124
+  orig: 416, 124
+  offset: 0, 0
+  index: -1
+light4
+  rotate: false
+  xy: 2, 2
+  size: 446, 138
+  orig: 446, 138
+  offset: 0, 0
+  index: -1
+point17
+  rotate: false
+  xy: 915, 216
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+point26
+  rotate: false
+  xy: 915, 150
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 868, 18
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: false
+  xy: 900, 152
+  size: 13, 128
+  orig: 13, 128
+  offset: 0, 0
+  index: -1

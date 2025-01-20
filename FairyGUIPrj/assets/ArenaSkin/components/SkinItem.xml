@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,287" designImage="ui://ikdvkbtaiyeaa" designImageOffsetY="-1057" designImageAlpha="0" designImageLayer="1">
+  <controller name="state" pages="0,lock,1,unlock" selected="0"/>
+  <controller name="show_time" pages="0,hide,1,show" selected="1"/>
+  <controller name="use_flag" pages="0,hide,1,show" selected="1"/>
+  <displayList>
+    <loader id="n0_iyea" name="Icon" xy="32,0" pivot="0.5,0.5" size="735,287" url="ui://ikdvkbtaiyea0" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <image id="n16_iyea" name="n16" src="iyea3" fileName="imange/DiXiaZheZhaoTiao.png" xy="37,240">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n4_iyea" name="n4" src="iyea7" fileName="imange/ZheZhao.png" xy="37,5">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <image id="n5_iyea" name="n5" src="iyea4" fileName="imange/ShuXingDi.png" xy="46,18" size="351,54"/>
+    <image id="n6_iyea" name="n6" src="iyea6" fileName="imange/ZengYiTuBiao.png" xy="48,6"/>
+    <image id="n8_iyea" name="Flag" src="iyea5" fileName="imange/YongJiuDianCang.png" xy="536,-12"/>
+    <image id="n18_iyea" name="n18" src="iyeal" fileName="imange/ShiJianDi.png" xy="532,-10" size="249,54" scale="1,1.2">
+      <gearDisplay controller="show_time" pages="1"/>
+    </image>
+    <image id="n19_iyea" name="n19" src="iyeah" fileName="imange/ShiJian.png" xy="540,0" scale="0.8,0.8">
+      <gearDisplay controller="show_time" pages="1"/>
+    </image>
+    <image id="n17_iyea" name="n17" src="iyeak" fileName="imange/Gou.png" xy="528,242" scale="0.7,0.7">
+      <gearDisplay controller="use_flag" pages="1"/>
+    </image>
+    <text id="n21_iyea" name="n21" xy="584,260" pivot="0,0.5" anchor="true" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#c4ff26" vAlign="middle" strokeColor="#491916" strokeSize="3" text="正在使用">
+      <gearDisplay controller="use_flag" pages="1"/>
+    </text>
+    <text id="n2_iyea" name="Name" xy="69,250" pivot="0,0.5" anchor="true" size="184,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="冠军足球场"/>
+    <text id="n14_iyea" name="LockDesc" xy="750,243" pivot="1,0.5" anchor="true" size="260,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" text="竞技场第一名解锁">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <richtext id="n7_iyea" name="Desc" xy="120,24" pivot="0,0.5" size="253,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="全体伤害加成+5%"/>
+    <component id="n20_iyea" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="554,-3" size="244,52" touchable="false">
+      <gearDisplay controller="show_time" pages="1"/>
+      <Label titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <component id="n15_iyea" name="BuyBtn" src="iyeam" fileName="components/BuyBtn.xml" xy="561,184"/>
+  </displayList>
+</component>

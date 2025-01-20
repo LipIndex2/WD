@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9z1ojc0w">
+  <resources>
+    <component id="ngq70" name="MainOtherView.xml" path="/" exported="true"/>
+    <image id="okyu1" name="主界面2参数.png" path="/"/>
+    <image id="okyu2" name="KuoZhanQiPao.png" path="/image/" scale="9grid" scale9grid="84,72,168,144"/>
+    <component id="okyu4" name="ButtonMod.xml" path="/components/"/>
+    <image id="okyu7" name="YouXiang.png" path="/image/"/>
+    <image id="okyu8" name="SheZhi.png" path="/image/"/>
+    <image id="o0za9" name="HaoYouYaoQing.png" path="/image/"/>
+    <image id="o0zaa" name="邀请入口spe.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

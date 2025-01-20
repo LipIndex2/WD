@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7yklot98">
+  <resources>
+    <image id="m1jx0" name="bg.png" path="/image/" exported="true"/>
+    <image id="m1jx1" name="礼盒.png" path="/image/" exported="true"/>
+    <image id="m1jx2" name="英雄背后光.png" path="/image/" exported="true"/>
+    <image id="m1jx3" name="英雄前面光.png" path="/image/" exported="true"/>
+    <image id="m1jx4" name="基因定向图标.png" path="/image/" exported="true"/>
+    <image id="m1jx5" name="基因定向礼包.png" path="/"/>
+    <image id="m1jx6" name="基因定向礼包_.png" path="/"/>
+    <component id="m1jx7" name="GeneOrientationView.xml" path="/" exported="true"/>
+    <image id="m1jx8" name="紫色基因3(110).png" path="/image/" exported="true"/>
+    <image id="m1jx9" name="紫色基因2(110).png" path="/image/" exported="true"/>
+    <image id="m1jxb" name="紫色基因1(110).png" path="/image/" exported="true"/>
+    <component id="m1jxc" name="Button1.xml" path="/components/" exported="true"/>
+    <component id="m1jxd" name="GeneItem.xml" path="/components/" exported="true"/>
+    <image id="m1jxe" name="TongYongHeiDi.png" path="/image/" exported="true" scale="9grid" scale9grid="18,18,36,36"/>
+    <image id="m1jxf" name="TeJiaDi.png" path="/image/" exported="true"/>
+    <image id="m1jxg" name="ShiJianDi.png" path="/image/" exported="true" scale="9grid" scale9grid="53,13,106,26"/>
+    <image id="m1jxh" name="ShiJianicon.png" path="/image/" exported="true"/>
+    <image id="eb1fj" name="ItemCellBg2.png" path="/components/" exported="true"/>
+    <image id="c0ihk" name="GuanBi.png" path="/image/"/>
+    <component id="c0ihm" name="Button2.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

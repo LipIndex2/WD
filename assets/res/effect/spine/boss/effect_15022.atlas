@@ -1,0 +1,13 @@
+
+effect_15022.png
+size: 245,67
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu8
+  rotate: false
+  xy: 2, 2
+  size: 241, 63
+  orig: 241, 63
+  offset: 0, 0
+  index: -1

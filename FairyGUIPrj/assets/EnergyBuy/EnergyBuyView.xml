@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://exxoc5e9digc1">
+  <displayList>
+    <component id="n1_digc" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-32,440" size="863,835">
+      <Label title="体力购买"/>
+    </component>
+    <component id="n4_8i6c" name="ItemBuy" src="digc5" fileName="components/ItemBuy.xml" xy="71,618"/>
+    <component id="n5_8i6c" name="ItemFree" src="8i6c8" fileName="components/ItemFree.xml" xy="408,618"/>
+  </displayList>
+</component>

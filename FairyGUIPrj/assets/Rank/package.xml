@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3cgsf82p">
+  <resources>
+    <component id="tlom0" name="RankView.xml" path="/" exported="true"/>
+    <image id="tlom1" name="主线关卡进度排行榜1_spec.png" path="/"/>
+    <image id="tlom2" name="TuCeng4.png" path="/image/" scale="9grid" scale9grid="200,48,400,3"/>
+    <image id="tlom3" name="TuCeng5.png" path="/image/" scale="9grid" scale9grid="200,5,400,3"/>
+    <image id="tlom4" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="tlom5" name="BeiJing.png" path="/image/" exported="true"/>
+    <image id="tlom6" name="BiaoTiDi.png" path="/image/" exported="true"/>
+    <component id="tlom7" name="RankItem0.xml" path="/components/" exported="true"/>
+    <image id="tlom8" name="TaiZiDiYiMing.png" path="/image/"/>
+    <image id="tlom9" name="GuangDiYiMing.png" path="/image/"/>
+    <image id="tloma" name="ShuZiDiDiYiMing.png" path="/image/"/>
+    <image id="tlomb" name="TuBiao0.png" path="/image/" exported="true"/>
+    <component id="tlomd" name="RankItem1.xml" path="/components/" exported="true"/>
+    <image id="tlome" name="GuangDiErMing.png" path="/image/"/>
+    <image id="tlomf" name="GuangDiSanMing.png" path="/image/"/>
+    <image id="tlomg" name="ShuZiDiDiErMing.png" path="/image/"/>
+    <image id="tlomh" name="TaiZiDiErMing.png" path="/image/"/>
+    <component id="tlomi" name="RankItem2.xml" path="/components/" exported="true"/>
+    <image id="tlomj" name="TaiZiDiSanMing.png" path="/image/"/>
+    <image id="tlomk" name="ShuZiDiDiSanMing.png" path="/image/"/>
+    <component id="p5ctl" name="RankItem.xml" path="/components/" exported="true"/>
+    <image id="p5ctm" name="LieBiaoDi2.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <image id="p5ctn" name="BiaoZhiDi.png" path="/image/"/>
+    <image id="p5cto" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <component id="p5ctp" name="RankItemM.xml" path="/components/" exported="true"/>
+    <component id="p5ctq" name="parent.xml" path="/components/"/>
+    <image id="9s56r" name="主线关卡进度排行榜.jpg" path="/"/>
+    <component id="9s56s" name="ButtonMod.xml" path="/components/"/>
+    <image id="9s56t" name="QieHuanYe1.png" path="/image/"/>
+    <image id="9s56u" name="QieHuanYe2.png" path="/image/"/>
+    <image id="9s56w" name="FenYeJiangShiTuBiao.png" path="/image/" exported="true"/>
+    <image id="9s56x" name="ZhuXianZhangJieTuBiao.png" path="/image/" exported="true"/>
+    <image id="9s56y" name="TuBiao1.png" path="/image/" exported="true"/>
+    <image id="m4fiz" name="bg.png" path="/image/" exported="true"/>
+    <image id="m4fi10" name="BiaoTi.png" path="/image/" exported="true"/>
+    <image id="m4fi11" name="YingXiong.png" path="/image/" exported="true"/>
+    <image id="m4fi12" name="TuBiao2.png" path="/image/" exported="true"/>
+    <image id="e20v13" name="HouYuan.png" path="/image/" exported="true"/>
+    <image id="e20v14" name="TuBiao3.png" path="/image/" exported="true"/>
+    <image id="wpum15" name="TuBiao4.png" path="/image/" exported="true"/>
+    <image id="wpum16" name="PaiMingJiangLi.png" path="/image/"/>
+    <component id="wpum17" name="RewardBtn.xml" path="/components/"/>
+    <image id="wpum18" name="ArenaBG.png" path="/image/" exported="true"/>
+    <image id="iyea19" name="ShuiLian.png" path="/image/"/>
+    <component id="iyea1a" name="EmptyState.xml" path="/components/"/>
+    <image id="kb451b" name="DiaoYuJingJiChangBeiJing.png" path="/image/" exported="true"/>
+    <image id="ujop1c" name="TuBiao6.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

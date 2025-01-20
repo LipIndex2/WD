@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://3pbetjrwoqnq0">
+  <displayList>
+    <component id="n0_oqnq" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-24,286" size="851,974">
+      <Label title="宝箱奖励"/>
+    </component>
+    <text id="n3_oqnq" name="LevelShow" xy="360,427" pivot="0.5,0.5" size="87,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="Lv.1"/>
+    <text id="n6_oqnq" name="TipsShow" xy="230,1170" size="340,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" strokeColor="#491914" strokeSize="3" text="开宝箱提升等级，增加宝箱奖励"/>
+    <component id="n2_oqnq" name="BtnLeft" src="oqnq3" fileName="components/ButtonArrow.xml" xy="225,430" rotation="180"/>
+    <component id="n1_oqnq" name="BtnRight" src="oqnq3" fileName="components/ButtonArrow.xml" xy="536,429"/>
+    <list id="n9_oqnq" name="ShowList" xy="82,496" size="640,206" lineGap="10" defaultItem="ui://3pbetjrwoqnq7" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

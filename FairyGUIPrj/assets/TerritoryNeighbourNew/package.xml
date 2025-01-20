@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="us9sq04x">
+  <resources>
+    <component id="o6bc0" name="ButtonFlush.xml" path="/components/" exported="true"/>
+    <component id="o6bc1" name="ButtonGo.xml" path="/components/" exported="true"/>
+    <component id="o6bc2" name="ItemEmpty.xml" path="/components/" exported="true"/>
+    <component id="o6bc3" name="ItemRes.xml" path="/components/" exported="true"/>
+    <component id="o6bc4" name="ItemShow.xml" path="/components/" exported="true"/>
+    <component id="o6bc5" name="ItemTitle.xml" path="/components/" exported="true"/>
+    <image id="o6bc6" name="KuoZhanTuBiao.png" path="/image/"/>
+    <image id="o6bc7" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <image id="o6bc8" name="ShuXingHengFu.png" path="/image/"/>
+    <image id="o6bc9" name="SouSuo.png" path="/image/"/>
+    <image id="o6bca" name="Zu42.png" path="/image/"/>
+    <component id="o6bcb" name="TerritoryNeighbourNewView.xml" path="/" exported="true"/>
+    <image id="o6bcc" name="家园邻居spe.jpg" path="/"/>
+    <image id="o6bcd" name="家园邻居加搜索示意图_spec.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

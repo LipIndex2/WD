@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1kdklxk3">
+  <resources>
+    <component id="jcaj0" name="RedPoint.xml" path="/" exported="true"/>
+    <component id="gete23" name="BtnAttribute.xml" path="/components/"/>
+    <image id="gete24" name="FanDaJing.png" path="/image/"/>
+    <component id="k2g826" name="TimeMeter.xml" path="/" exported="true"/>
+    <component id="mcbl3w" name="AccordionItem.xml" path="/components/"/>
+    <component id="mcbl3y" name="AccordionList.xml" path="/" exported="true"/>
+    <image id="k23u41" name="HongDian.png" path="/image/" exported="true"/>
+    <image id="e0y543" name="HongDianGanTanHao.png" path="/image/" exported="true"/>
+    <image id="onxs44" name="ZiJia.png" path="/image/flyicon/"/>
+    <image id="onxs45" name="Zi7.png" path="/image/flyicon/"/>
+    <image id="onxs46" name="Zi6.png" path="/image/flyicon/"/>
+    <image id="onxs47" name="Zi5.png" path="/image/flyicon/"/>
+    <image id="onxs48" name="Zi4.png" path="/image/flyicon/"/>
+    <image id="onxs49" name="Zi3.png" path="/image/flyicon/"/>
+    <image id="onxs4a" name="Zi2.png" path="/image/flyicon/"/>
+    <image id="onxs4b" name="Zi1.png" path="/image/flyicon/"/>
+    <image id="onxs4c" name="Zi0.png" path="/image/flyicon/"/>
+    <image id="onxs4d" name="HuangJia.png" path="/image/flyicon/"/>
+    <image id="onxs4e" name="Huang9.png" path="/image/flyicon/"/>
+    <image id="onxs4f" name="Huang8.png" path="/image/flyicon/"/>
+    <image id="onxs4g" name="Huang7.png" path="/image/flyicon/"/>
+    <image id="onxs4h" name="Huang6.png" path="/image/flyicon/"/>
+    <image id="onxs4i" name="Huang5.png" path="/image/flyicon/"/>
+    <image id="onxs4j" name="Huang4.png" path="/image/flyicon/"/>
+    <image id="onxs4k" name="Huang3.png" path="/image/flyicon/"/>
+    <image id="onxs4l" name="Huang2.png" path="/image/flyicon/"/>
+    <image id="onxs4m" name="Huang1.png" path="/image/flyicon/"/>
+    <image id="onxs4n" name="Huang0.png" path="/image/flyicon/"/>
+    <image id="onxs4o" name="Zi8.png" path="/image/flyicon/"/>
+    <image id="onxs4p" name="Zi9.png" path="/image/flyicon/"/>
+    <font id="onxs4q" name="FlyFont.fnt" path="/components/" exported="true"/>
+    <component id="onxs4r" name="FlyIcon.xml" path="/" exported="true"/>
+    <image id="onxs4s" name="40076.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

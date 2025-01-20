@@ -1,0 +1,62 @@
+
+effect_sbs_glow.png
+size: 943,120
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu20
+  rotate: false
+  xy: 0, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu21
+  rotate: false
+  xy: 118, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu22
+  rotate: false
+  xy: 236, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu23
+  rotate: false
+  xy: 354, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu24
+  rotate: false
+  xy: 472, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu25
+  rotate: false
+  xy: 590, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu26
+  rotate: false
+  xy: 708, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+tu27
+  rotate: false
+  xy: 826, 0
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1

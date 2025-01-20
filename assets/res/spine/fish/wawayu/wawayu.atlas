@@ -1,0 +1,34 @@
+
+wawayu.png
+size: 190,28
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 133, 28
+  orig: 133, 28
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 134, 3
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 154, 6
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 174, 10
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

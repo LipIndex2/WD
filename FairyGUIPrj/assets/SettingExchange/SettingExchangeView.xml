@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://39astmzknjst1">
+  <displayList>
+    <component id="n0_njst" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,471" size="730,568">
+      <Label title="兑换码"/>
+    </component>
+    <image id="n4_njst" name="bg" src="njst3" fileName="image/Qian.png" xy="85,663" size="630,122"/>
+    <text id="n1_njst" name="tips" xy="238,805" pivot="0.5,0.5" size="340,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" align="center" vAlign="middle" text="每个兑换码仅能使用一次！"/>
+    <text id="n5_njst" name="InputTips" xy="291,699" pivot="0.5,0.5" size="220,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#c9ab66" align="center" vAlign="middle" text="请输入兑换码"/>
+    <text id="n8_ig9o" name="Title" xy="396,699" pivot="0.5,0.5" size="10,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#c9ab66" align="center" vAlign="middle" autoClearText="true" text=""/>
+    <text id="n6_njst" name="InputField" xy="100,676" pivot="0.5,0.5" size="600,99" alpha="0" font="ui://wqx8l8xqut2h1b" fontSize="1" color="#fef5d4" autoSize="none" singleLine="true" autoClearText="true" text="" input="true"/>
+    <component id="n2_njst" name="BtnExchange" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,893">
+      <Button title="确认"/>
+    </component>
+  </displayList>
+</component>

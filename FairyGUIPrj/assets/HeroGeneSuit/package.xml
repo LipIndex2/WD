@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fjvmtwhd">
+  <resources>
+    <component id="rty20" name="HeroGeneSuitView.xml" path="/" exported="true"/>
+    <image id="rty21" name="JiYinQiPaoKuang.png" path="/image/"/>
+    <image id="rty22" name="ChuanCheng3.png" path="/image/" exported="true"/>
+    <image id="rty23" name="ChuanCheng1.png" path="/image/" exported="true"/>
+    <image id="rty24" name="ChuanCheng2.png" path="/image/" exported="true"/>
+    <image id="rty25" name="英雄名称弹框标注.png" path="/"/>
+    <component id="rty26" name="Inherit.xml" path="/components/" exported="true"/>
+    <image id="vb3547" name="ChuanChengAn1.png" path="/image/" exported="true"/>
+    <image id="vb3548" name="ChuanChengAn2.png" path="/image/" exported="true"/>
+    <image id="vb3549" name="ChuanChengAn3.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

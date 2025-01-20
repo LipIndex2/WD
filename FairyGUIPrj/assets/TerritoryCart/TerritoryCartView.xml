@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://8fnzs9ndhp41l">
+  <displayList>
+    <component id="n21_jlw6" name="Board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="-48,34" size="887,1624">
+      <Label title="灵 狐"/>
+    </component>
+    <image id="n1_jlw6" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="64,370" size="672,992"/>
+    <image id="n6_jlw6" name="line" src="jlw63" fileName="image/JuXing1.png" xy="90,588" size="620,4"/>
+    <image id="n16_jlw6" name="deco_cart" src="jlw69" fileName="image/TuiChe.png" xy="237,629" scale="0.5,0.5"/>
+    <loader id="n27_hp41" name="CostIcon" xy="503,575" pivot="0.5,0.5" size="108,108" scale="0.5,0.5" fill="scaleFree" autoSize="true"/>
+    <text id="n28_hp41" name="CostNum" xy="584,607" pivot="0.5,0.5" size="73,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#663b18" strokeSize="3" autoClearText="true" text="x200"/>
+    <text id="n5_jlw6" name="PowerShow" xy="97,391" pivot="0,0.5" size="194,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#fefefe" vAlign="middle" strokeColor="#4e301c" strokeSize="3" autoClearText="true" text="精力值：1/40"/>
+    <text id="n15_jlw6" name="title_cart" xy="96,630" pivot="0,0.5" size="154,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffe681" vAlign="middle" strokeColor="#4e301c" strokeSize="3" text="空闲灵狐："/>
+    <text id="n17_jlw6" name="CartNum" xy="290,630" pivot="0,0.5" size="55,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffe681" vAlign="middle" strokeColor="#4e301c" strokeSize="3" autoClearText="true" text="2/2"/>
+    <component id="n7_jlw6" name="ProgressShow" src="jlw64" fileName="components/ProgressShow.xml" xy="110,474" size="580,43" aspect="true">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n8_jlw6" name="CartState1" src="jlw68" fileName="components/LabelCart.xml" xy="78,438">
+      <Label title="精力强劲"/>
+    </component>
+    <component id="n9_jlw6" name="CartState2" src="jlw68" fileName="components/LabelCart.xml" xy="228,439">
+      <Label title="精力充沛"/>
+    </component>
+    <component id="n10_jlw6" name="CartState3" src="jlw68" fileName="components/LabelCart.xml" xy="406,439">
+      <Label title="精力疲软"/>
+    </component>
+    <component id="n13_jlw6" name="CartState4" src="jlw68" fileName="components/LabelCart.xml" xy="616,439">
+      <Label title="精力不足"/>
+    </component>
+    <component id="n18_jlw6" name="BtnBuy" src="jlw6a" fileName="components/ButtonBuy.xml" xy="499,648"/>
+    <component id="n29_nk1u" name="CurrencyShow" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="98,305" size="153,54">
+      <Label title="0" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <image id="n2_jlw6" name="img_empty" src="jlw62" fileName="image/Zu42.png" xy="145,735" group="n4_jlw6"/>
+    <text id="n3_jlw6" name="txt_empty" xy="319,1073" pivot="0.5,0.5" size="164,44" group="n4_jlw6" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#fefefe" align="center" vAlign="middle" strokeColor="#4e301c" strokeSize="3" text="灵狐休息中"/>
+    <group id="n4_jlw6" name="GpEmpty" xy="145,735" size="510,458" visible="false" advanced="true"/>
+    <list id="n20_jlw6" name="ShowList" xy="85,746" size="645,593" visible="false" overflow="scroll" lineGap="10" defaultItem="ui://8fnzs9ndjlw6f" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

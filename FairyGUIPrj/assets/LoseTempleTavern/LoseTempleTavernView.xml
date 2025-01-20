@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://p1ik4cgcyu832" designImageLayer="1">
+  <displayList>
+    <component id="n0_lgme" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,283" size="730,974">
+      <Label title="酒 馆"/>
+    </component>
+    <image id="n5_yu83" name="n5" src="yu837" fileName="image/ShiJian4.png" xy="180,284"/>
+    <image id="n6_yu83" name="n6" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="76,481" size="649,426"/>
+    <list id="n3_lgme" name="list" xy="93,484" size="621,401" layout="row" overflow="scroll" colGap="6" defaultItem="ui://p1ik4cgccr2xa" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n1_lgme" name="BtnSelect" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1084">
+      <Button title="确 认"/>
+    </component>
+    <component id="n4_yu83" name="BtnRefresh" src="yu834" fileName="components/BtnRefresh.xml" xy="252,944"/>
+    <component id="n7_cr2x" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="683,337"/>
+  </displayList>
+</component>

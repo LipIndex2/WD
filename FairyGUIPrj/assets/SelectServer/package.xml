@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zriuspr6">
+  <resources>
+    <component id="q0s10" name="ServerSelectView.xml" path="/" exported="true"/>
+    <image id="poct2m" name="XuanZhongAnNiu.png" path="/image/"/>
+    <image id="poct2n" name="WeiXuanAnNiu.png" path="/image/"/>
+    <component id="poct2o" name="ItemGroup.xml" path="/components/" exported="true"/>
+    <image id="n4512r" name="FuWuQiDi.png" path="/image/" scale="9grid" scale9grid="25,65,20,40"/>
+    <component id="n4512s" name="ItemServer.xml" path="/components/" exported="true"/>
+    <image id="n4512t" name="BaoMan.png" path="/image/" exported="true"/>
+    <image id="n4512u" name="XinFu.png" path="/image/" exported="true"/>
+    <image id="10s7j2x" name="WoDeDi.png" path="/image/"/>
+    <image id="gerwj2y" name="WeiHu.png" path="/image/" exported="true"/>
+    <image id="gerwj2z" name="CeShi.png" path="/image/" exported="true"/>
+    <image id="gerwj30" name="YongJi.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

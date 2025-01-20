@@ -1,0 +1,48 @@
+
+effect_zc02.png
+size: 991,799
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+hua1
+  rotate: false
+  xy: 832, 161
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 832, 2
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: false
+  xy: 2, 83
+  size: 345, 714
+  orig: 345, 714
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 650, 320
+  size: 311, 477
+  orig: 311, 477
+  offset: 0, 0
+  index: -1
+ye6
+  rotate: false
+  xy: 349, 305
+  size: 299, 492
+  orig: 299, 492
+  offset: 0, 0
+  index: -1
+ye7
+  rotate: true
+  xy: 349, 19
+  size: 284, 481
+  orig: 284, 481
+  offset: 0, 0
+  index: -1

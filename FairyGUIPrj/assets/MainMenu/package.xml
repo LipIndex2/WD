@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d69enuqu">
+  <resources>
+    <component id="izn70" name="MainMenu.xml" path="/" exported="true"/>
+    <image id="izn71" name="主界面.png" path="/"/>
+    <image id="izn72" name="YingXiong.png" path="/image/" exported="true"/>
+    <image id="izn73" name="ZhuJieMian.png" path="/image/" exported="true"/>
+    <image id="izn75" name="YeQianLiang.png" path="/image/" scale="9grid" scale9grid="23,0,6,140"/>
+    <component id="izn76" name="TabItem.xml" path="/components/" exported="true"/>
+    <component id="gqi2a" name="IconItem.xml" path="/components/" exported="true"/>
+    <image id="oi9lb" name="主界面示意图_spec.png" path="/"/>
+    <image id="oi9lc" name="BiaoQianYeDi.png" path="/image/" scale="9grid" scale9grid="200,35,400,70"/>
+    <image id="oi9ld" name="XiaPaiXuanZhong1.png" path="/image/" scale="9grid" scale9grid="43,34,86,68"/>
+    <image id="oi9le" name="XiaPaiXuanZhong2.png" path="/image/" scale="9grid" scale9grid="43,34,86,68"/>
+    <image id="oi9lf" name="XiaPaiXuanZhong3.png" path="/image/" scale="9grid" scale9grid="43,34,86,68"/>
+    <image id="oi9lh" name="YingXiong1.png" path="/image/" exported="true"/>
+    <image id="oi9li" name="ZhuJieMian1.png" path="/image/" exported="true"/>
+    <image id="oi9lj" name="HuoDongGuanQia1.png" path="/image/" exported="true"/>
+    <image id="oi9lk" name="MeiRiTiaoZhan1.png" path="/image/" exported="true"/>
+    <image id="oi9ll" name="ShangDian1.png" path="/image/" exported="true"/>
+    <image id="oi9lm" name="HuoDongGuanQia.png" path="/image/" exported="true"/>
+    <image id="oi9ln" name="MeiRiTiaoZhan.png" path="/image/" exported="true"/>
+    <image id="oi9lo" name="ShangDian.png" path="/image/" exported="true"/>
+    <image id="pp34p" name="下排标签页锁定状态_spec.png" path="/"/>
+    <image id="pp34q" name="Suo.png" path="/image/"/>
+    <image id="f5ear" name="JiaYuan1.png" path="/image/" exported="true"/>
+    <image id="f5eas" name="JiaYuan.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

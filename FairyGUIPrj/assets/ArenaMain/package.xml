@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ejt7h3xz">
+  <resources>
+    <image id="r1b90" name="ZhanBaoTuBiao.png" path="/imange/"/>
+    <image id="r1b91" name="TongXingZhengJiFen.png" path="/imange/"/>
+    <image id="r1b92" name="GanTan.png" path="/imange/"/>
+    <image id="r1b93" name="JingJiJiFen6.png" path="/imange/"/>
+    <image id="r1b94" name="TongXingZhengTuBiao.png" path="/imange/"/>
+    <image id="r1b95" name="ZhenRong.png" path="/imange/"/>
+    <image id="r1b96" name="JiangBei.png" path="/imange/"/>
+    <image id="r1b97" name="ShangDian.png" path="/imange/"/>
+    <image id="r1b98" name="PiPeiTuBiao.png" path="/imange/"/>
+    <image id="r1b99" name="JiangLiTuBiao.png" path="/imange/"/>
+    <image id="r1b9a" name="BaoXiang.png" path="/imange/"/>
+    <image id="r1b9b" name="竞技场主页.JPG" path="/"/>
+    <component id="r1b9c" name="ArenaMainView.xml" path="/" exported="true"/>
+    <image id="wpumd" name="ZhuJieMianXinXiDi.png" path="/imange/" scale="9grid" scale9grid="22,25,11,9"/>
+    <component id="wpume" name="RoleInfo.xml" path="/components/"/>
+    <image id="wpumf" name="TuBiaoQiZhiDi.png" path="/imange/"/>
+    <component id="wpumg" name="FuncBtn.xml" path="/components/"/>
+    <component id="wpumh" name="TipBtn.xml" path="/components/"/>
+    <image id="wpumk" name="ShiJian.png" path="/imange/"/>
+    <image id="wpuml" name="ShiJianDi.png" path="/imange/" scale="9grid" scale9grid="53,0,106,54"/>
+    <image id="wpumm" name="ZhongJianJinDuTiao1.png" path="/imange/" scale="9grid" scale9grid="15,0,356,32"/>
+    <image id="wpumn" name="ZhongJianJinDuTiao2.png" path="/imange/" scale="9grid" scale9grid="98,0,196,40"/>
+    <component id="wpumo" name="ProgressBar1.xml" path="/components/"/>
+    <image id="wpump" name="TongYongHeiDi.png" path="/imange/" scale="9grid" scale9grid="18,18,36,36"/>
+    <component id="wpumq" name="FuncBtn2.xml" path="/components/"/>
+    <component id="wpumr" name="FuncBtn3.xml" path="/components/"/>
+    <image id="wpums" name="ChengAnNiu.png" path="/imange/"/>
+    <component id="wpumt" name="MatchBtn.xml" path="/components/"/>
+    <image id="wpumu" name="YeQianDiBu.png" path="/imange/" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="wpumv" name="HengLaBeiJing.png" path="/imange/" scale="9grid" scale9grid="1,0,5,1600"/>
+    <image id="wpumw" name="I.png" path="/imange/"/>
+    <component id="wpumx" name="ZhanLingBtn.xml" path="/components/"/>
+    <image id="iyeay" name="123.png" path="/imange/"/>
+    <image id="iyea1b" name="ChangJingHuanFuTuBiao.png" path="/imange/"/>
+    <image id="v7za1c" name="pvp通行证积分.png" path="/imange/"/>
+    <image id="v7za1d" name="图层 104.png" path="/imange/"/>
+    <image id="v7za1e" name="图层 105.png" path="/imange/"/>
+    <image id="v7za1f" name="图层 99.png" path="/imange/"/>
+    <image id="v7za1g" name="感叹.png" path="/imange/"/>
+    <image id="v7za1h" name="竞技积分6.png" path="/imange/"/>
+    <image id="v7za1i" name="组 56.png" path="/imange/"/>
+    <image id="v7za1j" name="组 57.png" path="/imange/"/>
+    <image id="v7za1k" name="组 59.png" path="/imange/"/>
+    <image id="v7za1l" name="通行证图标 拷贝.png" path="/imange/"/>
+    <image id="k8hh1m" name="RuKouTuBiao.png" path="/imange/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

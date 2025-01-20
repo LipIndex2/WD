@@ -1,0 +1,27 @@
+
+effect_redbox.png
+size: 542,331
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+box1
+  rotate: true
+  xy: 391, 0
+  size: 331, 151
+  orig: 331, 151
+  offset: 0, 0
+  index: -1
+box2
+  rotate: true
+  xy: 0, 0
+  size: 331, 211
+  orig: 331, 211
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 212, 30
+  size: 301, 178
+  orig: 301, 178
+  offset: 0, 0
+  index: -1

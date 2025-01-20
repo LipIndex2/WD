@@ -1,0 +1,48 @@
+
+effect_jineng_fire.png
+size: 954,146
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+5/0
+  rotate: false
+  xy: 189, 2
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+5/1
+  rotate: false
+  xy: 342, 2
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+5/2
+  rotate: false
+  xy: 495, 2
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+5/3
+  rotate: false
+  xy: 648, 2
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+5/4
+  rotate: false
+  xy: 801, 2
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 2, 33
+  size: 185, 111
+  orig: 185, 111
+  offset: 0, 0
+  index: -1

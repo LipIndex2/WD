@@ -1,0 +1,90 @@
+
+effect_js_box.png
+size: 1012,868
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1/box1
+  rotate: false
+  xy: 2, 7
+  size: 306, 157
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+1/box2
+  rotate: false
+  xy: 2, 634
+  size: 346, 232
+  orig: 346, 232
+  offset: 0, 0
+  index: -1
+1/box3
+  rotate: false
+  xy: 664, 161
+  size: 306, 157
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+1/box4
+  rotate: false
+  xy: 2, 400
+  size: 346, 232
+  orig: 346, 232
+  offset: 0, 0
+  index: -1
+1/box5
+  rotate: false
+  xy: 350, 11
+  size: 306, 157
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+1/box6
+  rotate: false
+  xy: 350, 634
+  size: 346, 232
+  orig: 346, 232
+  offset: 0, 0
+  index: -1
+1/open1
+  rotate: false
+  xy: 350, 402
+  size: 312, 230
+  orig: 312, 230
+  offset: 0, 0
+  index: -1
+1/open2
+  rotate: false
+  xy: 698, 636
+  size: 312, 230
+  orig: 312, 230
+  offset: 0, 0
+  index: -1
+1/open3
+  rotate: false
+  xy: 350, 170
+  size: 312, 230
+  orig: 312, 230
+  offset: 0, 0
+  index: -1
+box7
+  rotate: false
+  xy: 658, 2
+  size: 306, 157
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+box8
+  rotate: false
+  xy: 2, 166
+  size: 346, 232
+  orig: 346, 232
+  offset: 0, 0
+  index: -1
+open3
+  rotate: true
+  xy: 664, 320
+  size: 312, 230
+  orig: 312, 230
+  offset: 0, 0
+  index: -1

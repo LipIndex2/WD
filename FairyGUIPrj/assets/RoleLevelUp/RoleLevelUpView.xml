@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://bqis4qbsj0912">
+  <displayList>
+    <component id="n9_j091" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n11_kkx7" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n9_j091" sidePair="width-width,height-height"/>
+    </component>
+    <loader id="n10_j091" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" fill="scaleFree"/>
+    <image id="n1_j091" name="bg_l" src="j0913" fileName="image/Zu 21.png" xy="320,414"/>
+    <image id="n3_j091" name="line1" src="j0911" fileName="image/BiaoTiXian.png" xy="110,702"/>
+    <image id="n4_j091" name="line2" src="j0911" fileName="image/BiaoTiXian.png" xy="691,702" scale="-1,1"/>
+    <text id="n0_j091" name="title" xy="286,186" pivot="0.5,0.5" size="228,74" font="ui://wqx8l8xqut2h1b" fontSize="56" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="等级提升"/>
+    <text id="n5_j091" name="title_r" xy="352,685" pivot="0.5,0.5" size="98,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="奖 励"/>
+    <text id="n7_j091" name="LevelShow" xy="382,464" pivot="0.5,0.5" size="38,69" font="ui://wqx8l8xqut2h1b" fontSize="52" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="3"/>
+    <component id="n6_j091" name="BtnGet" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="252,1362">
+      <Button title="领取"/>
+    </component>
+    <list id="n8_j091" name="ShowList" xy="400,970" pivot="0.5,0.5" anchor="true" size="640,380" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://bqis4qbsj0914" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

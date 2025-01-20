@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2oflxec3">
+  <resources>
+    <component id="xq150" name="HeroLevelUpView.xml" path="/" exported="true"/>
+    <component id="xq151" name="CapacityCell.xml" path="/components/" exported="true"/>
+    <image id="xq153" name="JiNenKuang.png" path="/image/"/>
+    <image id="xq156" name="JiNenChangKuang.png" path="/image/"/>
+    <image id="hf7rt" name="newHuang.png" path="/image/"/>
+    <image id="hf7ru" name="WenBen.png" path="/image/" scale="9grid" scale9grid="169,44,338,88"/>
+    <image id="hf7rx" name="JiNenKuangChang.png" path="/image/"/>
+    <component id="hf7ry" name="BtnSkill.xml" path="/components/" exported="true"/>
+    <image id="lan7z" name="英雄激活界面参数.png" path="/"/>
+    <component id="r41h10" name="SkillInfo.xml" path="/components/"/>
+    <component id="n5cf12" name="CapacityListCell.xml" path="/components/" exported="true"/>
+    <component id="n9u913" name="BtnOnGo.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

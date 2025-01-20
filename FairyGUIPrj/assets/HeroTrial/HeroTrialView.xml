@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://uic8wv5wm4fi1" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n0_m4fi" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <component id="n8_dbwm" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5">
+      <relation target="n0_m4fi" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <component id="n2_m4fi" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n0_m4fi" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n3_m4fi" name="n3" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n0_m4fi" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n5_m4fi" name="n5" src="m4fi2" fileName="image/HengFu.png" xy="15,56">
+      <relation target="n8_dbwm" sidePair="top-top"/>
+    </image>
+    <text id="n6_m4fi" name="Name" xy="266,68" pivot="0.5,0.5" size="268,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="本期英雄试用">
+      <relation target="n8_dbwm" sidePair="top-top"/>
+    </text>
+    <list id="n7_m4fi" name="list" xy="0,179" pivot="0.5,0.5" size="800,1292" overflow="scroll" lineGap="10" defaultItem="ui://uic8wv5wm4fi5" autoClearItems="true">
+      <relation target="n8_dbwm" sidePair="height-height,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_m4fi" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="15,1489">
+      <relation target="n0_m4fi" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

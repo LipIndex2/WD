@@ -1,0 +1,132 @@
+
+effect_jitui.png
+size: 758,464
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+2/r0001
+  rotate: false
+  xy: 2, 387
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0002
+  rotate: false
+  xy: 254, 387
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0003
+  rotate: false
+  xy: 506, 387
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0004
+  rotate: false
+  xy: 2, 310
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0005
+  rotate: false
+  xy: 254, 310
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0006
+  rotate: false
+  xy: 506, 310
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0007
+  rotate: false
+  xy: 2, 233
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0008
+  rotate: false
+  xy: 254, 233
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0009
+  rotate: false
+  xy: 506, 233
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0010
+  rotate: false
+  xy: 2, 156
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0011
+  rotate: false
+  xy: 254, 156
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0012
+  rotate: false
+  xy: 506, 156
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0013
+  rotate: false
+  xy: 2, 79
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0014
+  rotate: false
+  xy: 254, 79
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0015
+  rotate: false
+  xy: 506, 79
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0016
+  rotate: false
+  xy: 2, 2
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0017
+  rotate: false
+  xy: 254, 2
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1
+2/r0018
+  rotate: false
+  xy: 506, 2
+  size: 250, 75
+  orig: 250, 75
+  offset: 0, 0
+  index: -1

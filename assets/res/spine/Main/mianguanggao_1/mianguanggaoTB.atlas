@@ -1,0 +1,27 @@
+
+mianguanggaoTB.png
+size: 156,88
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+gang
+  rotate: false
+  xy: 90, 8
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 0, 0
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+tubiao
+  rotate: true
+  xy: 90, 22
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1

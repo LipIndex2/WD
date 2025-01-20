@@ -1,0 +1,27 @@
+
+clocks.png
+size: 115,80
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+clocks_1
+  rotate: true
+  xy: 0, 0
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+clocks_2
+  rotate: false
+  xy: 82, 21
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+clocks_3
+  rotate: false
+  xy: 82, 46
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1

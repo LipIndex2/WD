@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1480" designImage="ui://pppfbs53n4lg1" designImageLayer="1">
+  <displayList>
+    <component id="n1_tprm" name="parent" src="tprmy" fileName="components/parent.xml" xy="0,0"/>
+    <component id="n2_pp34" name="RoleShow" src="pp3410" fileName="components/MyParent.xml" xy="0,0" visible="false"/>
+  </displayList>
+</component>

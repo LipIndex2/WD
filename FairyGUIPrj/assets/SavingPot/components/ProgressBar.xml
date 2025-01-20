@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="532,60" extention="ProgressBar">
+  <displayList>
+    <image id="n0_r9w5" name="n0" src="r9w5y" fileName="image/YouQianHuaJinDu1.png" xy="0,0" size="532,60">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_r9w5" name="bar" src="r9w5z" fileName="image/YouQianHuaJinDu2.png" xy="0,0" size="532,60"/>
+    <image id="n8_r9w5" name="n8" src="cqilr" fileName="image/JiaoBiao.png" xy="509,-8" pivot="0.5,0.5"/>
+    <image id="n3_r9w5" name="n3" src="e4fll" fileName="image/QiPao.png" xy="502,47" pivot="0.5,0.5" group="n5_r9w5"/>
+    <image id="n10_lwoh" name="n10" src="lwoh19" fileName="image/YouQianHuaZuanShi.png" xy="600,78" group="n5_r9w5">
+      <relation target="n2_r9w5" sidePair="left-right"/>
+    </image>
+    <text id="n2_r9w5" name="title" xy="513,70" pivot="0.5,0.5" size="82,54" group="n5_r9w5" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#aeff91" vAlign="middle" strokeColor="#491914" strokeSize="3" text="451">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n5_r9w5" name="n5" xy="502,47" size="141,82" advanced="true">
+      <relation target="n1_r9w5" sidePair="left-right"/>
+    </group>
+  </displayList>
+  <ProgressBar titleType="value"/>
+</component>

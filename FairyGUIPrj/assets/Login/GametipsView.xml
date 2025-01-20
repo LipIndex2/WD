@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n2_rmdb" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <graph id="n0_11exs" name="n0" xy="0,0" pivot="0.5,0.5" size="800,1600" type="rect" fillColor="#ff000000">
+      <relation target="n2_rmdb" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n1_11exs" name="n1" xy="118,556" size="564,487" fontSize="40" color="#ffffff" align="center" leading="39" autoSize="none" text="健康游戏忠告&#xA;抵制不良游戏，拒绝盗版游戏。&#xA;注意自我保护，谨防受骗上当。&#xA;适度游戏益脑，沉迷游戏伤身。&#xA;合理安排时间，享受健康生活。"/>
+  </displayList>
+</component>

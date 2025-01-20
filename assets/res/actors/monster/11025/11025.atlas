@@ -1,0 +1,90 @@
+
+11025.png
+size: 243,271
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 152, 167
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 220, 28
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 96, 0
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 0, 187
+  size: 151, 84
+  orig: 151, 84
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: false
+  xy: 47, 42
+  size: 48, 144
+  orig: 48, 144
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 0, 39
+  size: 46, 147
+  orig: 46, 147
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 173, 31
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: false
+  xy: 47, 0
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 96, 73
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: false
+  xy: 162, 73
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 0, 12
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+yaodai2
+  rotate: true
+  xy: 173, 4
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1

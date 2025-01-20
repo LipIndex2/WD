@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,235" designImage="ui://e818d6bypp4u10" designImageOffsetY="-411" designImageAlpha="0">
+  <displayList>
+    <image id="n0_pp4u" name="n0" src="r1b9d" fileName="imange/TongYongHeiDi.png" xy="30,0" size="744,235">
+      <relation target="" sidePair="height-height,center-center"/>
+    </image>
+    <list id="n1_pp4u" name="List" xy="66,60" size="703,150" layout="flow_hz" lineGap="25" colGap="22" defaultItem="ui://e818d6byr1b9n" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n3_pp4u" name="SkillQua" xy="25,0" size="750,51" url="ui://e818d6bypp4u12" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n4_pp4u" name="SkillIcon" xy="13,-20" pivot="0.5,0.5" size="78,78" url="ui://e818d6bypp4u15" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

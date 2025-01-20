@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://ikdvkbtaiyeaa" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n1_iyea" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n0_iyea" name="n0" src="iyea8" fileName="imange/HengLaBeiJing.png" xy="0,0" size="800,1600">
+      <relation target="n1_iyea" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n2_iyea" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799" scale="1.15,1.15"/>
+    <list id="n6_iyea" name="List" xy="0,163" size="800,1307" overflow="scroll" lineGap="20" defaultItem="ui://ikdvkbtaiyeag" align="center"/>
+    <text id="n4_iyea" name="Title" xy="346,43" size="212,69" font="ui://wqx8l8xqut2h1b" fontSize="52" color="#ffffff" strokeColor="#491916" strokeSize="3" text="场景皮肤"/>
+    <image id="n3_iyea" name="n3" src="iyea1" fileName="imange/TuBiao.png" xy="236,9" pivot="0.5,0.5" scale="0.8,0.8"/>
+    <image id="n7_iyea" name="n7" src="iyea9" fileName="imange/YeQianDiBu.png" xy="0,1470" size="800,130">
+      <relation target="n1_iyea" sidePair="width-width,center-center,bottom-bottom"/>
+    </image>
+    <component id="n8_iyea" name="CloseBtn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="13,1489">
+      <relation target="n1_iyea" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

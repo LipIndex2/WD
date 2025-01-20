@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://g13qdvs5u3z84">
+  <displayList>
+    <image id="n0_rjro" name="bg_t" src="iw5u2" fileName="BiaoTiXiaoHengFu.png" pkg="rqg67c20" xy="190,171" size="422,75"/>
+    <text id="n2_rjro" name="NameShow" xy="326,181" pivot="0.5,0.5" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="你获得了"/>
+    <component id="n7_vkjw" name="ButtonShow" src="vkjw9" fileName="components/ButtonShow.xml" xy="0,0"/>
+    <component id="n4_rjro" name="BtnContinue" src="rjro2" fileName="components/ButtonContinue.xml" xy="0,-1" visible="false"/>
+    <list id="n5_rjro" name="ShowList" xy="400,854" pivot="0.5,0.5" anchor="true" size="710,450" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://g13qdvs5rjro3" autoClearItems="true">
+      <relation target="n6_hprm" sidePair="top-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n6_hprm" name="GeneShowList" xy="48,300" pivot="0.5,0" size="713,320" layout="flow_hz" overflow="scroll" lineGap="25" colGap="41" defaultItem="ui://g13qdvs5hprm5" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

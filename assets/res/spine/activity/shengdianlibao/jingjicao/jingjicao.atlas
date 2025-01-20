@@ -1,0 +1,104 @@
+
+jingjicao.png
+size: 1321,427
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beijing
+  rotate: false
+  xy: 0, 3
+  size: 802, 424
+  orig: 802, 424
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 803, 15
+  size: 116, 266
+  orig: 116, 266
+  offset: 0, 0
+  index: -1
+jiao1_1
+  rotate: true
+  xy: 1166, 202
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 1046, 199
+  size: 119, 228
+  orig: 119, 228
+  offset: 0, 0
+  index: -1
+jiao2_2
+  rotate: false
+  xy: 1166, 256
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 1070, 26
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+jiao3_1
+  rotate: true
+  xy: 1166, 336
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: false
+  xy: 1236, 210
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+jiao4_1
+  rotate: true
+  xy: 1046, 132
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 1168, 46
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: true
+  xy: 1138, 147
+  size: 51, 104
+  orig: 51, 104
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 803, 132
+  size: 242, 295
+  orig: 242, 295
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: true
+  xy: 1168, 0
+  size: 45, 116
+  orig: 45, 116
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: false
+  xy: 1243, 316
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1

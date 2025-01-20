@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rkvf5k7i">
+  <resources>
+    <component id="721h0" name="DialogTipsView.xml" path="/" exported="true"/>
+    <image id="721h1" name="通用提示确认弹窗参数.png" path="/"/>
+    <component id="t6to2" name="ShowItem.xml" path="/components/"/>
+    <image id="gu4l3" name="JuXing.png" path="/image/"/>
+    <image id="gu4l4" name="DuiGouicon.png" path="/image/"/>
+    <image id="gu4l5" name="跳过弹窗_.png" path="/"/>
+    <component id="gu4l6" name="Toggle.xml" path="/components/"/>
+    <component id="iyea7" name="HelpTipsView.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

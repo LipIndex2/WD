@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,198" designImage="ui://l20hp0dcs6bvq" designImageOffsetY="-1156" designImageLayer="1">
+  <displayList>
+    <image id="n0_ldm8" name="bg" src="t6to6" fileName="image/LieBiaoDi.png" xy="17,0" size="764,198"/>
+    <image id="n14_r41h" name="bgi" src="o0za68" fileName="ItemCellBg1.png" pkg="zn6u2d2d" xy="37,21" visible="false"/>
+    <loader id="n15_r41h" name="IconShow" xy="37,21" pivot="0.5,0.5" size="156,156" visible="false" touchable="false" align="center" vAlign="middle"/>
+    <image id="n22_krnh" name="PieceShow" src="tiuj5f" fileName="PinTu.png" pkg="rqg67c20" xy="169,10" visible="false"/>
+    <image id="n23_krnh" name="SShow" src="gmnd3r" fileName="image/S.png" pkg="gn62pyk3" xy="24,10" visible="false"/>
+    <component id="n24_cfi8" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="55,39"/>
+    <text id="n16_r41h" name="ItemNum" xy="119,135" pivot="1,0.5" size="74,49" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="640"/>
+    <text id="n21_s6bv" name="TimesShow" xy="570,135" pivot="0.5,0.5" size="188,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#28170f" strokeSize="3" autoClearText="true" text="剩余兑换次数：3"/>
+    <component id="n1_ldm8" name="BtnExchange" src="s6bvs" fileName="components/ButtonExchange.xml" xy="515,33" size="296,112" scale="0.66,0.66">
+      <Button titleFontSize="54"/>
+    </component>
+    <image id="n10_day6" name="mask1" src="t6toj" fileName="image/MengBan.png" xy="18,0" size="764,197" group="n20_t6to"/>
+    <image id="n17_jx1k" name="mask2" src="t6toc" fileName="image/YiLingQuMengCeng2.png" xy="280,66" pivot="0.5,0.5" group="n20_t6to"/>
+    <image id="n11_day6" name="gou" src="t6tod" fileName="image/DuiGouicon.png" xy="306,65" group="n20_t6to"/>
+    <text id="n12_day6" name="geted" xy="389,69" size="106,46" group="n20_t6to" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已兑换"/>
+    <group id="n20_t6to" name="MaskShow" xy="18,0" size="764,197" visible="false" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d65mylby">
+  <resources>
+    <component id="uzf20" name="RewardItem.xml" path="/components/"/>
+    <image id="uzf21" name="JinBiKuangMengCeng.png" path="/image/"/>
+    <component id="uzf22" name="ListItem.xml" path="/components/" exported="true"/>
+    <image id="uzf23" name="ZiSeDi.png" path="/image/" scale="9grid" scale9grid="21,17,16,21"/>
+    <image id="uzf24" name="LanSeShiJianXian.png" path="/image/" scale="9grid" scale9grid="7,7,10,14"/>
+    <image id="uzf25" name="KaFeiSeFenGeXian.png" path="/image/" scale="9grid" scale9grid="2,6,4,12"/>
+    <image id="uzf26" name="HuiLanBanKuai.png" path="/image/" scale="9grid" scale9grid="20,22,16,15"/>
+    <image id="uzf27" name="LanSeFenGeXianCu.png" path="/image/" scale="9grid" scale9grid="6,5,13,12"/>
+    <image id="uzf28" name="LanSeFenGeXianXi.png" path="/image/" scale="9grid" scale9grid="2,6,4,8"/>
+    <image id="uzf29" name="ShiJianYuanQuan.png" path="/image/"/>
+    <image id="uzf2a" name="bossTuBiao.png" path="/image/"/>
+    <component id="uzf2b" name="BtnBuy.xml" path="/components/"/>
+    <image id="uzf2c" name="JiJinAnNiu.png" path="/image/"/>
+    <image id="uzf2e" name="LanSeDi.png" path="/image/"/>
+    <image id="uzf2f" name="WenZiDi.png" path="/image/"/>
+    <image id="uzf2g" name="ChengSeDi.png" path="/image/"/>
+    <image id="uzf2h" name="HongSeDi.png" path="/image/"/>
+    <image id="uzf2i" name="ZiSeTou.png" path="/image/"/>
+    <image id="uzf2j" name="ItemCellBg1.png" path="/image/" exported="true"/>
+    <image id="uzf2k" name="ItemCellBg2.png" path="/image/" exported="true"/>
+    <image id="uzf2l" name="ItemCellBg0.png" path="/image/" exported="true"/>
+    <image id="uzf2m" name="ShiJianicon.png" path="/image/"/>
+    <image id="uzf2n" name="ShiJianDi.png" path="/image/"/>
+    <component id="uzf2o" name="DefensePassCheckView.xml" path="/" exported="true"/>
+    <image id="uzf2q" name="站令ui.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,27 @@
+
+honglvdengyu.png
+size: 136,55
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+yanjing
+  rotate: false
+  xy: 117, 36
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 117, 30
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 0, 0
+  size: 116, 55
+  orig: 116, 55
+  offset: 0, 0
+  index: -1

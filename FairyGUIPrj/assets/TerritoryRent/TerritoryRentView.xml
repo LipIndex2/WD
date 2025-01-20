@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://fl0irg4vhunn2">
+  <displayList>
+    <component id="n0_hunn" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,471" size="730,569">
+      <Label title="租 赁"/>
+    </component>
+    <image id="n1_hunn" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="86,665" size="628,165"/>
+    <text id="n2_hunn" name="ContentShow" xy="142,701" pivot="0.5,0.5" size="520,86" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#54301e" align="center" vAlign="middle" autoSize="none" text="是否雇佣一名临时推车为你工作？临时每日24点下班，并重置雇佣服务"/>
+    <component id="n3_hunn" name="BtnConfirm" src="hunn1" fileName="components/ButtonOrange.xml" xy="422,892">
+      <Button title="确定" icon="ui://rqg67c2010ewu6l"/>
+    </component>
+    <component id="n4_hunn" name="BtnCancel" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="85,892">
+      <Button title="取消"/>
+    </component>
+    <text id="n5_hunn" name="TimesShow" xy="488,847" pivot="0.5,0.5" size="162,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" strokeColor="#663b18" strokeSize="3" autoClearText="true" text="今日剩余5次"/>
+  </displayList>
+</component>

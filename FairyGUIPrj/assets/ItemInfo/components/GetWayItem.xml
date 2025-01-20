@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="72,40" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <text id="n3_eit3" name="title" xy="10,3" pivot="0,0.5" size="52,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#4affec" align="center" vAlign="middle" underline="true" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="商城"/>
+  </displayList>
+  <Button/>
+  <relation target="n3_eit3" sidePair="width-width"/>
+</component>

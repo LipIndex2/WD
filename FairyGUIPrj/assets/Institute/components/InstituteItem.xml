@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110" designImage="ui://km0iyz3hmizfa" designImageOffsetX="-345" designImageOffsetY="-481" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <loader id="n5_mizf" name="LineL" xy="52,166" pivot="0,0.5" anchor="true" size="124,118" scale="-1,1" visible="false" touchable="false" url="ui://km0iyz3hmizf7" autoSize="true"/>
+    <loader id="n6_mizf" name="LineR" xy="55,166" pivot="0,0.5" anchor="true" size="124,118" visible="false" touchable="false" url="ui://km0iyz3hmizf7" autoSize="true"/>
+    <loader id="n7_xxoc" name="Line" xy="54,102" pivot="0.5,0" anchor="true" size="7,124" visible="false" url="ui://km0iyz3hxxocq"/>
+    <loader id="n0_mizf" name="Qua" xy="0,0" size="110,110" url="ui://rqg67c20r9w56e" fill="scaleFree"/>
+    <loader id="n1_mizf" name="Icon" xy="0,0" size="110,110" fill="scaleFree"/>
+    <image id="n3_mizf" name="SelImg" src="mizfg" fileName="image/XuanZhongGuang.png" xy="-20,-20" size="150,150" visible="false"/>
+    <image id="n4_mizf" name="MaxImg" src="mizfh" fileName="image/YiManZhuangTai.png" xy="0,0" visible="false"/>
+    <component id="n2_mizf" name="Progress" src="mizfi" fileName="components/ProgressBar.xml" xy="0,117">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

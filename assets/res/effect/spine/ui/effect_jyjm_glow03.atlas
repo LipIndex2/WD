@@ -1,0 +1,125 @@
+
+effect_jyjm_glow03.png
+size: 684,520
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+7/h_1
+  rotate: true
+  xy: 2, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_10
+  rotate: true
+  xy: 436, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_11
+  rotate: true
+  xy: 498, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_12
+  rotate: true
+  xy: 560, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_13
+  rotate: true
+  xy: 622, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_14
+  rotate: false
+  xy: 2, 64
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_15
+  rotate: false
+  xy: 334, 64
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_16
+  rotate: false
+  xy: 2, 2
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_17
+  rotate: false
+  xy: 334, 2
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_2
+  rotate: false
+  xy: 2, 126
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_3
+  rotate: true
+  xy: 64, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_4
+  rotate: true
+  xy: 126, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_5
+  rotate: true
+  xy: 188, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_6
+  rotate: true
+  xy: 250, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_7
+  rotate: true
+  xy: 312, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_8
+  rotate: false
+  xy: 334, 126
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1
+7/h_9
+  rotate: true
+  xy: 374, 188
+  size: 330, 60
+  orig: 330, 60
+  offset: 0, 0
+  index: -1

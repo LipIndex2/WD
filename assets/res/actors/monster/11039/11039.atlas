@@ -1,0 +1,83 @@
+
+11039.png
+size: 294,145
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chushou1
+  rotate: true
+  xy: 71, 57
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+chushou1_1
+  rotate: false
+  xy: 75, 5
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+chushou2
+  rotate: false
+  xy: 229, 81
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+chushou3
+  rotate: true
+  xy: 0, 0
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+chushou3_1
+  rotate: false
+  xy: 229, 43
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+chushou4
+  rotate: true
+  xy: 169, 2
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+chushou4_1
+  rotate: false
+  xy: 216, 0
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+chushou5
+  rotate: false
+  xy: 0, 51
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+chushou5_1
+  rotate: false
+  xy: 127, 8
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 157, 63
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 157, 73
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1

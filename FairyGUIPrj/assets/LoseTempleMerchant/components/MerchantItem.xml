@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="223,397" designImageOffsetX="-51" designImageOffsetY="-535" designImageLayer="1">
+  <displayList>
+    <loader id="n0_lgme" name="bg" xy="0,0" pivot="0.5,0.5" size="223,397" url="ui://p6iurwtvlgme6" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <loader id="n5_lgme" name="Icon" xy="-1,65" pivot="0.5,0.5" size="226,164" visible="false" touchable="false" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <image id="n3_lgme" name="n3" src="lgme9" fileName="image/WenZiDi.png" xy="14,251"/>
+    <component id="n12_cfi8" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="51,70"/>
+    <image id="n9_pitk" name="n9" src="iw5ub53" fileName="image/LvAnNiuXiao.png" pkg="zokic7y2" xy="13,296" pivot="0.5,0.5" group="n11_pitk" grayed="true"/>
+    <text id="n10_pitk" name="n10" xy="42,309" pivot="0.5,0.5" size="136,59" group="n11_pitk" grayed="true" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已购买"/>
+    <group id="n11_pitk" name="BuyShow" xy="13,296" size="194,85" advanced="true"/>
+    <text id="n1_lgme" name="Name" xy="-53,10" pivot="0.5,0.5" size="328,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" ubb="true" strokeColor="#491914" strokeSize="4" autoClearText="true" text="随机四号位史诗基因"/>
+    <text id="n4_lgme" name="Count" xy="44,253" pivot="0.5,0.5" size="140,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="剩余次数：1"/>
+    <text id="n6_lgme" name="Num" xy="54,190" pivot="0.5,0.5" size="117,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" autoClearText="true" text="x2500"/>
+    <component id="n7_lgme" name="HeroCell" src="tm533c" fileName="HeroCell.xml" pkg="gn62pyk3" xy="22,33" scale="0.7,0.7"/>
+    <component id="n2_lgme" name="BtnBuy" src="lgme8" fileName="components/ButtonMainBuy.xml" xy="13,296"/>
+    <text id="n8_pitk" name="HeroNum" xy="125,141" pivot="1,0.5" size="46,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" text="x5"/>
+  </displayList>
+</component>

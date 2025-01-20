@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://0pnjm4aslwohk" designImageLayer="1">
+  <controller name="CombatState" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n19_lwoh" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,429"/>
+    <image id="n1_kgci" name="n1" src="kgci7" fileName="image/HuoDongHaiBaoLieBiaoWenBenKuang.png" xy="84,785" size="631,310" group="n17_kgci"/>
+    <image id="n8_kgci" name="n8" src="kgcia" fileName="image/BiaoTiXian.png" xy="115,805" size="208,26" group="n17_kgci"/>
+    <image id="n9_kgci" name="n9" src="kgcia" fileName="image/BiaoTiXian.png" xy="684,805" size="208,26" group="n17_kgci" scale="-1,1"/>
+    <image id="n5_kgci" name="n5" src="kgci5" fileName="image/NanDuYuanXing.png" xy="301,547" size="198,198" group="n17_kgci"/>
+    <text id="n10_kgci" name="n10" xy="358,791" pivot="0.5,0.5" size="84,54" group="n17_kgci" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="奖励"/>
+    <text id="n6_kgci" name="n6" xy="368,590" pivot="0.5,0.5" size="64,42" group="n17_kgci" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="难度"/>
+    <group id="n17_kgci" name="n17" xy="84,547" size="808,548"/>
+    <loader id="n4_kgci" name="TopIcon" xy="19,85" pivot="0.5,1" size="762,380" url="ui://0pnjm4askgci8" align="center" vAlign="bottom"/>
+    <loader id="n2_kgci" name="TitleIcon" xy="15,429" size="770,104" url="ui://0pnjm4askgci3" autoSize="true"/>
+    <text id="n3_kgci" name="Title" xy="309,441" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="古墓探险"/>
+    <text id="n7_kgci" name="DifficultyNum" xy="376,623" pivot="0.5,0.5" size="48,89" font="ui://wqx8l8xqut2h1b" fontSize="68" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="1"/>
+    <text id="n11_kgci" name="ResidueNum" xy="310,1122" pivot="0.5,0.5" size="182,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" strokeColor="#491914" strokeSize="3" text="今日剩余 2 次"/>
+    <list id="n13_kgci" name="List" xy="103,870" pivot="0.5,0.5" size="593,163" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://0pnjm4asm1qti" align="center" vAlign="middle">
+      <item/>
+      <item/>
+    </list>
+    <component id="n14_kgci" name="BtnArrowsR" src="kgcib" fileName="components/BtnArrows.xml" xy="583,622" visible="false"/>
+    <component id="n15_kgci" name="BtnArrowsL" src="kgcib" fileName="components/BtnArrows.xml" xy="179,623" scale="-1,1" visible="false"/>
+    <component id="n16_kgci" name="BtnStart" src="kgcic" fileName="components/BtnStart.xml" xy="252,1191">
+      <gearXY controller="CombatState" pages="0,1" values="252,1191|79,1190"/>
+    </component>
+    <component id="n18_lwoh" name="BtnMopUp" src="kgcic" fileName="components/BtnStart.xml" xy="428,1190">
+      <gearDisplay controller="CombatState" pages="1"/>
+      <Button title="-5"/>
+      <property target="start" propertyId="0" value="扫 荡"/>
+    </component>
+  </displayList>
+</component>

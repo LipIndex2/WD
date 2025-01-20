@@ -1,0 +1,27 @@
+
+daduyu.png
+size: 128,71
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 109, 45
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 109, 52
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

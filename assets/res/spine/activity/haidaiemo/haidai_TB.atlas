@@ -1,0 +1,104 @@
+
+haidai_TB.png
+size: 156,133
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+mianzhao
+  rotate: false
+  xy: 0, 84
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+shuizhu1
+  rotate: false
+  xy: 136, 10
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+shuizhu2
+  rotate: false
+  xy: 46, 0
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shuizhu3
+  rotate: false
+  xy: 136, 27
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+yezi10
+  rotate: true
+  xy: 0, 31
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+yezi11
+  rotate: true
+  xy: 110, 0
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+yezi12
+  rotate: true
+  xy: 76, 36
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+yezi14
+  rotate: true
+  xy: 98, 40
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: true
+  xy: 0, 0
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: true
+  xy: 102, 86
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+yezi5
+  rotate: false
+  xy: 76, 1
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+yezi6
+  rotate: false
+  xy: 51, 85
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+yezi7
+  rotate: true
+  xy: 48, 15
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+yezi9
+  rotate: false
+  xy: 120, 43
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1

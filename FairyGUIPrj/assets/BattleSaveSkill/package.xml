@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1q105up5">
+  <resources>
+    <image id="83sp1" name="BaoLiuJiNenHengFu.png" path="/image/"/>
+    <component id="lhxl2" name="BattleSaveSkillView.xml" path="/" exported="true"/>
+    <image id="lhxl3" name="结算保留技能参数.png" path="/"/>
+    <image id="lhxl5" name="ChengSeDaAnNiu.png" path="/image/"/>
+    <component id="lhxl6" name="PlayBtn.xml" path="/components/"/>
+    <image id="lhxl8" name="XingXingBeiJing.png" path="/image/"/>
+    <component id="rmxg9" name="SkillItem.xml" path="/components/"/>
+    <image id="g00ja" name="BaoLiuJiNenDiBan2.png" path="/image/"/>
+    <image id="g00jb" name="BaoLiuJiNenDiBan1.png" path="/image/" scale="9grid" scale9grid="7,78,14,156"/>
+    <image id="g00jc" name="ChengSeXuanZhongKuai.png" path="/image/"/>
+    <component id="g00jd" name="DiBan.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

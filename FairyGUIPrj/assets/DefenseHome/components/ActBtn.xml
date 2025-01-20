@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,142" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_e20v" name="n0" src="e20va" fileName="image/ZhanLingTuBiaoDi.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n1_e20v" name="icon" xy="71,66" pivot="0.5,0.5" anchor="true" size="104,90" url="ui://lqre3h3fe20v9" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

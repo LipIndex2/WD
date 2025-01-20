@@ -1,0 +1,55 @@
+
+rongyuan.png
+size: 109,102
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 84, 65
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+xuxu1
+  rotate: true
+  xy: 84, 35
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+xuxu2
+  rotate: false
+  xy: 97, 64
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+xuxu3
+  rotate: true
+  xy: 84, 12
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+xuxu4
+  rotate: false
+  xy: 97, 83
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 95, 19
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

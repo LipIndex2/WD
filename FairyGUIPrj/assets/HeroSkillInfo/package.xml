@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fgkt5cva">
+  <resources>
+    <component id="aj740" name="HeroSkillInfoView.xml" path="/" exported="true"/>
+    <image id="aj741" name="JiNenQiPaoKuang.png" path="/image/" scale="9grid" scale9grid="57,68,114,136"/>
+    <image id="aj742" name="2级弹窗属性界面对话框参数.png" path="/"/>
+    <component id="k2qf3" name="SkillInfoItem.xml" path="/components/"/>
+    <component id="pd0x4" name="HeadItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

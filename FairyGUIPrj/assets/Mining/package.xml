@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="a1ymjkzf">
+  <resources>
+    <component id="mgkh0" name="MiningView.xml" path="/" exported="true"/>
+    <component id="mgkh1" name="PitItem.xml" path="/components/" exported="true"/>
+    <component id="mgkh4" name="BlockContent.xml" path="/components/" exported="true"/>
+    <component id="mgkh5" name="PropItem.xml" path="/components/"/>
+    <image id="mgkh8" name="Kuai_2.png" path="/image/" exported="true"/>
+    <image id="mgkh9" name="Kuai_1.png" path="/image/" exported="true"/>
+    <image id="mgkha" name="Kuai_7.png" path="/image/" exported="true"/>
+    <image id="mgkhb" name="Kuai_4.png" path="/image/" exported="true"/>
+    <image id="mgkhc" name="Kuai_3.png" path="/image/" exported="true"/>
+    <image id="mgkhd" name="Kuai_6.png" path="/image/" exported="true"/>
+    <image id="mgkhe" name="Kuai_5.png" path="/image/" exported="true"/>
+    <image id="mgkhf" name="DaoJuDi.png" path="/image/" scale="9grid" scale9grid="32,32,64,64"/>
+    <image id="mgkhg" name="QiPanDi.png" path="/image/"/>
+    <image id="mgkhh" name="ASDADAD9.png" path="/image/"/>
+    <image id="mgkhi" name="DaBeiJing.png" path="/image/"/>
+    <image id="mgkhj" name="DiXia.png" path="/image/"/>
+    <image id="mgkhk" name="HeiSeDi.png" path="/image/"/>
+    <image id="mgkhl" name="HongBaoShi.png" path="/image/"/>
+    <image id="mgkhn" name="DieGaoXiao.png" path="/image/"/>
+    <image id="mgkho" name="TieGaoDa.png" path="/image/"/>
+    <image id="mgkhq" name="矿洞2.jpg" path="/"/>
+    <image id="mgkhr" name="YeQianDiBu.png" path="/image/"/>
+    <component id="mgkhs" name="Content.xml" path="/components/"/>
+    <image id="mgkht" name="WeiGuaZuanTou.png" path="/image/" exported="true"/>
+    <image id="mgkhu" name="WeiGuaZuanTouJinZhi.png" path="/image/" exported="true"/>
+    <image id="mgkhv" name="YingTaoDaPao.png" path="/image/" exported="true"/>
+    <image id="mgkhw" name="YingTaoDaPaoJinZhi.png" path="/image/" exported="true"/>
+    <image id="mgkhx" name="GeZiDeZheZhao.png" path="/image/"/>
+    <image id="mgkhy" name="HuangSeXian.png" path="/image/" scale="9grid" scale9grid="1,0,2,4"/>
+    <image id="mgkhz" name="QiPanZheZhaoXia.png" path="/image/"/>
+    <image id="mgkh10" name="QiPanZheZhaoShang.png" path="/image/"/>
+    <image id="mgkh11" name="BaoXiangXiaoDanChuang.png" path="/image/"/>
+    <image id="mgkh12" name="DiXia2.png" path="/image/" scale="9grid" scale9grid="41,42,18,14"/>
+    <component id="mgkh13" name="RewardLabel.xml" path="/components/"/>
+    <image id="mgkh14" name="ChengAnNiu.png" path="/image/"/>
+    <component id="mgkh15" name="AdBtn.xml" path="/components/"/>
+    <component id="mgkh16" name="ADBtn2.xml" path="/components/"/>
+    <component id="mizf17" name="GetShowTip.xml" path="/components/" exported="true"/>
+    <component id="mizf18" name="IconFlyItem.xml" path="/components/" exported="true"/>
+    <image id="xxoc19" name="JinDuTiaoDi.png" path="/image/"/>
+    <image id="xxoc1a" name="JinDuTiao.png" path="/image/" scale="9grid" scale9grid="10,0,23,10"/>
+    <image id="xxoc1b" name="QiPao.png" path="/image/"/>
+    <image id="xxoc1c" name="Kuai_2_2.png" path="/image/" exported="true"/>
+    <component id="xxoc1d" name="ProgressBar.xml" path="/components/" exported="true"/>
+    <component id="xxoc1f" name="ADRewardLabel.xml" path="/components/"/>
+    <image id="xxoc1g" name="TieGao.png" path="/image/"/>
+    <image id="xxoc1h" name="矿洞2(1).jpg" path="/"/>
+    <image id="eigi1i" name="DingBuShiPeiDi.png" path="/image/" scale="9grid" scale9grid="12,12,24,24"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

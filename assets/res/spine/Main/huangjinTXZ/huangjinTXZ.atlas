@@ -1,0 +1,160 @@
+
+huangjinTXZ.png
+size: 969,427
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian
+  rotate: false
+  xy: 167, 287
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 194, 0
+  size: 307, 230
+  orig: 307, 230
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 685, 154
+  size: 153, 73
+  orig: 153, 73
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 0, 89
+  size: 338, 166
+  orig: 338, 166
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 167, 308
+  size: 802, 119
+  orig: 802, 119
+  offset: 0, 0
+  index: -1
+lihe
+  rotate: false
+  xy: 425, 2
+  size: 167, 115
+  orig: 167, 115
+  offset: 0, 0
+  index: -1
+quanzhang
+  rotate: false
+  xy: 425, 118
+  size: 91, 189
+  orig: 91, 189
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 759, 128
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+sidai1
+  rotate: false
+  xy: 765, 12
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: false
+  xy: 832, 17
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+sidai3
+  rotate: true
+  xy: 818, 83
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 517, 128
+  size: 167, 179
+  orig: 167, 179
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 765, 79
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 593, 6
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 679, 6
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+wangguan
+  rotate: true
+  xy: 759, 187
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 878, 100
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 819, 117
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 864, 224
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 864, 140
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 0, 1
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: false
+  xy: 97, 1
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1

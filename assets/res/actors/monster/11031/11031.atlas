@@ -1,0 +1,62 @@
+
+11031.png
+size: 104,410
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: false
+  xy: 0, 150
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 53, 0
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 53, 24
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+hand_tuopan
+  rotate: false
+  xy: 0, 83
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: false
+  xy: 0, 9
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 241
+  size: 169, 101
+  orig: 169, 101
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 68, 103
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: false
+  xy: 68, 55
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1

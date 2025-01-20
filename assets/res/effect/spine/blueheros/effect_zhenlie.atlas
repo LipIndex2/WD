@@ -1,0 +1,20 @@
+
+effect_zhenlie.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow_01
+  rotate: false
+  xy: 2, 2
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 2, 159
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

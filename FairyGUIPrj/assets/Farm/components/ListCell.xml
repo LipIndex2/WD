@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,210" designImage="ui://dryw07k7uzf21" designImageOffsetY="-540" designImageLayer="1">
+  <displayList>
+    <list id="n0_9quy" name="ShowList" xy="71,0" size="658,210" layout="row" overflow="scroll" scrollBarFlags="2720" colGap="33" defaultItem="ui://dryw07k79quyq" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n12_9quy" name="n12" src="9quyy" fileName="image/ShuiGuan01.png" xy="2,170" group="n17_9quy"/>
+    <image id="n13_9quy" name="n13" src="uzf2l" fileName="image/ShuiGuan02.png" xy="131,171" group="n17_9quy"/>
+    <image id="n14_9quy" name="n14" src="uzf2l" fileName="image/ShuiGuan02.png" xy="649,171" group="n17_9quy"/>
+    <image id="n15_9quy" name="n15" src="uzf2l" fileName="image/ShuiGuan02.png" xy="476,171" group="n17_9quy"/>
+    <image id="n16_9quy" name="n16" src="uzf2l" fileName="image/ShuiGuan02.png" xy="304,171" group="n17_9quy"/>
+    <group id="n17_9quy" name="Pipeline" xy="2,170" size="798,98" visible="false" advanced="true"/>
+    <image id="n4_9quy" name="n4" src="uzf2k" fileName="image/HuaSa02.png" xy="227,-131" group="n11_9quy"/>
+    <image id="n5_9quy" name="n5" src="uzf2k" fileName="image/HuaSa02.png" xy="573,-131" group="n11_9quy"/>
+    <image id="n6_9quy" name="n6" src="uzf2k" fileName="image/HuaSa02.png" xy="400,-131" group="n11_9quy"/>
+    <image id="n10_9quy" name="n10" src="9quyx" fileName="image/HuaSa01.png" xy="0,-131" group="n11_9quy"/>
+    <image id="n9_9quy" name="n9" src="9quyu" fileName="image/HuaSa03.png" xy="746,-102" group="n11_9quy"/>
+    <group id="n11_9quy" name="Sprinkler" xy="0,-131" size="762,96" visible="false" advanced="true"/>
+    <image id="n2_9quy" name="Weeding" src="9quyt" fileName="image/PenSaChuCaoJiChe.png" xy="1,181" visible="false"/>
+    <component id="n1_9quy" name="BtnFitment" src="9quys" fileName="components/BtnFitment.xml" xy="703,119"/>
+  </displayList>
+</component>

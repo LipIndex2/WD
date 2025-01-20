@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,100">
+  <displayList>
+    <image id="n82_jwxr" name="n82" src="rp3tw" fileName="image/bg.png" xy="0,0" size="500,102" color="#b4b4b4"/>
+    <component id="n77_h7xw" name="item0" src="h7xwe" fileName="components/GMParamItem.xml" xy="0,0" size="126,100" group="n80_h7xw"/>
+    <component id="n78_h7xw" name="item1" src="h7xwe" fileName="components/GMParamItem.xml" xy="128,0" size="123,100" group="n80_h7xw"/>
+    <component id="n79_h7xw" name="item2" src="h7xwe" fileName="components/GMParamItem.xml" xy="253,0" size="123,100" group="n80_h7xw"/>
+    <component id="n49_h7xw" name="btn" src="s4yw1" fileName="components/BtnGM.xml" xy="378,0" size="122,100" group="n76_h7xw"/>
+    <group id="n76_h7xw" name="button" xy="378,0" size="122,100" group="n80_h7xw" advanced="true"/>
+    <group id="n80_h7xw" name="item" xy="0,0" size="500,100" advanced="true" layout="hz" colGap="2" excludeInvisibles="true"/>
+  </displayList>
+</component>

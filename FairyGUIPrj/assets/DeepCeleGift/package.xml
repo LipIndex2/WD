@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lg9v9nsa">
+  <resources>
+    <component id="t6to1" name="DeepCeleGiftView.xml" path="/" exported="true"/>
+    <image id="t6to2" name="HuoDongBiaoTiHengFuZi.png" path="/image/"/>
+    <image id="t6to3" name="GouMaiDingBu.png" path="/image/"/>
+    <image id="t6to5" name="ShiJianicon.png" path="/image/"/>
+    <image id="t6to8" name="ShiJianDi.png" path="/image/"/>
+    <component id="t6toi" name="ShowItem.xml" path="/components/" exported="true"/>
+    <image id="t6tok" name="BaiFenBi.png" path="/image/"/>
+    <component id="t6tol" name="ButtonBuy.xml" path="/components/"/>
+    <image id="t6tom" name="ZuanShiAnNiu.png" path="/image/"/>
+    <component id="t6ton" name="ButtonAd.xml" path="/components/"/>
+    <image id="na5xo" name="深渊购买标注.jpg" path="/"/>
+    <image id="na5xp" name="DaoJuDiKuang.png" path="/image/"/>
+    <component id="na5xq" name="RewardItem.xml" path="/components/" exported="true"/>
+    <image id="nj49r" name="深渊盛典.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

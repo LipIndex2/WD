@@ -1,0 +1,27 @@
+
+effect_nc_box_gx.png
+size: 260,202
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian9
+  rotate: false
+  xy: 205, 128
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+glow21
+  rotate: false
+  xy: 0, 0
+  size: 204, 202
+  orig: 204, 202
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 205, 147
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

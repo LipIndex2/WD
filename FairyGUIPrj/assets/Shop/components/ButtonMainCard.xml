@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="746,330" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2lwohb61" designImageOffsetX="-27" designImageOffsetY="-275" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n7_iw5u" name="bg" src="iw5u8" fileName="image/main_card/banner1.png" xy="0,0"/>
+    <image id="n14_lwoh" name="n14" src="lwohb62" fileName="image/main_card/HuangJinTongXingZhengTuBiao.png" xy="29,7"/>
+    <text id="n8_sfj3" name="title" xy="144,7" pivot="0.5,0.5" size="154,66" font="ui://wqx8l8xqut2h1b" fontSize="50" color="#ffffff" align="center" vAlign="middle" italic="true" strokeColor="#491914" strokeSize="4" text="通行证"/>
+    <text id="n10_sfj3" name="PricePre" xy="45,98" pivot="0.5,0.5" size="216,52" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#491914" align="center" vAlign="middle" autoClearText="true" text="原价: ￥120"/>
+    <text id="n11_sfj3" name="PriceNow" xy="28,141" pivot="0.5,0.5" size="211,102" font="ui://wqx8l8xqut2h1b" fontSize="78" color="#ffffff" align="center" vAlign="middle" italic="true" strokeColor="#491914" strokeSize="4" autoClearText="true" text="￥ 98"/>
+    <text id="n12_sfj3" name="open" xy="291,257" pivot="0.5,0.5" size="164,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="立即开通"/>
+    <image id="n9_sfj3" name="line" src="sfj3b5k" fileName="image/main_card/HongXian.png" xy="21,119"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

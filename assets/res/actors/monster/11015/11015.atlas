@@ -1,0 +1,69 @@
+
+11015.png
+size: 838,261
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: true
+  xy: 811, 215
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 528, 127
+  size: 182, 134
+  orig: 182, 134
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 711, 156
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 657, 21
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 528, 10
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 757, 74
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 757, 1
+  size: 72, 81
+  orig: 72, 81
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 0, 0
+  size: 263, 261
+  orig: 263, 261
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 264, 0
+  size: 263, 261
+  orig: 263, 261
+  offset: 0, 0
+  index: -1

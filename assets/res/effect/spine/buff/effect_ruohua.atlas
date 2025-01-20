@@ -1,0 +1,111 @@
+
+effect_ruohua.png
+size: 462,287
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1/ql_00001
+  rotate: false
+  xy: 2, 192
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00003
+  rotate: false
+  xy: 2, 97
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00004
+  rotate: false
+  xy: 94, 192
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00006
+  rotate: false
+  xy: 2, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00007
+  rotate: false
+  xy: 94, 97
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00009
+  rotate: false
+  xy: 186, 192
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00010
+  rotate: false
+  xy: 94, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00012
+  rotate: false
+  xy: 186, 97
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00015
+  rotate: false
+  xy: 278, 192
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00016
+  rotate: false
+  xy: 186, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00018
+  rotate: false
+  xy: 278, 97
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00019
+  rotate: false
+  xy: 370, 192
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00021
+  rotate: false
+  xy: 278, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00022
+  rotate: false
+  xy: 370, 97
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+1/ql_00023
+  rotate: false
+  xy: 370, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1

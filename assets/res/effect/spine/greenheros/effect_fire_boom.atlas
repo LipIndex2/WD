@@ -1,0 +1,118 @@
+
+effect_fire_boom.png
+size: 1796,396
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1/bz_00004
+  rotate: false
+  xy: 260, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00005
+  rotate: false
+  xy: 452, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00006
+  rotate: false
+  xy: 644, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00007
+  rotate: false
+  xy: 836, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00009
+  rotate: false
+  xy: 1028, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00010
+  rotate: false
+  xy: 1220, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00011
+  rotate: false
+  xy: 1412, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00012
+  rotate: false
+  xy: 1604, 194
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00013
+  rotate: true
+  xy: 260, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00015
+  rotate: true
+  xy: 462, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00016
+  rotate: true
+  xy: 664, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00017
+  rotate: true
+  xy: 866, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00019
+  rotate: true
+  xy: 1068, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00021
+  rotate: true
+  xy: 1270, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+1/bz_00022
+  rotate: true
+  xy: 1472, 2
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 138
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

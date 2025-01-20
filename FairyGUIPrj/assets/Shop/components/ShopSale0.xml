@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,346" designImageLayer="1">
+  <displayList>
+    <loader id="n0_rjro" name="BgSp" xy="19,11" size="758,334" group="n7_rjro" autoSize="true"/>
+    <loader id="n21_pd0x" name="Icon2" xy="292,22" pivot="0.5,0.5" size="475,309" group="n7_rjro" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n10_hwhu" name="Icon" xy="444,20" pivot="0.5,0.5" size="325,306" group="n7_rjro" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <image id="n20_pd0x" name="NameBg2" src="lwohb6e" fileName="image/sale_0/ChengChangLiBaoDi.png" xy="11,227" group="n7_rjro"/>
+    <image id="n11_lwoh" name="NameBg1" src="lwohb65" fileName="image/sale_0/WenZiDi.png" xy="27,224" group="n7_rjro"/>
+    <image id="n4_rjro" name="deco" src="rjrob59" fileName="image/sale_0/TeJiaDi.png" xy="667,0" size="122,123" group="n7_rjro"/>
+    <image id="n15_pd0x" name="n15" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="294,314" group="n18_pd0x"/>
+    <image id="n16_pd0x" name="n16" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="280,312" group="n18_pd0x"/>
+    <component id="n17_pd0x" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="339,320" size="151,42" group="n18_pd0x" touchable="false">
+      <Label titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <group id="n18_pd0x" name="TimeShow" xy="280,312" size="226,58" group="n7_rjro" visible="false" advanced="true"/>
+    <text id="n5_rjro" name="DiscountShow" xy="681,23" pivot="0.5,0.5" size="116,52" group="n7_rjro" rotation="30" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="800%"/>
+    <text id="n12_lwoh" name="Limitation" xy="43,292" pivot="0.5,0.5" size="100,34" group="n7_rjro" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="限购一次"/>
+    <text id="n6_rjro" name="NameShow" xy="44,234" pivot="0,0.5" size="171,49" group="n7_rjro" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#fff286" vAlign="middle" strokeColor="#491914" strokeSize="4" text="第2章礼包"/>
+    <text id="n13_lwoh" name="OriginalCost" xy="310,236" pivot="0.5,0.5" size="172,42" group="n19_pd0x" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491914" align="center" vAlign="middle" text="原价：¥128"/>
+    <image id="n14_lwoh" name="n14" src="lwohb68" fileName="image/sale_0/HongXian.png" xy="307,256" pivot="0.5,0.5" size="180,4" group="n19_pd0x">
+      <relation target="n13_lwoh" sidePair="width-width,center-center"/>
+    </image>
+    <group id="n19_pd0x" name="OriginalShow" xy="307,236" size="180,42" group="n7_rjro" visible="false" advanced="true"/>
+    <list id="n8_n4at" name="List" xy="39,54" size="504,157" group="n7_rjro" layout="row" overflow="scroll" scroll="horizontal" colGap="7" defaultItem="ui://gp6652l2lwohb69" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n9_hwhu" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="478,212" group="n7_rjro" scale="0.8,0.8">
+      <Button titleFontSize="45"/>
+    </component>
+    <component id="n1_rjro" name="BtnLeft" src="rjrob57" fileName="components/ButtonArrow.xml" xy="5,157" size="55,74" group="n7_rjro" visible="false" rotation="180"/>
+    <component id="n2_rjro" name="BtnRight" src="rjrob57" fileName="components/ButtonArrow.xml" xy="739,157" size="55,74" group="n7_rjro" visible="false"/>
+    <group id="n7_rjro" name="GpShow" xy="5,0" size="792,370"/>
+  </displayList>
+</component>

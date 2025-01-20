@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://6734rus6qzyf3" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n12_s13y" name="n12" src="s13y16" fileName="image/Zu 404.png" xy="0,0"/>
+    <image id="n1_k3wl" name="n1" src="gvygt" fileName="image/Zu 397.png" xy="0,258" size="800,46"/>
+    <image id="n2_k3wl" name="n2" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="41,194" size="248,54"/>
+    <image id="n3_k3wl" name="n3" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="50,203" scale="0.6,0.6"/>
+    <image id="n6_k3wl" name="n6" src="k3wl10" fileName="image/_LocZu 398.png" xy="38,48"/>
+    <component id="n5_k3wl" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="58,189" size="244,62">
+      <Label title="17:25:25" titleColor="#c4ff26" titleFontSize="36"/>
+    </component>
+    <list id="n7_k3wl" name="ShowList" xy="0,325" size="800,1120" overflow="scroll" lineGap="7" defaultItem="ui://6734rus6k3wl11" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n8_i5p4" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="87,9" size="170,54" group="n11_i5p4">
+      <Label title="0" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <component id="n10_i5p4" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="328,9" size="170,54" group="n11_i5p4"/>
+    <group id="n11_i5p4" name="GpCurrency" xy="87,9" size="411,54" advanced="true"/>
+  </displayList>
+</component>

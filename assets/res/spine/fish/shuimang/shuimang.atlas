@@ -1,0 +1,27 @@
+
+shuimang.png
+size: 96,137
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti1
+  rotate: false
+  xy: 0, 0
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 0, 53
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 84, 39
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

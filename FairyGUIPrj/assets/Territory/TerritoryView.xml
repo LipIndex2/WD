@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://vmjqwampule58">
+  <displayList>
+    <component id="n18_gg85" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <loader id="n1_ule5" name="bg" xy="0,0" size="800,1600" fill="scaleFree" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </loader>
+    <component id="n3_ule5" name="BtnFarm" src="ule57" fileName="components/ButtonPart.xml" xy="0,186" size="294,463" group="n17_ulzs">
+      <Button icon="ui://vmjqwampule55"/>
+    </component>
+    <component id="n5_ule5" name="BtnResearch" src="ule57" fileName="components/ButtonPart.xml" xy="495,82" size="305,577" group="n17_ulzs">
+      <Button icon="ui://vmjqwampule53"/>
+    </component>
+    <component id="n4_ule5" name="BtnTreasure" src="ule57" fileName="components/ButtonPart.xml" xy="187,0" size="400,316" group="n17_ulzs">
+      <Button icon="ui://vmjqwampule56"/>
+    </component>
+    <component id="n2_ule5" name="BtnFish" src="ule57" fileName="components/ButtonPart.xml" xy="487,964" group="n17_ulzs">
+      <Button icon="ui://vmjqwampule52"/>
+    </component>
+    <component id="n7_ule5" name="NameTreasure" src="ule5a" fileName="components/LabelName.xml" xy="293,216" size="57,173" group="n17_ulzs" touchable="false">
+      <Label title="寻&#xA;&#xA;宝"/>
+    </component>
+    <component id="n9_ule5" name="NameFarm" src="ule5a" fileName="components/LabelName.xml" xy="31,469" size="57,173" group="n17_ulzs" touchable="false">
+      <Label title="温&#xA;&#xA;室"/>
+    </component>
+    <component id="n8_ule5" name="NameResearch" src="ule5a" fileName="components/LabelName.xml" xy="666,365" size="57,173" group="n17_ulzs" touchable="false">
+      <Label title="研&#xA;究&#xA;所"/>
+    </component>
+    <component id="n10_ule5" name="NameFish" src="ule5a" fileName="components/LabelName.xml" xy="666,1029" size="57,173" group="n17_ulzs" touchable="false">
+      <Label title="钓&#xA;&#xA;鱼"/>
+    </component>
+    <group id="n17_ulzs" name="GpMods" xy="0,0" size="800,1493" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <component id="n16_hunn" name="MainPanel" src="hunnl" fileName="TerritoryViewMainPanel.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </component>
+  </displayList>
+</component>

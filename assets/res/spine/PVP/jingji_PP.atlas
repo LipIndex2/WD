@@ -1,0 +1,97 @@
+
+jingji_PP.png
+size: 794,513
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+huo1
+  rotate: true
+  xy: 227, 127
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: true
+  xy: 297, 127
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: true
+  xy: 384, 174
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 0, 247
+  size: 266, 268
+  orig: 266, 268
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: true
+  xy: 269, 247
+  size: 266, 268
+  orig: 266, 268
+  offset: 0, 0
+  index: -1
+lizi5
+  rotate: true
+  xy: 367, 140
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+lizi6
+  rotate: false
+  xy: 367, 112
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+lizi7
+  rotate: false
+  xy: 254, 101
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+lizi8
+  rotate: false
+  xy: 227, 101
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+mh_tex_baodian_02
+  rotate: false
+  xy: 538, 257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mh_tex_point_15
+  rotate: false
+  xy: 538, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: true
+  xy: 227, 200
+  size: 46, 156
+  orig: 46, 156
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 0, 28
+  size: 218, 226
+  orig: 218, 226
+  offset: 0, 0
+  index: -1

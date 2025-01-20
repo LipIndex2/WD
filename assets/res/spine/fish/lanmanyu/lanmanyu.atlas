@@ -1,0 +1,27 @@
+
+lanmanyu.png
+size: 173,68
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 144, 68
+  orig: 144, 68
+  offset: 0, 0
+  index: -1
+xuxu
+  rotate: false
+  xy: 145, 24
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 145, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

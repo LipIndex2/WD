@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="742,220" designImage="ui://6639qbo6vqec1" designImageOffsetX="-30" designImageOffsetY="-318" designImageLayer="1">
+  <displayList>
+    <list id="n0_vqec" name="ShowList" xy="0,0" size="742,220" layout="row" colGap="20" defaultItem="ui://6639qbo6vqec2" autoItemSize="false" align="center" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

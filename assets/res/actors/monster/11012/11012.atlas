@@ -1,0 +1,55 @@
+
+11012.png
+size: 282,145
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: false
+  xy: 122, 46
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 203, 46
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 156, 1
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 122, 0
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 248, 19
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 7
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 190, 21
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1

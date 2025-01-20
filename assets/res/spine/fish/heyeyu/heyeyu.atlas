@@ -1,0 +1,27 @@
+
+heyeyu.png
+size: 602,202
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+qi
+  rotate: true
+  xy: 527, 91
+  size: 111, 42
+  orig: 111, 42
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 527, 15
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 0, 0
+  size: 526, 202
+  orig: 526, 202
+  offset: 0, 0
+  index: -1

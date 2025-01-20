@@ -1,0 +1,27 @@
+
+effect_youwin.png
+size: 324,267
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian9
+  rotate: false
+  xy: 280, 202
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+diguang02
+  rotate: true
+  xy: 2, 2
+  size: 263, 276
+  orig: 263, 276
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: true
+  xy: 280, 222
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,44" designImage="ui://fo2460rqhprm1" designImageOffsetX="-85" designImageOffsetY="-728">
+  <displayList>
+    <text id="n0_hprm" name="Name" xy="173,0" pivot="1,0.5" size="132,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#54301e" align="right" vAlign="middle" singleLine="true" text="攻击力："/>
+    <text id="n1_hprm" name="Attr1" xy="311,0" pivot="0,0.5" size="66,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#54301e" vAlign="middle" text="999"/>
+    <text id="n2_hprm" name="Attr2" xy="402,0" pivot="0,0.5" size="87,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#45973a" vAlign="middle" text="+999">
+      <relation target="n1_hprm" sidePair="left-right"/>
+    </text>
+  </displayList>
+</component>

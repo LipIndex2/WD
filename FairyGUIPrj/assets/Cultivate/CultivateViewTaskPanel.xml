@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://db9woelguzf28" designImageLayer="1">
+  <controller name="TabState" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <list id="n10_uzf2" name="ShowList" xy="57,620" size="686,785" overflow="scroll" lineGap="10" defaultItem="ui://db9woelguzf2b" autoClearItems="true">
+      <gearDisplay controller="TabState" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n11_uzf2" name="n11" src="uzf2j" fileName="image/DaoJuDi2.png" xy="645,494"/>
+    <image id="n17_uzf2" name="n17" src="uzf2k" fileName="image/DaoJuDi3.png" xy="534,494"/>
+    <image id="n18_uzf2" name="n18" src="uzf2o" fileName="image/JinChanZi.png" xy="555,506"/>
+    <image id="n12_uzf2" name="n12" src="uzf217" fileName="image/YinChanZi.png" xy="664,507"/>
+    <text id="n19_uzf2" name="ItemNum1" xy="571,578" pivot="0.5,0.5" size="33,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="99"/>
+    <text id="n13_uzf2" name="ItemNum2" xy="680,578" pivot="0.5,0.5" size="33,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="99"/>
+    <text id="n20_9y97" name="Desc" xy="56,527" size="463,62" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="完成任务时可以获得银铲子和金铲子，参与抽奖和兑换，活动结束时会被回收，请及时使用"/>
+  </displayList>
+</component>

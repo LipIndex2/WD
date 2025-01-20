@@ -1,0 +1,132 @@
+
+effect_stone01.png
+size: 441,286
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+stone1
+  rotate: true
+  xy: 2, 166
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+stone10
+  rotate: true
+  xy: 190, 166
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+stone11
+  rotate: true
+  xy: 362, 129
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+stone12
+  rotate: true
+  xy: 250, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+stone13
+  rotate: true
+  xy: 190, 46
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+stone14
+  rotate: true
+  xy: 362, 50
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+stone15
+  rotate: true
+  xy: 312, 5
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+stone16
+  rotate: true
+  xy: 2, 46
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+stone17
+  rotate: true
+  xy: 284, 128
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+stone18
+  rotate: true
+  xy: 64, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+stone2
+  rotate: true
+  xy: 284, 207
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+stone3
+  rotate: true
+  xy: 2, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+stone4
+  rotate: true
+  xy: 96, 166
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+stone5
+  rotate: true
+  xy: 284, 49
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+stone6
+  rotate: true
+  xy: 126, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+stone7
+  rotate: true
+  xy: 96, 46
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+stone8
+  rotate: false
+  xy: 362, 208
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+stone9
+  rotate: true
+  xy: 188, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1

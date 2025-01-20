@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="372,124" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_x4zb" name="n0" src="g5lw3p" fileName="image/KaiShiAnNiu.png" xy="0,0">
+      <relation target="" sidePair=""/>
+    </image>
+    <text id="n1_x4zb" name="title" xy="186,62" pivot="0.5,0.5" anchor="true" size="10,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" leading="4" strokeColor="#491914" strokeSize="3" singleLine="true" text=""/>
+  </displayList>
+  <Button sound="" downEffect="scale" downEffectValue=".9"/>
+</component>

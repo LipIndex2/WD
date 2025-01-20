@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="63886957">
+  <resources>
+    <component id="1193z0" name="DrawCardChanceView.xml" path="/" exported="true"/>
+    <image id="1193z1" name="5.jpg" path="/"/>
+    <component id="vqecz2" name="HeroCell.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

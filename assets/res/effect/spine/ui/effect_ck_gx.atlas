@@ -1,0 +1,20 @@
+
+effect_ck_gx.png
+size: 242,617
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+glow
+  rotate: false
+  xy: 2, 283
+  size: 238, 332
+  orig: 238, 332
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 2, 2
+  size: 206, 279
+  orig: 206, 279
+  offset: 0, 0
+  index: -1

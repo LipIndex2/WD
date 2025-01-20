@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n24_lwoh" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="36,343"/>
+    <loader id="n19_k9x2" name="Icon" xy="65,357" pivot="0.5,0.5" size="669,395" group="n13_tm53" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n20_k9x2" name="n20" src="k9x2j" fileName="image/XinShouLiBaoHengFu.png" xy="17,284" group="n13_tm53"/>
+    <image id="n1_tm53" name="n1" src="k9x2c" fileName="image/TeJiaDi.png" xy="628,395" group="n13_tm53"/>
+    <image id="n4_tm53" name="n4" src="k9x2f" fileName="image/ShiJianDi.png" xy="190,672" size="443,54" group="n13_tm53"/>
+    <image id="n3_tm53" name="n3" src="k9x2e" fileName="image/ShiJianicon.png" xy="174,670" group="n13_tm53"/>
+    <text id="n14_tm53" name="n14" xy="310,295" pivot="0.5,0.5" size="180,59" group="n13_tm53" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="新手礼包"/>
+    <text id="n23_lwoh" name="n23" xy="366,678" pivot="0.5,0.5" size="94,42" group="n13_tm53" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#c4fd24" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="无期限"/>
+    <group id="n13_tm53" name="n13" xy="17,284" size="766,468"/>
+    <text id="n6_tm53" name="DiscountShow" xy="664,393" size="116,52" rotation="30" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="800%"/>
+    <component id="n18_erzm" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="263,678" size="298,42" visible="false" touchable="false">
+      <Label titleColor="#c4fd24" titleFontSize="30"/>
+    </component>
+    <list id="n11_tm53" name="List" xy="104,791" size="602,259" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://fb3aorqhk9x2a">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_tm53" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="250,1091">
+      <Button title="¥45"/>
+    </component>
+  </displayList>
+</component>

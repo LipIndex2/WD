@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="czbmy05r">
+  <resources>
+    <component id="fr820" name="MainLevelInfoView.xml" path="/" exported="true"/>
+    <image id="fr823" name="标注主线3.png" path="/"/>
+    <component id="fr824" name="MainLevelBossPanel.xml" path="/" exported="true"/>
+    <component id="fr825" name="MainLevelPlayerPanel.xml" path="/" exported="true"/>
+    <image id="fr827" name="DanChuangHengFu.png" path="/image/"/>
+    <component id="fr828" name="BossInfoItem.xml" path="/components/" exported="true"/>
+    <image id="fr82a" name="YouJianKuang.png" path="/image/" scale="9grid" scale9grid="156,29,312,58"/>
+    <image id="fr82b" name="DiTu.png" path="/image/" scale="9grid" scale9grid="10,10,10,16"/>
+    <component id="fr82c" name="AttributeIcon.xml" path="/components/" exported="true"/>
+    <component id="fr82e" name="PlayerItem.xml" path="/components/" exported="true"/>
+    <component id="fr82f" name="BtnClearanceTeam.xml" path="/components/"/>
+    <image id="fr82g" name="主线2.png" path="/"/>
+    <image id="srmrh" name="主线关卡信息暂无数据.png" path="/"/>
+    <component id="mgkhi" name="MainPlayerInfoView.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

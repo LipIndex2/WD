@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://isy0qso0tlp51">
+  <displayList>
+    <loader id="n0_tlp5" name="bg1" xy="35,478" size="730,742" url="ui://isy0qso0tlp52"/>
+    <image id="n1_tlp5" name="bg2" src="tlp53" fileName="image/Zu173.png" xy="120,121"/>
+    <image id="n6_tlp5" name="bg3" src="tlp54" fileName="image/HengFu.png" xy="15,432"/>
+    <text id="n2_tlp5" name="title" xy="270,477" size="260,84" font="ui://wqx8l8xqut2h1b" fontSize="64" color="#ffffff" strokeColor="#491914" strokeSize="5" text="添加桌面"/>
+    <text id="n4_tlp5" name="tips" xy="220,612" pivot="0.5,0.5" size="368,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="首次添加桌面，立即获得好礼"/>
+    <component id="n3_tlp5" name="BtnShow" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1047">
+      <Button title="添加桌面"/>
+    </component>
+    <component id="n7_tlp5" name="BtnClose" src="tlp56" fileName="components/ButtonClose.xml" xy="359,1306">
+      <relation target="" sidePair="topext-top"/>
+    </component>
+    <list id="n5_tlp5" name="ShowList" xy="122,696" size="555,250" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://isy0qso0tlp55" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

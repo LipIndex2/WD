@@ -1,0 +1,69 @@
+
+11046.png
+size: 555,210
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dun1
+  rotate: false
+  xy: 153, 25
+  size: 124, 185
+  orig: 124, 185
+  offset: 0, 0
+  index: -1
+dun2
+  rotate: false
+  xy: 278, 25
+  size: 124, 185
+  orig: 124, 185
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 96, 13
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 403, 77
+  size: 152, 133
+  orig: 152, 133
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 403, 6
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 464, 7
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 38
+  size: 172, 152
+  orig: 172, 152
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 0, 0
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 48, 0
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1

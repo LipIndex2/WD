@@ -1,0 +1,27 @@
+
+wuqi02.png
+size: 310,89
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu7
+  rotate: true
+  xy: 238, 12
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+tu8
+  rotate: false
+  xy: 123, 2
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+tu9
+  rotate: false
+  xy: 2, 2
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1

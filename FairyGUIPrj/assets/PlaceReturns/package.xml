@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="03tr3h0s">
+  <resources>
+    <component id="ln420" name="PlaceReturnsView.xml" path="/" exported="true"/>
+    <image id="ln421" name="XiaoShiKuang.png" path="/image/"/>
+    <image id="ln423" name="挂机收益1参数.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

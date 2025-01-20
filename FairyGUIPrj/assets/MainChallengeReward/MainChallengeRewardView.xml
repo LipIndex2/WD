@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://wrv3wl6ona5xd" designImageOffsetX="-310" designImageOffsetY="-586">
+  <displayList>
+    <loader id="n20_f0g0" name="BtnClose" xy="0,0" size="800,1600"/>
+    <image id="n3_wodn" name="bg_reward" src="na5xb" fileName="image/XiaoQiPao.png" xy="0,0" size="240,150" group="n10_wodn"/>
+    <image id="n18_na5x" name="bg_t" src="na5x9" fileName="image/QiPaoDingBu.png" xy="12,-45" size="216,48" group="n10_wodn"/>
+    <text id="n19_na5x" name="TitleShow" xy="45,-38" pivot="0.5,0.5" size="148,34" group="n10_wodn" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="通关每日挑战"/>
+    <component id="n16_8qer" name="RewardShow1" src="na5xe" fileName="components/ItemReward.xml" xy="17,19" group="n10_wodn"/>
+    <component id="n17_8qer" name="RewardShow2" src="na5xe" fileName="components/ItemReward.xml" xy="124,19" group="n10_wodn"/>
+    <group id="n10_wodn" name="GpReward" xy="0,-45" size="240,195" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d9493qbd">
+  <resources>
+    <component id="g7l60" name="FishBaitView.xml" path="/" exported="true"/>
+    <image id="g7l61" name="更换鱼饵SPE.jpg" path="/"/>
+    <component id="g7l62" name="ShowButton.xml" path="/components/" exported="true"/>
+    <image id="vbxh3" name="XuanZhongGuang.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

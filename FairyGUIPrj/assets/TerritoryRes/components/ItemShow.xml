@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="293,247" opaque="false">
+  <controller name="StateShow" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <image id="n19_p08g" name="bg" src="p08gm" fileName="image/muxiang.png" xy="102,76"/>
+    <image id="n0_q0ab" name="cart2" src="s8hph" fileName="image/Che-BeiMian.png" xy="96,21" group="n8_q0ab"/>
+    <image id="n6_q0ab" name="ArrowShow2" src="s8hpi" fileName="image/Zu60.png" xy="250,36" pivot="0.5,0.5" group="n8_q0ab" scale="-1,-1" visible="false"/>
+    <image id="n17_eufw" name="bg_n2" src="eufwl" fileName="image/XiaoShuZiYuan.png" xy="196,133" group="n8_q0ab"/>
+    <text id="n18_eufw" name="NumShow2" xy="206,133" pivot="0.5,0.5" size="20,35" group="n8_q0ab" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="4"/>
+    <component id="n4_q0ab" name="HeadShow2" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="113,60" pivot="0.5,0.5" group="n8_q0ab" scale="0.3,0.3" visible="false"/>
+    <group id="n8_q0ab" name="GpShow2" xy="96,21" size="200,219" visible="false" advanced="true"/>
+    <image id="n1_q0ab" name="cart1" src="s8hpj" fileName="image/Che-ZhengMian.png" xy="6,20" group="n7_q0ab"/>
+    <image id="n5_q0ab" name="ArrowShow1" src="s8hpi" fileName="image/Zu60.png" xy="-10,162" pivot="0.5,0.5" group="n7_q0ab" visible="false"/>
+    <image id="n13_eufw" name="bg_n1" src="eufwl" fileName="image/XiaoShuZiYuan.png" xy="77,129" group="n7_q0ab"/>
+    <text id="n14_eufw" name="NumShow1" xy="87,129" pivot="0.5,0.5" size="20,35" group="n7_q0ab" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="4"/>
+    <component id="n3_q0ab" name="HeadShow1" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="5,57" pivot="0.5,0.5" group="n7_q0ab" scale="0.3,0.3" visible="false"/>
+    <group id="n7_q0ab" name="GpShow1" xy="-10,20" size="216,217" visible="false" advanced="true"/>
+    <text id="n11_etz2" name="TimeShow" xy="144,49" pivot="0.5,0.5" size="10,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <component id="n12_etz2" name="BtnRes" src="s8hpk" fileName="components/ButtonRes.xml" xy="118,74" touchable="false"/>
+  </displayList>
+</component>

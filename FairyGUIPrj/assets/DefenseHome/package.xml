@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lqre3h3f">
+  <resources>
+    <component id="e20v0" name="DefenseHomeView.xml" path="/" exported="true"/>
+    <image id="e20v1" name="活动关卡界面弹窗.jpg" path="/"/>
+    <image id="e20v2" name="ZiBiaoTi.png" path="/image/"/>
+    <image id="e20v3" name="ShiJianTuBiao.png" path="/image/"/>
+    <image id="e20v4" name="ShiJianDi.png" path="/image/"/>
+    <image id="e20v5" name="RiLi TuBiao.png" path="/image/"/>
+    <image id="e20v6" name="BaoXiang.png" path="/image/" exported="true"/>
+    <image id="e20v7" name="BaoXiangKai.png" path="/image/" exported="true"/>
+    <image id="e20v8" name="JuXing 27 KaoBei.png" path="/image/"/>
+    <image id="e20v9" name="ZhanLingTuBiao.png" path="/image/"/>
+    <image id="e20va" name="ZhanLingTuBiaoDi.png" path="/image/"/>
+    <image id="e20vb" name="Xian.png" path="/image/"/>
+    <component id="e20vc" name="ActBtn.xml" path="/components/"/>
+    <image id="e20vd" name="DanChuangYuanHua.png" path="/image/"/>
+    <image id="e20ve" name="ZhongJianJinDuTiao1.png" path="/image/" scale="9grid" scale9grid="96,0,192,32"/>
+    <image id="e20vf" name="ZhongJianJinDuTiao2.png" path="/image/" scale="9grid" scale9grid="98,0,196,40"/>
+    <component id="e20vg" name="ProgressBar1.xml" path="/components/"/>
+    <image id="e20vh" name="TuBiaoZhangJiePaiHang.png" path="/image/"/>
+    <component id="e20vi" name="BoxInfo.xml" path="/components/" exported="true"/>
+    <image id="e20vj" name="RiLiKuang.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

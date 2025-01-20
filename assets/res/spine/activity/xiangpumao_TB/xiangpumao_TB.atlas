@@ -1,0 +1,90 @@
+
+xiangpumao_TB.png
+size: 91,253
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+erduo
+  rotate: false
+  xy: 59, 125
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 49, 27
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: false
+  xy: 47, 3
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+hudiejie2
+  rotate: false
+  xy: 75, 233
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+hudiejie3
+  rotate: false
+  xy: 75, 217
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+hudiejie4
+  rotate: true
+  xy: 70, 1
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 47
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 0, 185
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: true
+  xy: 59, 153
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: false
+  xy: 0, 0
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 0, 119
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 49, 50
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1

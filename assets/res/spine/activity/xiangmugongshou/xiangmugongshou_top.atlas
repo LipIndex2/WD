@@ -1,0 +1,237 @@
+
+xiangmugongshou_top.png
+size: 2033,939
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+XM_ershi1
+  rotate: true
+  xy: 1750, 160
+  size: 93, 158
+  orig: 93, 158
+  offset: 0, 0
+  index: -1
+XM_ershi2
+  rotate: false
+  xy: 1551, 2
+  size: 156, 100
+  orig: 156, 100
+  offset: 0, 0
+  index: -1
+XM_jian1
+  rotate: false
+  xy: 1227, 388
+  size: 276, 362
+  orig: 276, 362
+  offset: 0, 0
+  index: -1
+XM_jian2
+  rotate: true
+  xy: 801, 205
+  size: 137, 442
+  orig: 137, 442
+  offset: 0, 0
+  index: -1
+XM_jiao1
+  rotate: false
+  xy: 565, 69
+  size: 199, 252
+  orig: 199, 252
+  offset: 0, 0
+  index: -1
+XM_jiao2
+  rotate: false
+  xy: 1836, 394
+  size: 150, 279
+  orig: 150, 279
+  offset: 0, 0
+  index: -1
+XM_meimao
+  rotate: false
+  xy: 290, 16
+  size: 244, 93
+  orig: 244, 93
+  offset: 0, 0
+  index: -1
+XM_pifeng1
+  rotate: false
+  xy: 1504, 394
+  size: 331, 279
+  orig: 331, 279
+  offset: 0, 0
+  index: -1
+XM_pifeng2
+  rotate: false
+  xy: 765, 0
+  size: 202, 204
+  orig: 202, 204
+  offset: 0, 0
+  index: -1
+XM_qun
+  rotate: false
+  xy: 0, 110
+  size: 564, 211
+  orig: 564, 211
+  offset: 0, 0
+  index: -1
+XM_shenti1
+  rotate: false
+  xy: 801, 343
+  size: 425, 407
+  orig: 425, 407
+  offset: 0, 0
+  index: -1
+XM_shenti2
+  rotate: false
+  xy: 1604, 674
+  size: 362, 265
+  orig: 362, 265
+  offset: 0, 0
+  index: -1
+XM_shipin1
+  rotate: true
+  xy: 1307, 15
+  size: 65, 120
+  orig: 65, 120
+  offset: 0, 0
+  index: -1
+XM_shipin2
+  rotate: true
+  xy: 535, 0
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+XM_shipin3
+  rotate: false
+  xy: 1967, 836
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+XM_toushen1
+  rotate: false
+  xy: 1909, 116
+  size: 124, 137
+  orig: 124, 137
+  offset: 0, 0
+  index: -1
+XM_toushen2
+  rotate: false
+  xy: 968, 9
+  size: 338, 195
+  orig: 338, 195
+  offset: 0, 0
+  index: -1
+XM_yan
+  rotate: false
+  xy: 1551, 103
+  size: 159, 114
+  orig: 159, 114
+  offset: 0, 0
+  index: -1
+XM_yumao1
+  rotate: true
+  xy: 1750, 254
+  size: 139, 280
+  orig: 139, 280
+  offset: 0, 0
+  index: -1
+XM_yumao2
+  rotate: false
+  xy: 1504, 218
+  size: 245, 175
+  orig: 245, 175
+  offset: 0, 0
+  index: -1
+XM_yumao3
+  rotate: true
+  xy: 0, 0
+  size: 109, 289
+  orig: 109, 289
+  offset: 0, 0
+  index: -1
+beijing_top1
+  rotate: false
+  xy: 0, 322
+  size: 800, 271
+  orig: 800, 271
+  offset: 0, 0
+  index: -1
+beijing_top2
+  rotate: false
+  xy: 0, 594
+  size: 800, 345
+  orig: 800, 345
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: false
+  xy: 1504, 677
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: true
+  xy: 1428, 44
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1
+jian3
+  rotate: false
+  xy: 1967, 754
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+jian4
+  rotate: false
+  xy: 618, 18
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+jiangshi1
+  rotate: true
+  xy: 1307, 81
+  size: 130, 243
+  orig: 130, 243
+  offset: 0, 0
+  index: -1
+jiangshi1_1
+  rotate: false
+  xy: 1711, 65
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+jiangshi1_2
+  rotate: false
+  xy: 1708, 0
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+jiangshi2
+  rotate: true
+  xy: 1244, 212
+  size: 175, 259
+  orig: 175, 259
+  offset: 0, 0
+  index: -1
+jiangshi2_1
+  rotate: true
+  xy: 1828, 25
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 801, 751
+  size: 802, 188
+  orig: 802, 188
+  offset: 0, 0
+  index: -1

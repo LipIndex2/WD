@@ -1,0 +1,146 @@
+
+mowangzhanling.png
+size: 499,1038
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+E_daoguang1
+  rotate: false
+  xy: 0, 43
+  size: 124, 192
+  orig: 124, 192
+  offset: 0, 0
+  index: -1
+E_daoguang2
+  rotate: false
+  xy: 125, 44
+  size: 123, 191
+  orig: 123, 191
+  offset: 0, 0
+  index: -1
+E_jiao1
+  rotate: true
+  xy: 458, 670
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+E_jiao1ex
+  rotate: false
+  xy: 0, 0
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+E_jiao2
+  rotate: true
+  xy: 458, 720
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+E_jiao2ex
+  rotate: false
+  xy: 80, 0
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+E_shenti
+  rotate: false
+  xy: 397, 438
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+E_shou1
+  rotate: false
+  xy: 397, 261
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+E_shou2
+  rotate: false
+  xy: 397, 148
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+E_toukui
+  rotate: false
+  xy: 314, 852
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+E_toukui2
+  rotate: false
+  xy: 314, 769
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+E_yaodai
+  rotate: false
+  xy: 397, 374
+  size: 101, 63
+  orig: 101, 63
+  offset: 0, 0
+  index: -1
+E_zhu1
+  rotate: false
+  xy: 249, 182
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+E_zhu2
+  rotate: false
+  xy: 249, 128
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+E_zhu3
+  rotate: false
+  xy: 397, 74
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+E_zhu4
+  rotate: false
+  xy: 397, 0
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+E_zhu5
+  rotate: true
+  xy: 314, 670
+  size: 98, 143
+  orig: 98, 143
+  offset: 0, 0
+  index: -1
+E_zhu6
+  rotate: true
+  xy: 314, 571
+  size: 98, 143
+  orig: 98, 143
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: true
+  xy: 0, 236
+  size: 802, 313
+  orig: 802, 313
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 314, 0
+  size: 570, 82
+  orig: 570, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+mianguanggao.png
+size: 928,593
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+gang
+  rotate: true
+  xy: 883, 319
+  size: 195, 35
+  orig: 195, 35
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 0, 0
+  size: 612, 593
+  orig: 612, 593
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 613, 347
+  size: 240, 246
+  orig: 240, 246
+  offset: 0, 0
+  index: -1
+tubiao
+  rotate: false
+  xy: 699, 172
+  size: 183, 174
+  orig: 183, 174
+  offset: 0, 0
+  index: -1
+xing
+  rotate: true
+  xy: 854, 515
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+zuan1
+  rotate: true
+  xy: 809, 1
+  size: 170, 83
+  orig: 170, 83
+  offset: 0, 0
+  index: -1
+zuan2
+  rotate: true
+  xy: 613, 150
+  size: 196, 85
+  orig: 196, 85
+  offset: 0, 0
+  index: -1
+zuan3
+  rotate: false
+  xy: 613, 1
+  size: 195, 148
+  orig: 195, 148
+  offset: 0, 0
+  index: -1

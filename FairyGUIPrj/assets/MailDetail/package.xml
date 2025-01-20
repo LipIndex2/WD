@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5c9jx0gi">
+  <resources>
+    <component id="l09g0" name="MailDetailView.xml" path="/" exported="true"/>
+    <image id="l09g1" name="邮件详情参数.png" path="/"/>
+    <image id="l09g3" name="XiangQingDi.png" path="/image/"/>
+    <component id="ffnu4" name="ButtonAd.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

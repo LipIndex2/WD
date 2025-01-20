@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0dgaz20z">
+  <resources>
+    <component id="htrt0" name="FishSettingView.xml" path="/" exported="true"/>
+    <image id="htrt1" name="钓鱼托管spe.jpg" path="/"/>
+    <component id="htrt2" name="ItemShow.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

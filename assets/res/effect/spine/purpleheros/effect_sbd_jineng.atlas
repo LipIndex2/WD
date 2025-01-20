@@ -1,0 +1,55 @@
+
+effect_sbd_jineng.png
+size: 220,489
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+1/put_0
+  rotate: false
+  xy: 2, 232
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+1/put_1
+  rotate: false
+  xy: 111, 232
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+1/put_2
+  rotate: false
+  xy: 2, 117
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+1/put_3
+  rotate: false
+  xy: 111, 117
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+1/put_4
+  rotate: false
+  xy: 2, 2
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+1/put_5
+  rotate: false
+  xy: 111, 2
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+8_zhuzi1
+  rotate: false
+  xy: 2, 347
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

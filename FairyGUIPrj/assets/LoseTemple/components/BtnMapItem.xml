@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,156" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n1_lgme" name="icon" xy="0,0" size="150,156" align="center" vAlign="middle" autoSize="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

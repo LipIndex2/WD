@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,190" designImageOffsetY="-993" designImageLayer="1">
+  <displayList>
+    <image id="n21_k9x2" name="n21" src="xaqq8" fileName="image/KaFeiSeFenGeXian.png" xy="524,0" size="8,190" group="n11_sltb"/>
+    <image id="n7_sltb" name="n7" src="xaqq3" fileName="image/LvSeDengJiXian.png" xy="232,0" size="24,190" group="n11_sltb"/>
+    <image id="n0_sltb" name="n0" src="xaqq6" fileName="image/LanSeBanKuai.png" xy="0,0" group="n11_sltb"/>
+    <image id="n3_sltb" name="n3" src="xaqqg" fileName="image/HongSeBanKuai.png" xy="256,0" group="n11_sltb"/>
+    <image id="n5_sltb" name="n5" src="xaqqe" fileName="image/HuangSeBanKuai.png" xy="532,0" group="n11_sltb"/>
+    <group id="n11_sltb" name="n11" xy="0,0" size="800,190" advanced="true"/>
+    <image id="n15_hf7r" name="n15" src="xaqqd" fileName="image/HuiLanBanKuai.png" xy="0,0" size="800,190" group="n20_hf7r"/>
+    <image id="n16_hf7r" name="n16" src="xaqq5" fileName="image/LanSeFenGeXianCu.png" xy="232,0" size="24,190" group="n20_hf7r"/>
+    <image id="n18_hf7r" name="n18" src="xaqq4" fileName="image/LanSeFenGeXianXi.png" xy="524,0" size="8,190" group="n20_hf7r"/>
+    <group id="n20_hf7r" name="BgMask" xy="0,0" size="800,190" advanced="true"/>
+    <image id="n6_sltb" name="NumBg" src="xaqqk" fileName="image/ShuZiYuan.png" xy="215,67" group="n14_e4fl"/>
+    <component id="n8_sltb" name="PrizeItem1" src="sltbp" fileName="components/GrowItem.xml" xy="58,39" group="n14_e4fl"/>
+    <component id="n9_sltb" name="PrizeItem2" src="sltbp" fileName="components/GrowItem.xml" xy="333,40" group="n14_e4fl"/>
+    <component id="n10_sltb" name="PrizeItem3" src="sltbp" fileName="components/GrowItem.xml" xy="608,40" group="n14_e4fl"/>
+    <text id="n13_sltb" name="Level" xy="235,77" pivot="0.5,0.5" size="22,38" group="n14_e4fl" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="7"/>
+    <group id="n14_e4fl" name="ItemShow" xy="58,39" size="668,119" advanced="true"/>
+    <image id="n23_cr2x" name="LevelScheduleImg" src="cr2x18" fileName="image/ZiSeFenGeXian.png" xy="0,187" size="800,34" visible="false"/>
+  </displayList>
+</component>

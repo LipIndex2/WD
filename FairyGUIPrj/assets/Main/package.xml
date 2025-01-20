@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dvcfzaq1">
+  <resources>
+    <component id="v00159" name="MainView.xml" path="/" exported="true"/>
+    <image id="tiuj5l" name="TuBiaoQiZhiDi.png" path="/image/act/"/>
+    <component id="tiuj5m" name="ItemActR.xml" path="/components/" exported="true"/>
+    <image id="tiuj5v" name="QiPao.png" path="/image/act/"/>
+    <component id="tiuj5x" name="ItemActL.xml" path="/components/" exported="true"/>
+    <image id="tiuj5z" name="LanAnNiuYou.png" path="/image/start/"/>
+    <component id="tiuj61" name="ButtonStartYellow.xml" path="/components/"/>
+    <image id="tiuj67" name="GuangGaoTiao.png" path="/image/start/" scale="9grid" scale9grid="46,12,92,24"/>
+    <image id="tiuj6a" name="LvJianTou.png" path="/image/start/"/>
+    <component id="tiuj6b" name="ButtonAd.xml" path="/components/"/>
+    <component id="tiuj6c" name="ButtonStartBlueR.xml" path="/components/" exported="true"/>
+    <image id="tiuj6d" name="HuoDongGuanKa.png" path="/image/start/"/>
+    <image id="tiuj6e" name="MeiRiTaoZhan.png" path="/image/start/"/>
+    <component id="tiuj6f" name="ButtonStartBlueL.xml" path="/components/" exported="true"/>
+    <image id="gd6t6g" name="ZhuXianZhangJieTuBiao.png" path="/image/start/"/>
+    <component id="k23u6i" name="ItemNode.xml" path="/components/"/>
+    <component id="k23u6j" name="MainViewTask.xml" path="/" exported="true"/>
+    <image id="k23u6k" name="RiLi.png" path="/image/task/"/>
+    <component id="k23u6l" name="ButtonTaskReward2.xml" path="/components/task/" exported="true"/>
+    <image id="k23u6m" name="LiHe.png" path="/image/task/" exported="true"/>
+    <image id="k23u6n" name="RiLiKuang.png" path="/image/task/"/>
+    <image id="k23u6o" name="RiLiXiao.png" path="/image/task/"/>
+    <component id="k23u6p" name="ProgressTask.xml" path="/components/task/"/>
+    <image id="k23u6q" name="GuanKaJinDu1.png" path="/image/task/"/>
+    <image id="k23u6r" name="GuanKaJinDu2.png" path="/image/task/" scale="9grid" scale9grid="96,12,192,20"/>
+    <image id="k23u6t" name="ShouJiJiangLiAnNiu.png" path="/image/task/"/>
+    <component id="k23u6u" name="ButtonTaskReward1.xml" path="/components/task/"/>
+    <component id="k23u6v" name="ButtonTask.xml" path="/components/"/>
+    <image id="k23u6w" name="RenWuTuBiaoDi.png" path="/image/"/>
+    <image id="k23u6x" name="RenWuTuBiao.png" path="/image/"/>
+    <image id="k23u6y" name="KuoZhanTuBiao.png" path="/image/" scale="9grid" scale9grid="35,1,26,43"/>
+    <component id="k23u6z" name="ButtonOther.xml" path="/components/"/>
+    <component id="k23u72" name="MainViewChallenge.xml" path="/" exported="true"/>
+    <image id="k23u73" name="ShiJianXiaoTiao.png" path="/image/challenge/"/>
+    <image id="k23u74" name="ShiZhongTuBiao.png" path="/image/challenge/"/>
+    <image id="k23u75" name="BOSSBeiJing.png" path="/image/challenge/"/>
+    <image id="k23u76" name="BaiSeBan.png" path="/image/challenge/"/>
+    <image id="k23u77" name="LvSeBan.png" path="/image/challenge/"/>
+    <image id="k23u78" name="QianZiHengTiao.png" path="/image/challenge/"/>
+    <image id="k23u79" name="LvXiaoKuang.png" path="/image/challenge/"/>
+    <image id="k23u7a" name="HongXiaoKuang.png" path="/image/challenge/"/>
+    <image id="k23u7b" name="BianFuTuBiao.png" path="/image/challenge/"/>
+    <image id="k23u7c" name="DianDian.png" path="/image/challenge/"/>
+    <image id="k23u7e" name="JuanZhou.png" path="/image/challenge/"/>
+    <component id="k23u7f" name="ButtonChallengeTips.xml" path="/components/challenge/"/>
+    <image id="k23u7g" name="GanTanHao.png" path="/image/challenge/"/>
+    <image id="k23u7h" name="QiPaoDa.png" path="/image/challenge/"/>
+    <image id="kpal7n" name="GuanKaJianTou.png" path="/image/task/"/>
+    <component id="kpal7o" name="ButtonTaskArrow.xml" path="/components/task/"/>
+    <image id="jsyh7u" name="LiHeKai.png" path="/image/task/" exported="true"/>
+    <component id="sb2j7v" name="ItemChallengeAttr.xml" path="/components/" exported="true"/>
+    <image id="t6zv7w" name="BiaoTiXian.png" path="/image/challenge/"/>
+    <image id="8qer80" name="WeiJieSuoZheZhao.png" path="/image/start/"/>
+    <image id="kyoo89" name="ZhuJieMianXinJiaZhanKaiAnNiu.png" path="/image/act/"/>
+    <component id="kyoo8a" name="ButtonActL.xml" path="/components/"/>
+    <component id="x69o8b" name="parent.xml" path="/components/"/>
+    <image id="sxtd8e" name="ZhuJieMianXinDiTiao1.png" path="/image/task/"/>
+    <image id="sxtd8f" name="ZhuJieMianXinDiTiao2.png" path="/image/task/"/>
+    <component id="e0y58h" name="ActRed.xml" path="/components/"/>
+    <component id="e0y58i" name="ButtonActR.xml" path="/components/"/>
+    <component id="na5x8j" name="ItemAd.xml" path="/components/"/>
+    <image id="na5x8k" name="XiaoQiPao2.png" path="/image/"/>
+    <image id="fr828n" name="RuKou.png" path="/image/task/"/>
+    <component id="fr828o" name="BtnLevelInfo.xml" path="/components/task/"/>
+    <image id="fr828s" name="ZhuJieMianXinXiDi.png" path="/image/" scale="9grid" scale9grid="18,19,14,16"/>
+    <component id="fr828t" name="ButtonRoleInfo.xml" path="/components/"/>
+    <image id="fr828u" name="主界面显示.png" path="/"/>
+    <image id="l4mh8y" name="KaiShiAnNiu.png" path="/image/start/"/>
+    <image id="l4mh90" name="XiaoTiLi.png" path="/image/start/"/>
+    <component id="l4mh91" name="ItemHero.xml" path="/components/hero/" exported="true"/>
+    <image id="l4mh92" name="MainHero12.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="40,130,12,6"/>
+    <image id="l4mh94" name="JinDuDi1.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="l4mh95" name="JinDuDi2.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="l4mh96" name="JinDuDi3.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="l4mh97" name="JinDuTiao.png" path="/image/hero/" scale="9grid" scale9grid="11,7,22,14"/>
+    <component id="l4mh98" name="ProgressHero.xml" path="/components/hero/" exported="true"/>
+    <image id="l4mh99" name="XiaoSuiPian.png" path="/image/hero/"/>
+    <image id="l4mh9g" name="MainHero32.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="40,130,12,6"/>
+    <image id="l4mh9h" name="MainHero22.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="40,130,12,6"/>
+    <image id="pp349i" name="KaiShiAnNiu2.png" path="/image/start/"/>
+    <image id="pp349j" name="JinDuTiaoMax.png" path="/image/hero/" scale="9grid" scale9grid="11,7,22,14"/>
+    <image id="pp349m" name="MainHero11.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="40,40,12,6"/>
+    <image id="pp349n" name="MainHero21.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="40,40,12,6"/>
+    <image id="pp349o" name="MainHero31.png" path="/image/hero/" exported="true" scale="9grid" scale9grid="40,40,12,6"/>
+    <component id="m5mw9s" name="ButtonChallengeReward.xml" path="/components/challenge/"/>
+    <image id="kb459u" name="ZengYiTuBiao.png" path="/image/"/>
+    <image id="sirx9v" name="GuangGaoicon.png" path="/image/start/"/>
+    <component id="bylh9w" name="BtnChat.xml" path="/components/"/>
+    <component id="pk4i9x" name="BtnHero.xml" path="/components/" exported="true"/>
+    <image id="pk4i9y" name="YuanJiaoJuXing2.png" path="/image/" scale="9grid" scale9grid="24,25,48,8"/>
+    <image id="tiko9z" name="Game_BG.jpg" path="/image/backgrand/" exported="true"/>
+    <component id="tikoa0" name="Component1.xml" path="/"/>
+  </resources>
+  <publish name="">
+    <atlas compression="true" index="0"/>
+  </publish>
+</packageDescription>

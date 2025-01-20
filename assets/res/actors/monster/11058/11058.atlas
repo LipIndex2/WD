@@ -1,0 +1,48 @@
+
+11058.png
+size: 570,179
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beishi
+  rotate: false
+  xy: 206, 35
+  size: 222, 144
+  orig: 222, 144
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 206, 10
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 429, 0
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 471, 0
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 429, 38
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 8
+  size: 205, 171
+  orig: 205, 171
+  offset: 0, 0
+  index: -1

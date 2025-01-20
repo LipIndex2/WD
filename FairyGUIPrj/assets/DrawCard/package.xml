@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6734rus6">
+  <resources>
+    <component id="qzyf0" name="DrawCardView.xml" path="/" exported="true"/>
+    <image id="qzyf1" name="1.jpg" path="/"/>
+    <image id="qzyf3" name="7.jpg" path="/"/>
+    <image id="qzyf4" name="6.jpg" path="/"/>
+    <component id="qzyf5" name="DrawCardBoard.xml" path="/"/>
+    <component id="qzyf6" name="ButtonTab.xml" path="/components/" exported="true"/>
+    <image id="qzyf8" name="QieHuanYe2.png" path="/image/"/>
+    <image id="qzyf9" name="QieHuanYe1.png" path="/image/"/>
+    <image id="qzyfa" name="LiBao.png" path="/image/" exported="true"/>
+    <image id="qzyfb" name="ChouJiang.png" path="/image/" exported="true"/>
+    <image id="qzyfc" name="RenWu.png" path="/image/" exported="true"/>
+    <component id="qzyfd" name="DrawCardViewMainPanel.xml" path="/" exported="true"/>
+    <image id="qzyfe" name="Zu 11.png" path="/image/" scale="9grid" scale9grid="109,26,58,46"/>
+    <image id="gvygf" name="GanTanHao.png" path="/image/"/>
+    <component id="gvygg" name="ButtonTips.xml" path="/components/"/>
+    <image id="gvygh" name="ChouKaZhuYeShiJianDi.png" path="/image/" scale="9grid" scale9grid="33,16,19,32"/>
+    <image id="gvygi" name="TuCeng 47.png" path="/image/"/>
+    <component id="gvygj" name="ButtonChance.xml" path="/components/"/>
+    <component id="gvygk" name="DrawUp1.xml" path="/components/"/>
+    <component id="gvygp" name="DrawUp2.xml" path="/components/"/>
+    <component id="gvygq" name="DrawCardViewTaskPanel.xml" path="/" exported="true"/>
+    <image id="gvygr" name="_LocZu 340.png" path="/image/"/>
+    <image id="gvygs" name="Zu 409.png" path="/image/"/>
+    <image id="gvygt" name="Zu 397.png" path="/image/" scale="9grid" scale9grid="10,19,14,16"/>
+    <image id="gvygu" name="Zu 407.png" path="/image/"/>
+    <component id="gvygv" name="TaskCell.xml" path="/components/" exported="true"/>
+    <image id="gvygw" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="21,9,42,18"/>
+    <image id="gvygx" name="JinDuTiao.png" path="/image/" scale="9grid" scale9grid="20,7,40,14"/>
+    <component id="gvygy" name="ProgressBar.xml" path="/components/"/>
+    <component id="k3wlz" name="DrawCardViewGiftPanel.xml" path="/" exported="true"/>
+    <image id="k3wl10" name="_LocZu 398.png" path="/image/"/>
+    <component id="k3wl11" name="GiftCell.xml" path="/components/" exported="true"/>
+    <image id="ead912" name="Zu 399.png" path="/image/"/>
+    <component id="ead913" name="BtnTaskTab.xml" path="/components/"/>
+    <image id="vqec14" name="YiLingQuMengCeng2.png" path="/image/"/>
+    <image id="vqec15" name="DuiGouicon.png" path="/image/"/>
+    <image id="s13y16" name="Zu 404.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

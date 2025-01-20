@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://hct4il9ur9w51" designImageLayer="1">
+  <displayList>
+    <component id="n2_r9w5" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-14,454" size="840,662"/>
+    <loader id="n11_7q3t" name="icon" xy="302,651" size="196,152" group="n10_7q3t" url="ui://hct4il9ur9w53" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n5_r9w5" name="tip" xy="138,790" size="540,98" group="n10_7q3t" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="无网络链接，请检查后重试！">
+      <relation target="n10_7q3t" sidePair="middle-middle"/>
+    </text>
+    <group id="n10_7q3t" name="n10" xy="138,651" size="540,237" advanced="true" layout="vt" lineGap="-13" excludeInvisibles="true" autoSizeDisabled="true"/>
+    <component id="n7_r9w5" name="BtnClose" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="94,895" group="n9_7q3t"/>
+    <component id="n8_r9w5" name="BtnTautology" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="411,895" group="n9_7q3t"/>
+    <group id="n9_7q3t" name="n9" xy="94,895" size="613,112" advanced="true" layout="hz" colGap="21" excludeInvisibles="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

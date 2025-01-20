@@ -1,0 +1,41 @@
+
+effect_che_cao.png
+size: 193,123
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+che1
+  rotate: true
+  xy: 2, 2
+  size: 119, 114
+  orig: 119, 114
+  offset: 0, 0
+  index: -1
+che2
+  rotate: true
+  xy: 118, 76
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+che3
+  rotate: false
+  xy: 155, 77
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+che4
+  rotate: true
+  xy: 118, 29
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+che5
+  rotate: false
+  xy: 155, 38
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1

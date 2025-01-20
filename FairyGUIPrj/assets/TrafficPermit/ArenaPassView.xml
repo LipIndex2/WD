@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://2p9t3mbka9ka26" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n39_hwhu" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5" touchable="false"/>
+    <image id="n40_hwhu" name="n40" src="qf1r17" fileName="image/YeQianDiBu.png" xy="0,0" pivot="0.5,0.5" size="800,1600" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n37_r41h" name="n37" src="r41h1u" fileName="image/TongXingZhengQuanPing2ChangJing1.png" xy="0,0" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </image>
+    <component id="n42_fg91" name="parent" src="fg9123" fileName="components/parent.xml" xy="399,350" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </component>
+    <component id="n44_wpum" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,229" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="center-center,top-top"/>
+    </component>
+    <image id="n1_qf1r" name="n1" src="qf1r13" fileName="image/ZiSeShangTiao.png" xy="0,226" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </image>
+    <image id="n3_qf1r" name="n3" src="qf1rm" fileName="image/ShiZhongShiJianTiao.png" xy="283,189" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </image>
+    <image id="n4_qf1r" name="n4" src="qf1rq" fileName="image/ShiZhongTuBiao.png" xy="323,193" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </image>
+    <image id="n15_qf1r" name="n15" src="qf1r17" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130" group="n22_hlne">
+      <relation target="n39_hwhu" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <group id="n22_hlne" name="n22" xy="0,0" size="802,1600"/>
+    <list id="n23_hlne" name="List" xy="0,356" pivot="0.5,0.5" size="800,1118" overflow="scroll" scrollBarFlags="128" lineGap="-3" defaultItem="ui://2p9t3mbkhlne1j" autoClearItems="true">
+      <relation target="n39_hwhu" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n26_hlne" name="ExpProgressBar" src="hlne1g" fileName="components/ExpProgressBar.xml" xy="68,259" group="n41_ig9o" touchable="false">
+      <ProgressBar value="229" max="300"/>
+    </component>
+    <image id="n17_qf1r" name="n17" src="qf1r18" fileName="image/MeiCengShuZiCaiSe.png" xy="285,247" group="n41_ig9o"/>
+    <text id="n31_hlne" name="NowadayLevel" xy="300,262" pivot="0.5,0.5" size="53,52" group="n41_ig9o" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="33"/>
+    <image id="n45_wpum" name="n45" src="wpum28" fileName="image/JingJiJiFen6.png" xy="30,250" group="n41_ig9o"/>
+    <group id="n41_ig9o" name="ProgressShow" xy="30,247" size="339,84" advanced="true">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </group>
+    <image id="n7_qf1r" name="n7" src="qf1rk" fileName="image/MianFeiTongXingZhengQiZhi.png" xy="0,355" group="n21_hlne"/>
+    <image id="n8_qf1r" name="n8" src="qf1rn" fileName="image/HuangJinTongXingZhengQiZhi.png" xy="400,356" group="n21_hlne"/>
+    <image id="n9_qf1r" name="n9" src="qf1ro" fileName="image/HuangJinTongXingZhengTuBiao.png" xy="446,381" group="n21_hlne"/>
+    <image id="n10_qf1r" name="n10" src="qf1rl" fileName="image/MianFeiTongXingZhengTuBiao.png" xy="50,381" group="n21_hlne"/>
+    <text id="n11_qf1r" name="n11" xy="169,389" pivot="0.5,0.5" size="184,49" group="n21_hlne" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#e5edff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="免费通行证"/>
+    <text id="n12_qf1r" name="n12" xy="568,389" pivot="0.5,0.5" size="184,49" group="n21_hlne" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#fff898" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="黄金通行证"/>
+    <group id="n21_hlne" name="n21" xy="0,355" size="800,158" advanced="true">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+    </group>
+    <component id="n38_aj74" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="352,192" size="141,34" visible="false" touchable="false">
+      <relation target="n39_hwhu" sidePair="top-top"/>
+      <Label titleFontSize="24"/>
+    </component>
+    <component id="n13_qf1r" name="BtnSkin" src="gkss1s" fileName="components/BtnSkin.xml" xy="88,1382" pivot="0.5,1">
+      <relation target="n39_hwhu" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n24_hlne" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1490">
+      <relation target="n39_hwhu" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n25_hlne" name="BtnActivate" src="hlne1b" fileName="components/BtnActivate.xml" xy="451,239">
+      <relation target="n39_hwhu" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n43_a9ka" name="BtnOneKeyGet" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="490,1480">
+      <relation target="n39_hwhu" sidePair="center-center,bottom-bottom"/>
+      <Button title="一键领取"/>
+    </component>
+  </displayList>
+</component>

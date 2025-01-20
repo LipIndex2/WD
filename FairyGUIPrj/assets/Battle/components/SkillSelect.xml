@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,500" designImage="ui://qllfrhsrlhxl63" designImageOffsetY="-994">
+  <displayList>
+    <component id="n0_r7ud" name="Skill1" src="ut2h1" fileName="components/SkillItem.xml" xy="71,75" aspect="true"/>
+    <component id="n1_r7ud" name="Skill2" src="ut2h1" fileName="components/SkillItem.xml" xy="300,75" size="200,350"/>
+    <component id="n2_r7ud" name="Skill3" src="ut2h1" fileName="components/SkillItem.xml" xy="528,76"/>
+  </displayList>
+</component>

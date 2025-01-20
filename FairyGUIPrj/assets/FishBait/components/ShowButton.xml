@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" pivot="0.5,0.5" extention="Button" designImage="ui://d9493qbdg7l61" designImageOffsetY="-422">
+  <displayList>
+    <component id="n0_g7l6" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="0,0"/>
+    <text id="n2_vbxh" name="RbTxt" xy="104,84" pivot="1,0.5" size="10,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+    <image id="n1_vbxh" name="SelShow" src="vbxh3" fileName="image/XuanZhongGuang.png" xy="-15,-15" visible="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

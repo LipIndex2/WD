@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="177,206" designImage="ui://20s92986tm537" designImageOffsetX="-125" designImageOffsetY="-744" designImageLayer="1">
+  <displayList>
+    <image id="n0_tm53" name="n0" src="m1jxe" fileName="image/TongYongHeiDi.png" xy="0,0" size="177,207"/>
+    <text id="n1_tm53" name="Num" xy="36,137" pivot="0.5,0.5" size="108,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="5000"/>
+    <image id="n7_eb1f" name="n7" src="eb1fj" fileName="components/ItemCellBg2.png" xy="28,25"/>
+    <loader id="n9_v9l3" name="Icon" xy="12,10" pivot="0.5,0.5" size="150,150" autoSize="true"/>
+  </displayList>
+</component>

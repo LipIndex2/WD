@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6639qbo6">
+  <resources>
+    <component id="vqec0" name="DrawCardEffectView.xml" path="/" exported="true"/>
+    <image id="vqec1" name="10.jpg" path="/"/>
+    <component id="vqec2" name="HeroCell.xml" path="/components/" exported="true"/>
+    <component id="vqec4" name="HeroItemShow.xml" path="/components/" exported="true"/>
+    <image id="fvdk5" name="ShuYeZiBeiJing.png" path="/image/" scale="9grid" scale9grid="12,12,24,24"/>
+    <image id="fvdk6" name="8.jpg" path="/"/>
+    <component id="fvdk7" name="Finger.xml" path="/components/" exported="true"/>
+    <image id="fvdk8" name="shouzhi.png" path="/image/"/>
+    <image id="k8hh9" name="zi.png" path="/image/" exported="true"/>
+    <image id="k8hha" name="lan.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

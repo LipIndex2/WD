@@ -1,0 +1,27 @@
+
+JJClibao_TB.png
+size: 190,81
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+libao
+  rotate: false
+  xy: 0, 0
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+piao1
+  rotate: true
+  xy: 143, 18
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+piao2
+  rotate: false
+  xy: 84, 15
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1

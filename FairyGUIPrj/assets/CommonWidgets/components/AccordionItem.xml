@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="252,66" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="leaf" pages="0,,1,,4," selected="0"/>
+  <controller name="expanded" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n0_mcbl" name="Default" xy="0,0" size="252,66" url="ui://rqg67c20gezd65" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="0,2"/>
+      <gearIcon controller="leaf" pages="0,1,4" values="ui://rqg67c20gezd65|ui://rqg67c20hje461|ui://rqg67c20hje463"/>
+      <gearDisplay2 controller="expanded" pages="0" condition="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n1_mcbl" name="Selected" xy="0,0" size="252,66" url="ui://rqg67c20mcbl4t" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="1,3"/>
+      <gearIcon controller="leaf" pages="1,4" values="ui://rqg67c20hje462|ui://rqg67c20hje464" default="ui://rqg67c20mcbl4t"/>
+      <gearDisplay2 controller="expanded" pages="1" condition="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n2_mcbl" name="ParentName" xy="0,0" size="252,66" group="n10_s2yy" font="ui://wqx8l8xqnven1" fontSize="30" color="#3b4962" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <gearDisplay controller="button" pages="0,2"/>
+      <gearDisplay2 controller="expanded" pages="0" condition="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n9_s2yy" name="ParentSelectName" xy="0,0" size="252,66" group="n10_s2yy" font="ui://wqx8l8xqnven1" fontSize="30" color="#8f4d2d" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <gearDisplay controller="button" pages="1,3"/>
+      <gearDisplay2 controller="expanded" pages="1" condition="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n10_s2yy" name="Parent" xy="0,0" size="252,66" advanced="true">
+      <gearDisplay controller="leaf" pages="0"/>
+    </group>
+    <text id="n11_s2yy" name="ChildName" xy="0,0" size="252,66" group="n12_s2yy" font="ui://wqx8l8xqnven1" fontSize="28" color="#3b4962" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <gearDisplay controller="button" pages="0,2"/>
+      <gearDisplay2 controller="expanded" pages="0" condition="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n7_mcbl" name="ChildSelectName" xy="0,0" size="252,66" group="n12_s2yy" font="ui://wqx8l8xqnven1" fontSize="28" color="#8f4d2d" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <gearDisplay controller="button" pages="1,3"/>
+      <gearDisplay2 controller="expanded" pages="1" condition="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n12_s2yy" name="Child" xy="0,0" size="252,66" advanced="true">
+      <gearDisplay controller="leaf" pages="1"/>
+    </group>
+    <text id="n13_s2yy" name="ChildChildName" xy="0,0" size="252,66" group="n14_s2yy" font="ui://wqx8l8xqnven1" fontSize="24" color="#3b4962" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <gearDisplay controller="button" pages="0,2"/>
+      <gearDisplay2 controller="expanded" pages="0" condition="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n8_xf7c" name="ChildChildSelectName" xy="0,0" size="252,66" group="n14_s2yy" font="ui://wqx8l8xqnven1" fontSize="24" color="#8f4d2d" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <gearDisplay controller="button" pages="1,3"/>
+      <gearDisplay2 controller="expanded" pages="1" condition="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n14_s2yy" name="ChildChild" xy="0,0" size="252,66" advanced="true">
+      <gearDisplay controller="leaf" pages="4"/>
+    </group>
+    <component id="n20_gezd" name="RedPoint" src="jcaj0" fileName="RedPoint.xml" xy="236,16">
+      <gearXY controller="leaf" pages="0,1,4" values="236,16|231,21|224,21"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

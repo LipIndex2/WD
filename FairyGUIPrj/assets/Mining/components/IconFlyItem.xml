@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="65,65" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <loader id="n0_mizf" name="icon" xy="0,0" size="65,65"/>
+  </displayList>
+</component>

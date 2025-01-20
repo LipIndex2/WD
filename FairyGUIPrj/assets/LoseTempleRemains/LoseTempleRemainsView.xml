@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://pechu8thyu836" designImageLayer="1">
+  <displayList>
+    <image id="n0_yu83" name="n0" src="yu835" fileName="image/DaHengFuLan.png" xy="45,169"/>
+    <text id="n1_yu83" name="n1" xy="348,81" pivot="0.5,0.5" size="104,66" font="ui://wqx8l8xqut2h1b" fontSize="50" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="遗物"/>
+    <text id="n2_yu83" name="n2" xy="308,175" pivot="0.5,0.5" size="184,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="已获得遗物"/>
+    <list id="n3_yu83" name="list" xy="42,310" size="722,1020" layout="flow_hz" overflow="scroll" lineGap="29" colGap="28" defaultItem="ui://pechu8thyu837" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_yu83" name="BtnClose" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1411">
+      <Button title="游戏继续"/>
+    </component>
+  </displayList>
+</component>

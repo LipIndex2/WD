@@ -1,0 +1,41 @@
+
+weidouyu.png
+size: 105,114
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 0, 43
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 89, 99
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yuqi1
+  rotate: true
+  xy: 89, 84
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: false
+  xy: 89, 70
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

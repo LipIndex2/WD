@@ -1,0 +1,55 @@
+
+15016.png
+size: 516,496
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chigang1
+  rotate: false
+  xy: 0, 269
+  size: 232, 227
+  orig: 232, 227
+  offset: 0, 0
+  index: -1
+chigang2
+  rotate: false
+  xy: 233, 269
+  size: 232, 227
+  orig: 232, 227
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 315, 0
+  size: 201, 124
+  orig: 201, 124
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 466, 469
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 315, 125
+  size: 143, 195
+  orig: 143, 195
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 78
+  size: 165, 190
+  orig: 165, 190
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 166, 60
+  size: 208, 148
+  orig: 208, 148
+  offset: 0, 0
+  index: -1

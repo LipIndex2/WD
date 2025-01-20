@@ -1,0 +1,13 @@
+
+effect_phb_glow.png
+size: 68,67
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian
+  rotate: false
+  xy: 2, 2
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

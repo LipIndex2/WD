@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mxe50y2t">
+  <resources>
+    <component id="8qer0" name="BattleReliveView.xml" path="/" exported="true"/>
+    <component id="8qer1" name="ButtonDiamond.xml" path="/components/"/>
+    <component id="8qer3" name="ButtonFree.xml" path="/components/"/>
+    <component id="mljj4" name="ContinueBtn.xml" path="/components/"/>
+    <image id="xyvk5" name="_LocFuHuo.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

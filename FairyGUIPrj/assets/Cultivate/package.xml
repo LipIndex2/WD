@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="db9woelg">
+  <resources>
+    <component id="uzf20" name="CultivateView.xml" path="/" exported="true"/>
+    <image id="uzf21" name="耕种.jpg" path="/"/>
+    <image id="uzf22" name="DiKuang.png" path="/image/" scale="9grid" scale9grid="25,25,37,41"/>
+    <image id="uzf23" name="bg.png" path="/image/"/>
+    <image id="uzf25" name="bg02.png" path="/image/" scale="9grid" scale9grid="30,30,46,47"/>
+    <image id="uzf27" name="HengFu.png" path="/image/" scale="9grid" scale9grid="21,25,42,50"/>
+    <image id="uzf28" name="任务.jpg" path="/"/>
+    <image id="uzf29" name="ShiJianDi.png" path="/image/" scale="9grid" scale9grid="17,10,34,20"/>
+    <image id="uzf2a" name="ShiZhongHuang.png" path="/image/"/>
+    <component id="uzf2b" name="TaskCell.xml" path="/components/" exported="true"/>
+    <image id="uzf2c" name="DiKuang02.png" path="/image/" scale="9grid" scale9grid="32,47,64,94"/>
+    <image id="uzf2d" name="JinDuTiao201.png" path="/image/" scale="9grid" scale9grid="20,9,9,18"/>
+    <image id="uzf2e" name="JinDuTiao22.png" path="/image/" scale="9grid" scale9grid="44,7,88,14"/>
+    <component id="uzf2f" name="ProgressBarTask.xml" path="/components/"/>
+    <component id="uzf2g" name="ButtonTab.xml" path="/components/" exported="true"/>
+    <image id="uzf2h" name="YeQian2.png" path="/image/"/>
+    <image id="uzf2i" name="YeQian1.png" path="/image/" scale="9grid" scale9grid="49,20,98,40"/>
+    <image id="uzf2j" name="DaoJuDi2.png" path="/image/" exported="true"/>
+    <image id="uzf2k" name="DaoJuDi3.png" path="/image/" exported="true"/>
+    <image id="uzf2l" name="DaoJuDi1.png" path="/image/" exported="true"/>
+    <image id="uzf2o" name="JinChanZi.png" path="/image/"/>
+    <component id="uzf2p" name="CultivateViewTaskPanel.xml" path="/" exported="true"/>
+    <component id="uzf2q" name="CultivateViewExchangePanel.xml" path="/" exported="true"/>
+    <image id="uzf2r" name="兑换.jpg" path="/"/>
+    <component id="uzf2s" name="ExchangeCell.xml" path="/components/" exported="true"/>
+    <image id="uzf2t" name="Zu40.png" path="/image/"/>
+    <component id="uzf2u" name="CultivateViewMainPanel.xml" path="/" exported="true"/>
+    <component id="uzf2v" name="CultivateItem.xml" path="/components/" exported="true"/>
+    <image id="uzf2w" name="TuKuai.png" path="/image/"/>
+    <component id="uzf2x" name="RewardItem.xml" path="/components/" exported="true"/>
+    <component id="uzf2y" name="ButtonCultivate.xml" path="/components/"/>
+    <image id="uzf210" name="JinDuTiao01.png" path="/image/" scale="9grid" scale9grid="21,20,42,40"/>
+    <image id="uzf211" name="JinDuTiao02.png" path="/image/" scale="9grid" scale9grid="18,17,36,34"/>
+    <image id="uzf212" name="BaoXiang.png" path="/image/" exported="true"/>
+    <image id="uzf213" name="Zu49.png" path="/image/"/>
+    <component id="uzf214" name="ProgressBarBox.xml" path="/components/"/>
+    <component id="uzf215" name="ButtonBox.xml" path="/components/"/>
+    <component id="uzf216" name="BoardCultivate.xml" path="/" exported="true"/>
+    <image id="uzf217" name="YinChanZi.png" path="/image/"/>
+    <image id="kj0y18" name="BaoXiangDaKai.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

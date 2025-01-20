@@ -1,0 +1,27 @@
+
+yanhongyu.png
+size: 102,68
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 89, 27
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 89, 41
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1

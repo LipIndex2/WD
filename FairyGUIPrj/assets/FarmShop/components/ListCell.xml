@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,197" designImage="ui://df3r1wc69quy1" designImageOffsetY="-466" designImageLayer="1">
+  <displayList>
+    <image id="n0_9quy" name="n0" src="9quy2" fileName="image/Di.png" xy="18,0" size="764,187"/>
+    <text id="n1_9quy" name="Desc" xy="187,34" pivot="0.5,0" size="352,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" autoSize="height" strokeColor="#491916" strokeSize="3" autoClearText="true" text="描述"/>
+    <text id="n3_9quy" name="Name" xy="50,133" pivot="0.5,0.5" size="108,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="道具名称"/>
+    <component id="n2_9quy" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="44,16"/>
+    <component id="n7_9quy" name="BtnBuy" src="9quy7" fileName="components/BtnBuy.xml" xy="560,51"/>
+  </displayList>
+</component>

@@ -1,0 +1,62 @@
+
+effect_shandian.png
+size: 955,255
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+2/0
+  rotate: false
+  xy: 2, 107
+  size: 371, 146
+  orig: 371, 146
+  offset: 0, 0
+  index: -1
+2/1
+  rotate: false
+  xy: 595, 2
+  size: 341, 117
+  orig: 341, 117
+  offset: 0, 0
+  index: -1
+2/2
+  rotate: false
+  xy: 375, 121
+  size: 333, 132
+  orig: 333, 132
+  offset: 0, 0
+  index: -1
+2/3
+  rotate: false
+  xy: 293, 21
+  size: 300, 84
+  orig: 300, 84
+  offset: 0, 0
+  index: -1
+2/4
+  rotate: false
+  xy: 2, 4
+  size: 289, 101
+  orig: 289, 101
+  offset: 0, 0
+  index: -1
+2/5
+  rotate: false
+  xy: 710, 170
+  size: 211, 83
+  orig: 211, 83
+  offset: 0, 0
+  index: -1
+2/6
+  rotate: false
+  xy: 710, 127
+  size: 218, 41
+  orig: 218, 41
+  offset: 0, 0
+  index: -1
+2/7
+  rotate: false
+  xy: 923, 227
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

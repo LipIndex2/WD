@@ -1,0 +1,27 @@
+
+dawangwuzei.png
+size: 198,125
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 125, 173
+  orig: 125, 173
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 174, 100
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 174, 77
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

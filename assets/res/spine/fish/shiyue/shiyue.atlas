@@ -1,0 +1,34 @@
+
+shiyue.png
+size: 33,246
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao
+  rotate: true
+  xy: 0, 188
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 187, 33
+  orig: 187, 33
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 0, 228
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 209
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

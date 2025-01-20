@@ -1,0 +1,61 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8c5687ea-eb91-4824-bc4a-2d0e683629f9",
+  "files": [],
+  "subMetas": {
+    "84917": {
+      "importer": "gltf-mesh",
+      "uuid": "8c5687ea-eb91-4824-bc4a-2d0e683629f9@84917",
+      "displayName": "",
+      "id": "84917",
+      "name": "fang1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9101d": {
+      "importer": "gltf-scene",
+      "uuid": "8c5687ea-eb91-4824-bc4a-2d0e683629f9@9101d",
+      "displayName": "",
+      "id": "9101d",
+      "name": "fang1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8c5687ea-eb91-4824-bc4a-2d0e683629f9@9101d",
+    "assetFinder": {
+      "meshes": [
+        "8c5687ea-eb91-4824-bc4a-2d0e683629f9@84917"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8c5687ea-eb91-4824-bc4a-2d0e683629f9@9101d"
+      ]
+    }
+  }
+}

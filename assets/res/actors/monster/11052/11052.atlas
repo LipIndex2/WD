@@ -1,0 +1,62 @@
+
+11052.png
+size: 387,271
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: false
+  xy: 149, 86
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 246, 10
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 149, 4
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+liantiao
+  rotate: false
+  xy: 344, 12
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 111
+  size: 160, 209
+  orig: 160, 209
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 304, 81
+  size: 83, 190
+  orig: 83, 190
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 210, 72
+  size: 93, 199
+  orig: 93, 199
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1

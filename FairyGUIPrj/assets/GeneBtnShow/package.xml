@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="06tpgekn">
+  <resources>
+    <component id="9s560" name="GeneBtnShowView.xml" path="/" exported="true"/>
+    <image id="9s561" name="基因弹窗改.jpg" path="/"/>
+    <image id="9s562" name="JuXing.png" path="/image/" scale="9grid" scale9grid="17,17,34,34"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,80" pivot="0.5,0.5" extention="Button" designImageOffsetX="-420" designImageOffsetY="-751">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n7_jsyh" name="icon" xy="0,0" pivot="0.5,0.5" size="110,82" autoSize="true"/>
+    <text id="n6_k23u" name="title" xy="50,80" pivot="0.5,0.5" size="10,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text=""/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

@@ -1,0 +1,83 @@
+
+15002.png
+size: 732,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: true
+  xy: 117, 63
+  size: 84, 135
+  orig: 84, 135
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 426, 171
+  size: 276, 222
+  orig: 276, 222
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 555, 84
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 643, 84
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 362, 48
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 149
+  size: 422, 244
+  orig: 422, 244
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 395
+  size: 694, 335
+  orig: 694, 335
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 254, 55
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+zuohuwan
+  rotate: false
+  xy: 465, 77
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 555, 2
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 2, 28
+  size: 113, 119
+  orig: 113, 119
+  offset: 0, 0
+  index: -1

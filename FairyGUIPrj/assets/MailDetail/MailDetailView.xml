@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://5c9jx0gil09g1">
+  <controller name="RewardState" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n0_l09g" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,356" size="730,850"/>
+    <text id="n1_l09g" name="ContentShow" xy="139,554" size="526,272" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" leading="9" autoSize="none" autoClearText="true" text="鬼蝶飞舞，狂欢继续&#xA;月夜祈福第二日&#xA;请收下司令部的祝福&#xA;祝各位指挥官所向披靡&#xA;推关不停！&#xA;推关不停！"/>
+    <image id="n3_l09g" name="bg" src="l09g3" fileName="image/XiangQingDi.png" xy="86,830" group="n7_lh9r"/>
+    <text id="n5_l09g" name="title_reward" xy="366,850" pivot="0.5,0.5" size="74,42" group="n7_lh9r" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" align="center" vAlign="middle" leading="9" text="奖 励"/>
+    <component id="n4_l09g" name="BtnGet" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1060" group="n7_lh9r">
+      <Button title="领取"/>
+    </component>
+    <component id="n8_ffnu" name="BtnAd" src="ffnu4" fileName="components/ButtonAd.xml" xy="252,1060" group="n7_lh9r"/>
+    <list id="n6_lh9r" name="RewardList" xy="165,894" pivot="0.5,0.5" size="470,120" group="n7_lh9r" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://gn62pyk3rjro31" align="center" vAlign="middle" scrollItemToViewOnClick="false"/>
+    <group id="n7_lh9r" name="GpReward" xy="86,830" size="630,342" advanced="true">
+      <gearDisplay controller="RewardState" pages="1"/>
+    </group>
+  </displayList>
+</component>

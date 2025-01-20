@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ckacy1nw">
+  <resources>
+    <component id="fr820" name="MainLevelTeamView.xml" path="/" exported="true"/>
+    <image id="fr821" name="主线4.png" path="/"/>
+    <image id="fr822" name="QiPao.png" path="/image/" scale="9grid" scale9grid="52,30,35,18"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,83 @@
+
+11050.png
+size: 323,264
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 252, 75
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+daizi_hou
+  rotate: true
+  xy: 289, 11
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+daizi_qian
+  rotate: false
+  xy: 205, 7
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 32, 6
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 238, 0
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 156, 158
+  size: 161, 106
+  orig: 161, 106
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 0, 7
+  size: 31, 257
+  orig: 31, 257
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 156, 80
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 32, 115
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 141, 12
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 238, 23
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1

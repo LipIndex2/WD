@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_uzf2" name="n0" src="okyub4w" fileName="image/ChengAnNiu.png" pkg="zokic7y2" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_uzf2" name="n2" src="uzf2o" fileName="image/JinChanZi.png" xy="78,27" scale="0.77,0.77"/>
+    <text id="n1_uzf2" name="n1" xy="126,26" pivot="0.5,0.5" size="92,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="耕种"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

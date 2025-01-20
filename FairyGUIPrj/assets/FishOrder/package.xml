@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="q6vuep3w">
+  <resources>
+    <component id="vxpk0" name="FishOrderView.xml" path="/" exported="true"/>
+    <image id="vxpk1" name="每日订单.jpg" path="/"/>
+    <component id="vxpk2" name="ShowItem.xml" path="/components/" exported="true"/>
+    <image id="vxpk3" name="TuCeng12KaoBei2.png" path="/image/"/>
+    <image id="vxpk4" name="BaiSeHeiBianDi.png" path="/image/" scale="9grid" scale9grid="46,26,92,52"/>
+    <image id="vxpk5" name="DaJianTou.png" path="/image/"/>
+    <image id="vxpk6" name="RenWuShuaXin.png" path="/image/"/>
+    <component id="vxpk7" name="ButtonFlush.xml" path="/components/"/>
+    <image id="vxpk8" name="ShengLiXingXingTeXiao.png" path="/image/"/>
+    <image id="vxpk9" name="ShengLiXingXingTeXiao2.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

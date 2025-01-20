@@ -1,0 +1,11 @@
+{
+    "name": "ClientTools",
+    "displayName": "客户端工具",
+    "description": "",
+    "version": "1.0",
+    "author": {
+        "name": "Administrator"
+    },
+    "icon": "",
+    "main": "main.js"
+}

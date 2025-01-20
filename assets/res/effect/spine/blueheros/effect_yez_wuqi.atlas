@@ -1,0 +1,27 @@
+
+effect_yez_wuqi.png
+size: 134,45
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+8_paodan06
+  rotate: false
+  xy: 2, 2
+  size: 42, 41
+  orig: 121, 116
+  offset: 39, 37
+  index: -1
+8_paodan07
+  rotate: false
+  xy: 46, 2
+  size: 42, 41
+  orig: 121, 116
+  offset: 39, 37
+  index: -1
+8_paodan08
+  rotate: false
+  xy: 90, 2
+  size: 42, 41
+  orig: 121, 116
+  offset: 39, 37
+  index: -1

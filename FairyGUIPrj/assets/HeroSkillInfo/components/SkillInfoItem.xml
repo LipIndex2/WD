@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="230,265">
+  <displayList>
+    <image id="n0_aj74" name="Bg" src="aj741" fileName="image/JiNenQiPaoKuang.png" xy="0,105" pivot="0.5,1" size="230,160">
+      <relation target="n2_aj74" sidePair="height-height"/>
+    </image>
+    <text id="n1_aj74" name="Name" xy="45,116" pivot="0.5,0.5" size="140,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="Lv. 15 解锁">
+      <relation target="n0_aj74" sidePair="top-top"/>
+    </text>
+    <richtext id="n2_aj74" name="Title" xy="13,165" pivot="0.5,0" size="204,70" touchable="false" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" leading="5" autoSize="height" text="11111&#xA;1111">
+      <relation target="n0_aj74" sidePair="top-top"/>
+    </richtext>
+    <list id="n4_pd0x" name="List" xy="13,237" pivot="0.5,1" size="204,0" touchable="false" layout="flow_hz" overflow="scroll" scrollBarFlags="160" defaultItem="ui://fgkt5cvapd0x4">
+      <relation target="n0_aj74" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

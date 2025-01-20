@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,314">
+  <displayList>
+    <image id="n24_g00j" name="n24" src="g00jb" fileName="image/BaoLiuJiNenDiBan1.png" xy="0,0" size="800,314">
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </image>
+    <image id="n25_g00j" name="n25" src="g00jc" fileName="image/ChengSeXuanZhongKuai.png" xy="304,20">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n26_g00j" name="n26" src="g00ja" fileName="image/BaoLiuJiNenDiBan2.png" xy="330,235">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="eges52nt">
+  <resources>
+    <component id="wxng0" name="FishFashionView.xml" path="/" exported="true"/>
+    <image id="wxng1" name="装扮SPE.png" path="/"/>
+    <component id="wxng3" name="ShowButton.xml" path="/components/" exported="true"/>
+    <image id="wxng4" name="更换鱼饵SPE.jpg" path="/"/>
+    <image id="wxng5" name="TuCeng36.png" path="/image/"/>
+    <image id="c8h46" name="XuanZhongGuang.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

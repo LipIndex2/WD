@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://d9493qbdg7l61">
+  <displayList>
+    <component id="n0_g7l6" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040">
+      <Label title="更换鱼饵"/>
+    </component>
+    <image id="n1_g7l6" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="63,386" size="675,725"/>
+    <list id="n2_g7l6" name="ShowList" xy="83,411" size="640,672" layout="flow_hz" overflow="scroll" lineGap="18" colGap="10" defaultItem="ui://d9493qbdg7l62" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,48 @@
+
+11003.png
+size: 70,336
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: true
+  xy: 0, 43
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 0, 104
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+danke
+  rotate: true
+  xy: 0, 165
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 46, 1
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+jiguan
+  rotate: true
+  xy: 0, 0
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 250
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1

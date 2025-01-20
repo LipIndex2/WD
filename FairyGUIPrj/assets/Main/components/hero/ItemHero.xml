@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,217" pivot="0.5,0.5" extention="Button" designImage="ui://dvcfzaq1l4mh8w" designImageOffsetX="-68" designImageOffsetY="-1172">
+  <controller name="IndexCtrl" pages="0,,1,,2,,3," selected="3"/>
+  <displayList>
+    <loader id="n1_l4mh" name="BgSp" xy="0,0" pivot="0.5,0.5" size="306,217" scale="-1,1" fill="scaleFree" clearOnPublish="true">
+      <gearSize controller="IndexCtrl" pages="0,1,2,3" values="306,217,1,1|306,217,-1,1|306,217,1,1|306,217,-1,1"/>
+    </loader>
+    <loader id="n2_l4mh" name="IconSp" xy="112,-55" pivot="0.5,0.5" size="240,240" scale="-1,1" autoSize="true">
+      <gearXY controller="IndexCtrl" pages="1,2,3" values="152,-4|-63,-60|112,-55" default="-35,-36"/>
+      <gearSize controller="IndexCtrl" pages="0,1,2" values="240,240,1,1|192,176,-1,1|240,240,1,1" default="240,240,-1,1"/>
+    </loader>
+    <text id="n4_l4mh" name="LevelShow" xy="43,117" pivot="0.5,0.5" size="88,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="等级 2">
+      <gearXY controller="IndexCtrl" pages="1,2,3" values="46,56|184,117|43,117" default="187,56"/>
+    </text>
+    <component id="n3_l4mh" name="ProgressShow" src="l4mh98" fileName="components/hero/ProgressHero.xml" xy="17,165" group="n6_pp34">
+      <gearXY controller="IndexCtrl" pages="1,2,3" values="17,22|157,165|17,165" default="157,22"/>
+      <ProgressBar max="100"/>
+    </component>
+    <image id="n5_pp34" name="MaxShow" src="xyvk3q" fileName="image/MAX.png" pkg="gn62pyk3" xy="42,168" group="n6_pp34" visible="false">
+      <gearXY controller="IndexCtrl" pages="1,2,3" values="42,22|182,165|42,168" default="182,22"/>
+    </image>
+    <group id="n6_pp34" name="GpNum" xy="17,165" size="138,34" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

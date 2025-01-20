@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,121" extention="Label">
+  <displayList>
+    <image id="n55_p5yt" name="n55" src="p5yt1h" fileName="image/HuoDeDeJiNenTiShi.png" xy="45,0"/>
+    <richtext id="n56_p5yt" name="title" xy="400,64" pivot="0.5,0.5" anchor="true" size="647,100" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#822e00" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="小恶魔小恶魔小恶魔小恶魔小恶魔小恶魔小恶魔小恶魔小恶魔"/>
+  </displayList>
+</component>

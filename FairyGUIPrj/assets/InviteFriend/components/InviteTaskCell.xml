@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,210" designImage="ui://x0i6y981o0zac" designImageOffsetY="-1146" designImageLayer="1">
+  <displayList>
+    <image id="n0_ldm8" name="n0" src="o0za5" fileName="image/LieBiaoDi.png" xy="17,10" size="764,198"/>
+    <component id="n2_ldm8" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="43,40" scale="1.2,1.2"/>
+    <component id="n9_ldm8" name="ProgressBar" src="o0za7" fileName="components/ProgressBar.xml" xy="206,109" size="342,36">
+      <ProgressBar value="1" max="2"/>
+    </component>
+    <text id="n3_ldm8" name="Title" xy="211,48" pivot="0,0.5" size="220,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" letterSpacing="1" strokeColor="#491914" strokeSize="3" text="开启一次小宝箱"/>
+    <component id="n1_ldm8" name="BtnPrize" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="515,65" scale="0.66,0.66">
+      <Button title="领取" titleFontSize="54"/>
+    </component>
+    <component id="n14_o0za" name="BtnInvite" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="515,65" scale="0.66,0.66">
+      <Button title="去邀请"/>
+    </component>
+  </displayList>
+</component>

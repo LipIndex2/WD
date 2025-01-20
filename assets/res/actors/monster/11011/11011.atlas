@@ -1,0 +1,48 @@
+
+11011.png
+size: 306,81
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: false
+  xy: 0, 0
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 85, 0
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 248, 50
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 170, 1
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 248, 20
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 275, 13
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1

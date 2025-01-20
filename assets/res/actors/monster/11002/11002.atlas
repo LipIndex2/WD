@@ -1,0 +1,62 @@
+
+11002.png
+size: 174,270
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: false
+  xy: 128, 20
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 101, 45
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 136, 200
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 136, 129
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 0, 131
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 38
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 0, 0
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 64, 0
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1

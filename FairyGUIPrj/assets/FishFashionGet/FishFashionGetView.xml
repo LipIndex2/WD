@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <image id="n0_ddss" name="bg_t" src="ddss1" fileName="image/BiaoTiXiaoHengFu.png" xy="190,418"/>
+    <text id="n1_ddss" name="title" xy="400,449" pivot="0.5,0.5" anchor="true" size="204,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#b07924" strokeSize="3" text="获得新幻化"/>
+    <richtext id="n4_ddss" name="AttrShow" xy="279,875" pivot="0.5,0.5" size="242,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="攻击力增加160%"/>
+    <component id="n2_ddss" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="340,744"/>
+    <component id="n3_ddss" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1143">
+      <Button title="确 定"/>
+    </component>
+  </displayList>
+</component>

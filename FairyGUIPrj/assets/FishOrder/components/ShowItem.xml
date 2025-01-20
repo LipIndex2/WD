@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,219" designImage="ui://q6vuep3wvxpk1" designImageOffsetX="-84" designImageOffsetY="-617">
+  <displayList>
+    <image id="n0_vxpk" name="bg" src="vxpk4" fileName="image/BaiSeHeiBianDi.png" xy="4,49" size="624,170"/>
+    <image id="n1_vxpk" name="bg_t" src="vxpk3" fileName="image/TuCeng12KaoBei2.png" xy="0,0"/>
+    <image id="n6_vxpk" name="arrow" src="vxpk5" fileName="image/DaJianTou.png" xy="161,113" pivot="0.5,0.5" rotation="90"/>
+    <loader id="n24_vxpk" name="IconSp" xy="41,104" pivot="0.5,0.5" size="63,69" url="ui://5qhcb5rwtiuj64" autoSize="true" clearOnPublish="true"/>
+    <text id="n4_vxpk" name="NameShow" xy="35,8" pivot="0,0.5" size="217,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="提交2条沙丁鱼"/>
+    <text id="n8_vxpk" name="ProgressShow" xy="483,63" pivot="0.5,0.5" size="55,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="1/2"/>
+    <text id="n22_vxpk" name="Geted" xy="457,122" pivot="0.5,0.5" size="106,46" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="已领取"/>
+    <text id="n23_vxpk" name="NumShow" xy="48,137" pivot="0.5,0.5" size="46,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="x2"/>
+    <component id="n9_vxpk" name="BtnFlush" src="vxpk7" fileName="components/ButtonFlush.xml" xy="570,9"/>
+    <component id="n5_vxpk" name="BtnGet" src="rjrob54" fileName="ButtonGreen.xml" pkg="zokic7y2" xy="416,107" visible="false">
+      <Button title="领取"/>
+    </component>
+    <component id="n7_vxpk" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="276,84" scale="0.85,0.85"/>
+    <image id="n10_vxpk" name="star1" src="vxpk8" fileName="image/ShengLiXingXingTeXiao.png" xy="314,10" group="n15_vxpk"/>
+    <image id="n11_vxpk" name="star2" src="vxpk8" fileName="image/ShengLiXingXingTeXiao.png" xy="363,10" group="n15_vxpk"/>
+    <image id="n12_vxpk" name="star3" src="vxpk8" fileName="image/ShengLiXingXingTeXiao.png" xy="410,10" group="n15_vxpk"/>
+    <image id="n13_vxpk" name="star4" src="vxpk8" fileName="image/ShengLiXingXingTeXiao.png" xy="456,10" group="n15_vxpk"/>
+    <image id="n14_vxpk" name="star5" src="vxpk8" fileName="image/ShengLiXingXingTeXiao.png" xy="505,10" group="n15_vxpk"/>
+    <group id="n15_vxpk" name="stars" xy="314,10" size="235,43"/>
+    <image id="n16_vxpk" name="StarShow1" src="vxpk9" fileName="image/ShengLiXingXingTeXiao2.png" xy="315,10" group="n21_vxpk" visible="false"/>
+    <image id="n17_vxpk" name="StarShow2" src="vxpk9" fileName="image/ShengLiXingXingTeXiao2.png" xy="363,10" group="n21_vxpk" visible="false"/>
+    <image id="n18_vxpk" name="StarShow3" src="vxpk9" fileName="image/ShengLiXingXingTeXiao2.png" xy="410,10" group="n21_vxpk" visible="false"/>
+    <image id="n19_vxpk" name="StarShow4" src="vxpk9" fileName="image/ShengLiXingXingTeXiao2.png" xy="456,10" group="n21_vxpk" visible="false"/>
+    <image id="n20_vxpk" name="StarShow5" src="vxpk9" fileName="image/ShengLiXingXingTeXiao2.png" xy="505,10" group="n21_vxpk" visible="false"/>
+    <group id="n21_vxpk" name="StarShow" xy="315,10" size="235,43"/>
+  </displayList>
+</component>

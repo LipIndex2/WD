@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "contributions": {
+    "profile": {
+      "project": {
+        "spid": {
+          "default": "dev"
+        },
+        "Agent": {
+          "default": false
+        }
+      }
+    },
+    "project": {
+      "tab1": {
+        "label": "test",
+        "content": {
+          "spid": {
+            "ui": "ui-num-input"
+          },
+          "Agent": {
+            "ui": "ui-checkbox"
+          }
+        }
+      }
+    }
+  }
+}

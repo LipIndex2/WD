@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="x0i6y981">
+  <resources>
+    <component id="o0za0" name="InviteFriendView.xml" path="/" exported="true"/>
+    <image id="o0za3" name="邀请好友SPE.jpg" path="/"/>
+    <component id="o0za4" name="InviteTaskCell.xml" path="/components/" exported="true"/>
+    <image id="o0za5" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <component id="o0za7" name="ProgressBar.xml" path="/components/"/>
+    <image id="o0za8" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <image id="o0za9" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="o0zad" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="90m5e" name="TuCeng3.png" path="/image/"/>
+    <image id="90m5f" name="TuCeng4.png" path="/image/" scale="9grid" scale9grid="200,48,400,3"/>
+    <image id="90m5g" name="TuCeng5.png" path="/image/" scale="9grid" scale9grid="200,5,400,3"/>
+    <component id="uvlmh" name="parent.xml" path="/components/"/>
+    <image id="hprmj" name="XinZi.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,400" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n4_cr2x" name="n4" src="cr2x8" fileName="image/TiLiDi.png" xy="24,22" size="154,60"/>
+    <image id="n5_cr2x" name="n5" src="n4lg3" fileName="TiLi1.png" pkg="rqg67c20" xy="14,1" pivot="0.5,0.5" scale="0.7,0.7"/>
+    <image id="n6_cr2x" name="n6" src="n4lg3" fileName="TiLi1.png" pkg="rqg67c20" xy="63,1" pivot="0.5,0.5" scale="0.7,0.7"/>
+    <image id="n7_cr2x" name="n7" src="n4lg3" fileName="TiLi1.png" pkg="rqg67c20" xy="113,1" pivot="0.5,0.5" scale="0.7,0.7"/>
+    <loader id="n8_cr2x" name="bg1" xy="16,51" size="170,248" url="ui://rqg67c20xaqq5w" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n9_cr2x" name="HeroIcon" xy="33,67" pivot="0.5,0.5" size="139,140" autoSize="true" clearOnPublish="true"/>
+    <loader id="n10_cr2x" name="RaceIcon" xy="141,57" pivot="1,0" size="40,40" url="ui://rqg67c20ln425o" autoSize="true" clearOnPublish="true"/>
+    <image id="n11_cr2x" name="n11" src="cr2x9" fileName="image/ZhiYuanZheDi.png" xy="7,252"/>
+    <text id="n12_cr2x" name="n12" xy="67,254" pivot="0.5,0.5" size="76,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="支援者"/>
+    <text id="n13_cr2x" name="LevelShow" xy="72,212" pivot="0.5,0.5" size="60,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级"/>
+    <component id="n14_cr2x" name="BtnHeroInfo" src="rjrob54" fileName="ButtonGreen.xml" pkg="zokic7y2" xy="3,313">
+      <Button title="信 息"/>
+    </component>
+    <component id="n3_cr2x" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="102,202" size="1,1" scale="0.9,0.85">
+      <gearDisplay controller="button" pages="1,3"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

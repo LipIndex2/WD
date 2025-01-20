@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://e818d6byr1b92">
+  <displayList>
+    <list id="n0_r1b9" name="TopList" xy="59,150" size="694,622" layout="flow_hz" overflow="scroll" lineGap="25" colGap="27" defaultItem="ui://e818d6byr1b9n" autoClearItems="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n2_r1b9" name="n2" src="r1b9d" fileName="imange/TongYongHeiDi.png" xy="30,923" size="740,468" group="n5_r1b9"/>
+    <component id="n1_r1b9" name="SkillInfo" src="r1b9o" fileName="components/SkillInfo.xml" xy="-50,816" group="n5_r1b9"/>
+    <list id="n3_r1b9" name="BottomList" xy="58,959" size="694,416" group="n5_r1b9" layout="flow_hz" overflow="scroll" lineGap="25" colGap="27" defaultItem="ui://e818d6byr1b9n" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_r1b9" name="OkBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1418" group="n5_r1b9">
+      <Button title="锁 定" sound="ui://d0dr38ivnvx3k"/>
+    </component>
+    <text id="n6_wpum" name="SelectCount" xy="287,1543" pivot="0.5,0.5" size="224,42" group="n5_r1b9" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="已选词条：0/24"/>
+    <group id="n5_r1b9" name="Bottom" xy="-50,816" size="900,769" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

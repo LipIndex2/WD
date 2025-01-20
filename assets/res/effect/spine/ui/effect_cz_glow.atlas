@@ -1,0 +1,34 @@
+
+effect_cz_glow.png
+size: 512,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian9
+  rotate: true
+  xy: 234, 83
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+glow20
+  rotate: true
+  xy: 2, 2
+  size: 228, 230
+  orig: 228, 230
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 234, 102
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 365, 102
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

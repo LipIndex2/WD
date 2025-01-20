@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d1qlzhnf">
+  <resources>
+    <component id="9quy0" name="FarmShopBuyView.xml" path="/" exported="true"/>
+    <image id="9quy1" name="购买弹窗.jpg" path="/"/>
+    <image id="9quy2" name="DanChuangJinBiDi.png" path="/image/" scale="9grid" scale9grid="18,11,18,22"/>
+    <image id="9quy3" name="ShuZi.png" path="/image/"/>
+    <component id="9quy4" name="BtnSmall.xml" path="/components/"/>
+    <image id="9quy5" name="JiaHao.png" path="/image/"/>
+    <image id="9quy6" name="Jian.png" path="/image/"/>
+    <image id="9quy7" name="Jia.png" path="/image/"/>
+    <image id="9quy8" name="JianHao.png" path="/image/"/>
+    <component id="9quy9" name="BtnBig.xml" path="/components/"/>
+    <image id="9quya" name="max.png" path="/image/"/>
+    <image id="9quyb" name="min.png" path="/image/"/>
+    <component id="iyeac" name="ArenaItemBuyView.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,198" designImage="ui://cdclde5bn3nig" designImageOffsetY="-1180" designImageLayer="1">
+  <displayList>
+    <image id="n0_ldm8" name="bg" src="rtw37" fileName="image/LieBiaoDi.png" xy="17,0" size="764,198"/>
+    <component id="n21_cfi8" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="55,39"/>
+    <text id="n3_ldm8" name="DescShow" xy="201,39" size="127,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" letterSpacing="1" strokeColor="#663b18" strokeSize="3" autoClearText="true" text="获得一个"/>
+    <text id="n16_r41h" name="ItemNum" xy="119,135" pivot="1,0.5" size="74,49" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="640"/>
+    <component id="n1_ldm8" name="BtnGet" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="515,62" size="296,112" scale="0.66,0.66">
+      <Button title="领取" titleFontSize="54"/>
+    </component>
+    <component id="n9_ldm8" name="ProgressShow" src="rtw39" fileName="components/TaskProgressBar.xml" xy="206,99" size="342,36">
+      <ProgressBar value="1" max="2"/>
+    </component>
+    <image id="n10_day6" name="mask1" src="rtw3c" fileName="image/MengBan.png" xy="18,0" size="764,197" group="n20_t6to"/>
+    <image id="n17_jx1k" name="mask2" src="rtw3d" fileName="image/YiLingQuMengCeng2.png" xy="280,66" pivot="0.5,0.5" group="n20_t6to"/>
+    <image id="n11_day6" name="gou" src="rtw3e" fileName="image/DuiGouicon.png" xy="306,65" group="n20_t6to"/>
+    <text id="n12_day6" name="geted" xy="389,69" size="106,46" group="n20_t6to" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已领取"/>
+    <group id="n20_t6to" name="MaskShow" xy="18,0" size="764,197" visible="false" advanced="true"/>
+  </displayList>
+</component>

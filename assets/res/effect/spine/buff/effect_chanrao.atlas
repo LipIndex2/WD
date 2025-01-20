@@ -1,0 +1,111 @@
+
+effect_chanrao.png
+size: 811,293
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu1
+  rotate: false
+  xy: 2, 2
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+tu10
+  rotate: false
+  xy: 457, 77
+  size: 205, 70
+  orig: 205, 70
+  offset: 0, 0
+  index: -1
+tu11
+  rotate: false
+  xy: 664, 19
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+tu12
+  rotate: true
+  xy: 356, 120
+  size: 171, 97
+  orig: 171, 97
+  offset: 0, 0
+  index: -1
+tu13
+  rotate: true
+  xy: 667, 81
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+tu14
+  rotate: true
+  xy: 172, 64
+  size: 227, 83
+  orig: 227, 83
+  offset: 0, 0
+  index: -1
+tu15
+  rotate: false
+  xy: 457, 5
+  size: 205, 70
+  orig: 205, 70
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 257, 120
+  size: 171, 97
+  orig: 171, 97
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 455, 221
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: true
+  xy: 2, 64
+  size: 227, 83
+  orig: 227, 83
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: true
+  xy: 739, 86
+  size: 205, 70
+  orig: 205, 70
+  offset: 0, 0
+  index: -1
+tu6
+  rotate: false
+  xy: 143, 2
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+tu7
+  rotate: false
+  xy: 284, 21
+  size: 171, 97
+  orig: 171, 97
+  offset: 0, 0
+  index: -1
+tu8
+  rotate: false
+  xy: 455, 149
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+tu9
+  rotate: true
+  xy: 87, 64
+  size: 227, 83
+  orig: 227, 83
+  offset: 0, 0
+  index: -1

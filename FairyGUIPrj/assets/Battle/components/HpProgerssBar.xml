@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="85,43" extention="ProgressBar">
+  <displayList>
+    <image id="n0_jxlb" name="n0" src="jxlbe" fileName="image/ShengMingTiao2.png" xy="0,0" size="85,43">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_jxlb" name="bar" src="jxlbd" fileName="image/ShengMingTiao1.png" xy="3,3" size="78,34"/>
+  </displayList>
+  <ProgressBar/>
+</component>

@@ -1,0 +1,69 @@
+
+15005.png
+size: 864,864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 23
+  size: 512, 341
+  orig: 512, 341
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 736, 204
+  size: 160, 118
+  orig: 160, 118
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 380
+  size: 558, 482
+  orig: 558, 482
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 734, 108
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 516, 209
+  size: 155, 218
+  orig: 155, 218
+  offset: 0, 0
+  index: -1
+youwuqi
+  rotate: true
+  xy: 562, 366
+  size: 237, 280
+  orig: 237, 280
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 734, 2
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 516, 51
+  size: 156, 216
+  orig: 156, 216
+  offset: 0, 0
+  index: -1
+zuowuqi
+  rotate: true
+  xy: 562, 605
+  size: 257, 280
+  orig: 257, 280
+  offset: 0, 0
+  index: -1

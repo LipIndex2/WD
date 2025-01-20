@@ -1,0 +1,83 @@
+
+putao_TB.png
+size: 309,62
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beizi1
+  rotate: false
+  xy: 0, 0
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+beizi2
+  rotate: true
+  xy: 114, 3
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 258, 5
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+putao
+  rotate: false
+  xy: 58, 4
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+putao2
+  rotate: false
+  xy: 258, 30
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+xiaoputao1
+  rotate: false
+  xy: 232, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xiaoputao2
+  rotate: false
+  xy: 214, 0
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+xiaoputao3
+  rotate: false
+  xy: 291, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 168, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 168, 14
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 214, 18
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1

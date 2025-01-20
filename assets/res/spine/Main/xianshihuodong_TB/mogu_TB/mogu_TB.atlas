@@ -1,0 +1,48 @@
+
+mogu_TB.png
+size: 206,78
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: false
+  xy: 143, 2
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 180, 47
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 97, 0
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 5
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 143, 17
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 97, 49
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1

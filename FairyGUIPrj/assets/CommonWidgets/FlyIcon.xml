@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="66,66">
+  <displayList>
+    <loader id="n0_onxs" name="IconShow" xy="0,0" size="110,110" scale="0.6,0.6" url="ui://1kdklxk3onxs4s" fill="scaleFree"/>
+    <text id="n1_onxs" name="ValueShow" xy="28,18" pivot="0.5,0.5" size="10,29" font="ui://1kdklxk3onxs4q" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text=""/>
+  </displayList>
+</component>

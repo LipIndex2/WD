@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="394,120">
+  <displayList>
+    <image id="n6_oabk" name="n6" src="oabkd" fileName="Image/QiPao.png" xy="0,0" size="394,120"/>
+    <text id="n7_oabk" name="n7" xy="29,10" size="341,122" fontSize="30" color="#491916" autoSize="height" text="Here is your reward for continuous synthesis. Come on!"/>
+  </displayList>
+</component>

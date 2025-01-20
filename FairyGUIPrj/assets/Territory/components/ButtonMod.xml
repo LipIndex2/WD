@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_ule5" name="icon" xy="0,0" size="100,100" url="ui://vmjqwampjpdob" autoSize="true"/>
+    <text id="n5_jpdo" name="title" xy="18,79" pivot="0.5,0.5" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="日志">
+      <relation target="" sidePair="bottom-bottom"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+  <relation target="n4_ule5" sidePair="width-width,height-height"/>
+</component>

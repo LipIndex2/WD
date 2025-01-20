@@ -1,0 +1,20 @@
+
+effect_wg_dilie.png
+size: 820,504
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu4
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: true
+  xy: 504, 131
+  size: 371, 314
+  orig: 371, 314
+  offset: 0, 0
+  index: -1

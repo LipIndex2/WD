@@ -1,0 +1,48 @@
+
+effect_door.png
+size: 390,392
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian1
+  rotate: true
+  xy: 132, 56
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+light5
+  rotate: false
+  xy: 260, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+point01
+  rotate: false
+  xy: 2, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring01
+  rotate: false
+  xy: 260, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ring02
+  rotate: false
+  xy: 2, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ring03
+  rotate: false
+  xy: 211, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

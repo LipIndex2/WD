@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fb3aorqh">
+  <resources>
+    <component id="k9x2a" name="GiftCell.xml" path="/components/" exported="true"/>
+    <image id="k9x2b" name="TongYongHeiDi.png" path="/image/" scale="9grid" scale9grid="18,18,36,36"/>
+    <image id="k9x2c" name="TeJiaDi.png" path="/image/"/>
+    <image id="k9x2e" name="ShiJianicon.png" path="/image/"/>
+    <image id="k9x2f" name="ShiJianDi.png" path="/image/" scale="9grid" scale9grid="53,13,106,26"/>
+    <component id="k9x2i" name="NewPackView.xml" path="/" exported="true"/>
+    <image id="k9x2j" name="XinShouLiBaoHengFu.png" path="/image/"/>
+    <image id="k9x2l" name="新手礼包参数.png" path="/"/>
+    <image id="fajdr" name="Guang.png" path="/image/"/>
+    <image id="fajds" name="LiHeLiangGe.png" path="/image/"/>
+    <image id="nj49t" name="成长礼包优化修改_spec.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

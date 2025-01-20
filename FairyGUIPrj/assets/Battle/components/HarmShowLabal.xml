@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="177,48" opaque="false">
+  <displayList>
+    <text id="n0_p5yt" name="Value" xy="88,24" pivot="0.5,0.5" anchor="true" size="116,48" font="ui://qllfrhsrp5yt1t" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="600"/>
+    <loader id="n1_p5yt" name="Icon" xy="24,23" pivot="1,0.5" anchor="true" size="44,45" url="ui://qllfrhsrp5yt5m" fill="scaleFree" clearOnPublish="true">
+      <relation target="n0_p5yt" sidePair="middle-middle,right-left"/>
+    </loader>
+  </displayList>
+</component>

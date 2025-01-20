@@ -1,0 +1,41 @@
+
+effect_hua_boom.png
+size: 243,176
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guang
+  rotate: false
+  xy: 0, 0
+  size: 176, 176
+  orig: 256, 256
+  offset: 40, 40
+  index: -1
+hua1
+  rotate: true
+  xy: 177, 108
+  size: 68, 36
+  orig: 140, 140
+  offset: 31, 53
+  index: -1
+hua2
+  rotate: true
+  xy: 177, 6
+  size: 64, 31
+  orig: 140, 140
+  offset: 34, 47
+  index: -1
+hua3
+  rotate: false
+  xy: 177, 71
+  size: 36, 36
+  orig: 140, 140
+  offset: 51, 52
+  index: -1
+hua4
+  rotate: true
+  xy: 209, 19
+  size: 51, 34
+  orig: 140, 140
+  offset: 40, 50
+  index: -1

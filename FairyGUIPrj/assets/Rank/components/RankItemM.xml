@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="748,119" designImage="ui://3cgsf82ptlom1" designImageOffsetX="-26" designImageOffsetY="-1344">
+  <displayList>
+    <image id="n0_p5ct" name="bg" src="p5ctm" fileName="image/LieBiaoDi2.png" xy="0,0" size="748,119"/>
+    <image id="n4_p5ct" name="bg_l" src="p5ctn" fileName="image/BiaoZhiDi.png" xy="552,33"/>
+    <loader id="n5_p5ct" name="deco" xy="497,23" pivot="0.5,0.5" size="75,74" url="ui://3cgsf82ptlomb" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n1_p5ct" name="RankShow" xy="25,37" pivot="0.5,0.5" size="94,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="未上榜"/>
+    <text id="n3_p5ct" name="NameShow" xy="245,37" pivot="0,0.5" size="250,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="ghikkhlohjlhjlgugy;g;hghikkhlohjlhjlgugy;g;hghikkhlohjlhjlgugy;g;hghikkhlohjlhjlgugy;g;h"/>
+    <text id="n6_p5ct" name="ValShow" xy="596,38" pivot="0.5,0.5" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="101"/>
+    <component id="n2_p5ct" name="HeadShow" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="178,57" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+  </displayList>
+</component>

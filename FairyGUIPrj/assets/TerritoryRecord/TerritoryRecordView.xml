@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://8ckzzwsbjlw61">
+  <displayList>
+    <component id="n0_jlw6" name="Board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="-48,32" size="892,1606">
+      <Label title="日 志"/>
+    </component>
+    <image id="n1_jlw6" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="64,370" size="672,992"/>
+    <image id="n3_eioq" name="img_empty" src="eioq7" fileName="image/Zu42.png" xy="145,571" group="n5_eioq"/>
+    <text id="n4_eioq" name="txt_empty" xy="335,909" pivot="0.5,0.5" size="132,44" group="n5_eioq" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#fefefe" align="center" vAlign="middle" strokeColor="#4e301c" strokeSize="3" text="暂无日志"/>
+    <group id="n5_eioq" name="GpEmpty" xy="145,571" size="510,458" visible="false" advanced="true"/>
+    <list id="n2_jlw6" name="ShowList" xy="84,391" size="630,940" overflow="scroll" lineGap="8" defaultItem="ui://8ckzzwsbjlw63" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

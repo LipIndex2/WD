@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="330,386" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2ubqvb6i" designImageOffsetX="-408" designImageOffsetY="-820">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_iw5u" name="bg" src="ve11b78" fileName="image/main_box/LiBaoDi2.png" xy="-4,-8" size="340,404"/>
+    <image id="n7_oqnq" name="bg2" src="sfj3b5c" fileName="image/HuangSeXiaoAnNiu.png" pkg="zokic7y2" xy="25,265" size="272,102"/>
+    <image id="n4_iw5u" name="IconShow" src="iw5um" fileName="image/main_box/XiangZi1.png" xy="40,78"/>
+    <image id="n10_ubqv" name="star" src="qrdjb6j" fileName="image/main_box/ShanLiangLiangZi.png" xy="31,51"/>
+    <image id="n11_ubqv" name="bg_m" src="qrdjb6g" fileName="image/main_box/BiChuDi.png" xy="14,204"/>
+    <loader id="n8_oqnq" name="icon" xy="78,282" pivot="0.5,0.5" size="63,69" url="ui://5qhcb5rwtiuj64" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="n9_oqnq" sidePair="right-left"/>
+    </loader>
+    <richtext id="n12_ubqv" name="MustShow" xy="75,212" pivot="0.5,0.5" size="184,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="必出普通门徒"/>
+    <text id="n5_iw5u" name="NameShow" xy="82,13" pivot="0.5,0.5" size="164,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="中型宝箱"/>
+    <text id="n9_oqnq" name="title" xy="150,292" pivot="0.5,0.5" size="92,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="1000"/>
+    <component id="n13_no3y" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="274,282"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

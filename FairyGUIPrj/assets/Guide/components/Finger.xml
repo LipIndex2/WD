@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400" opaque="false">
+  <displayList>
+    <component id="n2_mvx3" name="EffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="200,200"/>
+    <image id="n6_nsw7" name="n0" src="nsw7u" fileName="image/shouzhi.png" xy="201,201"/>
+  </displayList>
+  <transition name="t3" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="XY" target="n6_nsw7" tween="true" startValue="201,201" endValue="226,251" duration="11"/>
+    <item time="11" type="XY" target="n6_nsw7" tween="true" startValue="226,251" endValue="201,201" duration="12"/>
+  </transition>
+</component>

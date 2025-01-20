@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://zuqsa9o4c6oi3u" designImageAlpha="91">
+  <displayList>
+    <component id="n30_leyh" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" size="800,1500"/>
+    <loader id="n56_g5lw" name="bg1" xy="0,0" pivot="0.5,0.5" size="800,1600" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="n30_leyh" sidePair="height-height,center-center"/>
+    </loader>
+    <loader id="n38_x4zb" name="logo" xy="203,321" size="400,273" url="ui://zuqsa9o4g5lw3q" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="" sidePair="center-center"/>
+    </loader>
+    <image id="n53_g5lw" name="deco3" src="g5lw3s" fileName="image/Shang3.png" xy="-115,1085" size="1027,515" group="n59_hdp0"/>
+    <loader id="n57_g5lw" name="bg2" xy="-400,1192" pivot="0.5,0.5" size="1600,408" group="n59_hdp0" align="center" vAlign="middle" fill="scaleFree" autoSize="true">
+      <relation target="n30_leyh" sidePair="bottom-bottom"/>
+    </loader>
+    <image id="n52_g5lw" name="deco1" src="g5lw3r" fileName="image/Shang1.png" xy="-160,0" size="907,333" group="n59_hdp0"/>
+    <image id="n54_g5lw" name="deco2" src="g5lw3t" fileName="image/Shang2.png" xy="52,533" size="659,693" group="n59_hdp0"/>
+    <group id="n59_hdp0" name="n59" xy="-400,0" size="1600,1600" visible="false" advanced="true"/>
+    <component id="n46_f310" name="notice" src="c6oi3v" fileName="components/ButtonMod.xml" xy="655,65">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="公告" icon="ui://zuqsa9o4c6oi3y"/>
+    </component>
+    <component id="n49_m2lm" name="BtnProtocol" src="c6oi3v" fileName="components/ButtonMod.xml" xy="655,216">
+      <Button title="协议" icon="ui://zuqsa9o4c6oi3w"/>
+    </component>
+    <image id="n44_bgav" name="n44" src="bgav37" fileName="image/ShuRuKuangDuan.png" xy="307,644" group="n11_wm0t"/>
+    <text id="n3_wm0t" name="accountInput" xy="346,660" pivot="0.5,0.5" size="212,42" group="n11_wm0t" font="ui://wqx8l8xqnven1" fontSize="30" color="#fae7bd" vAlign="middle" autoSize="none" singleLine="true" text="" input="true" prompt=" "/>
+    <text id="n9_wm0t" name="n9" xy="231,658" pivot="1,0.5" size="80,42" group="n11_wm0t" font="ui://wqx8l8xqnven1" fontSize="30" color="#fae7bd" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="账号 :"/>
+    <group id="n11_wm0t" name="account" xy="230,644" size="367,76" group="n25_z5w9" advanced="true"/>
+    <image id="n45_bgav" name="n45" src="bgav37" fileName="image/ShuRuKuangDuan.png" xy="308,728" group="n19_wm0t"/>
+    <text id="n17_wm0t" name="passInput" xy="346,745" pivot="0.5,0.5" size="212,42" group="n19_wm0t" font="ui://wqx8l8xqnven1" fontSize="30" color="#fae7bd" vAlign="middle" autoSize="none" singleLine="true" text="123" input="true" prompt=" "/>
+    <text id="n18_wm0t" name="n18" xy="231,742" pivot="1,0.5" size="80,42" group="n19_wm0t" font="ui://wqx8l8xqnven1" fontSize="30" color="#f4ead4" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="密码 :"/>
+    <group id="n19_wm0t" name="pass" xy="230,728" size="368,76" group="n25_z5w9" advanced="true"/>
+    <group id="n25_z5w9" name="login" xy="230,644" size="368,160" advanced="true">
+      <relation target="" sidePair=""/>
+    </group>
+    <component id="n43_x4zb" name="ButtonLogin" src="x4zb33" fileName="components/ButtonPlay.xml" xy="213,1195">
+      <Button title="登录"/>
+    </component>
+    <component id="n42_x4zb" name="play" src="x4zb33" fileName="components/ButtonPlay.xml" xy="213,1195" visible="false">
+      <Button title="开始游戏"/>
+    </component>
+    <component id="n33_leyh" name="change" src="leyh7" fileName="components/ButtonChange.xml" xy="213,781" group="n51_f45q"/>
+    <text id="n34_leyh" name="text" xy="346,855" size="108,36" group="n51_f45q" font="ui://wqx8l8xqnven1" fontSize="26" color="#fae7bd" strokeColor="#491914" strokeSize="3" text="点击换区"/>
+    <group id="n51_f45q" name="server" xy="213,781" size="372,110" visible="false" advanced="true"/>
+    <component id="n48_m2lm" name="BtnAgeTip" src="m2lm3f" fileName="components/ButtonAge.xml" xy="673,1162"/>
+    <text id="n40_x4zb" name="title_tips" xy="307,1363" pivot="0.5,0.5" size="184,42" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="健康游戏忠告"/>
+    <text id="n41_x4zb" name="tips" xy="66,1417" pivot="0.5,0.5" size="675,64" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqnven1" fontSize="23" color="#ffffff" align="center" letterSpacing="1" text="抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。&#xA;适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"/>
+    <text id="n50_iz3j" name="PublishInfo" xy="25,1504" pivot="0.5,0.5" size="750,83" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#ffffff" autoSize="none" autoClearText="true" text="出版单位：出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位出版单位"/>
+    <text id="n51_an5t" name="version" xy="616,1468" pivot="0.5,0.5" size="184,32" visible="false" alpha="0.6" font="ui://wqx8l8xqnven1" fontSize="18" color="#311700" align="right" autoSize="none" autoClearText="true" text="资源版本号:">
+      <relation target="" sidePair="right-right"/>
+    </text>
+  </displayList>
+</component>

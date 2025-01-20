@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mhntf50i">
+  <resources>
+    <image id="gv7i0" name="胜利效果图.png" path="/"/>
+    <image id="gv7i1" name="失败效果图.png" path="/"/>
+    <image id="gv7i3" name="bossJinDu1.png" path="/image/"/>
+    <image id="gv7i4" name="XinJiLuDi.png" path="/image/"/>
+    <image id="gv7i5" name="ShiBaiWanDouYanLei.png" path="/image/"/>
+    <image id="gv7i6" name="ShiBaiWanDouYanJing.png" path="/image/"/>
+    <image id="gv7i7" name="ShiBaiWanDouDingTou.png" path="/image/"/>
+    <image id="gv7i8" name="ShiBaiTeXiao.png" path="/image/"/>
+    <image id="gv7i9" name="ShiBaiFenGeXian.png" path="/image/"/>
+    <image id="gv7ia" name="ShiBaiFangKuai.png" path="/image/"/>
+    <image id="gv7ic" name="ShengLiXingXingTeXiao.png" path="/image/"/>
+    <image id="gv7id" name="ShengLiWanDouYanJing.png" path="/image/"/>
+    <image id="gv7ie" name="ShengLiWanDouDingTou.png" path="/image/"/>
+    <image id="gv7if" name="ShengLiGuang.png" path="/image/"/>
+    <image id="gv7ig" name="ShengLiFenGeXian.png" path="/image/"/>
+    <image id="gv7ih" name="ShengLiFangKuai.png" path="/image/"/>
+    <image id="gv7ij" name="DianJiJiXuHengXian.png" path="/image/"/>
+    <image id="gv7ik" name="BiaoTiXian.png" path="/image/"/>
+    <image id="gv7il" name="bossJinDuXiaoKuang.png" path="/image/"/>
+    <image id="gv7im" name="bossJinDu2.png" path="/image/" scale="tile"/>
+    <image id="gv7in" name="XingXingBeiJing.png" path="/image/"/>
+    <image id="gv7io" name="ZaoChengShangHaiTuBiao.png" path="/image/"/>
+    <component id="gv7ip" name="BattleFinishView.xml" path="/" exported="true"/>
+    <image id="gv7iq" name="RiLi.png" path="/image/"/>
+    <component id="kcz6r" name="AttackInfo.xml" path="/components/"/>
+    <component id="kcz6s" name="ScoreProgress.xml" path="/components/"/>
+    <image id="kcz6t" name="bossJinDu3.png" path="/image/"/>
+    <component id="kcz6u" name="ContinueBtn.xml" path="/components/"/>
+    <component id="mzayv" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="kts3x" name="ShengLiBaoXiang.png" path="/image/"/>
+    <image id="kts3y" name="ShengLiBaoXiangDi.png" path="/image/"/>
+    <image id="kts3z" name="ShengLiBaoXiangDiZuo.png" path="/image/"/>
+    <image id="kts310" name="ShengLiBaoXiangZi.png" path="/image/"/>
+    <image id="pitk11" name="01.jpg" path="/"/>
+    <image id="pitk12" name="TuoYuan.png" path="/image/"/>
+    <image id="pitk13" name="JuXing.png" path="/image/" scale="9grid" scale9grid="27,25,34,50"/>
+    <image id="pitk14" name="HintIcon1.png" path="/image/" exported="true"/>
+    <image id="pitk15" name="HintIcon3.png" path="/image/" exported="true"/>
+    <image id="pitk17" name="HintIcon2.png" path="/image/" exported="true"/>
+    <image id="luty18" name="ShiBaiDiChai1.png" path="/image/"/>
+    <image id="luty19" name="ShiBaiDiChai2.png" path="/image/"/>
+    <image id="luty1a" name="ShengLiDiChai2.png" path="/image/"/>
+    <image id="luty1b" name="ShengLiDiChai1.png" path="/image/"/>
+    <image id="mgkh1c" name="GongLueTuBiaoDi.png" path="/image/"/>
+    <component id="mgkh1d" name="GongLueBtn.xml" path="/components/"/>
+    <image id="wpum1e" name="结算胜利-排位.jpg" path="/"/>
+    <image id="wpum1f" name="SVP.png" path="/image/" exported="true"/>
+    <image id="wpum1g" name="MVP.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

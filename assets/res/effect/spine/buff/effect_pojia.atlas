@@ -1,0 +1,20 @@
+
+effect_pojia.png
+size: 649,504
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+icon
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 504, 333
+  size: 143, 169
+  orig: 143, 169
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+liliyu.png
+size: 122,58
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 106, 40
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

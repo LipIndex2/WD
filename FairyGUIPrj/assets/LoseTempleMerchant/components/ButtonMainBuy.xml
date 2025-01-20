@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="194,85" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2sxqb4" designImageOffsetX="-544" designImageOffsetY="-776">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n6_iw5u" name="bg" src="iw5ub53" fileName="image/LvAnNiuXiao.png" pkg="zokic7y2" xy="0,0"/>
+    <loader id="n7_iw5u" name="icon" xy="27,9" pivot="0.5,0.5" size="63,69" scale="0.7,0.7" url="ui://5qhcb5rwtiuj64" align="center" vAlign="middle" shrinkOnly="true" clearOnPublish="true">
+      <relation target="n9_iw5u" sidePair="right-left"/>
+    </loader>
+    <text id="n9_iw5u" name="title" xy="91,18" pivot="0.5,0.5" size="70,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="400"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

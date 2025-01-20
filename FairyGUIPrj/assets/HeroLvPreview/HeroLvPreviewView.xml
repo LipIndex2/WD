@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://axp4vkexfrme1" designImageLayer="1">
+  <displayList>
+    <component id="n0_frme" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,285" size="730,921">
+      <Label title="每级属性预览"/>
+    </component>
+    <image id="n2_frme" name="n2" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="61,502" size="678,680"/>
+    <list id="n3_frme" name="List" xy="76,516" size="646,648" overflow="scroll" lineGap="11" defaultItem="ui://axp4vkexfrme4" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

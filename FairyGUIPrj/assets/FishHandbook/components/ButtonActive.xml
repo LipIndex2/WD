@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="102,69" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_woq6" name="bg" src="woq6h" fileName="image/JiHuoAnNiu.png" xy="0,0"/>
+    <text id="n4_woq6" name="title" xy="19,13" pivot="0.5,0.5" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="激活"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

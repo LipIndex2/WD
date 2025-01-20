@@ -1,0 +1,62 @@
+
+11004.png
+size: 583,129
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: true
+  xy: 543, 12
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 11
+  size: 156, 118
+  orig: 156, 118
+  offset: 0, 0
+  index: -1
+shigong
+  rotate: false
+  xy: 157, 17
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+shigong2
+  rotate: false
+  xy: 543, 65
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 471, 65
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 471, 0
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 300, 4
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 423, 3
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1

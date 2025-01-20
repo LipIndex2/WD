@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="28ympfpk">
+  <resources>
+    <component id="tm530" name="TrafficPermitGoldView.xml" path="/" exported="true"/>
+    <image id="tm531" name="QuanPingChangJingYuanHuaChiCun.png" path="/image/"/>
+    <image id="tm532" name="通行证3级弹窗.png" path="/"/>
+    <image id="tm533" name="TongXingZheng2JiDanChuangHengFu.png" path="/image/"/>
+    <image id="tm534" name="HuangJinTongXingZheng3JiDiBan2.png" path="/image/"/>
+    <image id="tm535" name="HuangJinTongXingZheng3JiDiBan1.png" path="/image/"/>
+    <image id="tm536" name="HuangJinTongXingZhengTuBiaoXiao.png" path="/image/"/>
+    <image id="tm537" name="GanTanHao.png" path="/image/"/>
+    <component id="tm538" name="BtnPoint.xml" path="/components/"/>
+    <image id="r41h9" name="TongXingZheng2JiDanChuangChaHua.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

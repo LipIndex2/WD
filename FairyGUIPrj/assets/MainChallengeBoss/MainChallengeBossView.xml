@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <loader id="n15_f0g0" name="BtnClose" xy="0,0" size="800,1600"/>
+    <image id="n0_gy1n" name="bg" src="sb2j5" fileName="image/GanTanHaoQiPao.png" xy="282,402" size="516,216"/>
+    <list id="n14_sb2j" name="ShowList" xy="294,429" size="490,175" lineGap="10" defaultItem="ui://jtz6itp4sb2j6" autoClearItems="true">
+      <item/>
+    </list>
+  </displayList>
+</component>

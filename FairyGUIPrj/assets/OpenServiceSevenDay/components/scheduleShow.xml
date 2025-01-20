@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageLayer="1">
+  <displayList>
+    <image id="n0_day6" name="n0" src="l6cb9" fileName="image/WanQuJinDuTiaoDi.png" xy="89,241"/>
+    <component id="n26_lorv" name="bar0" src="lorv1o" fileName="components/bar/Bar0.xml" xy="90,247" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n27_lorv" name="bar1" src="lorv1p" fileName="components/bar/Bar1.xml" xy="243,247" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n28_lorv" name="bar2" src="lorv1q" fileName="components/bar/Bar2.xml" xy="423,247" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n29_lorv" name="bar3_1" src="lorv1r" fileName="components/bar/Bar3.xml" xy="584,249" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n30_lorv" name="bar3_2" src="lorv1s" fileName="components/bar/Bar4.xml" xy="487,326" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n32_lorv" name="bar4" src="lorv1t" fileName="components/bar/Bar5.xml" xy="315,326" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n33_lorv" name="bar5_1" src="lorv1u" fileName="components/bar/Bar6.xml" xy="238,326" size="77,20" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n34_lorv" name="bar5_2" src="lorv1v" fileName="components/bar/Bar7.xml" xy="161,326" group="n37_lorv">
+      <ProgressBar value="70" max="100" min="30"/>
+    </component>
+    <component id="n35_lorv" name="bar6" src="lorv1w" fileName="components/bar/Bar8.xml" xy="234,405" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n36_lorv" name="bar7" src="lorv1x" fileName="components/bar/Bar9.xml" xy="422,405" group="n37_lorv">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <group id="n37_lorv" name="bar" xy="90,247" size="572,178"/>
+    <component id="n11_day6" name="BtnBox0" src="day612" fileName="components/BtnBox.xml" xy="217,228" group="n23_o0za"/>
+    <component id="n12_day6" name="BtnBox1" src="day612" fileName="components/BtnBox.xml" xy="393,227" group="n23_o0za"/>
+    <component id="n13_day6" name="BtnBox2" src="day612" fileName="components/BtnBox.xml" xy="577,228" group="n23_o0za"/>
+    <component id="n14_day6" name="BtnBox3" src="day612" fileName="components/BtnBox.xml" xy="461,309" group="n23_o0za"/>
+    <component id="n15_day6" name="BtnBox4" src="day612" fileName="components/BtnBox.xml" xy="292,310" group="n23_o0za"/>
+    <component id="n16_day6" name="BtnBox5" src="day612" fileName="components/BtnBox.xml" xy="216,389" group="n23_o0za"/>
+    <component id="n17_day6" name="BtnBox6" src="day612" fileName="components/BtnBox.xml" xy="391,390" group="n23_o0za"/>
+    <component id="n19_day6" name="BtnBox7" src="day612" fileName="components/BtnBox.xml" xy="626,399" group="n23_o0za"/>
+    <group id="n23_o0za" name="box" xy="216,227" size="464,218"/>
+    <loader id="n20_o0za" name="Icon" xy="40,194" pivot="0.5,0.5" size="117,120" scale="0.5,0.5" url="ui://0wkbc9c9o0za14" align="center" vAlign="middle"/>
+    <text id="n21_o0za" name="Num" xy="81,263" pivot="0.5,0.5" size="35,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="15"/>
+  </displayList>
+</component>

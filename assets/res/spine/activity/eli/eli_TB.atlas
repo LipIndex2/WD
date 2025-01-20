@@ -1,0 +1,76 @@
+
+eli_TB.png
+size: 201,136
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bo
+  rotate: false
+  xy: 0, 0
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 0, 82
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 103, 20
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 176, 20
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 32
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+touxia
+  rotate: true
+  xy: 65, 16
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+ya
+  rotate: false
+  xy: 119, 6
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+ye
+  rotate: false
+  xy: 99, 87
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 103, 38
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 156, 33
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1

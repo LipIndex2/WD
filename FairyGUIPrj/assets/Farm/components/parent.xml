@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1" extention="Label">
+  <displayList>
+    <loader id="n0_f3m0" name="icon" xy="-54,-54" pivot="0.5,0.5" size="110,110" url="ui://dryw07k7uzf23" align="center" vAlign="middle" clearOnPublish="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n7_rmdb" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <graph id="n0_11exs" name="n0" xy="0,0" pivot="0.5,0.5" size="800,1600" type="rect" fillColor="#ff000000">
+      <relation target="n7_rmdb" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n3_rmdb" name="icon" xy="70,472" size="659,693" url="ui://zuqsa9o4g5lw3t" autoSize="true">
+      <relation target="n7_rmdb" sidePair="center-center,middle-middle"/>
+    </loader>
+    <text id="n5_rmdb" name="title" xy="68,1206" size="664,140" fontSize="30" color="#ffffff" autoSize="none" text="一位对仙侠小说痴迷的青年正在寝室内，看一本名为《宗门秘籍》的小说。">
+      <relation target="n7_rmdb" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n6_rmdb" name="btnGo" src="rmdbs43" fileName="components/btnGo.xml" xy="0,0" pivot="0.5,0.5">
+      <relation target="n7_rmdb" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n8_rmdb" name="n8" src="rmdbs44" fileName="image/DianJiJiXuHengXian.png" xy="326,1412" group="n10_rmdb"/>
+    <text id="n9_rmdb" name="title" xy="330,1363" size="164,54" group="n10_rmdb" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" strokeColor="#491914" strokeSize="3" text="点击继续"/>
+    <group id="n10_rmdb" name="n10" xy="326,1363" size="172,58"/>
+  </displayList>
+</component>

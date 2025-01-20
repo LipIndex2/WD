@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://gp6652l2sxqb3" designImageLayer="1">
+  <displayList>
+    <image id="n0_iw5u" name="bg" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="33,166" size="734,72" visible="false"/>
+    <list id="n1_iw5u" name="TabList" xy="100,154" size="613,94" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://gp6652l2iw5ub52" align="center">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

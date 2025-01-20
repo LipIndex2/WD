@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="356,122" designImageOffsetX="-108" designImageOffsetY="-675" designImageLayer="1">
+  <displayList>
+    <image id="n6_xq15" name="n6" src="xq156" fileName="image/JiNenChangKuang.png" xy="0,-3" group="n7_tm53"/>
+    <image id="n3_yobf" name="n3" src="xq153" fileName="image/JiNenKuang.png" xy="8,9" group="n7_tm53"/>
+    <text id="n1_que1" name="AttrName" xy="122,13" size="230,42" group="n7_tm53" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491914" strokeSize="3" text="攻击范围"/>
+    <text id="n5_p2wa" name="AttrValue" xy="122,65" pivot="0,0.5" size="82,42" group="n7_tm53" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="1278"/>
+    <text id="n10_hwhu" name="AttrValue2" xy="205,65" pivot="0,0.5" size="43,42" group="n7_tm53" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#63ea77" vAlign="middle" strokeColor="#491914" strokeSize="3" text="11">
+      <relation target="n5_p2wa" sidePair="left-right"/>
+    </text>
+    <loader id="n4_p2wa" name="Icon" xy="8,9" size="104,104" group="n7_tm53" url="ui://uivgkva9p2wa13" fill="scale" shrinkOnly="true" clearOnPublish="true"/>
+    <group id="n7_tm53" name="GpShow" xy="0,-3" size="356,128" advanced="true"/>
+  </displayList>
+  <transition name="AttrValueScaleAni">
+    <item time="0" type="Scale" target="n10_hwhu" value="0,0"/>
+    <item time="4" type="Scale" target="n10_hwhu" tween="true" startValue="0,0" endValue="1.5,1.5" duration="5"/>
+    <item time="9" type="Scale" target="n10_hwhu" tween="true" startValue="1.5,1.5" endValue="1,1" duration="6"/>
+  </transition>
+</component>

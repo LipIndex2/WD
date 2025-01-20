@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,352" designImage="ui://km0iyz3hmizfb" designImageOffsetX="-84" designImageOffsetY="-1013" designImageAlpha="0" designImageLayer="1">
+  <controller name="ad_state" pages="0,hide,1,show" selected="0"/>
+  <displayList>
+    <image id="n0_mizf" name="n0" src="mizf1" fileName="image/JuXing.png" xy="0,0" size="630,352"/>
+    <text id="n1_mizf" name="n1" xy="315,115" pivot="0.5,0.5" anchor="true" size="233,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="正在研究中......"/>
+    <image id="n2_mizf" name="n2" src="mizfm" fileName="image/YuanJiaoJuXing.png" xy="232,150"/>
+    <component id="n3_mizf" name="Timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="140,113">
+      <Label title="00:02:01" titleFontSize="30"/>
+    </component>
+    <image id="n5_mizf" name="n5" src="10ewu6j" fileName="GuangGao.png" pkg="rqg67c20" xy="133,205" scale="0.6,0.6">
+      <gearDisplay controller="ad_state" pages="1"/>
+    </image>
+    <text id="n6_mizf" name="AdNum" xy="204,217" pivot="0.5,0.5" anchor="true" size="51,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" autoClearText="true" text="4/4">
+      <gearDisplay controller="ad_state" pages="1"/>
+    </text>
+    <component id="n13_mizf" name="AdBtn" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="30,231" scale="0.85,0.85">
+      <gearDisplay controller="ad_state" pages="1"/>
+    </component>
+    <component id="n14_mizf" name="AdTimer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="-18,234">
+      <gearDisplay controller="ad_state" pages="1"/>
+      <Label title="00:00:00" titleFontSize="38"/>
+    </component>
+    <loader id="n7_mizf" name="ItemIcon" xy="246,195" size="50,50" group="n15_ohql" touchable="false" url="ui://km0iyz3hmizfe" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n8_mizf" name="ItemNum" xy="335,218" pivot="0.5,0.5" anchor="true" size="95,39" group="n15_ohql" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="10000"/>
+    <component id="n10_mizf" name="JumpBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="167,231" group="n15_ohql" scale="0.85,0.85">
+      <Button title="马上结束"/>
+    </component>
+    <group id="n15_ohql" name="JumpGroup" xy="167,195" size="296,148" advanced="true">
+      <gearXY controller="ad_state" pages="0" values="167,195" default="303,195"/>
+    </group>
+  </displayList>
+</component>

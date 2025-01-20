@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="z2l8vjv3">
+  <resources>
+    <component id="ts0a0" name="FishGetView.xml" path="/" exported="true"/>
+    <image id="ts0a1" name="钓到SPE.jpg" path="/"/>
+    <image id="ts0a2" name="TuCeng7.png" path="/image/"/>
+    <image id="ts0a3" name="Zu410.png" path="/image/"/>
+    <image id="vbxh4" name="钓到.png" path="/"/>
+    <image id="vbxh5" name="XinJiLuDi.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

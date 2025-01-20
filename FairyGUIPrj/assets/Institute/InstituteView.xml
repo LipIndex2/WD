@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://km0iyz3hmizfb">
+  <displayList>
+    <component id="n0_mizf" name="Board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="0,0"/>
+    <component id="n23_xxoc" name="SpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,476"/>
+    <image id="n2_mizf" name="n2" src="mizf2" fileName="image/JuXing2.png" xy="85,468" size="630,530"/>
+    <image id="n3_mizf" name="n3" src="mizfd" fileName="image/ShuZiDi.png" xy="91,268"/>
+    <loader id="n4_mizf" name="ItemIcon1" xy="62,251" size="70,70" url="ui://km0iyz3hmizfe" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n5_mizf" name="ItemNum1" xy="160,285" pivot="0.5,0.5" anchor="true" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="999"/>
+    <list id="n15_mizf" name="List" xy="85,479" size="630,507" overflow="scroll" scrollBarFlags="2048" margin="5,0,0,0" defaultItem="ui://km0iyz3hmizfj" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n17_mizf" name="Instituting" src="mizfl" fileName="components/Instituting.xml" xy="85,1013" visible="false"/>
+    <component id="n6_mizf" name="CurDescLabel" src="mizff" fileName="components/DescLabel.xml" xy="252,1033" group="n18_mizf"/>
+    <component id="n9_mizf" name="NextDescLabel" src="mizff" fileName="components/DescLabel.xml" xy="252,1131" group="n18_mizf">
+      <Label icon="ui://km0iyz3hmizf5"/>
+    </component>
+    <image id="n13_mizf" name="NextFlag" src="mizf9" fileName="image/SanJiaoXing.png" xy="456,1100" group="n18_mizf"/>
+    <component id="n16_mizf" name="SkillDescLabel" src="mizfk" fileName="components/SkillDescLabel.xml" xy="252,1033" group="n18_mizf"/>
+    <component id="n10_mizf" name="UpLevelBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1269" group="n18_mizf">
+      <Button title="强 化"/>
+    </component>
+    <image id="n22_xxoc" name="UpShuZiDi" src="mizfd" fileName="image/ShuZiDi.png" xy="352,1223" group="n18_mizf"/>
+    <loader id="n11_mizf" name="ItemIcon2" xy="325,1208" size="65,65" group="n18_mizf" url="ui://km0iyz3hmizfe" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n12_mizf" name="ItemNum2" xy="418,1239" pivot="0.5,0.5" anchor="true" size="95,39" group="n18_mizf" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="10000"/>
+    <component id="n14_mizf" name="SelItemInfo" src="mizfc" fileName="components/InstituteItem.xml" xy="98,1027" group="n18_mizf"/>
+    <image id="n19_mizf" name="n19" src="mizfm" fileName="image/YuanJiaoJuXing.png" xy="84,1179" group="n18_mizf" scale="0.8,0.8"/>
+    <text id="n21_mizf" name="UpTimeDesc" xy="172,1191" pivot="0.5,0.5" anchor="true" size="111,34" group="n18_mizf" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="00:00:00"/>
+    <group id="n18_mizf" name="UpLevelInfo" xy="84,1027" size="630,354" visible="false" advanced="true"/>
+    <component id="n24_xxoc" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="531,1278"/>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9gxc7qgq">
+  <resources>
+    <component id="yu830" name="LoseTempleRemainsBoxView.xml" path="/" exported="true"/>
+    <image id="yu831" name="遗物.jpg" path="/"/>
+    <image id="yu835" name="XuanZeKuang2.png" path="/image/" exported="true"/>
+    <image id="yu836" name="XuanZeKuang3.png" path="/image/" exported="true"/>
+    <image id="yu837" name="XuanZeKuang1.png" path="/image/" exported="true"/>
+    <image id="yu838" name="YiWu.png" path="/image/"/>
+    <component id="cr2x9" name="BonfireSelectItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

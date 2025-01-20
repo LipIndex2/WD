@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,800">
+  <displayList>
+    <image id="n0_g2df" name="BG" src="wl911" fileName="image/BtnImg.png" xy="0,0" size="640,799">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <list id="n3_g2df" name="List" xy="0,22" size="640,300" lineGap="10" defaultItem="ui://qagbbv3rg2df5" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

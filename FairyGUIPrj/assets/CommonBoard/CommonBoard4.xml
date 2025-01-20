@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" extention="Label" designImageOffsetX="-35" designImageOffsetY="-285">
+  <displayList>
+    <loader id="n6_wtta" name="n6" xy="-99,-162" size="994,1878" url="ui://r5d9xy63wttab4r" fill="scaleFree"/>
+    <image id="n3_kqn1" name="bg" src="ec4q67" fileName="default_splash.png" pkg="suspvxy7" xy="0,0" size="800,1600" fillMethod="vt" fillClockwise="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n5_kqn1" name="parent" src="kqn1b4f" fileName="components/parent.xml" xy="399,0">
+      <relation target="" sidePair="center-center,top-top"/>
+    </component>
+  </displayList>
+</component>

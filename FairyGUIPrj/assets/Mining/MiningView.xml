@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageLayer="1">
+  <displayList>
+    <component id="n45_mgkh" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n57_eigi" name="n57" src="eigi1i" fileName="image/DingBuShiPeiDi.png" xy="0,0" size="800,1600">
+      <relation target="n45_mgkh" sidePair="width-width,height-height,center-center"/>
+    </image>
+    <loader id="n5_mgkh" name="BGLoader" xy="0,356" size="800,1243" url="ui://a1ymjkzfmgkhi" fill="scaleFree" clearOnPublish="true">
+      <relation target="n45_mgkh" sidePair="width-width,height-height,center-center,top-top"/>
+    </loader>
+    <image id="n9_mgkh" name="n9" src="mgkhg" fileName="image/QiPanDi.png" xy="84,498"/>
+    <image id="n6_mgkh" name="n6" src="mgkhr" fileName="image/YeQianDiBu.png" xy="0,1470" size="800,130">
+      <relation target="n45_mgkh" sidePair="width-width,center-center,top-bottom"/>
+    </image>
+    <component id="n0_mgkh" name="BlockContent" src="mgkh4" fileName="components/BlockContent.xml" xy="86,502"/>
+    <component id="n47_mgkh" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,365">
+      <relation target="n45_mgkh" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n8_mgkh" name="CloseBtn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="15,1490">
+      <relation target="n45_mgkh" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <image id="n11_mgkh" name="n11" src="mgkhk" fileName="image/HeiSeDi.png" xy="111,423" group="n14_mgkh"/>
+    <image id="n12_mgkh" name="ExIcon" src="mgkhn" fileName="image/DieGaoXiao.png" xy="97,414" group="n14_mgkh"/>
+    <text id="n13_mgkh" name="ExcavateNum" xy="216,449" pivot="0.5,0.5" anchor="true" size="70,39" group="n14_mgkh" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="0/60"/>
+    <group id="n14_mgkh" name="ExcavateInfo" xy="97,414" size="195,67"/>
+    <image id="n15_mgkh" name="n15" src="mgkhk" fileName="image/HeiSeDi.png" xy="534,423" group="n18_mgkh"/>
+    <image id="n19_mgkh" name="GemIcon" src="mgkhl" fileName="image/HongBaoShi.png" xy="525,414" group="n18_mgkh"/>
+    <text id="n17_mgkh" name="GemNum" xy="639,449" pivot="0.5,0.5" anchor="true" size="40,39" group="n18_mgkh" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="30"/>
+    <group id="n18_mgkh" name="GemInfo" xy="525,414" size="190,64"/>
+    <component id="n29_mgkh" name="Timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="280,430" size="178,40">
+      <Label title="17:22L55" titleColor="#c4ff26" titleFontSize="30"/>
+    </component>
+    <image id="n30_mgkh" name="n30" src="mgkh10" fileName="image/QiPanZheZhaoShang.png" xy="84,498"/>
+    <image id="n31_mgkh" name="n31" src="mgkhz" fileName="image/QiPanZheZhaoXia.png" xy="84,1120"/>
+    <image id="n22_mgkh" name="n22" src="mgkhy" fileName="image/HuangSeXian.png" xy="84,1124" size="632,4"/>
+    <text id="n25_mgkh" name="DepthValue" xy="124,1079" size="71,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffd800" align="center" strokeColor="#491916" strokeSize="3" text="72m"/>
+    <component id="n26_mgkh" name="RewardLabel" src="mgkh13" fileName="components/RewardLabel.xml" xy="4,1009" scale="0.85,0.85"/>
+    <image id="n32_mgkh" name="n32" src="mgkh12" fileName="image/DiXia2.png" xy="27,1225" size="745,220"/>
+    <image id="n20_mgkh" name="Kuang1" src="mgkhf" fileName="image/DaoJuDi.png" xy="75,1268"/>
+    <image id="n21_mgkh" name="Kuang2" src="mgkhf" fileName="image/DaoJuDi.png" xy="592,1268"/>
+    <component id="n1_mgkh" name="Prop1" src="mgkh5" fileName="components/PropItem.xml" xy="141,1333" pivot="0.5,0.5" anchor="true">
+      <Label icon="ui://a1ymjkzfmgkht"/>
+    </component>
+    <component id="n2_mgkh" name="Prop2" src="mgkh5" fileName="components/PropItem.xml" xy="657,1333" pivot="0.5,0.5" anchor="true">
+      <Label icon="ui://a1ymjkzfmgkhv"/>
+    </component>
+    <text id="n33_mgkh" name="BitNum" xy="153,1356" pivot="1,0.5" size="38,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" text="12"/>
+    <text id="n34_mgkh" name="BombNum" xy="672,1356" pivot="1,0.5" size="38,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" text="12"/>
+    <component id="n35_mgkh" name="CurrGold" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="53,60"/>
+    <component id="n36_mgkh" name="CurrDiamond" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="256,60"/>
+    <component id="n40_mgkh" name="AdBtn" src="mgkh15" fileName="components/AdBtn.xml" xy="252,1284"/>
+    <component id="n42_mgkh" name="PropAdBtn1" src="mgkh16" fileName="components/ADBtn2.xml" xy="106,1289"/>
+    <component id="n43_mgkh" name="PropAdBtn2" src="mgkh16" fileName="components/ADBtn2.xml" xy="625,1289"/>
+    <component id="n44_mgkh" name="TongXingZhengBtn" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="498,1486" scale="0.85,0.85">
+      <relation target="n45_mgkh" sidePair="right-right,bottom-bottom"/>
+      <Button title="前往矿洞通行证" titleFontSize="36"/>
+    </component>
+    <component id="n48_mgkh" name="RedPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="763,1501">
+      <relation target="n44_mgkh" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n49_mizf" name="n49" src="mgkhf" fileName="image/DaoJuDi.png" xy="252,1268" size="295,130" group="n53_mizf"/>
+    <image id="n51_mizf" name="n51" src="mgkhn" fileName="image/DieGaoXiao.png" xy="366,1303" group="n53_mizf"/>
+    <text id="n52_mizf" name="ExcavateNum2" xy="497,1356" pivot="1,0.5" size="38,36" group="n53_mizf" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" text="12"/>
+    <group id="n53_mizf" name="ExcavateInfo2" xy="252,1268" size="295,130" advanced="true"/>
+    <component id="n54_xxoc" name="AdRewardTip1" src="xxoc1f" fileName="components/ADRewardLabel.xml" xy="71,1378" visible="false" touchable="false">
+      <Label icon="ui://a1ymjkzfmgkht"/>
+    </component>
+    <component id="n55_xxoc" name="AdRewardTip2" src="xxoc1f" fileName="components/ADRewardLabel.xml" xy="332,1378" visible="false" touchable="false"/>
+    <component id="n56_xxoc" name="AdRewardTip3" src="xxoc1f" fileName="components/ADRewardLabel.xml" xy="591,1378" visible="false" touchable="false">
+      <Label icon="ui://a1ymjkzfmgkhv"/>
+    </component>
+  </displayList>
+</component>

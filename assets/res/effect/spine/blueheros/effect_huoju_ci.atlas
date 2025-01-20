@@ -1,0 +1,13 @@
+
+effect_huoju_ci.png
+size: 32,78
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+icon
+  rotate: false
+  xy: 2, 2
+  size: 28, 74
+  orig: 28, 74
+  offset: 0, 0
+  index: -1

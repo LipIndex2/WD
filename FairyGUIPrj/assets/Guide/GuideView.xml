@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <component id="n7_jjg8" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" size="800,1500"/>
+    <component id="n3_ivth" name="Block" src="ivthn" fileName="components/Block.xml" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n7_jjg8" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n8_jtqa" name="Parent" src="jtqaw" fileName="components/Parent.xml" xy="0,0"/>
+    <text id="n9_gqi2" name="Word1" xy="80,750" pivot="0.5,0.5" size="640,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" autoSize="height" strokeColor="#491914" strokeSize="3" autoClearText="true" text="">
+      <relation target="n6_ivth" sidePair="top-top"/>
+    </text>
+    <text id="n10_gi6y" name="Word2" xy="80,1250" pivot="0.5,0.5" size="640,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" autoSize="height" strokeColor="#491914" strokeSize="3" autoClearText="true" text="">
+      <relation target="n6_ivth" sidePair="bottom-bottom"/>
+    </text>
+    <component id="n6_ivth" name="Finger" src="ydk27" fileName="components/Finger.xml" xy="596,1028" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+</component>

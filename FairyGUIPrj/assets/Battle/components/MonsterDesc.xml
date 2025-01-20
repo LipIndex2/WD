@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="676,161" designImage="ui://qllfrhsrwl916b" designImageOffsetX="-64" designImageOffsetY="-1303" designImageLayer="1">
+  <displayList>
+    <image id="n59_p5yt" name="n59" src="p5yt5k" fileName="image/GuaiWuMiaoShu.png" xy="-23,0" size="722,136"/>
+    <text id="n60_p5yt" name="title" xy="204,65" pivot="0,0.5" anchor="true" size="418,110" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#491914" vAlign="middle" autoSize="shrink" autoClearText="true" text="有人用魔法让他们飞起来了"/>
+    <component id="n62_83sp" name="SpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="80,101"/>
+  </displayList>
+</component>

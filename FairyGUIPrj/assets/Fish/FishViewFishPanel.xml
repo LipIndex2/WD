@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n0_nxnc" name="BtnFish" src="nxnc1d" fileName="components/ButtonFish.xml" xy="0,800"/>
+    <component id="n1_ngcv" name="FishTips" src="ngcv1h" fileName="components/FishTips.xml" xy="198,1100" visible="false" touchable="false"/>
+    <component id="n3_w1jh" name="BtnStop" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="252,1250" visible="false">
+      <Button title="停止托管"/>
+    </component>
+    <component id="n2_w1jh" name="BtnStart" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1250" visible="false">
+      <Button title="开始托管"/>
+    </component>
+  </displayList>
+</component>

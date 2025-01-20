@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://tqn5ptp8hwg21" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n2_hwg2" name="BG" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="33,283"/>
+    <list id="n3_hwg2" name="List" xy="60,499" size="676,720" overflow="scroll" lineGap="16" defaultItem="ui://tqn5ptp8hwg23" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

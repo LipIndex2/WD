@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://lkjqth93yjaq1">
+  <displayList>
+    <list id="n0_rjro" name="ShowList" xy="85,211" size="630,1048" overflow="scroll" lineGap="10" defaultItem="ui://lkjqth93h5f616" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

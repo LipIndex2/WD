@@ -1,0 +1,69 @@
+
+11023.png
+size: 261,273
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: false
+  xy: 106, 0
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 171, 59
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 106, 57
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 0, 11
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 176, 190
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: false
+  xy: 176, 106
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 196, 41
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 0, 136
+  size: 175, 137
+  orig: 175, 137
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 172, 5
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1

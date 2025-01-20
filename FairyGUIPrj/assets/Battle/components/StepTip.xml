@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="152,107" pivot="0.5,0.5" anchor="true" designImage="ui://qllfrhsrlhxl63" designImageOffsetX="-586" designImageOffsetY="-818">
+  <displayList>
+    <image id="n51_p5yt" name="n51" src="p5yt1f" fileName="image/BuShuDi2.png" xy="0,0"/>
+    <image id="n52_p5yt" name="n52" src="p5yt1e" fileName="image/BuShu2.png" xy="17,3" size="52,52">
+      <relation target="n53_p5yt" sidePair="right-left"/>
+    </image>
+    <text id="n53_p5yt" name="Num" xy="99,28" pivot="0.5,0.5" anchor="true" size="56,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="+2"/>
+    <text id="n54_p5yt" name="n54" xy="50,53" pivot="0.5,0.5" size="52,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" text="步数"/>
+  </displayList>
+</component>

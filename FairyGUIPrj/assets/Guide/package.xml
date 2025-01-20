@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1ilwq66c">
+  <resources>
+    <component id="ydk21" name="GuideView.xml" path="/" exported="true"/>
+    <component id="ydk27" name="Finger.xml" path="/components/" exported="true"/>
+    <component id="ivthn" name="Block.xml" path="/components/"/>
+    <image id="fpk7q" name="2.png" path="/image/"/>
+    <image id="fpk7r" name="DianZhong2.png" path="/image/"/>
+    <image id="nsw7u" name="shouzhi.png" path="/image/"/>
+    <image id="jtqav" name="HeiSeMengBan.png" path="/image/" exported="true" scale="9grid" scale9grid="2,2,4,4"/>
+    <component id="jtqaw" name="Parent.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

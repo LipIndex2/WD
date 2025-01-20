@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="708,166" designImage="ui://lkjqth93qohw1f" designImageOffsetX="-46" designImageOffsetY="-369">
+  <displayList>
+    <loader id="n1_rqb9" name="BgSp" xy="0,0" size="708,166" url="ui://lkjqth93rqb95" autoSize="true"/>
+    <text id="n2_rqb9" name="NameShow" xy="78,26" pivot="0,0.5" size="276,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#fff286" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="累计观看广告奖励"/>
+    <component id="n3_rqb9" name="ProgressShow" src="rqb98" fileName="components/ProgressSpecial.xml" xy="77,90">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n4_rqb9" name="BtnGet" src="rqb9b" fileName="components/ButtonGetS.xml" xy="496,25"/>
+    <component id="n5_qohw" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="633,32"/>
+  </displayList>
+</component>

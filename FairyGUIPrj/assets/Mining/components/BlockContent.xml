@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="628,732" overflow="hidden" mask="n6_mgkh">
+  <displayList>
+    <image id="n6_mgkh" name="n6" src="mgkhg" fileName="image/QiPanDi.png" xy="-2,0"/>
+    <component id="n4_mgkh" name="Content" src="mgkhs" fileName="components/Content.xml" xy="0,0"/>
+    <component id="n7_mgkh" name="Effect1" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="284,391"/>
+    <component id="n8_xxoc" name="AnimationEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="301,367"/>
+  </displayList>
+  <transition name="zuantou" frameRate="30">
+    <item time="0" type="XY" target="n8_xxoc" tween="true" startValue="-,0" endValue="-,900" duration="30" ease="Linear"/>
+  </transition>
+</component>

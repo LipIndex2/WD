@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="286,75" extention="Button" designImageOffsetX="-106" designImageOffsetY="-1421">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="TabState" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n4_yjaq" name="BgUp" src="uvlm3k" fileName="image/YeQian2.png" xy="0,0">
+      <gearDisplay controller="button" pages="0,2"/>
+    </image>
+    <image id="n3_yjaq" name="BgDown" src="uvlm3l" fileName="image/YeQian1.png" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <image id="n9_pitk" name="Lock" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="53,14" group="n10_srmr" visible="false">
+      <gearDisplay controller="TabState" pages="1"/>
+    </image>
+    <text id="n8_uvlm" name="title" xy="98,10" pivot="0.5,0.5" size="89,49" group="n10_srmr" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#e1ae83" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="日 常">
+      <gearColor controller="button" pages="0,2" values="#e1ae83,#491914|#e1ae83,#491914" default="#ffffff,#491914"/>
+    </text>
+    <group id="n10_srmr" name="n10" xy="53,10" size="134,49" advanced="true">
+      <gearXY controller="TabState" pages="0,1" values="53,10|76,10"/>
+    </group>
+    <component id="n11_srmr" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="270,13"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

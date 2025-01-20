@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_mgkh" name="n0" src="mgkh14" fileName="image/ChengAnNiu.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_mgkh" name="title" xy="34,-2" size="296,112" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="4" singleLine="true" autoClearText="true" text="2/2">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n2_mgkh" name="n2" src="10ewu6j" fileName="GuangGao.png" pkg="rqg67c20" xy="64,34"/>
+  </displayList>
+  <Button/>
+</component>

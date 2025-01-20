@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,224" designImage="ui://qrbaplf6bcxit" designImageOffsetX="-35" designImageOffsetY="-208">
+  <displayList>
+    <image id="n0_fe0v" name="bg" src="fe0vk" fileName="image/YuanJiaoJuXing2.png" xy="0,0" size="500,224">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_fe0v" name="BtnBait" src="l7xms" fileName="components/ButtonBait.xml" xy="217,20"/>
+    <component id="n7_bcxi" name="BtnTool1" src="fe0vo" fileName="components/ButtonRod.xml" xy="28,20"/>
+    <component id="n3_fe0v" name="BtnTool2" src="fe0vp" fileName="components/ButtonTool.xml" xy="312,21"/>
+    <component id="n4_fe0v" name="BtnTool3" src="fe0vp" fileName="components/ButtonTool.xml" xy="218,113"/>
+    <component id="n5_fe0v" name="BtnTool4" src="fe0vp" fileName="components/ButtonTool.xml" xy="312,112"/>
+    <component id="n6_fe0v" name="BtnAttr" src="fe0vq" fileName="components/ButtonAttr.xml" xy="418,19"/>
+  </displayList>
+</component>

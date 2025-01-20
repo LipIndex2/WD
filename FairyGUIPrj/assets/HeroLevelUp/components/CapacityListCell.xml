@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="356,122">
+  <displayList>
+    <component id="n0_n5cf" name="CapacityCell" src="xq151" fileName="components/CapacityCell.xml" xy="0,0" visible="false" touchable="false"/>
+  </displayList>
+  <transition name="ScaleAni">
+    <item time="0" type="Scale" target="n0_n5cf" tween="true" startValue="0,0" endValue="1.1,1.1" duration="4"/>
+    <item time="4" type="Scale" target="n0_n5cf" tween="true" startValue="1.1,1.1" endValue="1,1" duration="4"/>
+  </transition>
+</component>

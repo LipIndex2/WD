@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kmd03jrg">
+  <resources>
+    <component id="jxlb0" name="BattlePause.xml" path="/" exported="true"/>
+    <image id="jxlb1" name="Zu 37.png" path="/image/"/>
+    <image id="jxlb2" name="TuCeng 9.png" path="/image/"/>
+    <image id="jxlb3" name="Qua1.png" path="/image/"/>
+    <image id="jxlb4" name="Qua2.png" path="/image/"/>
+    <image id="jxlb5" name="Qua3.png" path="/image/"/>
+    <image id="jxlb6" name="ZhongDuAnNiu.png" path="/image/"/>
+    <image id="jxlb7" name="DaHengFuLan.png" path="/image/"/>
+    <image id="jxlb8" name="战斗吧322SPE.jpg" path="/"/>
+    <component id="jxlbd" name="ContinueBtn.xml" path="/components/"/>
+    <component id="jxlbe" name="ExitBtn.xml" path="/components/"/>
+    <component id="jxlbf" name="SkillItem.xml" path="/components/"/>
+    <image id="o3y1g" name="JiNenQiPaoKuang.png" path="/image/" scale="9grid" scale9grid="151,68,20,136"/>
+    <component id="o3y1h" name="SkillDesc.xml" path="/components/"/>
+    <component id="o3y1i" name="skillLable.xml" path="/components/"/>
+    <image id="zysfj" name="JieShiDi.png" path="/image/" scale="9grid" scale9grid="31,24,11,12"/>
+    <component id="zysfk" name="DescItem.xml" path="/components/"/>
+    <image id="zysfl" name="ZhongJi.png" path="/image/"/>
+    <image id="zysfm" name="DunPai.png" path="/image/"/>
+    <image id="zysfn" name="PoJia.png" path="/image/"/>
+    <image id="zysfo" name="结算图标解释.png" path="/"/>
+    <image id="enj6p" name="BaoJi.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

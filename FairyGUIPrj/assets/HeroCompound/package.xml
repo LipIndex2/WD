@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="aitxcfm2">
+  <resources>
+    <component id="frme0" name="HeroCompoundView.xml" path="/" exported="true"/>
+    <image id="frme1" name="属性02_.jpg" path="/"/>
+    <image id="frme2" name="JuXing.png" path="/image/" scale="9grid" scale9grid="12,12,24,24"/>
+    <component id="frme3" name="CompoundItem.xml" path="/components/" exported="true"/>
+    <image id="frme5" name="JianTou.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

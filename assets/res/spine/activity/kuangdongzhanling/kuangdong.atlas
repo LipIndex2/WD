@@ -1,0 +1,104 @@
+
+kuangdong.png
+size: 905,600
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beijing
+  rotate: false
+  xy: 0, 220
+  size: 802, 380
+  orig: 802, 380
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 803, 220
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+jianguo
+  rotate: true
+  xy: 512, 7
+  size: 115, 140
+  orig: 115, 140
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 821, 84
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 821, 151
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+ling1
+  rotate: true
+  xy: 803, 410
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+ling2
+  rotate: true
+  xy: 803, 278
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+ling3
+  rotate: true
+  xy: 653, 0
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+ling4
+  rotate: false
+  xy: 823, 24
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 44
+  size: 271, 175
+  orig: 271, 175
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 750, 0
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 272, 23
+  size: 196, 239
+  orig: 196, 239
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 690, 98
+  size: 130, 121
+  orig: 130, 121
+  offset: 0, 0
+  index: -1
+zhalan
+  rotate: false
+  xy: 512, 123
+  size: 177, 96
+  orig: 177, 96
+  offset: 0, 0
+  index: -1

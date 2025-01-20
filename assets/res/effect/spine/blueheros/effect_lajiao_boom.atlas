@@ -1,0 +1,118 @@
+
+effect_lajiao_boom.png
+size: 944,254
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+2/0
+  rotate: false
+  xy: 859, 169
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+2/1
+  rotate: false
+  xy: 2, 2
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+2/2
+  rotate: false
+  xy: 266, 125
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+2/3
+  rotate: false
+  xy: 2, 121
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+2/4
+  rotate: false
+  xy: 135, 123
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+boom/k_00055
+  rotate: false
+  xy: 395, 136
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00057
+  rotate: false
+  xy: 511, 136
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00058
+  rotate: false
+  xy: 627, 136
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00060
+  rotate: false
+  xy: 743, 136
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00061
+  rotate: false
+  xy: 121, 3
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00063
+  rotate: false
+  xy: 237, 5
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00064
+  rotate: false
+  xy: 353, 7
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00065
+  rotate: false
+  xy: 469, 18
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00066
+  rotate: false
+  xy: 585, 18
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00068
+  rotate: false
+  xy: 701, 18
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+boom/k_00069
+  rotate: false
+  xy: 817, 18
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="i8zxhpma">
+  <resources>
+    <component id="smc10" name="ActivityCombatView.xml" path="/" exported="true"/>
+    <component id="smc12" name="PosterCell.xml" path="/components/" exported="true"/>
+    <image id="smc16" name="HuoDongHaiBaoLieBiaoHuiSeMengCeng.png" path="/image/"/>
+    <image id="smc18" name="HongShiZhong.png" path="/image/"/>
+    <image id="smc19" name="WeiKaiQiShiJianTiao.png" path="/image/" scale="9grid" scale9grid="58,12,116,24"/>
+    <image id="smc1a" name="LanAnNiuZuo.png" path="/image/"/>
+    <image id="smc1b" name="ZhuXianZhangJieTuBiao.png" path="/image/"/>
+    <component id="smc1c" name="BtnMainChapter.xml" path="/components/"/>
+    <image id="smc1e" name="活动关卡界面.png" path="/"/>
+    <image id="fr82i" name="GengDuoYingXiongKa.png" path="/image/" exported="true"/>
+    <image id="fr82j" name="ZhouChangJiFen.png" path="/image/" exported="true"/>
+    <image id="fr82k" name="JiangShiTuBiao.png" path="/image/" exported="true"/>
+    <image id="cfi8m" name="未开启修改示意图.png" path="/"/>
+    <image id="nmf2n" name="Suo.png" path="/image/"/>
+    <image id="m5mwo" name="MeiRiTaoZhan.png" path="/image/" exported="true"/>
+    <image id="dbwmq" name="Big40000.png" path="/image/" exported="true"/>
+    <image id="pp4ur" name="JingJiChangHengFu.png" path="/image/"/>
+    <image id="pp4us" name="SuoDi.png" path="/image/"/>
+    <image id="pp4ut" name="HuaYuanJingJiChang.png" path="/image/"/>
+    <component id="pp4uu" name="ArenaItem.xml" path="/components/" exported="true"/>
+    <image id="pp4uv" name="活动关卡界2面2.jpg" path="/"/>
+    <image id="pp4uw" name="Suo2.png" path="/image/"/>
+    <image id="pp4ux" name="JingJiRuKou.png" path="/image/"/>
+    <image id="e4loy" name="QianWang.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

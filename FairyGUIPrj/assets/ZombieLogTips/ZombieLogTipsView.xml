@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n0_fr82" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,557" size="730,496"/>
+    <image id="n11_fr82" name="n11" src="fr827" fileName="image/JinRiZhuFuShangTu.png" xy="44,178" visible="false"/>
+    <image id="n1_fr82" name="n1" src="fr821" fileName="image/HuoDongBiaoTiHengFuZi.png" xy="15,532"/>
+    <text id="n2_fr82" name="Name" xy="395,544" pivot="0.5,0.5" size="10,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text=""/>
+    <text id="n7_fr82" name="Describe" xy="139,719" pivot="0.5,0.5" size="524,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="height" strokeColor="#491914" strokeSize="3" autoClearText="true" text="攻击伤害增加18%"/>
+    <component id="n9_fr82" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="359,1085"/>
+    <component id="n10_fr82" name="BtnSkip" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,870" scale="1.2,1.2">
+      <Button title="前 往"/>
+    </component>
+  </displayList>
+</component>

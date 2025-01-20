@@ -1,0 +1,90 @@
+
+effect_che.png
+size: 954,921
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+che
+  rotate: true
+  xy: 354, 39
+  size: 234, 224
+  orig: 234, 224
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 780, 483
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+light6
+  rotate: false
+  xy: 780, 747
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: false
+  xy: 780, 613
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+point17
+  rotate: false
+  xy: 851, 417
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 914, 617
+  size: 13, 128
+  orig: 13, 128
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 2, 13
+  size: 350, 260
+  orig: 350, 260
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 589, 2
+  size: 479, 260
+  orig: 479, 260
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: false
+  xy: 2, 564
+  size: 776, 355
+  orig: 776, 355
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: false
+  xy: 2, 275
+  size: 585, 287
+  orig: 585, 287
+  offset: 0, 0
+  index: -1
+tu6
+  rotate: false
+  xy: 589, 484
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 910, 576
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

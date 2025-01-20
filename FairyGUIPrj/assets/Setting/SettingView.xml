@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://ehn3wwnkmbrsk">
+  <displayList>
+    <component id="n0_vczw" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-16,285" size="834,1074">
+      <Label title="设 置"/>
+    </component>
+    <image id="n2_vczw" name="bg1" src="vczw6" fileName="image/Qian.png" xy="85,477" size="630,308" visible="false"/>
+    <text id="n20_vczw" name="VersionShow" xy="287,1216" pivot="0.5,0.5" size="233,32" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#54301e" align="center" vAlign="middle" autoClearText="true" text="当前版本：1.2.0.0001"/>
+    <text id="n21_vczw" name="PublishShow" xy="213,1216" pivot="0.5,0.5" size="378,32" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="22" color="#54301e" align="center" vAlign="middle" text="上海游兰网络科技有限公司武汉分公司"/>
+    <component id="n12_vczw" name="BtnCopy" src="vczw9" fileName="components/ButtonCopy.xml" xy="86,1040"/>
+    <component id="n17_vczw" name="BtnIdeaResult" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="406,872">
+      <Button title="意见反馈"/>
+    </component>
+    <component id="n18_vczw" name="BtnProto1" src="vczwj" fileName="components/BtnProto.xml" xy="201,1141">
+      <Button title="使用条款"/>
+    </component>
+    <component id="n19_vczw" name="BtnProto2" src="vczwj" fileName="components/BtnProto.xml" xy="508,1141">
+      <Button title="隐私政策"/>
+    </component>
+    <component id="n29_dbwm" name="BtnSupport" src="dbwml" fileName="components/BtnGame.xml" xy="99,872">
+      <Button title="客服"/>
+    </component>
+    <text id="n3_vczw" name="name_music" xy="233,549" pivot="1,0.5" size="84,54" group="n22_fznd" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#fffcbd" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="音乐"/>
+    <component id="n7_vczw" name="TogMusic" src="vczwb5b" fileName="Toggle1.xml" pkg="zokic7y2" xy="354,544" group="n22_fznd"/>
+    <group id="n22_fznd" name="GpMusic" xy="233,544" size="331,64" advanced="true"/>
+    <text id="n6_vczw" name="name_audio" xy="233,667" pivot="1,0.5" size="84,54" group="n23_fznd" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#fffcbd" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="音效"/>
+    <component id="n8_vczw" name="TogAudio" src="vczwb5b" fileName="Toggle1.xml" pkg="zokic7y2" xy="354,661" group="n23_fznd"/>
+    <group id="n23_fznd" name="GpAudio" xy="233,661" size="331,64" advanced="true"/>
+    <text id="n24_fznd" name="name_lang" xy="233,690" pivot="1,0.5" size="84,54" group="n26_fznd" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#fffcbd" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="语言"/>
+    <component id="n25_fznd" name="CbLang" src="fznd3" fileName="ComboBox.xml" pkg="exeypfks" xy="354,686" group="n26_fznd">
+      <ComboBox visibleItemCount="10"/>
+    </component>
+    <group id="n26_fznd" name="GpLang" xy="233,686" size="331,62" visible="false" advanced="true"/>
+  </displayList>
+</component>

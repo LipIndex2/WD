@@ -1,0 +1,13 @@
+
+jiantou_TB.png
+size: 38,48
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiantou
+  rotate: false
+  xy: 0, 0
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1

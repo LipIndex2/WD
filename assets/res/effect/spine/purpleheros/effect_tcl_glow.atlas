@@ -1,0 +1,55 @@
+
+effect_tcl_glow.png
+size: 364,252
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+4_guangyu_001
+  rotate: false
+  xy: 0, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 252, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tex_lizi_06
+  rotate: false
+  xy: 252, 131
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+zhan0
+  rotate: true
+  xy: 0, 0
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+zhan1
+  rotate: true
+  xy: 122, 0
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+zhan2
+  rotate: true
+  xy: 130, 130
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+zhan3
+  rotate: true
+  xy: 244, 6
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+effect_box_glow.png
+size: 512,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+card1
+  rotate: false
+  xy: 2, 315
+  size: 238, 332
+  orig: 238, 332
+  offset: 0, 0
+  index: -1
+mh_tex_point_05
+  rotate: false
+  xy: 2, 57
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+point12
+  rotate: false
+  xy: 260, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+point16
+  rotate: false
+  xy: 242, 391
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring05
+  rotate: false
+  xy: 260, 59
+  size: 231, 330
+  orig: 231, 330
+  offset: 0, 0
+  index: -1

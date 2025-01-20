@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="121,175">
+  <displayList>
+    <image id="n0_kj0y" name="n0" src="kj0yp" fileName="image/JuXing31.png" xy="0,0"/>
+    <component id="n1_kj0y" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="0,49" pivot="0.5,0.5" scale="0.9,0.9"/>
+    <text id="n2_kj0y" name="Day" xy="26,5" pivot="0.5,0.5" size="68,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="30天"/>
+  </displayList>
+</component>

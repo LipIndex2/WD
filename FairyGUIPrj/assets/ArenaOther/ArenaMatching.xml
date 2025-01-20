@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://5mk2qj8mwpump">
+  <displayList>
+    <component id="n1_wpum" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n0_wpum" name="n0" src="wpum2" fileName="imange/HengLaBeiJing.png" xy="0,0" size="800,1600">
+      <relation target="n1_wpum" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n2_wpum" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799" scale="1.15,1.15"/>
+    <text id="n3_wpum" name="n3" xy="400,990" pivot="0.5,0.5" anchor="true" size="238,46" group="n7_wpum" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="正在寻找对手..."/>
+    <component id="n5_wpum" name="CloseBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1304" group="n7_wpum">
+      <Button title="取消匹配"/>
+    </component>
+    <component id="n6_wpum" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,764" group="n7_wpum"/>
+    <group id="n7_wpum" name="MatchingGroup" xy="252,764" size="296,652" advanced="true"/>
+    <component id="n8_wpum" name="MatchInfo" src="wpum19" fileName="MatchInfo.xml" xy="0,70"/>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="177,210" designImage="ui://pud1uv8npd0x3" designImageOffsetX="-215" designImageOffsetY="-653" designImageLayer="1">
+  <displayList>
+    <image id="n4_pd0x" name="n4" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="0,0" size="177,210">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_tm53" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="30,22"/>
+    <text id="n1_tm53" name="Num" xy="34,136" pivot="0.5,0.5" size="108,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="5000">
+      <relation target="" sidePair="bottom-bottom"/>
+    </text>
+    <text id="n3_lwoh" name="HeroNum" xy="135,97" pivot="1,0.5" size="10,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="right" strokeColor="#491914" strokeSize="4" text=""/>
+  </displayList>
+</component>

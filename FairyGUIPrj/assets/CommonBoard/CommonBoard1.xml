@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,974" extention="Label" designImageOffsetX="-35" designImageOffsetY="-448">
+  <displayList>
+    <image id="n4_zysf" name="bg" src="zysfb4h" fileName="image/2Ji3JiBanZi.png" xy="-35,-21" size="796,1013">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n2_tpft" name="BtnClose" src="tpftb40" fileName="components/ButtonClose.xml" xy="612,51" aspect="true">
+      <relation target="" sidePair=""/>
+      <relation target="n4_zysf" sidePair="center-center"/>
+    </component>
+    <text id="n0_tpft" name="title" xy="309,62" pivot="0.5,0.5" size="107,59" aspect="true" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" singleLine="true" autoClearText="true" text="标 题">
+      <relation target="" sidePair=""/>
+      <relation target="n4_zysf" sidePair="center-center"/>
+    </text>
+    <list id="n3_yjaq" name="TabList" xy="72,973" size="587,75" visible="false" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://r5d9xy63yjaqb4b" align="center" autoClearItems="true">
+      <relation target="" sidePair="top-bottom"/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

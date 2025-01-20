@@ -1,0 +1,55 @@
+
+15003.png
+size: 723,321
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: false
+  xy: 486, 37
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 669, 222
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 359, 2
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 4
+  size: 317, 358
+  orig: 317, 358
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 526, 143
+  size: 142, 178
+  orig: 142, 178
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 526, 0
+  size: 142, 178
+  orig: 142, 178
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 359, 67
+  size: 166, 254
+  orig: 166, 254
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110">
+  <displayList>
+    <component id="n0_rmxg" name="SkillCell" src="83sp3o" fileName="HeroSkillCellItem.xml" pkg="gn62pyk3" xy="55,55" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+</component>

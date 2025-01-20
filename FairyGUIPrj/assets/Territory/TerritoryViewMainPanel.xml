@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://vmjqwampule58">
+  <controller name="StateShow" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n8_u9g0" name="bg1" src="u9g0r" fileName="image/YuanJiaoJuXing2.png" xy="98,13" size="359,64"/>
+    <text id="n9_u9g0" name="NameShow" xy="177,20" pivot="0,0.5" size="176,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" vAlign="middle" autoClearText="true" text="Pinko的宗门"/>
+    <component id="n14_u9g0" name="BtnRent" src="jpdoj" fileName="components/ButtonMod.xml" xy="20,1128" visible="false">
+      <gearXY controller="StateShow" pages="1" values="20,1140" default="20,1128"/>
+      <Button title="租赁" icon="ui://vmjqwampjpdod"/>
+    </component>
+    <component id="n19_u9g0" name="BtnBack" src="jpdoj" fileName="components/ButtonMod.xml" xy="30,1313" size="79,72">
+      <gearDisplay controller="StateShow" pages="1"/>
+      <Button title="回家" icon="ui://vmjqwampu9g0t"/>
+    </component>
+    <component id="n15_u9g0" name="BtnNeighbour" src="jpdof" fileName="components/ButtonNeighbour.xml" xy="3,1264">
+      <gearDisplay controller="StateShow" pages="0"/>
+    </component>
+    <component id="n16_u9g0" name="BtnCart" src="jpdoj" fileName="components/ButtonMod.xml" xy="144,1304" size="98,89">
+      <gearDisplay controller="StateShow" pages="0"/>
+      <Button title="灵狐" icon="ui://vmjqwampjpdok"/>
+    </component>
+    <component id="n17_u9g0" name="BtnRecord" src="jpdoj" fileName="components/ButtonMod.xml" xy="255,1298">
+      <gearDisplay controller="StateShow" pages="0"/>
+      <Button title="日志" icon="ui://vmjqwampjpdob"/>
+    </component>
+    <component id="n18_u9g0" name="BtnFresh" src="jpdoj" fileName="components/ButtonMod.xml" xy="359,1298" visible="false">
+      <gearDisplay controller="StateShow" pages="0"/>
+      <Button title="刷新" icon="ui://vmjqwampjpdoc"/>
+    </component>
+    <image id="n10_u9g0" name="bg2" src="u9g0r" fileName="image/YuanJiaoJuXing2.png" xy="239,92" size="210,58" group="n20_hp41"/>
+    <image id="n12_u9g0" name="deco_cart" src="u9g0s" fileName="image/TuiChe2.png" xy="218,80" group="n20_hp41" scale="0.8,0.8"/>
+    <text id="n13_u9g0" name="NumShow" xy="319,97" pivot="0.5,0.5" size="55,42" group="n20_hp41" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" autoClearText="true" text="1/1"/>
+    <component id="n11_u9g0" name="BtnAdd" src="c6fnb5h" fileName="ButtonAddCurrency.xml" pkg="zokic7y2" xy="256,91" group="n20_hp41"/>
+    <group id="n20_hp41" name="GpCart" xy="218,80" size="238,89" visible="false" advanced="true"/>
+    <component id="n7_u9g0" name="HeadShow" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="7,12" scale="0.76,0.76"/>
+    <component id="n2_q0ab" name="ItemShow0" src="q0abo" fileName="components/ItemShow.xml" xy="13,565"/>
+    <component id="n3_q0ab" name="ItemShow1" src="q0abo" fileName="components/ItemShow.xml" xy="133,565"/>
+    <component id="n4_q0ab" name="ItemShow2" src="q0abo" fileName="components/ItemShow.xml" xy="253,565"/>
+    <component id="n5_q0ab" name="ItemShow3" src="q0abo" fileName="components/ItemShow.xml" xy="373,565"/>
+    <component id="n6_q0ab" name="ItemShow4" src="q0abo" fileName="components/ItemShow.xml" xy="493,565"/>
+    <component id="n21_mj3j" name="BtnModGift" src="k7fay" fileName="components/ButtonGift.xml" xy="19,1126" alpha="0"/>
+    <component id="n22_mj3j" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="70,1230"/>
+    <component id="n23_mj3j" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="22,1221" size="97,24"/>
+  </displayList>
+</component>

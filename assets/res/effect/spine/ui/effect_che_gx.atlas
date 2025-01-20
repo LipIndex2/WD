@@ -1,0 +1,27 @@
+
+effect_che_gx.png
+size: 594,550
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+dian9
+  rotate: false
+  xy: 550, 485
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+diguang01
+  rotate: false
+  xy: 2, 2
+  size: 546, 546
+  orig: 546, 546
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: true
+  xy: 550, 505
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

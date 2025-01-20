@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <image id="n0_eit3" name="n0" src="eit32" fileName="image/WuPinLaiYuantips.png" xy="158,673" size="483,254" group="n6_eit3"/>
+    <component id="n1_eit3" name="ItemCall" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="175,690" group="n6_eit3"/>
+    <text id="n3_eit3" name="WayDesc" xy="300,760" pivot="0,0.5" size="76,34" group="n6_eit3" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="来源："/>
+    <text id="n2_eit3" name="Name" xy="300,705" pivot="0,0.5" size="108,36" group="n6_eit3" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="道具名称"/>
+    <text id="n4_eit3" name="Desc" xy="183,818" size="424,98" group="n6_eit3" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" leading="13" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="进入战斗时，位于该区域的英雄随机变为阵容进入战斗时，位于该区域的英雄随机变为阵容"/>
+    <list id="n5_eit3" name="GetWayList" xy="363,756" size="256,37" group="n6_eit3" layout="row" overflow="scroll" defaultItem="ui://h28o2l07eit33" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <group id="n6_eit3" name="GpItemShow" xy="158,673" size="483,254" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://ldijpvxwocqm3" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_ocqm" name="n0" src="ocqm2" fileName="Image/ChaHua.png" xy="95,153"/>
+    <component id="n1_ocqm" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,428"/>
+    <image id="n2_ocqm" name="n2" src="ocqm5" fileName="Image/HuoDongBiaoTiHengFu.png" xy="15,430"/>
+    <text id="n3_ocqm" name="n3" xy="282,439" pivot="0.5,0.5" size="218,62" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="战斗3倍速"/>
+    <image id="n6_ocqm" name="n6" src="ocqm6" fileName="Image/HuoDongHaiBaoLieBiaoWenBenKuang.png" xy="85,611" size="630,410"/>
+    <image id="n8_ocqm" name="n8" src="ocqm7" fileName="Image/QianZi.png" xy="300,664"/>
+    <image id="n9_ocqm" name="n9" src="ocqm8" fileName="Image/QianZiXiao.png" xy="330,695"/>
+    <image id="n10_ocqm" name="n10" src="ocqm9" fileName="Image/ShiJian.png" xy="352,712"/>
+    <image id="n11_ocqm" name="n11" src="ocqmb" fileName="Image/JiaSu.png" xy="391,781"/>
+    <text id="n12_ocqm" name="n12" xy="431,775" pivot="0.5,0.5" size="21,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="3"/>
+    <text id="n13_ocqm" name="n13" xy="325,852" pivot="0.5,0" size="150,106" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" autoSize="none" strokeColor="#491916" strokeSize="3" text="战斗3倍速"/>
+    <component id="n14_ocqm" name="Btn" src="ocqmc" fileName="components/Btn.xml" xy="234,1153"/>
+  </displayList>
+</component>

@@ -1,0 +1,27 @@
+
+lianyu.png
+size: 165,63
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 148, 63
+  orig: 148, 63
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 149, 18
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 149, 35
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <component id="n9_h6lm" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n10_h6lm" name="Block" src="h6lm5" fileName="components/BlockDrag.xml" xy="0,0">
+      <relation target="n9_h6lm" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <text id="n5_cy08" name="Word" xy="258,1001" size="284,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" strokeColor="#491914" strokeSize="3" autoClearText="true" text="来试试四连消吧"/>
+    <component id="n8_r7ud" name="ShouZhi" src="r7ud2" fileName="components/ShouZhi.xml" xy="313,580" visible="false"/>
+  </displayList>
+</component>

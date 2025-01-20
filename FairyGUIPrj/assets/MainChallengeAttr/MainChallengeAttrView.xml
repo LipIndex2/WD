@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <loader id="n3_f0g0" name="BtnClose" xy="0,0" size="800,1600"/>
+    <image id="n0_wodn" name="bg_attr" src="fnrr1" fileName="image/GongJiLiQiPao.png" xy="0,0" group="n2_wodn"/>
+    <text id="n1_wodn" name="AttrShow" xy="10,17" pivot="0.5,0.5" size="212,35" group="n2_wodn" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="全局攻击力 +30%"/>
+    <group id="n2_wodn" name="GpAttr" xy="0,0" size="230,83" advanced="true"/>
+  </displayList>
+</component>

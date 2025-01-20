@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="exxoc5e9">
+  <resources>
+    <component id="digc0" name="EnergyBuyView.xml" path="/" exported="true"/>
+    <image id="digc1" name="体力购买参数.png" path="/"/>
+    <image id="digc2" name="TiLiJieMianDaTaiYang.png" path="/image/"/>
+    <image id="digc3" name="TiLiJieMianZi.png" path="/image/"/>
+    <image id="digc4" name="TiLiJieMianCheng.png" path="/image/"/>
+    <component id="digc5" name="ItemBuy.xml" path="/components/" exported="true"/>
+    <component id="digc6" name="ButtonBlue.xml" path="/components/" exported="true"/>
+    <component id="digc7" name="ButtonOrange.xml" path="/components/" exported="true"/>
+    <component id="8i6c8" name="ItemFree.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

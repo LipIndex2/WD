@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="198,75" pivot="0.5,0.5" extention="Button" designImage="ui://8fnzs9ndhp41l" designImageOffsetX="-500" designImageOffsetY="-647">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_jlw6" name="bg" src="jlw6b" fileName="image/TuCeng27.png" xy="0,0" size="198,75"/>
+    <text id="n7_jlw6" name="title" xy="37,16" pivot="0,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#663b18" strokeSize="3" text="购买灵狐"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

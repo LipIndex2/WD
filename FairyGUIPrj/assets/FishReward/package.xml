@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r6vsefez">
+  <resources>
+    <component id="sslz1" name="FishRewardView.xml" path="/" exported="true"/>
+    <image id="sslz2" name="BiaoTiXiaoHengFu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,270" designImage="ui://g34coqig9nol1p" designImageOffsetY="-655">
+  <displayList>
+    <list id="n8_bdas" name="List" xy="20,0" size="768,270" layout="flow_hz" overflow="scroll" scrollBarFlags="928" scrollBar="hidden" lineGap="8" colGap="-5" defaultItem="ui://g34coqigbdas16" renderOrder="descent" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

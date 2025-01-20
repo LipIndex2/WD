@@ -1,0 +1,111 @@
+
+nangua_TB.png
+size: 217,78
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: false
+  xy: 146, 0
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 69, 30
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: true
+  xy: 176, 50
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+lun3
+  rotate: true
+  xy: 20, 6
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+lun4
+  rotate: false
+  xy: 0, 0
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+nangua
+  rotate: false
+  xy: 0, 24
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+tangguo1
+  rotate: false
+  xy: 194, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+tangguo2
+  rotate: true
+  xy: 176, 0
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+tangguo3
+  rotate: false
+  xy: 47, 5
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+tangguo4
+  rotate: false
+  xy: 176, 20
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+tengman1
+  rotate: false
+  xy: 109, 1
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+tengman2
+  rotate: false
+  xy: 146, 15
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+tengman3
+  rotate: true
+  xy: 69, 0
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+tengman4
+  rotate: false
+  xy: 101, 35
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+touguan
+  rotate: false
+  xy: 133, 47
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1

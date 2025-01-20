@@ -1,0 +1,62 @@
+
+11027.png
+size: 834,147
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eye
+  rotate: false
+  xy: 252, 0
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 760, 18
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 685, 17
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 685, 50
+  size: 97, 149
+  orig: 97, 149
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 443, 2
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 578, 2
+  size: 106, 145
+  orig: 106, 145
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 252, 25
+  size: 190, 122
+  orig: 190, 122
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 0, 0
+  size: 251, 147
+  orig: 251, 147
+  offset: 0, 0
+  index: -1

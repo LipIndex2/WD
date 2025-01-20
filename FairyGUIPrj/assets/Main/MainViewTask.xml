@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <loader id="n13_g5lw" name="BgSp" xy="178,310" size="443,407" align="center" vAlign="middle" fill="scale"/>
+    <component id="n5_k23u" name="ProgressShow" src="k23u6p" fileName="components/task/ProgressTask.xml" xy="187,915" size="410,40">
+      <ProgressBar max="100"/>
+    </component>
+    <image id="n6_k23u" name="bg_t" src="iw5u2" fileName="BiaoTiXiaoHengFu.png" pkg="rqg67c20" xy="191,755" size="418,65" visible="false"/>
+    <image id="n1_k23u" name="deco" src="k23u6k" fileName="image/task/RiLi.png" xy="164,898" size="70,70"/>
+    <text id="n7_k23u" name="NameShow" xy="307,762" pivot="0.5,0.5" size="182,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="1.永恒之森"/>
+    <text id="n8_k23u" name="RecordShow" xy="319,815" pivot="0.5,0.5" size="162,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="最高记录：0"/>
+    <component id="n9_k23u" name="BtnReward" src="k23u6u" fileName="components/task/ButtonTaskReward1.xml" xy="110,140" visible="false"/>
+    <component id="n2_k23u" name="BtnReward1" src="k23u6l" fileName="components/task/ButtonTaskReward2.xml" xy="279,876"/>
+    <component id="n4_k23u" name="BtnReward2" src="k23u6l" fileName="components/task/ButtonTaskReward2.xml" xy="414,876"/>
+    <component id="n3_k23u" name="BtnReward3" src="k23u6l" fileName="components/task/ButtonTaskReward2.xml" xy="549,876"/>
+    <component id="n11_kpal" name="BtnArrowLast" src="kpal7o" fileName="components/task/ButtonTaskArrow.xml" xy="114,515" scale="-1,1"/>
+    <component id="n10_kpal" name="BtnArrowNext" src="kpal7o" fileName="components/task/ButtonTaskArrow.xml" xy="622,514"/>
+    <component id="n17_fr82" name="BtnLevelInfo" src="fr828o" fileName="components/task/BtnLevelInfo.xml" xy="166,382"/>
+    <component id="n14_kts3" name="BtnRewardRedPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="680,148"/>
+    <component id="n15_lwoh" name="ArrowLastRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="195,555"/>
+    <component id="n16_lwoh" name="ArrowNextRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="605,555"/>
+  </displayList>
+</component>

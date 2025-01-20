@@ -1,0 +1,27 @@
+
+shirenyu.png
+size: 138,62
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 117, 62
+  orig: 117, 62
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 118, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 118, 19
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1

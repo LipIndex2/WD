@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="172,142" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_smc1" name="n0" src="smc1a" fileName="image/LanAnNiuZuo.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n3_smc1" name="icon" xy="39,14" pivot="0.5,0.5" size="77,85" url="ui://i8zxhpmasmc1b" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n4_smc1" name="title" xy="17,85" pivot="0.5,0.5" size="120,40" font="ui://wqx8l8xqut2h1b" fontSize="29" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="主线章节"/>
+  </displayList>
+  <Button/>
+</component>

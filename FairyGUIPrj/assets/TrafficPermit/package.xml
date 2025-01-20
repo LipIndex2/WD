@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2p9t3mbk">
+  <resources>
+    <component id="qf1r0" name="TrafficPermitView.xml" path="/" exported="true"/>
+    <image id="qf1rn" name="HuangJinTongXingZhengQiZhi.png" path="/image/"/>
+    <image id="qf1ro" name="HuangJinTongXingZhengTuBiao.png" path="/image/"/>
+    <image id="qf1rp" name="LingPaiTuBiao.png" path="/image/"/>
+    <image id="qf1rk" name="MianFeiTongXingZhengQiZhi.png" path="/image/"/>
+    <image id="qf1rl" name="MianFeiTongXingZhengTuBiao.png" path="/image/"/>
+    <image id="qf1rm" name="ShiZhongShiJianTiao.png" path="/image/"/>
+    <image id="qf1rq" name="ShiZhongTuBiao.png" path="/image/"/>
+    <image id="qf1r13" name="ZiSeShangTiao.png" path="/image/"/>
+    <image id="qf1r14" name="ZiSeXiaTiao.png" path="/image/"/>
+    <image id="qf1r15" name="GengDuoBaoXiang.png" path="/image/"/>
+    <image id="qf1r17" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="qf1r18" name="MeiCengShuZiCaiSe.png" path="/image/"/>
+    <image id="hlne1a" name="JiHuoTongXingZheng.png" path="/image/"/>
+    <component id="hlne1b" name="BtnActivate.xml" path="/components/"/>
+    <image id="hlne1c" name="JinDu1.png" path="/image/"/>
+    <image id="hlne1d" name="JinDu2.png" path="/image/"/>
+    <image id="hlne1e" name="JinDuShuTiao.png" path="/image/" scale="9grid" scale9grid="11,24,22,48"/>
+    <image id="hlne1f" name="JinDuShuTiao2.png" path="/image/" scale="9grid" scale9grid="9,25,18,50"/>
+    <component id="hlne1g" name="ExpProgressBar.xml" path="/components/"/>
+    <image id="hlne1h" name="HuangSeMeiCeng.png" path="/image/" scale9grid="94,52,188,104"/>
+    <image id="hlne1i" name="LanSeMeiCeng.png" path="/image/" scale9grid="94,52,188,104"/>
+    <component id="hlne1j" name="ListAaward.xml" path="/components/" exported="true"/>
+    <image id="hlne1" name="ZuanShiAnNiu.png" path="/image/"/>
+    <image id="hlne1m" name="LanSeMeiCengMengCeng.png" path="/image/"/>
+    <component id="gkss1s" name="BtnSkin.xml" path="/components/"/>
+    <component id="gkss1t" name="PrizeItem.xml" path="/components/"/>
+    <image id="r41h1u" name="TongXingZhengQuanPing2ChangJing1.png" path="/image/"/>
+    <image id="r41h1v" name="TongXingZhengQuanPing2ChangJing2.png" path="/image/"/>
+    <component id="wr3y1x" name="BtnAwardBox.xml" path="/components/" exported="true"/>
+    <image id="r9w51z" name="40000.png" path="/image/" exported="true"/>
+    <image id="r9w520" name="通行证全屏2参数.png" path="/"/>
+    <component id="r9w521" name="BtnBuy.xml" path="/components/"/>
+    <image id="fajd22" name="BaoXiang.png" path="/image/"/>
+    <component id="fg9123" name="parent.xml" path="/components/"/>
+    <image id="tbhh25" name="BaoXiangShuLiangDi.png" path="/image/"/>
+    <image id="a9ka26" name="通行证全屏-新增.jpg" path="/"/>
+    <component id="wpum27" name="ArenaPassView.xml" path="/" exported="true"/>
+    <image id="wpum28" name="JingJiJiFen6.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

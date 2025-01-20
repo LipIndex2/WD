@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://3cgsf82p9s56r" designImageLayer="1">
+  <displayList>
+    <component id="n0_tlom" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n1_tlom" name="bg2" src="tlom2" fileName="image/TuCeng4.png" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n0_tlom" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_tlom" name="bg1" src="tlom3" fileName="image/TuCeng5.png" xy="0,0" pivot="0.5,0" size="800,462">
+      <relation target="n0_tlom" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n3_tlom" name="bg_down" src="tlom4" fileName="image/YeQianDiBu.png" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n0_tlom" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <loader id="n5_tlom" name="bg" xy="0,0" pivot="0.5,0.5" size="800,426" group="n13_p5ct" url="ui://3cgsf82ptlom5" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n6_tlom" name="bg_t" xy="247,38" pivot="0.5,0.5" size="308,153" group="n13_p5ct" url="ui://3cgsf82ptlom6" align="center" vAlign="middle" clearOnPublish="true"/>
+    <component id="n10_p5ct" name="RankItem2" src="tlomi" fileName="components/RankItem2.xml" xy="548,192" group="n13_p5ct"/>
+    <component id="n9_p5ct" name="RankItem1" src="tlomd" fileName="components/RankItem1.xml" xy="110,192" group="n13_p5ct"/>
+    <component id="n8_p5ct" name="RankItem0" src="tlom7" fileName="components/RankItem0.xml" xy="309,174" group="n13_p5ct"/>
+    <component id="n14_p5ct" name="parent" src="p5ctq" fileName="components/parent.xml" xy="399,799" group="n13_p5ct"/>
+    <text id="n7_tlom" name="title" xy="308,125" pivot="0.5,0.5" size="184,42" group="n13_p5ct" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="主线章节排名"/>
+    <group id="n13_p5ct" name="GpUp" xy="0,0" size="800,800" advanced="true">
+      <relation target="n0_tlom" sidePair="top-top"/>
+    </group>
+    <component id="n12_p5ct" name="RankMe" src="p5ctp" fileName="components/RankItemM.xml" xy="26,1344">
+      <relation target="n0_tlom" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n4_tlom" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="14,1488">
+      <relation target="n0_tlom" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <list id="n11_p5ct" name="RankList" xy="26,475" size="748,868" overflow="scroll" lineGap="3" defaultItem="ui://3cgsf82pp5ctl">
+      <relation target="n0_tlom" sidePair="topext-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n15_9s56" name="BtnList" xy="242,1451" pivot="1,0" size="557,137" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2176" margin="0,0,0,40" colGap="30" defaultItem="ui://3cgsf82p9s56s" align="right" autoClearItems="true">
+      <relation target="n0_tlom" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n16_wpum" name="RewardBtn" src="wpum17" fileName="components/RewardBtn.xml" xy="683,1491">
+      <relation target="n0_tlom" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n17_iyea" name="EmptyState" src="iyea1a" fileName="components/EmptyState.xml" xy="240,787" visible="false" touchable="false">
+      <relation target="n0_tlom" sidePair="center-center,top-top"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://mhntf50iwpum1e" designImageAlpha="0" designImageLayer="1">
+  <controller name="result" pages="0,win,1,fail" selected="1">
+    <remark page="0" value="胜利"/>
+    <remark page="1" value="失败"/>
+  </controller>
+  <controller name="model" pages="0,normal,1,arena" selected="0"/>
+  <controller name="pingtai" pages="0,normal,1,douyin" selected="0"/>
+  <displayList>
+    <component id="n41_lq7h" name="WinTopEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="407,269" group="n22_kcz6"/>
+    <image id="n2_gv7i" name="n2" src="gv7ie" fileName="image/ShengLiWanDouDingTou.png" xy="320,74" group="n22_kcz6" visible="false"/>
+    <image id="n57_luty" name="n57" src="luty1b" fileName="image/ShengLiDiChai1.png" xy="400,372" pivot="0.5,0" anchor="true" group="n22_kcz6"/>
+    <image id="n58_luty" name="n58" src="luty1a" fileName="image/ShengLiDiChai2.png" xy="400,265" pivot="0.5,0" anchor="true" group="n22_kcz6"/>
+    <image id="n7_gv7i" name="n7" src="gv7ih" fileName="image/ShengLiFangKuai.png" xy="201,716" group="n22_kcz6">
+      <gearDisplay controller="model" pages="0"/>
+    </image>
+    <text id="n5_gv7i" name="WinText" xy="312,275" size="183,99" group="n22_kcz6" font="ui://wqx8l8xqut2h1b" fontSize="76" color="#fffaa1" strokeColor="#491914" strokeSize="3" text="胜 利"/>
+    <image id="n36_kcz6" name="n36" src="gv7ig" fileName="image/ShengLiFenGeXian.png" xy="150,665" group="n22_kcz6">
+      <gearDisplay controller="model" pages="0"/>
+    </image>
+    <component id="n42_lq7h" name="WinEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,774" group="n22_kcz6">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <group id="n22_kcz6" name="Win" xy="43,74" size="714,797" advanced="true">
+      <gearDisplay controller="result" pages="0"/>
+    </group>
+    <image id="n25_kcz6" name="n25" src="gv7i7" fileName="image/ShiBaiWanDouDingTou.png" xy="321,76" group="n33_kcz6" visible="false"/>
+    <image id="n54_luty" name="n54" src="luty18" fileName="image/ShiBaiDiChai1.png" xy="399,234" pivot="0.5,0" anchor="true" size="607,540" group="n33_kcz6"/>
+    <image id="n55_luty" name="n55" src="luty19" fileName="image/ShiBaiDiChai2.png" xy="400,265" pivot="0.5,0" anchor="true" group="n33_kcz6" visible="false"/>
+    <image id="n34_kcz6" name="n34" src="gv7i9" fileName="image/ShiBaiFenGeXian.png" xy="151,665" group="n33_kcz6" visible="false">
+      <gearDisplay controller="model" pages="0"/>
+    </image>
+    <image id="n35_kcz6" name="n35" src="gv7ia" fileName="image/ShiBaiFangKuai.png" xy="200,669" size="399,82" group="n33_kcz6">
+      <gearDisplay controller="model" pages="0"/>
+    </image>
+    <text id="n24_kcz6" name="n24" xy="330,302" size="145,79" group="n33_kcz6" font="ui://wqx8l8xqut2h1b" fontSize="60" color="#ebebeb" align="center" strokeColor="#491914" strokeSize="3" text="失 败"/>
+    <image id="n26_kcz6" name="n26" src="gv7i5" fileName="image/ShiBaiWanDouYanLei.png" xy="357,165" group="n33_kcz6" visible="false"/>
+    <image id="n27_kcz6" name="n27" src="gv7i5" fileName="image/ShiBaiWanDouYanLei.png" xy="446,165" group="n33_kcz6" scale="-1,1" visible="false"/>
+    <image id="n28_kcz6" name="n28" src="gv7i6" fileName="image/ShiBaiWanDouYanJing.png" xy="359,162" group="n33_kcz6" visible="false"/>
+    <image id="n29_kcz6" name="n29" src="gv7i6" fileName="image/ShiBaiWanDouYanJing.png" xy="445,162" group="n33_kcz6" scale="-1,1" visible="false"/>
+    <image id="n30_kcz6" name="n30" src="gv7i8" fileName="image/ShiBaiTeXiao.png" xy="255,192" group="n33_kcz6" visible="false"/>
+    <image id="n31_kcz6" name="n31" src="gv7i8" fileName="image/ShiBaiTeXiao.png" xy="526,148" size="45,47" group="n33_kcz6" scale="-1,1" visible="false" rotation="314"/>
+    <image id="n32_kcz6" name="n32" src="gv7i8" fileName="image/ShiBaiTeXiao.png" xy="447,87" group="n33_kcz6" scale="0.5,0.5" visible="false"/>
+    <component id="n59_mgkh" name="GongLueBtn" src="mgkh1d" fileName="components/GongLueBtn.xml" xy="592,276" group="n33_kcz6" visible="false"/>
+    <image id="n50_pitk" name="n50" src="pitk13" fileName="image/JuXing.png" xy="139,1418" size="559,100" group="n67_ybi3"/>
+    <image id="n51_pitk" name="n51" src="pitk12" fileName="image/TuoYuan.png" xy="99,1398" group="n67_ybi3"/>
+    <loader id="n52_pitk" name="HintIcon" xy="118,1398" pivot="0.5,0.5" size="82,94" group="n67_ybi3" url="ui://mhntf50ipitk17" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n53_pitk" name="HintTitle" xy="448,1446" pivot="0.5,0.5" size="10,39" group="n67_ybi3" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491916" align="center" vAlign="middle" autoClearText="true" text=""/>
+    <group id="n67_ybi3" name="gp_tip" xy="99,1398" size="599,124" group="n33_kcz6" advanced="true"/>
+    <group id="n33_kcz6" name="Fail" xy="43,76" size="714,1446" advanced="true">
+      <gearDisplay controller="result" pages="1"/>
+    </group>
+    <image id="n14_kcz6" name="n14" src="gv7i4" fileName="image/XinJiLuDi.png" xy="539,651" group="n37_kcz6"/>
+    <text id="n15_kcz6" name="n15" xy="559,691" size="106,46" group="n37_kcz6" rotation="-9" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" strokeColor="#491914" strokeSize="3" text="新记录"/>
+    <group id="n37_kcz6" name="MaxScoreFlag" xy="539,651" size="144,111" visible="false" advanced="true"/>
+    <text id="n6_gv7i" name="n6" xy="338,631" size="124,42" group="n39_lq7h" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" strokeColor="#491914" text="本次达到">
+      <gearDisplay controller="model" pages="0"/>
+    </text>
+    <image id="n8_gv7i" name="n8" src="gv7iq" fileName="image/RiLi.png" xy="206,675" group="n39_lq7h" visible="false">
+      <gearDisplay controller="model" pages="0"/>
+      <gearXY controller="result" pages="1" values="206,675" default="206,724"/>
+    </image>
+    <text id="n9_gv7i" name="RoundNum" xy="402,712" pivot="0.5,0.5" anchor="true" size="33,59" group="n39_lq7h" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="0">
+      <gearDisplay controller="model" pages="0"/>
+      <gearXY controller="result" pages="1" values="402,712" default="386,757"/>
+    </text>
+    <text id="n10_kcz6" name="n10" xy="207,440" pivot="0,0.5" anchor="true" size="214,42" group="n39_lq7h" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" strokeColor="#491914" strokeSize="3" text="累计造成总伤害"/>
+    <image id="n11_kcz6" name="n11" src="gv7io" fileName="image/ZaoChengShangHaiTuBiao.png" xy="424,412" group="n39_lq7h"/>
+    <text id="n12_kcz6" name="SumScore" xy="543,439" pivot="0.5,0.5" anchor="true" size="147,42" group="n39_lq7h" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#63ea77" strokeColor="#491914" strokeSize="3" text="9999.74k"/>
+    <list id="n13_kcz6" name="List" xy="88,449" size="623,206" group="n39_lq7h" layout="flow_hz" overflow="scroll" margin="13,0,39,0" clipSoftness="16,0" lineGap="7" colGap="9" defaultItem="ui://mhntf50ikcz6r" autoClearItems="true">
+      <gearDisplay controller="model" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n39_lq7h" name="Content" xy="88,412" size="623,330" advanced="true"/>
+    <text id="n16_kcz6" name="n16" xy="400,917" pivot="0.5,0.5" anchor="true" size="84,54" group="n40_lq7h" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" text="奖励"/>
+    <image id="n17_kcz6" name="n17" src="gv7ik" fileName="image/BiaoTiXian.png" xy="89,907" group="n40_lq7h"/>
+    <image id="n18_kcz6" name="n18" src="gv7ik" fileName="image/BiaoTiXian.png" xy="711,907" group="n40_lq7h" scale="-1,1"/>
+    <list id="n38_mcol" name="RewardList" xy="400,974" pivot="0.5,0" anchor="true" size="640,230" group="n40_lq7h" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://mhntf50imzayv" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n40_lq7h" name="Reward" xy="80,890" size="839,314" advanced="true"/>
+    <image id="n44_kts3" name="n44" src="kts3y" fileName="image/ShengLiBaoXiangDi.png" xy="84,1392" group="n49_kts3"/>
+    <image id="n45_kts3" name="n45" src="kts3z" fileName="image/ShengLiBaoXiangDiZuo.png" xy="160,1439" group="n49_kts3"/>
+    <image id="n46_kts3" name="n46" src="kts3x" fileName="image/ShengLiBaoXiang.png" xy="178,1360" group="n49_kts3"/>
+    <image id="n47_kts3" name="n47" src="kts310" fileName="image/ShengLiBaoXiangZi.png" xy="99,1409" group="n49_kts3"/>
+    <component id="n48_kts3" name="WinBoxGet" src="rjrob54" fileName="ButtonGreen.xml" pkg="zokic7y2" xy="445,1432" size="233,84" group="n49_kts3">
+      <Button title="领取" titleFontSize="40" icon="ui://rqg67c2010ewu6j"/>
+    </component>
+    <group id="n49_kts3" name="WinBox" xy="84,1360" size="634,198" visible="false" advanced="true"/>
+    <text id="n60_wpum" name="n60" xy="178,519" pivot="0,0.5" anchor="true" size="154,42" group="n66_wpum" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="战斗时间："/>
+    <text id="n62_wpum" name="PassTime" xy="626,517" pivot="1,0.5" anchor="true" size="71,42" group="n66_wpum" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#63ea77" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="2:45"/>
+    <text id="n61_wpum" name="n61" xy="178,592" pivot="0,0.5" anchor="true" size="154,42" group="n66_wpum" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="击杀数量："/>
+    <text id="n63_wpum" name="KillCount" xy="626,588" pivot="1,0.5" anchor="true" size="62,42" group="n66_wpum" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#63ea77" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="998"/>
+    <loader id="n64_wpum" name="Flag" xy="240,698" pivot="0.5,0.5" anchor="true" size="127,48" group="n66_wpum" url="ui://mhntf50iwpum1g" autoSize="true"/>
+    <component id="n65_wpum" name="MvpInfo" src="kcz6r" fileName="components/AttackInfo.xml" xy="383,656" group="n66_wpum"/>
+    <group id="n66_wpum" name="ArenaInfo" xy="176,496" size="478,245" advanced="true">
+      <gearDisplay controller="model" pages="1"/>
+    </group>
+    <component id="n68_e06r" name="ContinueBtnDouYin" src="rjrob54" fileName="ButtonGreen.xml" pkg="zokic7y2" xy="283,1243" size="233,85">
+      <gearDisplay controller="pingtai" pages="1"/>
+      <Button title="点击继续"/>
+    </component>
+    <component id="n69_e06r" name="ContinueBtn" src="kcz6u" fileName="components/ContinueBtn.xml" xy="300,1244">
+      <gearDisplay controller="pingtai" pages="0"/>
+    </component>
+  </displayList>
+  <transition name="win" frameRate="30">
+    <item time="0" type="Pivot" target="n14_kcz6" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n15_kcz6" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n58_luty" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n5_gv7i" value="0.5,0.5"/>
+    <item time="0" type="Alpha" target="n14_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n15_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n2_gv7i" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n36_kcz6" value="0"/>
+    <item time="0" type="Alpha" target="n39_lq7h" value="0"/>
+    <item time="0" type="Alpha" target="n58_luty" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="0" type="Alpha" target="n5_gv7i" value="0"/>
+    <item time="0" type="Alpha" target="n7_gv7i" value="0"/>
+    <item time="0" type="Scale" target="n14_kcz6" tween="true" startValue="6,6" endValue="0.9,0.9" duration="7"/>
+    <item time="0" type="Scale" target="n15_kcz6" tween="true" startValue="6,6" endValue="0.9,0.9" duration="7"/>
+    <item time="0" type="Scale" target="n54_luty" tween="true" startValue="1,0" endValue="1,1.1" duration="7"/>
+    <item time="0" type="Scale" target="n57_luty" value="1,0"/>
+    <item time="0" type="Scale" target="n58_luty" tween="true" startValue="3,3" endValue="0.9,0.9" duration="7"/>
+    <item time="0" type="Scale" target="n5_gv7i" tween="true" startValue="3,3" endValue="0.9,0.9" duration="7"/>
+    <item time="0" type="XY" target="n2_gv7i" tween="true" startValue="320,209" endValue="320,65" duration="7"/>
+    <item time="0" type="XY" target="n58_luty" value="400,332"/>
+    <item time="4" type="Alpha" target="n5_gv7i" value="1"/>
+    <item time="5" type="Scale" target="n57_luty" tween="true" startValue="1,0" endValue="1,1.1" duration="7"/>
+    <item time="7" type="Scale" target="n14_kcz6" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3"/>
+    <item time="7" type="Scale" target="n15_kcz6" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3"/>
+    <item time="7" type="Scale" target="n54_luty" tween="true" startValue="1,1.1" endValue="1,1" duration="3"/>
+    <item time="7" type="Scale" target="n58_luty" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3"/>
+    <item time="7" type="Scale" target="n5_gv7i" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3"/>
+    <item time="7" type="XY" target="n2_gv7i" tween="true" startValue="320,65" endValue="320,74" duration="3"/>
+    <item time="12" type="Scale" target="n57_luty" tween="true" startValue="1,1.1" endValue="1,0.95" duration="3"/>
+    <item time="13" type="Alpha" target="n7_gv7i" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="15" type="Alpha" target="n36_kcz6" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="15" type="Scale" target="n57_luty" tween="true" startValue="1,0.95" endValue="1,1" duration="3"/>
+    <item time="18" type="Alpha" target="n39_lq7h" tween="true" startValue="0" endValue="1" duration="4"/>
+  </transition>
+  <transition name="fail" frameRate="30">
+    <item time="0" type="Pivot" target="n24_kcz6" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n26_kcz6" value="0.5,0"/>
+    <item time="0" type="Pivot" target="n27_kcz6" value="0,0"/>
+    <item time="0" type="Pivot" target="n30_kcz6" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n31_kcz6" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n32_kcz6" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n55_luty" value="0.5,0.5"/>
+    <item time="0" type="Alpha" target="n24_kcz6" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="0" type="Alpha" target="n25_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n28_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n29_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n30_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n31_kcz6" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n32_kcz6" value="0"/>
+    <item time="0" type="Alpha" target="n34_kcz6" value="0"/>
+    <item time="0" type="Alpha" target="n35_kcz6" value="0"/>
+    <item time="0" type="Alpha" target="n39_lq7h" value="0"/>
+    <item time="0" type="Alpha" target="n55_luty" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="0" type="Rotation" target="n30_kcz6" tween="true" startValue="0" endValue="360" duration="30" ease="Linear" repeat="-1"/>
+    <item time="0" type="Rotation" target="n31_kcz6" tween="true" startValue="0" endValue="360" duration="30" ease="Linear" repeat="-1"/>
+    <item time="0" type="Rotation" target="n32_kcz6" tween="true" startValue="0" endValue="360" duration="30" ease="Linear" repeat="-1"/>
+    <item time="0" type="Scale" target="n24_kcz6" tween="true" startValue="3,3" endValue="0.9,0.9" duration="7"/>
+    <item time="0" type="Scale" target="n26_kcz6" value="1,0"/>
+    <item time="0" type="Scale" target="n27_kcz6" value="-1,0"/>
+    <item time="0" type="Scale" target="n54_luty" value="1,0"/>
+    <item time="0" type="Scale" target="n55_luty" tween="true" startValue="3,3" endValue="0.9,0.9" duration="7"/>
+    <item time="0" type="XY" target="n25_kcz6" tween="true" startValue="320,169" endValue="320,89" duration="7"/>
+    <item time="0" type="XY" target="n26_kcz6" tween="true" startValue="356,260" endValue="356,180" duration="7"/>
+    <item time="0" type="XY" target="n27_kcz6" tween="true" startValue="445,260" endValue="445,180" duration="7"/>
+    <item time="0" type="XY" target="n28_kcz6" tween="true" startValue="358,257" endValue="358,177" duration="7"/>
+    <item time="0" type="XY" target="n29_kcz6" tween="true" startValue="444,257" endValue="444,177" duration="7"/>
+    <item time="0" type="XY" target="n55_luty" value="400,331"/>
+    <item time="5" type="Alpha" target="n32_kcz6" value="1"/>
+    <item time="5" type="Scale" target="n54_luty" tween="true" startValue="1,0" endValue="1,1.1" duration="7"/>
+    <item time="7" type="Scale" target="n24_kcz6" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3"/>
+    <item time="7" type="Scale" target="n26_kcz6" tween="true" startValue="1,0" endValue="1,1.1" duration="7"/>
+    <item time="7" type="Scale" target="n27_kcz6" tween="true" startValue="-1,0" endValue="-1,1.1" duration="7"/>
+    <item time="7" type="Scale" target="n55_luty" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3"/>
+    <item time="7" type="XY" target="n25_kcz6" tween="true" startValue="320,89" endValue="320,99" duration="3"/>
+    <item time="7" type="XY" target="n26_kcz6" tween="true" startValue="356,180" endValue="356,190" duration="3"/>
+    <item time="7" type="XY" target="n27_kcz6" tween="true" startValue="445,180" endValue="445,190" duration="3"/>
+    <item time="7" type="XY" target="n28_kcz6" tween="true" startValue="358,177" endValue="358,187" duration="3"/>
+    <item time="7" type="XY" target="n29_kcz6" tween="true" startValue="444,177" endValue="444,187" duration="3"/>
+    <item time="12" type="Scale" target="n54_luty" tween="true" startValue="1,1.1" endValue="1,0.95" duration="3"/>
+    <item time="13" type="Alpha" target="n35_kcz6" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="14" type="Scale" target="n26_kcz6" tween="true" startValue="1,1.1" endValue="1,1" duration="3"/>
+    <item time="14" type="Scale" target="n27_kcz6" tween="true" startValue="-1,1.1" endValue="-1,1" duration="3"/>
+    <item time="15" type="Alpha" target="n34_kcz6" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="15" type="Scale" target="n54_luty" tween="true" startValue="1,0.95" endValue="1,1" duration="3"/>
+    <item time="18" type="Alpha" target="n39_lq7h" tween="true" startValue="0" endValue="1" duration="4"/>
+  </transition>
+</component>

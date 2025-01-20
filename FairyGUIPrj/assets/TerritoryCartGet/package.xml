@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xmjwllpy">
+  <resources>
+    <image id="p08g0" name="获得推车_.jpg" path="/"/>
+    <component id="p08g1" name="TerritoryCartGetView.xml" path="/" exported="true"/>
+    <component id="p08g3" name="ButtonContinue.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

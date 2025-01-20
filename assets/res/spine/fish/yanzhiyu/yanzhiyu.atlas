@@ -1,0 +1,20 @@
+
+yanzhiyu.png
+size: 178,101
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 154, 101
+  orig: 154, 101
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 155, 77
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

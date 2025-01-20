@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n0_tm53" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,168" size="730,1259">
+      <Label title="通行证"/>
+    </component>
+    <image id="n10_r41h" name="n10" src="r41h8" fileName="image/TongXingZheng2JiDanChuangChaHua.png" xy="85,360" group="n9_tm53"/>
+    <image id="n2_tm53" name="n2" src="tm532" fileName="image/TongXingZheng2JiDanChuangHengFu.png" xy="84,547" group="n9_tm53"/>
+    <image id="n3_tm53" name="n3" src="tm532" fileName="image/TongXingZheng2JiDanChuangHengFu.png" xy="84,923" group="n9_tm53"/>
+    <text id="n7_tm53" name="n7" xy="307,553" pivot="0.5,0.5" size="184,49" group="n9_tm53" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" leading="10" strokeColor="#491914" strokeSize="3" text="黄金通行证"/>
+    <text id="n8_tm53" name="n8" xy="357,929" pivot="0.5,0.5" size="89,49" group="n9_tm53" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" leading="10" strokeColor="#491914" strokeSize="3" text="奖 励"/>
+    <list id="n4_tm53" name="n4" xy="100,614" size="583,311" group="n9_tm53" lineGap="1" defaultItem="ui://263pythxtm533">
+      <item title="可获得更多的宝箱" icon="ui://263pythxtm534"/>
+      <item title="可获得更多的英雄卡片" icon="ui://263pythxtm536"/>
+      <item title="可获得更多的钻石" icon="ui://263pythxtm537"/>
+      <item title="可获得更多的任务" icon="ui://263pythxtm535"/>
+    </list>
+    <group id="n9_tm53" name="n9" xy="84,360" size="632,625"/>
+    <list id="n5_tm53" name="List" xy="80,999" size="640,250" layout="flow_hz" lineGap="10" colGap="10" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n6_tm53" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1270">
+      <Button title="确认"/>
+    </component>
+  </displayList>
+</component>

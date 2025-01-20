@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0ve5vtdn">
+  <resources>
+    <component id="f0g00" name="GeneGiftView.xml" path="/" exported="true"/>
+    <image id="f0g01" name="XinShouLiBaoHengFu.png" path="/image/"/>
+    <image id="f0g02" name="TeJiaDi.png" path="/image/"/>
+    <image id="f0g03" name="ShiJianDi.png" path="/image/" scale="9grid" scale9grid="53,13,106,26"/>
+    <image id="f0g04" name="ShiJianicon.png" path="/image/"/>
+    <image id="f0g05" name="基因新手礼包.jpg" path="/"/>
+    <component id="f0g06" name="GiftCell.xml" path="/components/" exported="true"/>
+    <image id="f0g07" name="TongYongHeiDi.png" path="/image/" scale="9grid" scale9grid="18,18,36,36"/>
+    <image id="f0g09" name="LiBao.png" path="/image/"/>
+    <image id="m4fia" name="BeiJing.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

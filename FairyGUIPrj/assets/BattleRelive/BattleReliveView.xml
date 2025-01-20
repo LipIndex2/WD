@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n1_8qer" name="TimeShow" src="k2g826" fileName="TimeMeterCu.xml" pkg="1kdklxk3" xy="202,625">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Label title="7" titleFontSize="65"/>
+    </component>
+    <component id="n2_8qer" name="BtnDiamond" src="8qer1" fileName="components/ButtonDiamond.xml" xy="52,900"/>
+    <component id="n3_8qer" name="BtnFree" src="8qer3" fileName="components/ButtonFree.xml" xy="452,900"/>
+    <component id="n4_mljj" name="ContinueBtn" src="mljj4" fileName="components/ContinueBtn.xml" xy="300,1095"/>
+    <image id="n5_xyvk" name="n5" src="xyvk5" fileName="image/_LocFuHuo.png" xy="340,350"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fl0irg4v">
+  <resources>
+    <component id="hunn0" name="TerritoryRentView.xml" path="/" exported="true"/>
+    <component id="hunn1" name="ButtonOrange.xml" path="/components/" exported="true"/>
+    <image id="hunn2" name="家园提示.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

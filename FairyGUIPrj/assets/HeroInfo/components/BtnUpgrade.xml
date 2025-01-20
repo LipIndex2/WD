@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" pivot="0.5,0.5" extention="Button" designImage="ui://uivgkva9l6cb20" designImageOffsetX="-217" designImageOffsetY="-1246" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n4_kb45" name="n4" src="okyub4w" fileName="image/ChengAnNiu.png" pkg="zokic7y2" xy="0,0"/>
+    <image id="n6_kb45" name="n6" src="tiuj66" fileName="image/Big40000.png" pkg="5qhcb5rw" xy="100,63" scale="0.5,0.5">
+      <relation target="n3_gy0i" sidePair="right-left"/>
+    </image>
+    <text id="n2_gy0i" name="n2" xy="94,4" pivot="0.5,0.5" size="107,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="升 级"/>
+    <text id="n3_gy0i" name="consume" xy="140,60" pivot="0.5,0.5" size="59,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="200"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

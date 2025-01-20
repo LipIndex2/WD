@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="498,40" extention="ProgressBar" designImage="ui://lqre3h3fe20v1" designImageOffsetX="-152" designImageOffsetY="-990">
+  <displayList>
+    <image id="n0_e20v" name="n0" src="e20vf" fileName="image/ZhongJianJinDuTiao2.png" xy="0,0" size="498,40">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_e20v" name="bar" src="e20ve" fileName="image/ZhongJianJinDuTiao1.png" xy="4,4" size="490,32"/>
+    <image id="n2_e20v" name="n2" src="e20v5" fileName="image/RiLi TuBiao.png" xy="-28,-18"/>
+  </displayList>
+  <ProgressBar/>
+</component>

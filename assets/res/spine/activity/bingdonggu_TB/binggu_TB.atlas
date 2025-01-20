@@ -1,0 +1,41 @@
+
+binggu_TB.png
+size: 166,81
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bing1
+  rotate: true
+  xy: 95, 0
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+bing2
+  rotate: false
+  xy: 142, 4
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+bing3
+  rotate: true
+  xy: 142, 26
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+bing4
+  rotate: true
+  xy: 95, 43
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 3
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,122" pivot="0.5,0.5" anchor="true" opaque="false" designImageOffsetY="-416">
+  <displayList>
+    <image id="n5_mynp" name="bg" src="mynpj" fileName="image/PiaoZiDi.png" xy="0,0" size="800,122">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <richtext id="n0_gpne" name="title" xy="395,35" pivot="0.5,0.5" size="10,52" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text=""/>
+    <loader id="n4_n0m9" name="arrow" xy="371,39" pivot="0.5,0.5" anchor="true" size="44,44" visible="false" url="ui://rqg67c2012yvb10" autoSize="true">
+      <relation target="n0_gpne" sidePair="right-left"/>
+    </loader>
+  </displayList>
+  <relation target="n0_gpne" sidePair="height-height"/>
+  <transition name="t0" autoPlayRepeat="0">
+    <item time="0" type="Alpha" tween="true" startValue="0" endValue="1" duration="24"/>
+    <item time="0" type="XY" tween="true" startValue="0,100" endValue="0,0" duration="24"/>
+    <item time="6" type="Visible" label="next" value="true"/>
+  </transition>
+</component>

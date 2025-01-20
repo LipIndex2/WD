@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <component id="n10_kj0y" name="BtnFlush" src="p1u3f" fileName="components/ButtonFlush.xml" xy="573,282"/>
+    <component id="n11_kj0y" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="520,245" pivot="0.5,0.5" size="200,50">
+      <Label titleFontSize="24"/>
+    </component>
+    <list id="n5_jlw6" name="ShowList" xy="85,383" size="632,995" overflow="scroll" lineGap="11" defaultItem="ui://85d5czsejlw63" autoClearItems="true" scrollItemToViewOnClick="false"/>
+  </displayList>
+</component>

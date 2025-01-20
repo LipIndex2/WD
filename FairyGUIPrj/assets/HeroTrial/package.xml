@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uic8wv5w">
+  <resources>
+    <component id="m4fi0" name="HeroTrialView.xml" path="/" exported="true"/>
+    <image id="m4fi1" name="英雄试用.jpg" path="/"/>
+    <image id="m4fi2" name="HengFu.png" path="/image/"/>
+    <image id="m4fi3" name="YiWanChengDi.png" path="/image/"/>
+    <component id="m4fi5" name="TrialItem.xml" path="/components/" exported="true"/>
+    <image id="m4fi9" name="HuiSeZheZhao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

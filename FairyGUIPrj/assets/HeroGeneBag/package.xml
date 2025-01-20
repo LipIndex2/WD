@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="n09zf5xx">
+  <resources>
+    <component id="uvlm0" name="HeroGeneBagView.xml" path="/" exported="true"/>
+    <image id="uvlm3" name="XiaoKuangDan.png" path="/image/" scale="9grid" scale9grid="72,32,144,64"/>
+    <component id="rty2c" name="ButtonGene.xml" path="/components/" exported="true"/>
+    <image id="rty2h" name="WeiHuoDeDi.png" path="/image/"/>
+    <image id="u3z8j" name="基因更换_spec.png" path="/"/>
+    <image id="u3z8k" name="JiYinGengHuanYiZhuangBeiDi.png" path="/image/"/>
+    <image id="u3z8l" name="基因更换.jpg.png" path="/"/>
+    <image id="u3z8m" name="未获得示意.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n0_r9w5" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-64,207" pivot="0.5,0.5" size="928,1126"/>
+    <image id="n4_r9w5" name="n4" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="61,624" size="678,463"/>
+    <image id="n1_r9w5" name="n1" src="r9w52" fileName="image/KeNenDeDaoDeKuang.png" xy="61,502" pivot="0.5,0.5"/>
+    <loader id="n3_r9w5" name="Icon" xy="73,497" pivot="0.5,0.5" size="110,110" scale="1.5,1.5" url="ui://hol2307er9w55" align="center" vAlign="middle"/>
+    <text id="n6_r9w5" name="n6" xy="302,530" pivot="0.5,0.5" size="274,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#fffcbd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="可能得到以下拜帖："/>
+    <list id="n5_r9w5" name="List" xy="79,642" size="645,424" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://hol2307ek2qf3" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n2_r9w5" name="BtnClose" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="251,1109">
+      <Button title="确 定"/>
+    </component>
+  </displayList>
+</component>

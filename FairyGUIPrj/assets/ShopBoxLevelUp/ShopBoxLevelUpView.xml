@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://xnefdhl67jso4">
+  <displayList>
+    <component id="n10_gy1n" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n11_lwoh" name="Board" src="kqn1b4e" fileName="CommonBoard4.xml" pkg="r5d9xy63" xy="0,0" pivot="0.5,0.5">
+      <relation target="n10_gy1n" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n2_7jso" name="n2" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="232,360" size="336,83"/>
+    <image id="n3_7jso" name="n3" src="7jso5" fileName="image/DaJianTou.png" xy="428,372"/>
+    <component id="n12_frme" name="BtnOnGo" src="frmep" fileName="components/ButtonContinue.xml" xy="0,0"/>
+    <text id="n4_7jso" name="n5" xy="230,186" pivot="0.5,0.5" size="340,74" font="ui://wqx8l8xqut2h1b" fontSize="56" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="宝箱等级提升"/>
+    <list id="n0_7jso" name="ShowList" xy="82,496" size="640,640" lineGap="10" defaultItem="ui://xnefdhl67jso0" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n5_7jso" name="LevelShow" xy="294,371" pivot="1,0.5" size="122,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#fffebd" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级.7"/>
+  </displayList>
+</component>

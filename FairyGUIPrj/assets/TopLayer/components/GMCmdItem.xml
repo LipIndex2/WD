@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1000" opaque="false">
+  <displayList>
+    <component id="n25_h7xw" name="Btn" src="s4yw1" fileName="components/BtnGM.xml" xy="0,161" size="50,50">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button titleFontSize="24"/>
+    </component>
+    <component id="n26_h7xw" name="BtnTest" src="s4yw1" fileName="components/BtnGM.xml" xy="60,161" size="50,50">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="测试" titleFontSize="24"/>
+    </component>
+    <image id="n29_mw0l" name="bg" src="rp3tw" fileName="image/bg.png" xy="0,57" size="800,943" group="n24_h7xw" alpha="0.01">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n19_h7xw" name="List" xy="123,328" size="500,600" group="n24_h7xw" overflow="scroll" margin="10,0,0,0" lineGap="10" defaultItem="ui://wtoeu39mh7xwf"/>
+    <image id="n28_jwxr" name="n28" src="rp3tw" fileName="image/bg.png" xy="122,300" size="395,28" group="n23_h7xw"/>
+    <text id="n21_h7xw" name="Param" xy="126,300" size="395,28" group="n23_h7xw" font="ui://wqx8l8xqnven1" fontSize="18" vAlign="middle" autoSize="none" singleLine="true" text="" input="true"/>
+    <component id="n22_h7xw" name="BtnSend" src="s4yw1" fileName="components/BtnGM.xml" xy="432,300" size="190,28" group="n23_h7xw">
+      <Button title="发送GM"/>
+    </component>
+    <group id="n23_h7xw" name="GM" xy="122,300" size="500,28" group="n24_h7xw"/>
+    <group id="n24_h7xw" name="Panel" xy="0,57" size="800,943" visible="false" advanced="true"/>
+  </displayList>
+</component>

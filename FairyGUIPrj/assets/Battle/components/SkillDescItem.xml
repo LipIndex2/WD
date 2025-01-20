@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="260,50">
+  <displayList>
+    <richtext id="n0_um5u" name="Desc" xy="1,-4" size="254,59" font="ui://wqx8l8xqut2h1b" fontSize="20" autoSize="none" autoClearText="true" text="啊哈哈哈&#xA;啊哈哈哈"/>
+  </displayList>
+</component>

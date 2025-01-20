@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <displayList>
+    <component id="n0_ln42" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-15,283" size="837,997">
+      <Label title="挂机收益"/>
+    </component>
+    <image id="n2_ln42" name="n2" src="ln421" fileName="image/XiaoShiKuang.png" xy="60,500" group="n12_ln42" visible="false"/>
+    <image id="n3_ln42" name="n3" src="ln421" fileName="image/XiaoShiKuang.png" xy="404,500" group="n12_ln42" visible="false"/>
+    <image id="n10_ln42" name="n10" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="62,671" size="677,365" group="n12_ln42" visible="false"/>
+    <image id="n4_ln42" name="n4" src="tiuj66" fileName="image/Big40000.png" pkg="5qhcb5rw" xy="138,509" group="n12_ln42" scale="0.7,0.7"/>
+    <image id="n5_ln42" name="n5" src="tiuj65" fileName="image/DengJiTuBiao.png" pkg="5qhcb5rw" xy="483,507" group="n12_ln42" scale="0.7,0.7"/>
+    <text id="n6_ln42" name="n6" xy="307,622" pivot="0.5,0.5" size="186,35" group="n12_ln42" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#a68854" align="center" vAlign="middle" text="最长挂机16小时"/>
+    <text id="n1_ln42" name="n1" xy="263,458" pivot="0.5,0.5" size="274,42" group="n12_ln42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" align="center" vAlign="middle" text="章节越高，收益越大"/>
+    <group id="n12_ln42" name="n12" xy="60,458" size="679,578"/>
+    <text id="n14_ln42" name="AttrNum1" xy="190,511" pivot="0,0.5" size="115,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="72/小时"/>
+    <text id="n15_ln42" name="AttrNum2" xy="535,511" pivot="0,0.5" size="115,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="84/小时"/>
+    <text id="n17_lwoh" name="TimeShow" xy="226,577" pivot="0.5,0.5" size="348,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffc52c" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="当前收益时间：16:00:00"/>
+    <component id="n16_xaqq" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="200,577" pivot="0.5,0.5" size="400,42">
+      <Label titleColor="#ffc52c" titleFontSize="30"/>
+    </component>
+    <list id="n11_ln42" name="List" xy="84,695" size="640,325" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_ln42" name="BtnReturns" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="97,1059">
+      <Button title="快速收益"/>
+    </component>
+    <component id="n8_ln42" name="BtnGetPrize" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="408,1059">
+      <Button title="领 取"/>
+    </component>
+  </displayList>
+</component>

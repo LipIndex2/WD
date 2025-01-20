@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="57,99" extention="Label" designImageOffsetX="-293" designImageOffsetY="-242">
+  <displayList>
+    <image id="n1_ule5" name="bg" src="ule59" fileName="image/YuanJiaoJuXing.png" xy="0,0" size="57,99">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n0_ule5" name="title" xy="25,35" pivot="0.5,0" size="10,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <image id="n2_lp11" name="n2" src="lp11v" fileName="image/HeiSeZheZhao.png" xy="0,0" size="57,99" group="n4_lp11">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_lp11" name="n3" src="lp11w" fileName="image/Suo.png" xy="5,-70" group="n4_lp11"/>
+    <group id="n4_lp11" name="GpMask" xy="0,-70" size="57,169" visible="false" advanced="true"/>
+    <component id="n5_9hw6" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="57,0"/>
+  </displayList>
+</component>

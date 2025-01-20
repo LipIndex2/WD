@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="641,206" designImage="ui://3pbetjrwoqnq0" designImageOffsetX="-81" designImageOffsetY="-496">
+  <displayList>
+    <loader id="n1_oqnq" name="BgSp" xy="0,0" size="641,206" url="ui://3pbetjrwoqnq4" autoSize="true"/>
+    <loader id="n2_oqnq" name="IconSp" xy="145,105" pivot="0.5,0.5" anchor="true" size="208,155" url="ui://3pbetjrwoqnqh" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n4_oqnq" name="NoAddShow" xy="271,81" pivot="0,0.5" size="214,42" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="无额外奖励加成"/>
+    <list id="n5_oqnq" name="ShowList" xy="249,60" size="174,83" layout="row" colGap="16" defaultItem="ui://3pbetjrwoqnqe" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

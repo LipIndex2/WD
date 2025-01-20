@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gp6652l2">
+  <resources>
+    <component id="jzmf2" name="ShopView.xml" path="/" exported="true"/>
+    <component id="sxqb5" name="ShopBoard.xml" path="/" exported="true"/>
+    <component id="iw5ub52" name="ButtonTab.xml" path="/components/"/>
+    <image id="iw5ub51" name="YeQianAnNiu.png" path="/image/" scale="9grid" scale9grid="26,23,52,46"/>
+    <component id="iw5u6" name="ShopViewMainPanel.xml" path="/" exported="true"/>
+    <component id="iw5u7" name="ShopViewSalePanel.xml" path="/" exported="true"/>
+    <image id="iw5u8" name="banner1.png" path="/image/main_card/"/>
+    <component id="iw5u9" name="ButtonMainCard.xml" path="/components/"/>
+    <image id="iw5ua" name="DengJiDi.png" path="/image/main_box/"/>
+    <image id="iw5ub" name="GanTanHao.png" path="/image/"/>
+    <component id="iw5uc" name="ButtonTips.xml" path="/components/"/>
+    <image id="iw5ud" name="JinDu.png" path="/image/main_box/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="iw5ue" name="JinDuDi.png" path="/image/main_box/" scale="9grid" scale9grid="26,9,52,18"/>
+    <component id="iw5uf" name="ProgressBox.xml" path="/components/"/>
+    <component id="iw5uj" name="ButtonMainBox.xml" path="/components/" exported="true"/>
+    <image id="iw5uk" name="XiangZi2.png" path="/image/main_box/"/>
+    <image id="iw5ul" name="XiangZi0.png" path="/image/main_box/"/>
+    <image id="iw5um" name="XiangZi1.png" path="/image/main_box/"/>
+    <image id="iw5ur" name="banner2.png" path="/image/main_discount/"/>
+    <component id="iw5us" name="ShopMain0.xml" path="/components/" exported="true"/>
+    <component id="iw5ut" name="ShopMain1.xml" path="/components/" exported="true"/>
+    <component id="iw5uu" name="ShopMain2.xml" path="/components/" exported="true"/>
+    <component id="iw5uv" name="ButtonMainDiscount.xml" path="/components/"/>
+    <image id="iw5uw" name="ShangPinDi.png" path="/image/main_discount/" scale="9grid" scale9grid="22,22,44,44"/>
+    <image id="iw5ux" name="ShangPinMingZiDi.png" path="/image/main_discount/"/>
+    <image id="iw5uy" name="BaoShiTuBiao.png" path="/image/main_discount/"/>
+    <component id="iw5uz" name="ButtonMainBuy.xml" path="/components/"/>
+    <component id="iw5u11" name="ButtonMainDiscountFlush.xml" path="/components/"/>
+    <component id="iw5u14" name="ShopMain3.xml" path="/components/" exported="true"/>
+    <component id="iw5u15" name="ButtonMainGold.xml" path="/components/"/>
+    <image id="iw5u16" name="JinBiDi.png" path="/image/main_gold/"/>
+    <image id="iw5u17" name="JinBi0.png" path="/image/main_gold/" exported="true"/>
+    <image id="iw5u18" name="JinBi1.png" path="/image/main_gold/" exported="true"/>
+    <image id="iw5u19" name="JinBi2.png" path="/image/main_gold/" exported="true"/>
+    <component id="iw5u1b" name="ShopMain4.xml" path="/components/" exported="true"/>
+    <component id="iw5u1c" name="ButtonMainDiamond.xml" path="/components/"/>
+    <image id="iw5u1d" name="ZuanShi1.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1e" name="ZuanShi2.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1f" name="ZuanShi3.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1g" name="ZuanShi4.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1h" name="ZuanShi5.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1i" name="ZuanShi6.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1j" name="ZuanShi0.png" path="/image/main_diamond/" exported="true"/>
+    <image id="iw5u1k" name="ZuanShiDi.png" path="/image/main_diamond/"/>
+    <image id="iw5u1l" name="DaHongBiao.png" path="/image/main_diamond/"/>
+    <component id="rjrob54" name="ShopSale0.xml" path="/components/" exported="true"/>
+    <image id="rjrob56" name="JianTouHuang.png" path="/image/sale_0/"/>
+    <component id="rjrob57" name="ButtonArrow.xml" path="/components/"/>
+    <image id="rjrob59" name="TeJiaDi.png" path="/image/sale_0/"/>
+    <component id="o4uzb5b" name="ItemDiscountHero.xml" path="/components/"/>
+    <image id="o4uzb5c" name="DaJianTou.png" path="/image/main_discount/"/>
+    <image id="okorb5g" name="MeiRiTeHui.png" path="/image/main_discount/"/>
+    <image id="sfj3b5k" name="HongXian.png" path="/image/main_card/"/>
+    <image id="lwohb62" name="HuangJinTongXingZhengTuBiao.png" path="/image/main_card/"/>
+    <image id="lwohb65" name="WenZiDi.png" path="/image/sale_0/"/>
+    <image id="lwohb68" name="HongXian.png" path="/image/sale_0/"/>
+    <component id="lwohb69" name="ShopSaleItem.xml" path="/components/" exported="true"/>
+    <image id="lwohb6a" name="DaoJuKuangDi.png" path="/image/sale_0/" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="lwohb6e" name="ChengChangLiBaoDi.png" path="/image/sale_0/"/>
+    <image id="qrdjb6g" name="BiChuDi.png" path="/image/main_box/"/>
+    <image id="qrdjb6h" name="ShanLiangLiangHong.png" path="/image/main_box/"/>
+    <image id="qrdjb6i" name="ShanLiangLiangLan.png" path="/image/main_box/"/>
+    <image id="qrdjb6j" name="ShanLiangLiangZi.png" path="/image/main_box/"/>
+    <component id="rplfb6k" name="ShopMain5.xml" path="/components/" exported="true"/>
+    <image id="rplfb6m" name="HengFu.png" path="/image/main_gift/"/>
+    <image id="rplfb6o" name="LiBaoDiKuang1.png" path="/image/main_gift/" exported="true"/>
+    <image id="rplfb6p" name="LiBaoDiKuang2.png" path="/image/main_gift/" exported="true"/>
+    <image id="rplfb6r" name="JiaGeTiao.png" path="/image/main_gift/"/>
+    <component id="rplfb6s" name="ButtonPreferenceGifr.xml" path="/components/" exported="true"/>
+    <image id="pp34b6w" name="商城超大.png" path="/"/>
+    <image id="pp34b6y" name="商城小标注.png" path="/"/>
+    <component id="pp34b6z" name="ButtonMainBoxType.xml" path="/components/" exported="true"/>
+    <component id="ve11b74" name="ButtonMainBox1.xml" path="/components/"/>
+    <component id="ve11b75" name="ButtonMainBox2.xml" path="/components/"/>
+    <component id="ve11b76" name="ButtonMainBox3.xml" path="/components/"/>
+    <image id="ve11b77" name="LiBaoDi1.png" path="/image/main_box/" scale9grid="33,30,66,21"/>
+    <image id="ve11b78" name="LiBaoDi2.png" path="/image/main_box/" scale9grid="33,29,66,19"/>
+    <image id="ve11b79" name="LiBaoDi3.png" path="/image/main_box/" scale9grid="33,29,66,24"/>
+    <image id="gcetb7a" name="Game_BG.jpg" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,225" designImage="ui://km0iyz3hmizfa" designImageOffsetX="-84" designImageOffsetY="-702" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <list id="n1_mizf" name="List" xy="0,0" size="630,225" layout="flow_hz" colGap="130" defaultItem="ui://km0iyz3hmizfc" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

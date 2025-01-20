@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,674" designImage="ui://gp6652l2pp34b6w" designImageOffsetY="-614">
+  <displayList>
+    <image id="n1_iw5u" name="bg" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="30,102" size="740,522"/>
+    <loader id="n13_pp34" name="BgSp" xy="61,302" size="678,328" url="ui://gp6652l2pp34b6x" autoSize="true"/>
+    <image id="n10_iw5u" name="bg_t" src="okor6f" fileName="HengFuLan.png" pkg="rqg67c20" xy="45,0" size="710,54"/>
+    <text id="n12_iw5u" name="TitleShow" xy="360,4" pivot="0.5,0.5" size="79,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="宝 箱"/>
+    <component id="n5_iw5u" name="ProgressBox" src="iw5uf" fileName="components/ProgressBox.xml" xy="169,138">
+      <ProgressBar max="100"/>
+    </component>
+    <image id="n2_iw5u" name="bg_l" src="iw5ua" fileName="image/main_box/DengJiDi.png" xy="72,124"/>
+    <text id="n3_iw5u" name="LevelShow" xy="97,128" pivot="0.5,0.5" size="79,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="Lv.4"/>
+    <component id="n4_iw5u" name="BtnTips" src="iw5uc" fileName="components/ButtonTips.xml" xy="677,122"/>
+    <component id="n15_ve11" name="BtnBox1" src="ve11b74" fileName="components/ButtonMainBox1.xml" xy="61,205"/>
+    <component id="n16_ve11" name="BtnBox2" src="ve11b75" fileName="components/ButtonMainBox2.xml" xy="408,206"/>
+    <component id="n17_ve11" name="BtnBox3" src="ve11b76" fileName="components/ButtonMainBox3.xml" xy="61,603"/>
+  </displayList>
+</component>

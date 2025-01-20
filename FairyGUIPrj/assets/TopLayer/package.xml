@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wtoeu39m">
+  <resources>
+    <component id="s4yw0" name="TopLayerView.xml" path="/" exported="true"/>
+    <component id="s4yw1" name="BtnGM.xml" path="/components/"/>
+    <image id="gpne2" name="TiShiDi.png" path="/image/" scale="9grid" scale9grid="15,15,5,5"/>
+    <component id="gpne3" name="FloatingTextItem.xml" path="/components/" exported="true"/>
+    <component id="vkth4" name="FloatingText.xml" path="/components/" exported="true"/>
+    <image id="ea974" name="ZhanLi2.png" path="/image/" scale="9grid" scale9grid="210,42,-2,84"/>
+    <image id="ea978" name="DengJiTiSheng2.png" path="/image/"/>
+    <image id="ea979" name="ShengJi2.png" path="/image/"/>
+    <component id="h7xwe" name="GMParamItem.xml" path="/components/"/>
+    <component id="h7xwf" name="GMItem.xml" path="/components/"/>
+    <component id="h7xwg" name="GMCmdItem.xml" path="/components/" exported="true"/>
+    <component id="wasph" name="FloatingTextFadeItem.xml" path="/components/" exported="true"/>
+    <image id="mynpj" name="PiaoZiDi.png" path="/image/"/>
+    <component id="on5hm" name="TaskItem.xml" path="/components/" exported="true"/>
+    <component id="on5ho" name="ProgressTask.xml" path="/components/" exported="true"/>
+    <image id="on5hp" name="LvJinDuDiQuan.png" path="/image/task/" exported="true"/>
+    <image id="on5hq" name="LvJinDuQuan.png" path="/image/task/" exported="true"/>
+    <image id="on5hs" name="TongYongRenWuDi.png" path="/image/task/" exported="true"/>
+    <image id="on5ht" name="TuBiaoKuang.png" path="/image/task/" exported="true"/>
+    <image id="on5hu" name="TuBiaoKuangBai.png" path="/image/task/" exported="true"/>
+    <image id="on5hv" name="ZhuanShuRenWuDi.png" path="/image/task/" exported="true"/>
+    <image id="rp3tw" name="bg.png" path="/image/" scale="9grid" qualityOption="source" smoothing="false" duplicatePadding="true" disableTrim="true"/>
+    <component id="afyny" name="FishScoreItem.xml" path="/components/" exported="true"/>
+    <image id="afyn10" name="KeHeChengJianTou.png" path="/image/cap/"/>
+    <image id="afyn12" name="PingFen.png" path="/image/cap/"/>
+    <image id="afyn13" name="TuCeng132.png" path="/image/cap/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

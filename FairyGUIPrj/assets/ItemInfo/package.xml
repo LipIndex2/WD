@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="h28o2l07">
+  <resources>
+    <component id="eit30" name="ItemInfoView.xml" path="/" exported="true"/>
+    <image id="eit31" name="物品来源弹框SPE.jpg" path="/"/>
+    <image id="eit32" name="WuPinLaiYuantips.png" path="/image/" scale="9grid" scale9grid="36,23,72,46"/>
+    <component id="eit33" name="GetWayItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

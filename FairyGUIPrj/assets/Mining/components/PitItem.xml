@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="108,108" extention="Button">
+  <displayList>
+    <loader id="n0_mgkh" name="Icon" xy="0,0" size="108,108" url="ui://a1ymjkzfmgkh9" fill="scaleFree" clearOnPublish="true"/>
+    <image id="n4_mgkh" name="Mask" src="mgkhx" fileName="image/GeZiDeZheZhao.png" xy="0,0" size="108,108"/>
+    <component id="n5_mgkh" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="53,53"/>
+  </displayList>
+  <Button/>
+  <transition name="hide">
+    <item time="0" type="Visible" target="n0_mgkh" value="true"/>
+    <item time="6" type="Visible" target="n0_mgkh" value="false"/>
+  </transition>
+</component>

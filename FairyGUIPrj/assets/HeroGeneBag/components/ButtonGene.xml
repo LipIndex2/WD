@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,206" pivot="0.5,0.5" extention="Button" designImage="ui://n09zf5xxu3z8j" designImageOffsetX="-97" designImageOffsetY="-525" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n0_vb35" name="Bg" xy="0,0" size="210,206" url="ui://n09zf5xxrty2f"/>
+    <loader id="n3_vb35" name="Icon" xy="32,54" pivot="0.5,0.5" size="150,150" url="ui://uivgkva9vb354h" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n4_vb35" name="AttrIcon" xy="10,8" pivot="0.5,0.5" size="40,40" align="center" vAlign="middle"/>
+    <image id="n7_u3z8" name="n7" src="u3z8k" fileName="image/JiYinGengHuanYiZhuangBeiDi.png" xy="24,156" group="n9_u3z8"/>
+    <text id="n8_u3z8" name="n8" xy="22,154" pivot="0,0.5" size="88,39" group="n9_u3z8" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="已装备"/>
+    <group id="n9_u3z8" name="putOn" xy="22,154" size="144,39" advanced="true"/>
+    <text id="n5_vb35" name="Lv" xy="71,19" pivot="0.5,0.5" size="73,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="LV.12"/>
+    <text id="n6_vb35" name="Name" xy="55,210" pivot="0.5,0.5" size="100,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" text="基因名称"/>
+    <component id="n10_en2l" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="181,21"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

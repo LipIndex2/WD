@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="foyp9th5">
+  <resources>
+    <component id="9dtw0" name="SavingPotView.xml" path="/" exported="true"/>
+    <image id="9dtwb" name="ShangBiao.png" path="/image/"/>
+    <image id="e4fll" name="QiPao.png" path="/image/"/>
+    <image id="cqilr" name="JiaoBiao.png" path="/image/"/>
+    <image id="r9w5v" name="有钱花效果参数.png" path="/"/>
+    <image id="r9w5x" name="YouQianHuaHengFu.png" path="/image/"/>
+    <image id="r9w5y" name="YouQianHuaJinDu1.png" path="/image/"/>
+    <image id="r9w5z" name="YouQianHuaJinDu2.png" path="/image/" scale="9grid" scale9grid="25,15,482,30"/>
+    <image id="r9w510" name="YouQianHuaAnDi.png" path="/image/" scale="9grid" scale9grid="33,33,66,66"/>
+    <image id="r9w511" name="YuanHua2.png" path="/image/"/>
+    <component id="r9w513" name="ProgressBar.xml" path="/components/"/>
+    <image id="lwoh16" name="有钱花效果.png" path="/" exported="true"/>
+    <image id="lwoh18" name="XiaZuanShiDui.png" path="/image/"/>
+    <image id="lwoh19" name="YouQianHuaZuanShi.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

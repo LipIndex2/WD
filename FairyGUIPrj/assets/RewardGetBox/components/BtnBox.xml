@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="331,277" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n13_h6p0" name="icon" xy="0,0" pivot="0.5,1" size="331,277" url="ui://x30uryedh6p06" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+  <Button/>
+</component>

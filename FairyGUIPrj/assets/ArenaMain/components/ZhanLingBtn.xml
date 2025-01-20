@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="513,146" pivot="0.5,0.5" extention="Button" designImage="ui://ejt7h3xzr1b9b" designImageOffsetX="-145" designImageOffsetY="-152" designImageAlpha="0" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_wpum" name="n0" src="r1b94" fileName="imange/TongXingZhengTuBiao.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_iyea" name="ProgressBar" src="wpumo" fileName="components/ProgressBar1.xml" xy="26,79" size="286,40">
+      <ProgressBar value="100" max="100"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

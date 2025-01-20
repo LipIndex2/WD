@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" pivot="0.5,0.5" extention="Button" designImageOffsetX="-406" designImageOffsetY="-979">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_okyu" name="bg" src="okyub4w" fileName="image/ChengAnNiu.png" pkg="zokic7y2" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n5_digc" name="icon" xy="57,23" pivot="0.5,0.5" size="71,65" url="ui://rqg67c20digc5j" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="n4_okyu" sidePair="right-left"/>
+    </loader>
+    <richtext id="n4_okyu" name="title" xy="144,24" pivot="0.5,0.5" size="92,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="免费">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </richtext>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

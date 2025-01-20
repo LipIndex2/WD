@@ -1,0 +1,97 @@
+
+kafeidou_TB.png
+size: 246,78
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+A-hu1
+  rotate: false
+  xy: 0, 1
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+A-kafei2
+  rotate: false
+  xy: 92, 0
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+A-kafei3
+  rotate: false
+  xy: 105, 4
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+A-kafei5
+  rotate: true
+  xy: 138, 20
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+A-kafeidou
+  rotate: false
+  xy: 174, 31
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+A-tpufa
+  rotate: true
+  xy: 174, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+A-yanjing
+  rotate: true
+  xy: 215, 46
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+lihe
+  rotate: true
+  xy: 92, 20
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 225, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 225, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+sidai1
+  rotate: false
+  xy: 132, 4
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: true
+  xy: 225, 21
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+sidai3
+  rotate: true
+  xy: 202, 3
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

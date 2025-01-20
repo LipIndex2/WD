@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="624,50" extention="Label" designImage="ui://0dgaz20zhtrt1" designImageOffsetX="-88" designImageOffsetY="-645">
+  <displayList>
+    <text id="n0_htrt" name="title" xy="37,4" pivot="0,0.5" size="244,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="达到新记录时停止"/>
+    <component id="n3_htrt" name="Toggle" src="htrtb5l" fileName="Toggle2.xml" pkg="zokic7y2" xy="549,6"/>
+  </displayList>
+</component>

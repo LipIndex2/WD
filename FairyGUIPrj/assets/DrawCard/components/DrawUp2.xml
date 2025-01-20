@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="694,450" designImage="ui://6734rus6qzyf1" designImageOffsetX="-54" designImageOffsetY="-752" designImageLayer="1">
+  <displayList>
+    <loader id="n0_gvyg" name="Bg" xy="0,-1" pivot="0.5,1" size="694,451" align="center" vAlign="bottom" autoSize="true"/>
+    <loader id="n1_gvyg" name="Icon" xy="41,328" pivot="0.5,0.5" size="106,99" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n4_gvyg" name="RaceIcon" xy="441,378" pivot="0.5,0.5" size="40,40" url="ui://rqg67c20ln425o" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="n5_gvyg" sidePair="right-left"/>
+    </loader>
+    <text id="n3_gvyg" name="HeroColor" xy="511,324" pivot="1,0.5" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#53fffd" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="稀有英雄"/>
+    <text id="n5_gvyg" name="Name" xy="487,363" pivot="1,0.5" size="148,64" font="ui://wqx8l8xqut2h1b" fontSize="48" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" autoClearText="true" text="火炬木"/>
+    <component id="n2_gvyg" name="BtnTips" src="gvygg" fileName="components/ButtonTips.xml" xy="21,77"/>
+  </displayList>
+</component>

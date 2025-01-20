@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="106,124" extention="Label" designImage="ui://8fnzs9ndjlw61" designImageOffsetX="-78" designImageOffsetY="-446">
+  <displayList>
+    <image id="n0_jlw6" name="icon" src="jlw69" fileName="image/TuiChe.png" xy="0,-1"/>
+    <text id="n1_jlw6" name="title" xy="-1,88" pivot="0,0.5" size="108,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#54301e" vAlign="middle" text="精力强劲"/>
+  </displayList>
+</component>

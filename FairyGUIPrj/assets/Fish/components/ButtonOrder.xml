@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="272,218" pivot="0.5,0.5" extention="Button" designImage="ui://qrbaplf6fe0v1" designImageOffsetX="-517" designImageOffsetY="-483">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_fe0v" name="bg" src="bcxi10" fileName="image/DingDanDiBan.png" xy="0,0"/>
+    <image id="n4_fe0v" name="bg_t" src="fe0vg" fileName="image/YuanJiaoJuXing6.png" xy="-2,-7"/>
+    <text id="n5_fe0v" name="title" xy="22,-2" pivot="0.5,0.5" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#fff392" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="订单"/>
+    <component id="n7_gu7e" name="RedPointShow" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="97,2"/>
+    <list id="n6_fe0v" name="ShowList" xy="28,58" size="220,151" lineGap="8" defaultItem="ui://qrbaplf6fe0vh" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

@@ -1,0 +1,90 @@
+
+effect_lxl.png
+size: 551,191
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+smoke_01
+  rotate: false
+  xy: 467, 8
+  size: 78, 90
+  orig: 128, 128
+  offset: 17, 3
+  index: -1
+smoke_02
+  rotate: false
+  xy: 288, 96
+  size: 92, 95
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_03
+  rotate: false
+  xy: 0, 96
+  size: 95, 95
+  orig: 128, 128
+  offset: 16, 0
+  index: -1
+smoke_04
+  rotate: false
+  xy: 0, 0
+  size: 95, 95
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_05
+  rotate: false
+  xy: 381, 99
+  size: 95, 92
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_06
+  rotate: true
+  xy: 287, 0
+  size: 95, 93
+  orig: 128, 128
+  offset: 16, 2
+  index: -1
+smoke_07
+  rotate: false
+  xy: 192, 0
+  size: 94, 95
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_08
+  rotate: false
+  xy: 96, 96
+  size: 95, 95
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_09
+  rotate: false
+  xy: 96, 0
+  size: 95, 95
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_10
+  rotate: false
+  xy: 192, 96
+  size: 95, 95
+  orig: 128, 128
+  offset: 17, 0
+  index: -1
+smoke_11
+  rotate: true
+  xy: 381, 9
+  size: 89, 85
+  orig: 128, 128
+  offset: 19, 10
+  index: -1
+smoke_12
+  rotate: true
+  xy: 477, 111
+  size: 80, 74
+  orig: 128, 128
+  offset: 26, 11
+  index: -1

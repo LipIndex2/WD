@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,190" designImageOffsetY="-818" designImageLayer="1">
+  <controller name="ItemState" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_lwoh" name="n0" src="9s564" fileName="image/ZiSeDi.png" xy="0,0" size="800,190">
+      <gearDisplay controller="ItemState" pages="0"/>
+    </image>
+    <image id="n3_lwoh" name="n3" src="9s565" fileName="image/LanSeShiJianXian.png" xy="232,0" size="24,191">
+      <gearDisplay controller="ItemState" pages="0"/>
+    </image>
+    <image id="n4_lwoh" name="n4" src="9s566" fileName="image/KaFeiSeFenGeXian.png" xy="524,0" size="8,191">
+      <gearDisplay controller="ItemState" pages="0"/>
+    </image>
+    <image id="n1_lwoh" name="n1" src="9s567" fileName="image/HuiLanBanKuai.png" xy="0,0" size="800,190">
+      <gearDisplay controller="ItemState" pages="1"/>
+    </image>
+    <image id="n5_lwoh" name="n5" src="9s568" fileName="image/LanSeFenGeXianCu.png" xy="232,0" size="24,190">
+      <gearDisplay controller="ItemState" pages="1"/>
+    </image>
+    <image id="n6_lwoh" name="n6" src="9s569" fileName="image/LanSeFenGeXianXi.png" xy="524,0" size="8,190">
+      <gearDisplay controller="ItemState" pages="1"/>
+    </image>
+    <image id="n8_lwoh" name="n8" src="9s56a" fileName="image/ShiJianYuanQuan.png" xy="205,55">
+      <gearLook controller="ItemState" pages="1" values="1,0,1,0" default="1,0,0,0"/>
+    </image>
+    <image id="n16_9s56" name="n16" src="9s56r" fileName="image/bossTuBiao.png" xy="210,55" pivot="0.5,0.5" scale="0.6,0.6">
+      <gearLook controller="ItemState" pages="1" values="1,0,1,0" default="1,0,0,0"/>
+    </image>
+    <image id="n15_lwoh" name="Wire" src="9s565" fileName="image/LanSeShiJianXian.png" xy="800,190" size="24,800" visible="false" rotation="90"/>
+    <text id="n10_lwoh" name="Num" xy="225,91" pivot="0.5,0.5" size="40,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="34">
+      <gearLook controller="ItemState" pages="1" values="1,0,1,0" default="1,0,0,0"/>
+    </text>
+    <component id="n12_lwoh" name="RoundItem0" src="9s561" fileName="components/RoundItem.xml" xy="58,36">
+      <gearLook controller="ItemState" pages="1" values="1,0,1,1" default="1,0,0,1"/>
+    </component>
+    <component id="n13_lwoh" name="RoundItem1" src="9s561" fileName="components/RoundItem.xml" xy="332,36">
+      <gearLook controller="ItemState" pages="1" values="1,0,1,1" default="1,0,0,1"/>
+    </component>
+    <component id="n14_lwoh" name="RoundItem2" src="9s561" fileName="components/RoundItem.xml" xy="608,35">
+      <gearLook controller="ItemState" pages="1" values="1,0,1,1" default="1,0,0,1"/>
+    </component>
+    <component id="n17_x8we" name="BtnBuy" src="x8wet" fileName="components/BtnBuyLevel.xml" xy="163,-40"/>
+  </displayList>
+</component>

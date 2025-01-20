@@ -1,0 +1,83 @@
+
+11034.png
+size: 662,129
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: false
+  xy: 553, 60
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+chibang1_1
+  rotate: true
+  xy: 0, 0
+  size: 129, 179
+  orig: 129, 179
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 608, 60
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+chibang2_2
+  rotate: true
+  xy: 180, 0
+  size: 129, 179
+  orig: 129, 179
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 471, 0
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 573, 9
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 606, 27
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 471, 47
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 535, 6
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 496, 6
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 360, 6
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="apk4cf2a">
+  <resources>
+    <image id="mgkh0" name="TeXiaoCeng.png" path="/image/"/>
+    <image id="mgkh1" name="矿洞-获得道具.jpg" path="/"/>
+    <component id="mgkh2" name="MiningRewardShowView.xml" path="/" exported="true"/>
+    <image id="mgkh3" name="40062.png" path="/image/"/>
+    <image id="atj44" name="BiaoTiXiaoHengFu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

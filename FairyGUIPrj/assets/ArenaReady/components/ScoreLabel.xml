@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="407,74" extention="Label">
+  <displayList>
+    <image id="n15_pp4u" name="n15" src="pp4u17" fileName="imange/YuanJiaoJu.png" xy="15,11"/>
+    <image id="n14_pp4u" name="n14" src="pp4u18" fileName="imange/PingFenTuBiao.png" xy="0,0"/>
+    <text id="n16_pp4u" name="title" xy="73,18" pivot="0,0.5" size="307,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffef85" vAlign="middle" strokeColor="#491916" strokeSize="3" text="阵容评分：987875"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="32,32">
+  <displayList>
+    <image id="n0_e0y5" name="n0" src="k23u41" fileName="image/HongDian.png" pkg="1kdklxk3" xy="0,0"/>
+    <image id="n1_e0y5" name="n1" src="e0y543" fileName="image/HongDianGanTanHao.png" pkg="1kdklxk3" xy="0,0"/>
+  </displayList>
+</component>

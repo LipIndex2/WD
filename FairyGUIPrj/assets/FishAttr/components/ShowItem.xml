@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,50" designImage="ui://q6imlewpvxpk1" designImageOffsetX="-100" designImageOffsetY="-643">
+  <displayList>
+    <richtext id="n0_vxpk" name="title" xy="41,2" pivot="0,0.5" size="444,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="渔夫：出售鱼获得鱼币+20%"/>
+  </displayList>
+</component>

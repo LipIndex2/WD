@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="exeypfks">
+  <resources>
+    <component id="fznd1" name="ComboBox_item.xml" path="/components/" exported="true"/>
+    <component id="fznd2" name="ComboBox_popup.xml" path="/components/" exported="true"/>
+    <component id="fznd3" name="ComboBox.xml" path="/" exported="true"/>
+    <image id="fznd5" name="KuoZhanTuBiao.png" path="/image/"/>
+    <image id="fznd6" name="KuoZhanTuBiao2.png" path="/image/"/>
+    <image id="fznd7" name="3级弹窗设置改2_.jpg" path="/"/>
+    <image id="fznd8" name="JuXing.png" path="/image/" scale="9grid" scale9grid="52,15,104,30"/>
+    <image id="fznd9" name="YuanJiaoJuXing.png" path="/image/" scale="9grid" scale9grid="16,15,32,30"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

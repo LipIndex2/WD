@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://fscihaszaj744" designImageLayer="1">
+  <displayList>
+    <component id="n0_l6cb" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" pivot="0.5,0.5" size="730,1255"/>
+    <image id="n13_aj74" name="n13" src="aj745" fileName="image/DiBuGuangXiao.png" xy="152,316" size="495,421" group="n27_aj74"/>
+    <image id="n1_l6cb" name="n1" src="aj741" fileName="image/TaiZi.png" xy="239,568" size="321,160" group="n27_aj74"/>
+    <image id="n4_l6cb" name="n4" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="86,743" size="628,260" group="n27_aj74"/>
+    <image id="n5_l6cb" name="n5" src="aj742" fileName="image/BiaoTiXian.png" xy="115,767" size="208,26" group="n27_aj74"/>
+    <image id="n6_l6cb" name="n6" src="aj742" fileName="image/BiaoTiXian.png" xy="684,767" size="208,26" group="n27_aj74" scale="-1,1"/>
+    <text id="n7_l6cb" name="n7" xy="359,752" pivot="0.5,0.5" size="84,54" group="n27_aj74" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="奖励"/>
+    <group id="n27_aj74" name="n27" xy="86,316" size="806,687" group="n29_aj74"/>
+    <list id="n10_l6cb" name="List" xy="130,822" size="540,120" group="n29_aj74" layout="row" colGap="20" defaultItem="ui://gn62pyk3rjro31" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n2_l6cb" name="Icon" xy="241,478" pivot="0.5,1" size="318,191" group="n29_aj74" url="ui://06rutj3rl6cb3" autoSize="true" clearOnPublish="true"/>
+    <group id="n29_aj74" name="n29" xy="86,316" size="806,687" advanced="true">
+      <relation target="n0_l6cb" sidePair="top-top"/>
+    </group>
+    <image id="n20_aj74" name="n20" src="aj74a" fileName="image/HuangJinTongXingZheng3JiDiBan2.png" xy="85,1021" size="630,205" group="n28_aj74"/>
+    <image id="n21_aj74" name="n21" src="aj74b" fileName="image/HuangJinTongXingZhengTuBiaoXiao.png" xy="108,1042" size="64,43" group="n28_aj74"/>
+    <text id="n22_aj74" name="n22" xy="178,1040" pivot="0,0.5" size="184,49" group="n28_aj74" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#fff286" vAlign="middle" strokeColor="#491914" strokeSize="3" text="黄金通行证"/>
+    <text id="n23_aj74" name="n23" xy="106,1103" size="278,86" group="n28_aj74" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" vAlign="middle" leading="18" autoSize="none" strokeColor="#491914" strokeSize="3" text="获得高级通行证，+10级&#xA;立即获得，更多奖励！"/>
+    <component id="n26_aj74" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="427,1072" group="n28_aj74" scale="0.8,0.8"/>
+    <group id="n28_aj74" name="GlodShow" xy="85,1021" size="638,205" advanced="true"/>
+    <component id="n24_aj74" name="BtnClose" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1269">
+      <relation target="n0_l6cb" sidePair="bottom-bottom"/>
+      <Button title="确 认"/>
+    </component>
+  </displayList>
+</component>

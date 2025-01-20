@@ -1,0 +1,76 @@
+
+15024.png
+size: 963,227
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: false
+  xy: 499, 11
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 892, 22
+  size: 205, 71
+  orig: 205, 71
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 737, 114
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 737, 0
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+she1
+  rotate: false
+  xy: 0, 0
+  size: 195, 227
+  orig: 195, 227
+  offset: 0, 0
+  index: -1
+she2
+  rotate: false
+  xy: 196, 0
+  size: 194, 227
+  orig: 194, 227
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 391, 46
+  size: 175, 181
+  orig: 175, 181
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 391, 4
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 445, 4
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 567, 45
+  size: 169, 182
+  orig: 169, 182
+  offset: 0, 0
+  index: -1

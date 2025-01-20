@@ -1,0 +1,34 @@
+
+11018.png
+size: 185,184
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bing01
+  rotate: true
+  xy: 104, 145
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+bing02
+  rotate: true
+  xy: 40, 151
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 0
+  size: 144, 185
+  orig: 144, 185
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 0, 163
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1

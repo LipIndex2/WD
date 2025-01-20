@@ -1,0 +1,11 @@
+{
+    "imports": {
+        "core/": "./assets/script/core/",
+        "modules/": "./assets/script/modules/",
+        "config/" : "./assets/script/config/",
+        "manager/" : "./assets/script/manager/",
+        "utils/" : "./assets/script/utils/",
+        "data/" : "./assets/script/data/",
+        "preload/" : "./assets/preload/"
+    }
+}

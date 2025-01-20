@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,302" designImage="ui://8rjn0pknggdqe" designImageOffsetX="-84" designImageOffsetY="-589">
+  <displayList>
+    <loader id="n0_ggdq" name="BgSp" xy="0,0" size="200,302" url="ui://8rjn0pknggdq14" fill="scaleFree" autoSize="true"/>
+    <loader id="n1_ggdq" name="BgISp" xy="30,30" size="140,140" fill="scaleFree" autoSize="true"/>
+    <loader id="n3_ggdq" name="IconSp" xy="50,48" size="105,105" fill="scaleFree" autoSize="true"/>
+    <image id="n4_ggdq" name="ArrowShow" src="ggdq11" fileName="image/JiaSu.png" xy="90,117" visible="false"/>
+    <text id="n5_ggdq" name="NumShow" xy="142,110" pivot="1,0.5" size="10,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" vAlign="middle" leading="5" strokeColor="#491914" strokeSize="3" text=""/>
+    <text id="n2_ggdq" name="DescShow" xy="34,190" size="134,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" leading="5" autoSize="height" strokeColor="#491914" strokeSize="3" text=""/>
+  </displayList>
+</component>

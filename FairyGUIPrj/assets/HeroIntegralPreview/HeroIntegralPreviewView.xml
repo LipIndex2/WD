@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://ufz1cam7omua1" designImageLayer="1">
+  <displayList>
+    <component id="n0_omua" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,332" size="730,922">
+      <Label title="英雄池详情"/>
+    </component>
+    <image id="n1_omua" name="n1" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="65,548" size="670,680"/>
+    <image id="n3_omua" name="n3" src="omua2" fileName="image/JuXing.png" xy="65,550" size="670,75" group="n7_omua"/>
+    <text id="n4_omua" name="n4" xy="280,566" pivot="0.5,0.5" size="68,44" group="n7_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#b6fc87" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="普通"/>
+    <text id="n5_omua" name="n5" xy="446,566" pivot="0.5,0.5" size="68,44" group="n7_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#68e7fb" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="稀有"/>
+    <text id="n6_omua" name="n6" xy="613,566" pivot="0.5,0.5" size="68,44" group="n7_omua" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#f4a0ff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="史诗"/>
+    <group id="n7_omua" name="n7" xy="65,550" size="670,75" visible="false" advanced="true"/>
+    <list id="n2_omua" name="List" xy="65,550" size="670,674" overflow="scroll" defaultItem="ui://ufz1cam7omua3" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

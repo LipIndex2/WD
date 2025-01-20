@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="297,112" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_k2qf" name="n0" src="k2qf7" fileName="image/AnNiu.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_k2qf" name="title" xy="102,23" size="92,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="4" singleLine="true" text="商店">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <loader id="n2_k2qf" name="icon" xy="68,24" size="58,58" visible="false" url="ui://h6nb280ck2qf2" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button/>
+</component>

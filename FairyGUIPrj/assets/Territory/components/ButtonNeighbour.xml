@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,134" pivot="0.5,0.5" extention="Button" designImage="ui://vmjqwampule58" designImageOffsetX="-10" designImageOffsetY="-1292">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_ule5" name="icon" xy="0,0" size="134,134" url="ui://vmjqwampjpdoe" autoSize="true"/>
+    <text id="n6_jpdo" name="title" xy="35,113" pivot="0.5,0.5" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="仙友"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+  <relation target="n4_ule5" sidePair="width-width,height-height"/>
+</component>

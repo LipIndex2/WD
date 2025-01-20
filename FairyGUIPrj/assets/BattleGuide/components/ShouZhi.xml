@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="153,124" opaque="false">
+  <displayList>
+    <image id="n4_cy08" name="ShouZhi" src="cy081" fileName="image/shouzhi.png" xy="0,0"/>
+  </displayList>
+  <transition name="click" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n4_cy08" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n4_cy08" tween="true" startValue="38,36" endValue="0,0" duration="6"/>
+    <item time="12" type="Alpha" target="n4_cy08" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="18" type="XY" target="n4_cy08" value="38,36"/>
+  </transition>
+  <transition name="left_move" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n4_cy08" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n4_cy08" tween="true" startValue="42,46" endValue="0,0" duration="6"/>
+    <item time="6" type="XY" target="n4_cy08" tween="true" startValue="0,0" endValue="-110,0" duration="18" ease="Sine.Out"/>
+    <item time="23" type="Alpha" target="n4_cy08" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+  <transition name="right_move">
+    <item time="0" type="Alpha" target="n4_cy08" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n4_cy08" tween="true" startValue="37,41" endValue="0,0" duration="6" yoyo="true"/>
+    <item time="6" type="XY" target="n4_cy08" tween="true" startValue="0,0" endValue="110,0" duration="18" ease="Sine.Out"/>
+    <item time="23" type="Alpha" target="n4_cy08" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+  <transition name="up_move" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n4_cy08" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n4_cy08" tween="true" startValue="34,49" endValue="0,0" duration="6"/>
+    <item time="6" type="XY" target="n4_cy08" tween="true" startValue="0,0" endValue="0,-110" duration="18" ease="Sine.Out"/>
+    <item time="23" type="Alpha" target="n4_cy08" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+  <transition name="down_move" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n4_cy08" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n4_cy08" tween="true" startValue="36,46" endValue="0,0" duration="6"/>
+    <item time="6" type="XY" target="n4_cy08" tween="true" startValue="0,0" endValue="0,110" duration="18" ease="Sine.Out"/>
+    <item time="23" type="Alpha" target="n4_cy08" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+  <transition name="end" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n4_cy08" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n4_cy08" tween="true" startValue="38,36" endValue="0,0" duration="6"/>
+    <item time="12" type="Alpha" target="n4_cy08" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="24" type="XY" target="n4_cy08" value="0,0"/>
+  </transition>
+</component>

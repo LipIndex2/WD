@@ -1,0 +1,62 @@
+
+zhujiemianshu.png
+size: 110,140
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+biyan
+  rotate: false
+  xy: 81, 54
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+dengpao1
+  rotate: true
+  xy: 0, 1
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+dengpao2
+  rotate: false
+  xy: 69, 16
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+liangguang
+  rotate: true
+  xy: 84, 88
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+luokou
+  rotate: false
+  xy: 69, 0
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 0, 74
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+shukou
+  rotate: true
+  xy: 84, 64
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+zhengyan
+  rotate: true
+  xy: 69, 51
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1

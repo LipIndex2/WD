@@ -1,0 +1,90 @@
+
+effect_feng.png
+size: 806,270
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+04/10
+  rotate: false
+  xy: 2, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+04/11
+  rotate: false
+  xy: 2, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+04/12
+  rotate: false
+  xy: 136, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+04/13
+  rotate: false
+  xy: 136, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+05/10
+  rotate: false
+  xy: 270, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+05/11
+  rotate: false
+  xy: 270, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+05/12
+  rotate: false
+  xy: 404, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+05/13
+  rotate: false
+  xy: 404, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+06/10
+  rotate: false
+  xy: 538, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+06/11
+  rotate: false
+  xy: 538, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+06/12
+  rotate: false
+  xy: 672, 136
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+06/13
+  rotate: false
+  xy: 672, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1

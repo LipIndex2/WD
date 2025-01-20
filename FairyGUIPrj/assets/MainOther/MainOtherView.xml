@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://9z1ojc0wo0zaa" designImageOffsetX="362" designImageOffsetY="163" designImageLayer="1">
+  <displayList>
+    <image id="n0_okyu" name="bg" src="okyu2" fileName="image/KuoZhanQiPao.png" xy="366,212" size="338,288"/>
+    <component id="n1_okyu" name="BtnMail" src="okyu4" fileName="components/ButtonMod.xml" xy="387,245">
+      <Button title="邮箱" icon="ui://9z1ojc0wokyu7"/>
+    </component>
+    <component id="n2_okyu" name="BtnSetting" src="okyu4" fileName="components/ButtonMod.xml" xy="387,369">
+      <Button title="设置" icon="ui://9z1ojc0wokyu8"/>
+    </component>
+    <component id="n3_o0za" name="BtnInvite" src="okyu4" fileName="components/ButtonMod.xml" xy="387,496" visible="false" touchable="false">
+      <Button title="好友邀请" icon="ui://9z1ojc0wo0za9"/>
+    </component>
+    <component id="n4_nito" name="MailRedPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="387,260"/>
+    <component id="n5_lwoh" name="InviteFriendRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="387,511" visible="false" touchable="false"/>
+  </displayList>
+</component>

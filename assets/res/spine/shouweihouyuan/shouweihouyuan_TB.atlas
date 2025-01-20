@@ -1,0 +1,55 @@
+
+shouweihouyuan_TB.png
+size: 157,91
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+fangzi
+  rotate: false
+  xy: 0, 0
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+men
+  rotate: false
+  xy: 136, 57
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 135, 38
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 97, 40
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: true
+  xy: 97, 0
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: true
+  xy: 116, 0
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: false
+  xy: 97, 66
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1

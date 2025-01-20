@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="54b2bnsk">
+  <resources>
+    <component id="ol080" name="FishShopInfoView.xml" path="/" exported="true"/>
+    <image id="ol081" name="购买青蛙饵SPE.png" path="/"/>
+    <image id="ol082" name="TuCeng618.png" path="/image/"/>
+    <image id="ol083" name="ShuZi.png" path="/image/"/>
+    <component id="ol084" name="BtnSmall.xml" path="/components/"/>
+    <image id="ol085" name="JiaHao.png" path="/image/"/>
+    <image id="ol086" name="Jian.png" path="/image/"/>
+    <image id="ol087" name="Jia.png" path="/image/"/>
+    <image id="ol088" name="JianHao.png" path="/image/"/>
+    <component id="ol089" name="BtnBig.xml" path="/components/"/>
+    <image id="ol08a" name="max.png" path="/image/"/>
+    <image id="ol08b" name="min.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

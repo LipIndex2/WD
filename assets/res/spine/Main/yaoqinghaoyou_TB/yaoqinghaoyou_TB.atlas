@@ -1,0 +1,20 @@
+
+yaoqinghaoyou_TB.png
+size: 136,68
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+aixin
+  rotate: false
+  xy: 99, 30
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+woshou
+  rotate: false
+  xy: 0, 0
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1

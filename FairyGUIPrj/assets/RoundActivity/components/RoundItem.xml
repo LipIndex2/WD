@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,118" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n14_lwoh" name="Bg" xy="0,0" pivot="0.5,0.5" size="118,118" url="ui://6xavofrvlwohi" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n10_r41h" name="Icon" xy="4,4" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <text id="n11_r41h" name="Num" xy="56,79" pivot="1,0.5" size="61,40" font="ui://wqx8l8xqut2h1b" fontSize="29" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="230"/>
+    <image id="n17_lwoh" name="Lock" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="81,-3"/>
+    <image id="n15_lwoh" name="n15" src="lwohc" fileName="image/JinBiKuangMengCeng.png" xy="0,0" group="n18_lwoh"/>
+    <image id="n16_lwoh" name="n16" src="gkss66" fileName="Gou.png" pkg="rqg67c20" xy="26,34" group="n18_lwoh"/>
+    <group id="n18_lwoh" name="GetPrize" xy="0,0" size="118,118" visible="false" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

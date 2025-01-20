@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vmjqwamp">
+  <resources>
+    <component id="ule50" name="TerritoryView.xml" path="/" exported="true"/>
+    <image id="ule52" name="DiaoYu.png" path="/image/pic/"/>
+    <image id="ule53" name="YanJiuSuo.png" path="/image/pic/"/>
+    <image id="ule55" name="HuaYuan.png" path="/image/pic/"/>
+    <image id="ule56" name="KuangDong.png" path="/image/pic/"/>
+    <component id="ule57" name="ButtonPart.xml" path="/components/"/>
+    <image id="ule58" name="新领地.png" path="/"/>
+    <image id="ule59" name="YuanJiaoJuXing.png" path="/image/" scale="9grid" scale9grid="14,37,28,74"/>
+    <component id="ule5a" name="LabelName.xml" path="/components/" exported="true"/>
+    <image id="jpdob" name="RiZhi.png" path="/image/"/>
+    <image id="jpdoc" name="ShuaXin.png" path="/image/"/>
+    <image id="jpdod" name="ZuDai.png" path="/image/"/>
+    <image id="jpdoe" name="LinJu.png" path="/image/"/>
+    <component id="jpdof" name="ButtonNeighbour.xml" path="/components/"/>
+    <component id="jpdoj" name="ButtonMod.xml" path="/components/"/>
+    <image id="jpdok" name="TuiChe.png" path="/image/"/>
+    <component id="hunnl" name="TerritoryViewMainPanel.xml" path="/" exported="true"/>
+    <image id="q0abm" name="Che-BeiMian.png" path="/image/"/>
+    <image id="q0abn" name="Che-ZhengMian.png" path="/image/"/>
+    <component id="q0abo" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="q0abp" name="Zu60.png" path="/image/"/>
+    <component id="etz2q" name="ButtonRes.xml" path="/components/"/>
+    <image id="u9g0r" name="YuanJiaoJuXing2.png" path="/image/" scale="9grid" scale9grid="24,25,48,8"/>
+    <image id="u9g0s" name="TuiChe2.png" path="/image/"/>
+    <image id="u9g0t" name="HuiJia.png" path="/image/"/>
+    <image id="gzyou" name="XiaoShuZiYuan.png" path="/image/"/>
+    <image id="lp11v" name="HeiSeZheZhao.png" path="/image/" scale="9grid" scale9grid="12,30,24,21"/>
+    <image id="lp11w" name="Suo.png" path="/image/"/>
+    <image id="p08gx" name="muxiang.png" path="/image/"/>
+    <component id="k7fay" name="ButtonGift.xml" path="/components/"/>
+    <image id="k7faz" name="LingJianTuBiao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

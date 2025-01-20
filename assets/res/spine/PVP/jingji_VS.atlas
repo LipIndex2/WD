@@ -1,0 +1,41 @@
+
+jingji_VS.png
+size: 612,153
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+S
+  rotate: true
+  xy: 544, 101
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 543, 7
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+duijue
+  rotate: true
+  xy: 0, 12
+  size: 141, 158
+  orig: 141, 158
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 159, 0
+  size: 383, 76
+  orig: 383, 76
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 159, 77
+  size: 384, 76
+  orig: 384, 76
+  offset: 0, 0
+  index: -1

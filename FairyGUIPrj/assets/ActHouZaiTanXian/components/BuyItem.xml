@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="145,195">
+  <controller name="item_type" pages="0,free,1,ads,2,buy,3,hide" selected="0"/>
+  <displayList>
+    <component id="n6_czjl" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="12,0"/>
+    <component id="n5_czjl" name="YBtn" src="czjle" fileName="components/YellowBtn.xml" xy="0,125">
+      <gearDisplay controller="item_type" pages="0,2"/>
+    </component>
+    <component id="n7_czjl" name="BBtn" src="czjlg" fileName="components/BlueBtn.xml" xy="1,125">
+      <gearDisplay controller="item_type" pages="1"/>
+    </component>
+  </displayList>
+</component>

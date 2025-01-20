@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="148,200" designImage="ui://3cgsf82ptlom1" designImageOffsetX="-110" designImageOffsetY="-330">
+  <displayList>
+    <image id="n1_tlom" name="light" src="tlome" fileName="image/GuangDiErMing.png" xy="73,47" pivot="0.5,0.5" anchor="true"/>
+    <image id="n0_tlom" name="bg" src="tlomh" fileName="image/TaiZiDiErMing.png" xy="0,137"/>
+    <image id="n2_tlom" name="bg_i" src="tlomg" fileName="image/ShuZiDiDiErMing.png" xy="-8,103"/>
+    <loader id="n3_tlom" name="deco" xy="36,126" pivot="0.5,0.5" anchor="true" size="75,74" scale="0.6,0.6" url="ui://3cgsf82ptlomb" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n5_tlom" name="NameShow" xy="-26,159" pivot="0.5,0.5" size="200,36" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="幻影小子"/>
+    <text id="n4_tlom" name="ValShow" xy="66,107" pivot="0.3,0.5" size="55,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="101"/>
+    <component id="n6_tlom" name="HeadShow" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="74,47" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+  </displayList>
+</component>

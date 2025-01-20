@@ -1,0 +1,76 @@
+
+effect_jyjm_lg002.png
+size: 835,624
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+z/z_00001
+  rotate: true
+  xy: 0, 414
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00003
+  rotate: true
+  xy: 0, 203
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00005
+  rotate: true
+  xy: 207, 414
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00007
+  rotate: true
+  xy: 207, 203
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00009
+  rotate: false
+  xy: 414, 418
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00011
+  rotate: false
+  xy: 625, 418
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00013
+  rotate: true
+  xy: 414, 207
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00015
+  rotate: false
+  xy: 414, 0
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00017
+  rotate: true
+  xy: 621, 207
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1
+z/z_00019
+  rotate: false
+  xy: 625, 0
+  size: 210, 206
+  orig: 210, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,134" pivot="0.5,0.5" designImage="ui://g13qdvs5rjro1" designImageOffsetX="-80" designImageOffsetY="-490">
+  <displayList>
+    <loader id="n3_nghf" name="QuaIcon" xy="5,5" pivot="0.5,0.5" size="124,124" group="n2_rjro" url="ui://rqg67c20rjro5h" align="center" vAlign="middle" fill="scaleFree"/>
+    <loader id="n4_nghf" name="Icon" xy="12,12" pivot="0.5,0.5" size="110,110" group="n2_rjro" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <image id="n5_nghf" name="PieceShow" src="tiuj5f" fileName="PinTu.png" pkg="rqg67c20" xy="95,0" group="n2_rjro" visible="false"/>
+    <text id="n6_nghf" name="RbTxt" xy="118,87" pivot="1,0.5" size="10,42" group="n2_rjro" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+    <group id="n2_rjro" name="GpShow" xy="5,0" size="129,129" visible="false" advanced="true"/>
+  </displayList>
+</component>

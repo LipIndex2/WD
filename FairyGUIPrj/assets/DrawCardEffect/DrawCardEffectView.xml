@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://6639qbo6vqec1" designImageAlpha="0" designImageLayer="1">
+  <controller name="ShowState" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n1_vqec" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <image id="n13_fvdk" name="n13" src="fvdk5" fileName="image/ShuYeZiBeiJing.png" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n1_vqec" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n14_fvdk" name="WaterSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,799">
+      <gearDisplay controller="ShowState" pages="0"/>
+    </component>
+    <loader id="n12_fvdk" name="bg2" xy="0,0" pivot="0.5,0.5" size="800,1600" fill="scaleFree">
+      <gearDisplay controller="ShowState" pages="0"/>
+      <relation target="n1_vqec" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n0_vqec" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" fill="scaleFree">
+      <gearDisplay controller="ShowState" pages="1"/>
+      <relation target="n1_vqec" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n16_k8hh" name="n16" src="z2of69" fileName="MaskBlock.png" pkg="rqg67c20" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <gearDisplay controller="ShowState" pages="1"/>
+      <relation target="n1_vqec" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n3_vqec" name="ShowList" xy="29,314" size="742,808" layout="flow_hz" lineGap="76" colGap="22" defaultItem="ui://6639qbo6vqec4" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <gearDisplay controller="ShowState" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n9_vqec" name="CostIcon" xy="497,1251" pivot="0.5,0.5" size="70,70" group="n11_vqec" align="center" vAlign="middle" fill="scale" shrinkOnly="true">
+      <relation target="n10_vqec" sidePair="right-left"/>
+    </loader>
+    <text id="n10_vqec" name="CostTxt" xy="574,1266" pivot="0.5,0.5" size="70,39" group="n11_vqec" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="1/23"/>
+    <component id="n6_vqec" name="BtnClose" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="69,1309" group="n11_vqec">
+      <Button title="返 回"/>
+    </component>
+    <component id="n7_vqec" name="BtnReward" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="439,1309" group="n11_vqec">
+      <Button title="再次抽取"/>
+    </component>
+    <group id="n11_vqec" name="GpShow" xy="69,1251" size="666,170" visible="false" advanced="true">
+      <gearDisplay controller="ShowState" pages="1"/>
+    </group>
+    <component id="n15_fvdk" name="Finger" src="fvdk7" fileName="components/Finger.xml" xy="287,581">
+      <gearDisplay controller="ShowState" pages="0"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://n1t70xws9s56d" designImageLayer="1">
+  <displayList>
+    <component id="n0_uvlm" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,249" size="730,1056">
+      <Label title="基因详情"/>
+    </component>
+    <image id="n12_rty2" name="n12" src="uvlm2" fileName="image/XiaoKuangDan.png" xy="76,457" size="648,235"/>
+    <image id="n30_9s56" name="n30" src="9s56i" fileName="image/JuXing.png" xy="76,699" size="648,436"/>
+    <image id="n31_9s56" name="n31" src="9s56j" fileName="image/YuanJiao.png" xy="97,776"/>
+    <image id="n19_rty2" name="n19" src="rty27" fileName="image/ZhuShuXingTiao.png" xy="305,509"/>
+    <image id="n27_hprm" name="n27" src="hprmb" fileName="image/ShuZiDi.png" xy="90,337" size="174,36">
+      <relation target="n29_hprm" sidePair="width-width"/>
+    </image>
+    <loader id="n28_hprm" name="IconMaterials" xy="65,322" pivot="0.5,0.5" size="65,65" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true"/>
+    <loader id="n23_rty2" name="Bg" xy="96,470" size="210,206" url="ui://rqg67c20en2l6i"/>
+    <loader id="n24_rty2" name="Icon" xy="127,531" pivot="0.5,0.5" size="150,150" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n25_rty2" name="AttrIcon" xy="105,478" pivot="0.5,0.5" size="40,40" align="center" vAlign="middle"/>
+    <text id="n29_hprm" name="MaterialsNum" xy="129,334" pivot="0,0.5" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999"/>
+    <text id="n16_rty2" name="n6" xy="112,720" pivot="0,0.5" size="154,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#753c13" vAlign="middle" singleLine="true" text="基因效果："/>
+    <text id="n26_rty2" name="Lv" xy="167,487" pivot="0.5,0.5" size="73,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="LV.12"/>
+    <text id="n15_rty2" name="AttrNum" xy="356,516" pivot="0.5,0.5" size="223,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#fcff00" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="暴击伤害 +35%"/>
+    <text id="n22_rty2" name="Effect" xy="249,721" pivot="0,0.5" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#753c13" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="每次"/>
+    <text id="n21_rty2" name="LevelAttr" xy="373,588" pivot="0,0.5" size="193,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="暴击伤害35%"/>
+    <text id="n17_rty2" name="Level" xy="300,588" pivot="0,0.5" size="88,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" singleLine="true" autoClearText="true" text="Lv1："/>
+    <text id="n18_rty2" name="NextLevel" xy="372,629" pivot="0.5,0.5" size="115,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#328a22" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="(120%)">
+      <relation target="n21_rty2" sidePair="left-right"/>
+    </text>
+    <list id="n32_9s56" name="List" xy="106,783" size="598,346" overflow="scroll" lineGap="15" defaultItem="ui://n1t70xws9s56q" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_uvlm" name="BtnWear" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="30,1161" scale="0.7,0.7">
+      <Button title="装 备" titleFontSize="50"/>
+    </component>
+    <component id="n8_uvlm" name="BtnResolve" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="252,1161" scale="0.7,0.7">
+      <Button title="分 解" titleFontSize="50"/>
+    </component>
+    <component id="n9_uvlm" name="BtnUpgrade" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="473,1161" scale="0.7,0.7">
+      <Button title="升 级" titleFontSize="50"/>
+    </component>
+  </displayList>
+</component>

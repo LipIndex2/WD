@@ -1,0 +1,28 @@
+import { JsonAsset } from "cc";
+import { ResManager } from "manager/ResManager";
+import { Debugger } from "core/Debugger";
+
+const resPath = "config/language_cfg_auto";
+
+export function _Create<%Name%>(func: (suc: boolean) => void) {
+    ResManager.Inst().Load<JsonAsset>(resPath, (err, jsonAss) => {
+        <%Name%> = <_<%Name%>Data>jsonAss.json;
+        Debugger.ExportGlobalForDebug("<%Name%>", <%Name%>);
+        func(err == null);
+    })
+}
+
+class <%Name%>Other {
+    key: number;
+}
+
+class _<%Name%>Data {
+    other: <%Name%>Other[];
+}
+
+export let <%Name%>: _<%Name%>Data = null;
+/* (检查以下，然后删除注释)
+    1.改resPath路径
+    2.CfgManager注册
+    3.可选 从表把字段名那行复制下来，粘贴后每个一行，Alt+鼠标左键，选中多个批量加类型，格式化文档。
+*/

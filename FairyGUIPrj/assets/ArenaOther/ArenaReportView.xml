@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://5mk2qj8mwpum6">
+  <displayList>
+    <component id="n1_wpum" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n0_wpum" name="n0" src="wpum2" fileName="imange/HengLaBeiJing.png" xy="0,0" size="800,1600">
+      <relation target="n1_wpum" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n8_wpum" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,799" scale="1.15,1.15"/>
+    <image id="n7_wpum" name="n7" src="wpume" fileName="imange/LanZu.png" xy="16,117" size="767,1097"/>
+    <component id="n3_wpum" name="CloseBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1395">
+      <Button title="关 闭"/>
+    </component>
+    <list id="n4_wpum" name="List" xy="36,264" size="728,915" overflow="scroll" lineGap="7" defaultItem="ui://5mk2qj8mwpum7" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_wpum" name="HeadItem" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="616,102" scale="0.8,0.8"/>
+    <text id="n6_wpum" name="Name" xy="400,172" pivot="0.5,0.5" anchor="true" size="284,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="Pinko.M的战报"/>
+  </displayList>
+</component>

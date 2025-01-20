@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageLayer="1">
+  <controller name="GiftState" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n0_pd0x" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,277" size="730,938">
+      <gearSize controller="GiftState" pages="1" values="730,938,1,1" default="730,1088,1,1"/>
+    </component>
+    <image id="n2_pd0x" name="n2" src="pd0x1" fileName="image/LiBaoBeiJing.png" xy="65,313"/>
+    <image id="n1_pd0x" name="n1" src="pd0x4" fileName="image/XinShouLiBaoHengFu.png" xy="17,237"/>
+    <image id="n3_pd0x" name="n3" src="pd0x5" fileName="image/DaZheBiaoQian.png" xy="627,350"/>
+    <image id="n4_pd0x" name="n4" src="pd0x2" fileName="image/ZhanKai.png" xy="80,854">
+      <gearDisplay controller="GiftState" pages="0"/>
+    </image>
+    <image id="n7_pd0x" name="n7" src="l6cb6" fileName="ShiJianDi.png" pkg="rqg67c20" xy="191,625" size="441,54">
+      <gearXY controller="GiftState" pages="1" values="191,625" default="191,585"/>
+    </image>
+    <image id="n8_pd0x" name="n8" src="l6cb5" fileName="ShiJianicon.png" pkg="rqg67c20" xy="172,624">
+      <gearXY controller="GiftState" pages="1" values="172,624" default="172,584"/>
+    </image>
+    <component id="n9_pd0x" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="211,601">
+      <gearXY controller="GiftState" pages="0,1" values="211,562|211,601"/>
+      <Label title="剩余时间：17:25:25" titleColor="#c4fd24" titleFontSize="30"/>
+    </component>
+    <text id="n10_pd0x" name="n10" xy="279,1127" size="244,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="随机获得以上内容之一">
+      <gearDisplay controller="GiftState" pages="0"/>
+    </text>
+    <text id="n15_pd0x" name="DiscountShow" xy="646,375" pivot="0.5,0.5" size="110,49" rotation="30" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="800%"/>
+    <text id="n11_pd0x" name="Name" xy="299,250" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="限时精选"/>
+    <text id="n17_en2l" name="GeneWord" xy="146,691" pivot="0.5,0.5" size="508,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="购买后获得一定数量的随机史诗英雄基因"/>
+    <list id="n5_pd0x" name="ItemList" xy="90,748" size="620,250" layout="row" overflow="scroll" colGap="20" defaultItem="ui://pud1uv8npd0x7" align="center" autoClearItems="true">
+      <gearXY controller="GiftState" pages="1" values="90,748" default="90,655"/>
+      <gearSize controller="GiftState" pages="0" values="620,210,1,1" default="620,250,1,1"/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n6_pd0x" name="HeroList" xy="90,887" size="687,267" scale="0.9,0.9" touchable="false" layout="row" overflow="scroll" colGap="14" defaultItem="ui://gn62pyk3tm533c" align="center" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="GiftState" pages="0"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_pd0x" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="251,1045">
+      <gearXY controller="GiftState" pages="1" values="251,1045" default="251,1210"/>
+    </component>
+    <component id="n16_pd0x" name="BtnClose" src="que1b4v" fileName="ButtonClose.xml" pkg="zokic7y2" xy="359,1401"/>
+  </displayList>
+</component>

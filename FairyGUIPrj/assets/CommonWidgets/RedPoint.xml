@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="30,30" pivot="0.5,0.5" anchor="true" opaque="false" initName="redPoint">
+  <displayList>
+    <image id="n4_rvye" name="point1" src="k23u41" fileName="image/HongDian.png" xy="15,15" pivot="0.5,0.5" anchor="true" group="n6_z6z9"/>
+    <group id="n6_z6z9" name="GpPoint" xy="0,0" size="30,30" visible="false" advanced="true"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1" frameRate="30"/>
+</component>

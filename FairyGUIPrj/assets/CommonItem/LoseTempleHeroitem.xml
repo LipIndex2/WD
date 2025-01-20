@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,300" pivot="0.5,0.5" extention="Button" designImageOffsetX="-30" designImageOffsetY="-1095" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="LoseState" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <image id="n7_pgz2" name="n7" src="pgz2r" fileName="image/TiLiDi.png" xy="14,24" size="154,60"/>
+    <loader id="n8_lhdl" name="bg1" xy="6,53" size="170,248" url="ui://rqg67c20xaqq5w" fill="scaleFree" clearOnPublish="true">
+      <gearSize controller="LoseState" pages="2" values="170,335,1,1" default="170,248,1,1"/>
+    </loader>
+    <loader id="n9_lhdl" name="HeroIcon" xy="23,69" pivot="0.5,0.5" size="139,140" autoSize="true" clearOnPublish="true"/>
+    <loader id="n18_lhdl" name="RaceIcon" xy="131,59" pivot="1,0" size="40,40" url="ui://rqg67c20ln425o" autoSize="true" clearOnPublish="true"/>
+    <image id="n12_lhdl" name="Max" src="xyvk3q" fileName="image/MAX.png" xy="53,258" size="86,31" group="n25_yu83"/>
+    <component id="n10_lhdl" name="Progress" src="tm533g" fileName="HeroProgress.xml" xy="19,252" size="153,46" group="n25_yu83">
+      <ProgressBar value="1" max="100"/>
+    </component>
+    <group id="n25_yu83" name="GpProgress" xy="19,252" size="153,46" advanced="true">
+      <gearDisplay controller="LoseState" pages="0"/>
+    </group>
+    <image id="n1_lgme" name="n1" src="lgmeg" fileName="image/ZhiYuanZheDi.png" xy="-3,254" group="n3_lgme"/>
+    <text id="n2_lgme" name="n2" xy="57,256" pivot="0.5,0.5" size="76,34" group="n3_lgme" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="支援者"/>
+    <group id="n3_lgme" name="Support" xy="-3,254" size="186,38" advanced="true">
+      <gearDisplay controller="LoseState" pages="1"/>
+    </group>
+    <text id="n11_lhdl" name="LevelShow" xy="62,214" pivot="0.5,0.5" size="60,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级"/>
+    <component id="n19_hfof" name="BtnLove1" src="hfof42" fileName="LoseTempleLove.xml" xy="15,13" pivot="0.5,0.5">
+      <Button icon="ui://rqg67c20n4lg3"/>
+    </component>
+    <component id="n21_hfof" name="BtnLove2" src="hfof42" fileName="LoseTempleLove.xml" xy="64,13" pivot="0.5,0.5">
+      <Button icon="ui://rqg67c20n4lg3"/>
+    </component>
+    <component id="n20_hfof" name="BtnLove3" src="hfof42" fileName="LoseTempleLove.xml" xy="114,13" pivot="0.5,0.5">
+      <Button icon="ui://rqg67c20n4lg3"/>
+    </component>
+    <component id="n24_hfof" name="BtnUpgrade" src="vb35b5f" fileName="ButtonOrangeSmall.xml" pkg="zokic7y2" xy="16,257">
+      <gearDisplay controller="LoseState" pages="2"/>
+      <Button title="信 息" titleFontSize="30"/>
+    </component>
+    <component id="n23_hfof" name="BtnBattle" src="vb35b5g" fileName="ButtonBlueSmall.xml" pkg="zokic7y2" xy="16,317">
+      <gearDisplay controller="LoseState" pages="2"/>
+      <Button titleFontSize="30"/>
+    </component>
+    <component id="n26_u3z8" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="89,149"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

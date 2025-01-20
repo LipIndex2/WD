@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,52" extention="ProgressBar" designImage="ui://wtoeu39mon5hr" designImageOffsetX="-85" designImageOffsetY="-884">
+  <displayList>
+    <image id="n2_rqb9" name="bg" src="on5hp" fileName="image/LvJinDuDiQuan.png" xy="0,0"/>
+    <image id="n3_rqb9" name="bar" src="on5hq" fileName="image/LvJinDuQuan.png" xy="4,4"/>
+    <text id="n4_rqb9" name="ProgressShow" xy="281,5" pivot="0.5,0.5" size="68,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="2 / 2"/>
+  </displayList>
+  <ProgressBar/>
+</component>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://8r5kai8opp4u1">
+  <displayList>
+    <image id="n0_pp4u" name="n0" src="iw5u2" fileName="BiaoTiXiaoHengFu.png" pkg="rqg67c20" xy="190,293" size="421,72"/>
+    <loader id="n3_pp4u" name="LIcon" xy="190,494" pivot="0.5,0.5" anchor="true" size="266,54" url="ui://8r5kai8opp4u4" autoSize="true" clearOnPublish="true"/>
+    <loader id="n4_pp4u" name="RIcon" xy="609,494" pivot="0.5,0.5" anchor="true" size="266,54" url="ui://8r5kai8opp4u4" autoSize="true" clearOnPublish="true"/>
+    <text id="n1_pp4u" name="n1" xy="290,301" pivot="0.5,0.5" size="220,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="当前场景加成"/>
+    <text id="n5_pp4u" name="LName" xy="190,494" pivot="0.5,0.5" anchor="true" size="100,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="亚特兰"/>
+    <text id="n6_pp4u" name="RName" xy="609,494" pivot="0.5,0.5" anchor="true" size="100,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="亚特兰"/>
+    <component id="n11_pp4u" name="LAtt" src="pp4u7" fileName="components/AttLabel.xml" xy="23,559"/>
+    <component id="n12_pp4u" name="RAtt" src="pp4u7" fileName="components/AttLabel.xml" xy="438,559"/>
+  </displayList>
+  <transition name="show" frameRate="30">
+    <item time="0" type="Pivot" target="n11_pp4u" value="0.5,0.5"/>
+    <item time="0" type="Pivot" target="n12_pp4u" value="0.5,0.5"/>
+    <item time="0" type="Alpha" target="n11_pp4u" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n12_pp4u" value="1"/>
+    <item time="0" type="Alpha" target="n3_pp4u" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n4_pp4u" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n5_pp4u" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Alpha" target="n6_pp4u" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="XY" target="n11_pp4u" tween="true" startValue="-376,559" endValue="29,559" duration="7"/>
+    <item time="0" type="XY" target="n12_pp4u" tween="true" startValue="828,559" endValue="431,559" duration="7"/>
+    <item time="0" type="XY" target="n3_pp4u" tween="true" startValue="-190,494" endValue="197,494" duration="7"/>
+    <item time="0" type="XY" target="n4_pp4u" tween="true" startValue="999,494" endValue="601,494" duration="7"/>
+    <item time="0" type="XY" target="n5_pp4u" tween="true" startValue="-180,494" endValue="196,494" duration="7"/>
+    <item time="0" type="XY" target="n6_pp4u" tween="true" startValue="999,494" endValue="601,494" duration="7"/>
+    <item time="5" type="Alpha" target="n12_pp4u" value="1"/>
+    <item time="7" type="XY" target="n11_pp4u" tween="true" startValue="29,559" endValue="23,559" duration="3"/>
+    <item time="7" type="XY" target="n12_pp4u" tween="true" startValue="431,559" endValue="438,559" duration="3"/>
+    <item time="7" type="XY" target="n3_pp4u" tween="true" startValue="197,494" endValue="190,494" duration="3"/>
+    <item time="7" type="XY" target="n4_pp4u" tween="true" startValue="601,494" endValue="609,494" duration="3"/>
+    <item time="7" type="XY" target="n5_pp4u" tween="true" startValue="196,494" endValue="190,494" duration="3"/>
+    <item time="7" type="XY" target="n6_pp4u" tween="true" startValue="601,494" endValue="609,494" duration="3"/>
+    <item time="75" type="XY" target="n11_pp4u" value="23,559"/>
+  </transition>
+</component>

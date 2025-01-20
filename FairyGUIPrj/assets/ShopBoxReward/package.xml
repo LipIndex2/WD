@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3pbetjrw">
+  <resources>
+    <image id="oqnq0" name="宝箱奖励SPE.jpg" path="/"/>
+    <component id="oqnq1" name="ShopBoxRewardView.xml" path="/" exported="true"/>
+    <image id="oqnq2" name="JianTou.png" path="/image/"/>
+    <component id="oqnq3" name="ButtonArrow.xml" path="/components/"/>
+    <component id="oqnq7" name="ItemShow.xml" path="/components/" exported="true"/>
+    <component id="oqnqe" name="ItemAdd.xml" path="/components/" exported="true"/>
+    <image id="oqnqf" name="XiangZi2.png" path="/image/" exported="true"/>
+    <image id="oqnqg" name="XiangZi0.png" path="/image/" exported="true"/>
+    <image id="oqnqh" name="XiangZi1.png" path="/image/" exported="true"/>
+    <image id="oqnq4" name="Di0.png" path="/image/" exported="true"/>
+    <image id="oqnq5" name="Di1.png" path="/image/" exported="true"/>
+    <image id="oqnq6" name="Di2.png" path="/image/" exported="true"/>
+    <component id="o4uzi" name="HeroItemShow.xml" path="/components/" exported="true"/>
+    <image id="o4uzj" name="DaJianTou.png" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

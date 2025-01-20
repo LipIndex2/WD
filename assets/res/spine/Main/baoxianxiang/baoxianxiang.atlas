@@ -1,0 +1,69 @@
+
+baoxianxiang.png
+size: 492,232
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+guimen
+  rotate: false
+  xy: 215, 0
+  size: 136, 232
+  orig: 136, 232
+  offset: 0, 0
+  index: -1
+guimen1
+  rotate: false
+  xy: 352, 0
+  size: 38, 232
+  orig: 38, 232
+  offset: 0, 0
+  index: -1
+guizi
+  rotate: false
+  xy: 0, 4
+  size: 214, 228
+  orig: 214, 228
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 391, 111
+  size: 69, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 461, 159
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+suo1
+  rotate: true
+  xy: 431, 18
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+suo1_1
+  rotate: false
+  xy: 461, 121
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+suo2
+  rotate: true
+  xy: 391, 57
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: true
+  xy: 391, 10
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

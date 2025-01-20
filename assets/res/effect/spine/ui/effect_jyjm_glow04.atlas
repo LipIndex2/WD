@@ -1,0 +1,83 @@
+
+effect_jyjm_glow04.png
+size: 67,16
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+fa1
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: false
+  xy: 54, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa11
+  rotate: false
+  xy: 54, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 15, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 15, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 28, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 28, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 28, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 28, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: false
+  xy: 41, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

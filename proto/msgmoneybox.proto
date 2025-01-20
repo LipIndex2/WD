@@ -1,0 +1,4 @@
+message PB_SCMoneyBoxInfo {				//!< 2071				储钱罐
+	optional int32	seq = 1;				//!< 当前seq
+	optional int32	value = 2;				//!<当前积累的值			
+}

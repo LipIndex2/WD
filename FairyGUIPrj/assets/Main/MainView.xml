@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageAlpha="0" designImageLayer="1">
+  <controller name="FightState" pages="0,,1," selected="0"/>
+  <controller name="ActStateLeft" pages="0,,1," selected="0"/>
+  <controller name="ActStateRight" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n1_v001" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n42_i9nm" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5">
+      <relation target="n1_v001" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <image id="n27_imv8" name="bg" src="ec4q67" fileName="default_splash.png" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5" size="800,1600" fillMethod="vt" fillClockwise="false">
+      <relation target="n1_v001" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n57_tiko" name="backgrand" xy="0,0" size="800,1600" group="n39_sxtd" url="ui://dvcfzaq1tiko9z" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height,center-center"/>
+    </loader>
+    <image id="n36_sxtd" name="bg_d1" src="sxtd8e" fileName="image/task/ZhuJieMianXinDiTiao1.png" xy="2,524" pivot="0.5,0" size="800,175" group="n39_sxtd" visible="false">
+      <relation target="n1_v001" sidePair="width-width"/>
+    </image>
+    <image id="n37_sxtd" name="bg_d2" src="sxtd8e" fileName="image/task/ZhuJieMianXinDiTiao1.png" xy="2,854" pivot="0.5,0" size="800,175" group="n39_sxtd" visible="false">
+      <relation target="n1_v001" sidePair="width-width"/>
+    </image>
+    <image id="n38_sxtd" name="bg_d3" src="sxtd8f" fileName="image/task/ZhuJieMianXinDiTiao2.png" xy="2,1425" pivot="0.5,0" size="800,175" group="n39_sxtd" visible="false">
+      <relation target="n1_v001" sidePair="width-width"/>
+    </image>
+    <component id="n30_x69o" name="paren_y1" src="x69o8b" fileName="components/parent.xml" xy="2,0" size="1,26" group="n39_sxtd">
+      <relation target="n1_v001" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n31_x69o" name="paren_y2" src="x69o8b" fileName="components/parent.xml" xy="802,0" size="1,26" group="n39_sxtd">
+      <relation target="n1_v001" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n32_x69o" name="paren_c11" src="x69o8b" fileName="components/parent.xml" xy="172,525" size="1,26" group="n39_sxtd"/>
+    <component id="n33_x69o" name="paren_c12" src="x69o8b" fileName="components/parent.xml" xy="632,525" size="1,26" group="n39_sxtd"/>
+    <component id="n34_x69o" name="paren_c21" src="x69o8b" fileName="components/parent.xml" xy="172,1425" size="1,26" group="n39_sxtd"/>
+    <component id="n35_x69o" name="paren_c22" src="x69o8b" fileName="components/parent.xml" xy="637,1425" size="1,26" group="n39_sxtd"/>
+    <group id="n39_sxtd" name="GpEff" xy="0,0" size="803,1600" advanced="true">
+      <gearDisplay controller="FightState" pages="0"/>
+    </group>
+    <loader id="n19_r9w5" name="BgHero" xy="28,1075" pivot="0.5,0.5" size="744,306" autoSize="true" color="#33cc99"/>
+    <image id="n45_kb45" name="n45" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="196,1386" size="410,50" group="n49_kb45"/>
+    <image id="n46_kb45" name="n46" src="kb459u" fileName="image/ZengYiTuBiao.png" xy="192,1384" group="n49_kb45" scale="0.7,0.7"/>
+    <text id="n47_kb45" name="n47" xy="246,1387" pivot="0.5,0.5" size="214,42" group="n49_kb45" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="全体伤害加成："/>
+    <text id="n48_kb45" name="Damage" xy="455,1388" pivot="0,0.5" size="151,42" group="n49_kb45" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffcf5d" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="+99999%"/>
+    <group id="n49_kb45" name="GpDamage" xy="192,1384" size="414,69" advanced="true"/>
+    <component id="n16_k23u" name="BtnOther" src="k23u6z" fileName="components/ButtonOther.xml" xy="596,1260" size="120,70">
+      <relation target="n7_tiuj" sidePair="middle-middle,left-right"/>
+      <Button titleColor="#ffffff" titleFontSize="29"/>
+    </component>
+    <list id="n52_pk4i" name="HeroList2" xy="178,1147" size="444,93" layout="row" colGap="20" defaultItem="ui://dvcfzaq1pk4i9x" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n10_tiuj" name="BtnBlueL" src="tiuj6f" fileName="components/ButtonStartBlueL.xml" xy="1,1233" visible="false">
+      <gearDisplay controller="FightState" pages="0"/>
+      <relation target="n1_v001" sidePair="left-left"/>
+      <Button title="每日挑战" icon="ui://dvcfzaq1tiuj6e"/>
+    </component>
+    <component id="n9_tiuj" name="BtnBlueR" src="tiuj6c" fileName="components/ButtonStartBlueR.xml" xy="628,1235" visible="false">
+      <gearText controller="FightState" pages="1" values="主线关卡" default="活动关卡"/>
+      <gearIcon controller="FightState" pages="1" values="ui://dvcfzaq1gd6t6g" default="ui://dvcfzaq1tiuj6d"/>
+      <relation target="n1_v001" sidePair="right-right"/>
+      <Button title="活动关卡" icon="ui://dvcfzaq1tiuj6d"/>
+    </component>
+    <component id="n28_kyoo" name="BtnActLeft" src="kyoo8a" fileName="components/ButtonActL.xml" xy="14,795">
+      <Button controller="ActStateLeft" page="1"/>
+    </component>
+    <component id="n29_kyoo" name="BtnActRight" src="e0y58i" fileName="components/ButtonActR.xml" xy="678,795">
+      <Button controller="ActStateRight" page="1"/>
+    </component>
+    <component id="n17_k23u" name="MainTask" src="k23u6j" fileName="MainViewTask.xml" xy="3,0">
+      <gearDisplay controller="FightState" pages="0"/>
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n18_k23u" name="MainChallenge" src="k23u72" fileName="MainViewChallenge.xml" xy="0,0">
+      <gearDisplay controller="FightState" pages="1"/>
+    </component>
+    <component id="n20_nito" name="TaskRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="229,164" visible="false"/>
+    <component id="n21_nito" name="OtherRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="778,152"/>
+    <component id="n22_qtsg" name="ActivityCombatRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="714,1258" visible="false">
+      <gearDisplay controller="FightState" pages="0"/>
+      <relation target="n1_v001" sidePair="right-right"/>
+    </component>
+    <component id="n23_qtsg" name="DailyRed" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="210,1260" visible="false">
+      <gearDisplay controller="FightState" pages="0"/>
+      <relation target="n1_v001" sidePair="left-left"/>
+    </component>
+    <component id="n7_tiuj" name="BtnStart" src="tiuj61" fileName="components/ButtonStartYellow.xml" xy="250,1243" size="300,100">
+      <gearIcon controller="FightState" pages="0,1" values="ui://dvcfzaq1l4mh8y|ui://dvcfzaq1pp349i"/>
+      <relation target="" sidePair="width-width,height-height"/>
+      <Button icon="ui://dvcfzaq1l4mh8y"/>
+    </component>
+    <component id="n8_tiuj" name="BtnAd" src="tiuj6b" fileName="components/ButtonAd.xml" xy="305,1224" visible="false">
+      <gearDisplay controller="FightState" pages="0"/>
+    </component>
+    <component id="n41_na5x" name="ItemAd" src="na5x8j" fileName="components/ItemAd.xml" xy="320,1188" visible="false">
+      <gearDisplay controller="FightState" pages="0"/>
+    </component>
+    <list id="n6_tiuj" name="ActListLeft" xy="13,256" size="119,78" layout="flow_vt" lineGap="10" colGap="10" lineItemCount="4" defaultItem="ui://dvcfzaq1tiuj5m" autoClearItems="true">
+      <item icon="ui://dvcfzaq1tiuj5q"/>
+      <item icon="ui://dvcfzaq1tiuj5p"/>
+      <item icon="ui://dvcfzaq1tiuj5o"/>
+      <item icon="ui://dvcfzaq1tiuj5n"/>
+      <item/>
+    </list>
+    <list id="n24_w3cr" name="ActListRight2" xy="560,256" size="119,78" layout="flow_vt" lineGap="10" colGap="-230" lineItemCount="4" defaultItem="ui://dvcfzaq1tiuj5m" autoClearItems="true">
+      <gearDisplay controller="ActStateRight" pages="0"/>
+      <item icon="ui://dvcfzaq1tiuj5s"/>
+      <item icon="ui://dvcfzaq1tiuj5u"/>
+      <item icon="ui://dvcfzaq1tiuj5r"/>
+      <item icon="ui://dvcfzaq1tiuj5t"/>
+      <item/>
+    </list>
+    <list id="n5_tiuj" name="ActListRight1" xy="681,256" size="119,78" layout="flow_vt" lineGap="10" colGap="-230" lineItemCount="4" defaultItem="ui://dvcfzaq1tiuj5m" autoClearItems="true">
+      <item icon="ui://dvcfzaq1tiuj5s"/>
+      <item icon="ui://dvcfzaq1tiuj5u"/>
+      <item icon="ui://dvcfzaq1tiuj5r"/>
+      <item icon="ui://dvcfzaq1tiuj5t"/>
+      <item/>
+    </list>
+    <image id="n55_pk4i" name="bg1" src="pk4i9y" fileName="image/YuanJiaoJuXing2.png" xy="75,9" size="359,64" group="n40_vrap"/>
+    <text id="n56_pk4i" name="NameShow" xy="154,16" pivot="0,0.5" size="176,42" group="n40_vrap" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" vAlign="middle" autoClearText="true" text="Pinko的宗门"/>
+    <component id="n43_9lcn" name="ExpShow" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="33,75" group="n40_vrap" visible="false" touchable="false">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n54_pk4i" name="HeadShow" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="6,5" group="n40_vrap" scale="0.76,0.76"/>
+    <component id="n12_k23u" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="204,75" size="155,54" group="n40_vrap">
+      <Label title="0" icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n13_k23u" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="632,75" size="155,54" group="n40_vrap">
+      <Label title="0" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <component id="n14_k23u" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="394,75" size="155,54" group="n40_vrap">
+      <Label title="0/30" icon="ui://5qhcb5rwtiuj63"/>
+    </component>
+    <group id="n40_vrap" name="GpCurrency" xy="6,5" size="781,180" advanced="true">
+      <relation target="n42_i9nm" sidePair="top-top"/>
+    </group>
+    <component id="n51_bylh" name="BtnChat" src="bylh9w" fileName="components/BtnChat.xml" xy="88,1256" size="120,70">
+      <relation target="n7_tiuj" sidePair="middle-middle,right-left"/>
+      <Button titleColor="#ffffff" titleFontSize="29"/>
+    </component>
+    <component id="n15_k23u" name="BtnTask" src="k23u6v" fileName="components/ButtonTask.xml" xy="193,210" group="n53_pk4i"/>
+    <list id="n50_ntgo" name="ActList" xy="301,180" size="311,112" group="n53_pk4i" layout="row" lineGap="10" colGap="50" defaultItem="ui://dvcfzaq1tiuj5m" align="center" vAlign="middle" autoClearItems="true">
+      <relation target="" sidePair="center-center"/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n53_pk4i" name="n53" xy="193,180" size="419,118"/>
+    <loader3D id="n57_gg85" name="loader3d" xy="350,622" size="100,100" touchable="false" animation="" skin="" loop="true"/>
+    <loader3D id="n58_gg85" name="loader3d2" xy="349,304" size="100,100" touchable="false" animation="" skin="" loop="true"/>
+  </displayList>
+</component>

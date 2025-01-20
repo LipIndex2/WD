@@ -1,0 +1,321 @@
+
+//!<MsgId:3000
+message PB_CSRandActivityOperaReq {//!<3000 操作
+	optional int32	rand_activity_type = 1;
+	optional int32	opera_type = 2;
+	optional int32	param1 = 3;
+	optional int32	param2 = 4;
+	optional int32	param3 = 5;
+}
+
+//!<MsgId:3001
+message PB_SCChongZhiInfo{
+	optional int64 	history_chongzhi = 1;
+	optional int32	history_chongzhi_count = 2;
+	optional int32	today_chongzhi = 3;
+	repeated int32	chongzhi_reward_times = 4;
+}
+
+//!<MsgId:3002
+message PB_SCChongZhiInfoChange {
+	optional int64 	history_chongzhi = 1;
+	optional int32	history_chongzhi_count = 2;
+	optional int32	today_chongzhi = 3;
+	optional int32	seq = 4;
+	optional int32	times = 5;
+}
+
+//!<MsgId:3003
+message PB_SCActivityStatus {
+	// optional int32	activity_open_type = 1;
+	optional int32	activity_type = 1;
+	optional int32	status = 2;
+	optional int32	is_broadcast = 3;
+	optional uint32	next_status_switch_time = 4;
+	optional uint32	param_1 = 5;
+	optional uint32	param_2 = 6;
+}
+
+//!<MsgId:3004
+message PB_CSChongZhiConfigReq {
+	optional int32 currency = 1;	// 金额类型 （0：人民币  1：新台币  2：美金）玩家的货币类型
+	optional bytes spid_str = 2;	// 根据客户端显示的spid来做
+}
+
+
+message PB_ChongzhiInfo {
+	optional int32 seq = 1;					// 序号，从0开始
+	optional int32 extra_reward_type = 2;	// 额外奖励类型 (0:不奖励  1：绑元  2：至尊会员  3：铜币  4：元宝）
+	optional int32 add_gold = 3;			// 加多少元宝
+	optional int32 extra_reward = 4;		// 额外送的奖励数量
+	optional int32 money_show = 5;			// 100倍的金额， 需要除以100（兼容美金带有小数）
+	optional bytes description_first_chongzhi = 6;	// 首次充值描述   DESCRIPTION_STR_LEN = 128
+}
+
+//!<MsgId:3005
+message PB_SCChongZhiConfigInfo {
+	optional int32 currency_type = 1;		// 原样返回需要显示的金额类型 （0：人民币  1：新台币  2：美金）
+	optional int32 info_count = 2;			// info数组元素数量
+	repeated PB_ChongzhiInfo info_list = 3;	// info数组  CHONGZHI_REWARD_CONFIG_MAX_NUM = 32
+}
+
+
+message PB_SCRaFriendInfo{					//!< 3020 随机活动-好友邀请
+	optional int32 friend_count = 1;		// 邀请次数
+	optional int32 reward_flag = 2;			// 领取标记
+}
+
+
+message PB_SCRaNewbeeGiftInfo{					//!< 3021 随机活动-新手礼包
+	optional int32 seq = 1;
+}
+
+message PB_SCRAGrowGiftNode{
+	optional int32 seq = 1;
+	optional uint32 end_time = 2;
+}
+
+message PB_SCRaGrowGiftInfo{					//!< 3022 随机活动-成长礼包
+	repeated PB_SCRAGrowGiftNode gift_list = 1;
+}
+
+message PB_SCRaBarrierPackInfo{					//!< 3023 随机活动-章节礼包
+	repeated bool is_buy = 1;
+}
+
+message PB_SCRaRoundPassList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCRaRoundPassInfo{					//!< 3024 随机活动-回合活动
+	repeated PB_SCRaRoundPassList list = 1;			//档位列表
+	optional int32 pass_round = 2;
+}
+
+message PB_SCRaItemBuyInfo{					//!< 3025 随机活动-直购活动
+	repeated uint32 item_buy_count = 1;					//是否购买
+}
+
+message PB_SCRaTaskInfo{					//!< 3026 随机活动-盛典活动-任务
+	repeated uint32 task_progress = 1;					//任务类型进度
+	repeated bool reward_fetch = 2;						//奖励是否领取
+}
+
+message PB_SCRaTaskBuyInfo{					//!< 3027 随机活动-盛典活动-商店
+	repeated uint32 item_buy_num = 1;					//购买次数
+}
+
+message PB_SCRaShopGiftNode{
+	optional int32 seq = 1;
+	optional uint32 end_time = 2;
+}
+
+message PB_SCRaShopGiftInfo{				//!< 3028 随机活动-商店礼包
+	repeated PB_SCRaShopGiftNode shop_list = 1;
+}
+
+message PB_SCZombieGoGoGoInfo{				//!< 3029 僵尸冲冲冲
+	repeated int32 fight_count = 1;			//打了几次
+	repeated bool kill_reward_is_fetch = 2;
+	optional int32 kill_num = 3;
+	optional int32 daily_weakness = 4;
+}
+
+message PB_RALostTempleRemainsBox{
+	repeated int32 remains_id = 1;	//3个遗物的id
+	repeated int32 is_active = 2;	//3个遗物的状态 1位已选择
+}
+
+message PB_RALostTempleBonfire{
+	repeated int32 is_active = 1;	//3个篝火的状态 1位已选择
+}
+
+message PB_RALostTemplePub{
+	repeated int32 is_active = 1;	//3个酒馆英雄的状态 1位已选择
+	optional int32 event_id = 2;
+}
+
+message PB_RALostTempleMysteriousShop{
+	optional int32 shop_index = 1;
+	optional int32 event_id = 2;			//事件id
+	repeated int32 buy_count = 3;			//各个商品买了几次
+	optional uint32 end_time = 4;			//商人消失时间
+}
+
+message PB_RALostTemplePubHero{
+	optional int32 hero_id = 1;				//英雄id
+	optional int32 hero_level = 2;			//英雄等级
+	optional int32 energy = 3;				//体力
+}
+
+message PB_SCLostTempleInfo{				//!< 3030 失落神殿 关卡信息
+	optional int32 pass_diff = 1;			//通关了的难度
+
+	optional int32 energy_num = 2;			//体力数
+	optional int32 now_diff = 3;			//难度
+	optional int32 now_storey = 4;			//层
+	optional int32 now_line = 5;			//行
+	optional int32 now_block = 6;			//格
+	optional int32 now_block_pass = 7;		//是否通过
+
+	optional PB_RALostTempleRemainsBox remains_box = 8;	//当前格为遗物宝箱时发这个
+	optional PB_RALostTempleBonfire bonfire = 9;			//当前格为篝火时发这个
+	optional PB_RALostTemplePub pub = 10;					//当前格为酒馆时发这个
+	repeated PB_RALostTempleMysteriousShop shop_list = 11;	//神秘商人列表
+	repeated PB_RALostTemplePubHero pub_hero_list = 12;	//招募到的英雄
+	repeated int32 remains_list = 13;					//拿到的遗物
+	repeated int32 fight_hero_id = 14;					//出战的英雄
+	repeated int32 move_block = 15;						//走过的格子
+}
+
+message PB_SCLostTempleShopInfo{			//!< 3031 失落神殿 商店信息
+	repeated int32 temple_shop_buy_count = 1;			//购买次数
+}
+
+message PB_SCLostTempleMissionInfo{			//!< 3032 失落神殿 任务
+	repeated int32 mission_progress = 1;		//任务类型进度
+	repeated bool mission_fetch = 2;			//任务索引是否领取
+	repeated bool mission_reward_fetch_flag = 3;			//积分是否领取
+}
+
+
+message PB_SCLostTempleItemList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCLostTempleItemInfo{					//!< 3033 失落神殿道具活动
+	repeated PB_SCLostTempleItemList list = 1;			//档位列表
+	optional int32 item_num = 2;
+}
+
+message PB_SCHouZhaiInfo{					//!< 3034 后宅探险
+	optional int32 pass_block = 1;			//!< 初始为0  每领一个+1
+	optional int32 pass_round = 2;			//!< 回合数
+}
+
+
+
+message PB_SCZombiGoGoGoPassList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCZombiGoGoGoPassInfo{					//!< 3035 僵尸冲冲冲战令
+	repeated PB_SCZombiGoGoGoPassList list = 1;		//档位列表
+	optional int32 kill_num = 2;
+}
+
+message PB_SCSevenDayGiftInfo{						//!< 3036 连续七日礼包
+	repeated bool is_fetch = 1;						//!< 连续7日礼包
+	optional int64 begin_time = 2;					//!< 活动开始时间
+}
+
+message PB_SCRaGeneNewbeeGiftInfo{					//!< 3037 随机活动-基因新手礼包
+	optional int32 seq = 1;
+}
+
+message PB_SCRaTimeLimitRechargeInfo{					//!< 3038 随机活动-限时累充
+	optional int32 recharge_num = 1;
+	repeated bool is_fetch = 2;
+}
+
+message PB_SCRaCavePassList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCRaCavePassInfo{						//!< 3039 随机活动-矿洞战令
+	repeated PB_SCRaRoundPassList list = 1;			//档位列表
+	optional int32 meters = 2;						//总共累计多少米
+	optional int32 fetch_ex_reward_count = 3;		//领取额外奖励次数
+}
+
+
+message PB_SCRaGeneGiftInfo{						//!< 3040 随机活动-基因定向礼包
+	repeated int32 gift_hero_id = 1;				//礼包英雄id
+	repeated int64 gift_end_time = 2;				//礼包结束时间
+}
+
+message PB_SCRaPartsGiftInfo{						//!< 3041 随机活动-零件礼包
+	optional int32 gift_seq = 1;					//seq
+	optional int64 begin_time = 2;					//开始时间
+	optional int64 end_time = 3;					//结束时间
+}
+
+
+message PB_SCRaBackYardInfo{						//!< 3042 随机活动-守卫后院
+	optional int32 fight_count = 1;
+	optional int32 pass_day = 2;
+	repeated bool reward_flag = 3;
+}
+
+message PB_SCBackYardPassList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCRaBackYardPassInfo{					//!< 3043 随机活动-守卫后院战令
+	repeated PB_SCBackYardPassList list = 1;		//档位列表
+	optional int32 pass_day = 2;
+}
+
+message PB_SCRaFarmingTask{
+	optional int32 task_seq = 1; 					//初始为0 每领一个+1
+	optional int64 task_type_progress = 2;
+}
+
+message PB_SCRaFarminginfo{							//!< 3044 随机活动-农耕
+	repeated PB_SCRaFarmingTask task_list = 1;		//任务列表
+	repeated bool line_reward_flag = 2;				//大奖是否领取
+	repeated bool cell_list = 3;					//是否耕地
+	repeated int32 shop_buy_count = 4;				//购买数量
+	optional int32 cell_count = 5;					//左侧进度条次数
+	optional bool cell_count_is_fetch = 6;			//左侧进度条是否领取
+}
+
+
+message PB_SCArenaPassList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCRaArenaPassInfo{					//!< 3045 随机活动-竞技场战令
+	repeated PB_SCBackYardPassList list = 1;		//档位列表
+	optional int32 score = 2;
+	optional int32 fetch_ex_reward_count = 3;		//领取额外奖励次数
+	optional int32 level = 4;
+}
+
+message PB_SCRaFarmingRet{					//!< 3046 随机活动-农耕活动 回调
+	optional int32 ret_type = 1;
+	repeated int32 param = 2;
+}
+
+
+message PB_SCRaFishPassList{
+	optional bool is_active = 1;		//档位是否激活
+	repeated bool is_fetch = 2;			//奖励是否领取
+}
+
+message PB_SCRaFishPassInfo{						//!< 3047 随机活动-钓鱼战令
+	repeated PB_SCRaRoundPassList list = 1;			//档位列表
+	optional int32 meters = 2;						//总共累计多少鱼
+	optional int32 fetch_ex_reward_count = 3;		//领取额外奖励次数
+}
+
+
+message PB_SCRaPickUpInfo{						//!< 3048 随机活动-抽奖活动
+	repeated int32 task_progress = 1;			//!< 任务类型的进度
+	repeated bool task_fetch = 2;				//!< 对应mis_seq的任务是否领取
+	repeated int32 gift_buy_count = 3;			//!< 礼包购买次数
+	optional int32 draw_count = 4;				//!< 再抽n次保底
+}
+
+
+
+message PB_SCRaArenaDailyGiftInfo{						//!< 3049 随机活动-竞技场每日礼包
+	repeated int32 gift_buy_count = 1;			//!< 礼包购买次数
+}
+

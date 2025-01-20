@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" designImage="ui://qllfrhsrwl916b" designImageOffsetX="-163" designImageOffsetY="-237" designImageAlpha="0" designImageLayer="1">
+  <controller name="showCtrl" pages="0,off,1,on" selected="1"/>
+  <displayList>
+    <loader id="n3_jxlb" name="Flag" xy="50,67" pivot="0.5,0.5" anchor="true" size="76,91" scale="0.6,0.6" url="ui://qllfrhsrjxlbu" fill="scaleFree"/>
+    <image id="n2_jxlb" name="n2" src="jxlbb" fileName="image/QiPao.png" xy="-4,-29">
+      <gearDisplay controller="showCtrl" pages="1"/>
+    </image>
+    <text id="n6_jxlb" name="DayOn" xy="50,-2" pivot="0.5,0.5" anchor="true" size="84,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#fff448" align="center" vAlign="middle" text="第3天">
+      <gearDisplay controller="showCtrl" pages="1"/>
+    </text>
+    <text id="n7_jxlb" name="DayOff" xy="50,14" pivot="0.5,0.5" anchor="true" size="78,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491914" align="center" vAlign="middle" text="第3天">
+      <gearDisplay controller="showCtrl" pages="0"/>
+    </text>
+  </displayList>
+</component>

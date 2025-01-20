@@ -1,0 +1,62 @@
+
+11020.png
+size: 233,268
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+deng
+  rotate: false
+  xy: 138, 186
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 191, 224
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 0, 129
+  size: 137, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 112, 1
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 191, 188
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 138, 133
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 172, 133
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1

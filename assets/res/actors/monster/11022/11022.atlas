@@ -1,0 +1,90 @@
+
+11022.png
+size: 211,267
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 139, 61
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 164, 133
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 50, 160
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 176, 212
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: false
+  xy: 176, 156
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+weiba01
+  rotate: true
+  xy: 0, 1
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+weiba02
+  rotate: true
+  xy: 45, 1
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+weiba03
+  rotate: true
+  xy: 50, 115
+  size: 44, 113
+  orig: 44, 113
+  offset: 0, 0
+  index: -1
+weiba04
+  rotate: false
+  xy: 50, 65
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+weiba05
+  rotate: true
+  xy: 123, 0
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+weiba06
+  rotate: false
+  xy: 124, 160
+  size: 51, 107
+  orig: 51, 107
+  offset: 0, 0
+  index: -1
+weiba07
+  rotate: false
+  xy: 0, 95
+  size: 49, 172
+  orig: 49, 172
+  offset: 0, 0
+  index: -1

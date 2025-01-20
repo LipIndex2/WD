@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" pivot="0.5,0.5" extention="Button" designImage="ui://9z1ojc0wo0zaa" designImageOffsetX="-105" designImageOffsetY="-81" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_okyu" name="bg" src="okyub4w" fileName="image/ChengAnNiu.png" pkg="zokic7y2" xy="0,0"/>
+    <loader id="n4_okyu" name="icon" xy="25,29" pivot="0.5,0.5" size="76,55" url="ui://9z1ojc0wokyu7" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n5_okyu" name="title" xy="145,26" pivot="0.5,0.5" size="92,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" autoClearText="true" text="邮箱"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

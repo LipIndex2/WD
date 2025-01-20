@@ -1,0 +1,27 @@
+
+9_bianfu_dgl01.png
+size: 386,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bianfu_01
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bianfu_02
+  rotate: false
+  xy: 129, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bianfu_03
+  rotate: false
+  xy: 258, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

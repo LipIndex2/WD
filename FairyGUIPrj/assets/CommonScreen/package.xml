@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="suspvxy7">
+  <resources>
+    <component id="leyh0" name="fullscreen.xml" path="/" exported="true"/>
+    <component id="leyh1" name="liuhaiscreen.xml" path="/" exported="true"/>
+    <image id="ec4q67" name="default_splash.png" path="/" exported="true" scale9grid="0,0,1,1" qualityOption="source" duplicatePadding="true" disableTrim="true"/>
+    <component id="dkx83n" name="UISpineShow.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

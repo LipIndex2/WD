@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zn6u2d2d">
+  <resources>
+    <component id="bylh0" name="ChatView.xml" path="/view/" exported="true"/>
+    <image id="bylh1" name="ItemCellBg2.png" path="/image/" scale="9grid" scale9grid="152,179,75,147"/>
+    <image id="bylh2" name="n0.png" path="/image/"/>
+    <component id="bylh3" name="ButtonClose.xml" path="/component/"/>
+    <image id="bylh4" name="GuanBi.png" path="/image/"/>
+    <image id="o0za68" name="ItemCellBg1.png" path="/image/" scale="9grid" scale9grid="19,11,11,7"/>
+    <component id="rru75" name="BtnSend.xml" path="/component/"/>
+    <image id="rru76" name="ZuanShiAnNiu.png" path="/image/"/>
+    <component id="rru77" name="HeadItem.xml" path="/component/"/>
+    <image id="rru78" name="TouXiangKuang.png" path="/image/"/>
+    <image id="lz3d69" name="7.png" path="/image/" scale="9grid" scale9grid="14,29,241,27"/>
+    <image id="lz3d6a" name="6.png" path="/image/" scale="9grid" scale9grid="22,24,341,15"/>
+    <component id="ft2s6b" name="ComLeftChat.xml" path="/component/" exported="true"/>
+    <component id="ft2s6c" name="ComRightChat.xml" path="/component/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

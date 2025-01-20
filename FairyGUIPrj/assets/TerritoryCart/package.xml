@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8fnzs9nd">
+  <resources>
+    <component id="jlw60" name="TerritoryCartView.xml" path="/" exported="true"/>
+    <image id="jlw61" name="1.png" path="/"/>
+    <image id="jlw62" name="Zu42.png" path="/image/"/>
+    <image id="jlw63" name="JuXing1.png" path="/image/" scale="9grid" scale9grid="5,1,10,2"/>
+    <component id="jlw64" name="ProgressShow.xml" path="/components/"/>
+    <image id="jlw66" name="Zu55.png" path="/image/" scale="9grid" scale9grid="20,8,40,16"/>
+    <image id="jlw67" name="Zu34.png" path="/image/" scale="9grid" scale9grid="21,10,42,20"/>
+    <component id="jlw68" name="LabelCart.xml" path="/components/"/>
+    <image id="jlw69" name="TuiChe.png" path="/image/"/>
+    <component id="jlw6a" name="ButtonBuy.xml" path="/components/"/>
+    <image id="jlw6b" name="TuCeng27.png" path="/image/"/>
+    <image id="jlw6c" name="YuanJiaoJuXing3.png" path="/image/" scale="9grid" scale9grid="5,6,10,12"/>
+    <image id="jlw6d" name="标注2.png" path="/"/>
+    <image id="jlw6e" name="Zu57.png" path="/image/" scale="9grid" scale9grid="32,65,64,6"/>
+    <component id="jlw6f" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="jlw6g" name="YuanJiaoJuXing5.png" path="/image/"/>
+    <image id="jlw6h" name="Zu56.png" path="/image/"/>
+    <component id="jlw6i" name="ButtonBack.xml" path="/components/"/>
+    <image id="jlw6j" name="TuCeng36.png" path="/image/"/>
+    <image id="jlw6k" name="KeHeChengJianTou.png" path="/image/"/>
+    <image id="hp41l" name="2.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,11 @@
+message PassCheckFetchInfo{
+	repeated bool fetch_flag = 1;		//!<  领取标志
+}
+
+message PB_SCRaPassCheckInfo {				//!< 2101		通行证	
+	optional int32	is_active = 1;						//!<  购买激活的标志		
+	optional int32	pass_check_level = 2;				//!<  等级
+	optional int32	pass_check_exp = 3;					//!<  经验
+	repeated PassCheckFetchInfo fetch_flag_list =4;			//!<  每种类型领取标志
+}
+

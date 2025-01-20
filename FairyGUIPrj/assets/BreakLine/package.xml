@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hct4il9u">
+  <resources>
+    <component id="r9w50" name="BreakLineView.xml" path="/" exported="true"/>
+    <image id="r9w51" name="断网重连弹窗参数.png" path="/"/>
+    <image id="r9w53" name="XinHao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

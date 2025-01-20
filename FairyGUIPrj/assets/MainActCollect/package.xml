@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0i5u9mh7">
+  <resources>
+    <component id="9s560" name="MainActCollectView.xml" path="/" exported="true"/>
+    <image id="9s561" name="主界面礼包汇总.jpg" path="/"/>
+    <image id="9s566" name="JuXing.png" path="/image/" scale="9grid" scale9grid="21,73,42,26"/>
+    <component id="9s567" name="ItemAct.xml" path="/components/" exported="true"/>
+    <image id="9s568" name="TuBiaoQiZhiDi.png" path="/image/"/>
+    <image id="9s569" name="QiPao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

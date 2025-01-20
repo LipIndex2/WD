@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,290" pivot="0.5,0.5" designImage="ui://g13qdvs5hprm7" designImageOffsetX="-97" designImageOffsetY="-525" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n0_vb35" name="Bg" xy="0,0" size="210,206" group="n11_hprm" url="ui://n09zf5xxrty2f"/>
+    <loader id="n3_vb35" name="Icon" xy="32,54" pivot="0.5,0.5" size="150,150" group="n11_hprm" url="ui://uivgkva9vb354h" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n4_vb35" name="AttrIcon" xy="10,8" pivot="0.5,0.5" size="40,40" group="n11_hprm" align="center" vAlign="middle"/>
+    <text id="n5_vb35" name="Lv" xy="71,19" pivot="0.5,0.5" size="73,34" group="n11_hprm" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="LV.12"/>
+    <text id="n6_vb35" name="AttrNum1" xy="51,209" pivot="0.5,0.5" size="108,36" group="n11_hprm" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#fcff00" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="基因名称"/>
+    <text id="n10_hprm" name="AttrNum2" xy="51,246" pivot="0.5,0.5" size="108,36" group="n11_hprm" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="基因名称"/>
+    <group id="n11_hprm" name="GpShow" xy="0,0" size="210,282" advanced="true"/>
+  </displayList>
+</component>

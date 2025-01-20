@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="65,65" designImage="ui://85d5czsejlw61" designImageOffsetX="-250" designImageOffsetY="-673">
+  <displayList>
+    <loader id="n0_jlw6" name="IconSp" xy="-22,-22" pivot="0.5,0.5" size="110,110" fill="scaleFree" autoSize="true" clearOnPublish="true"/>
+    <text id="n1_jlw6" name="LevelShow" xy="11,39" pivot="0.5,0.5" size="42,26" font="ui://wqx8l8xqut2h1b" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="Lv.1"/>
+  </displayList>
+</component>

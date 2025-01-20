@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://ork8mgirnvvf8" designImageAlpha="30" designImageLayer="1">
+  <displayList>
+    <component id="n29_8jet" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="400,400" pivot="0.5,0.5" size="0,1"/>
+    <image id="n0_nvvf" name="n0" src="nvvf3" fileName="image/大背景.png" xy="52,392"/>
+    <image id="n1_nvvf" name="n1" src="nvvf1" fileName="image/超值文字底.png" xy="123,438" size="553,90">
+      <relation target="" sidePair="rightext-left,leftext-left"/>
+    </image>
+    <text id="n14_nvvf" name="n14" xy="191,452" size="120,76" font="ui://wqx8l8xqut2h1b" fontSize="58" color="#fffc3b" align="center" vAlign="middle" strokeColor="#000000" strokeSize="4" text="超值"/>
+    <text id="n15_nvvf" name="TextDiscount" xy="329,417" size="281,122" font="ui://wqx8l8xqut2h1b" fontSize="94" color="#fffc3b" align="center" vAlign="middle" strokeColor="#000000" strokeSize="4" text="777%"/>
+    <image id="n16_nvvf" name="n16" src="nvvf7" fileName="image/背景底.png" xy="104,595" size="592,366"/>
+    <text id="n18_nvvf" name="TxtGiftName" xy="225,616" pivot="0.5,0.5" size="350,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#491916" align="center" vAlign="middle" autoSize="none" text="礼包名称"/>
+    <image id="n19_nvvf" name="n19" src="nvvf5" fileName="image/限时.png" xy="608,560"/>
+    <component id="n22_nvvf" name="BtnBuy" src="nvvfe" fileName="components/Button1.xml" xy="250,1021"/>
+    <image id="n23_nvvf" name="n23" src="nvvfh" fileName="image/ShiJianDi.png" xy="324,965" size="179,52"/>
+    <image id="n24_nvvf" name="n24" src="nvvfi" fileName="image/ShiJianicon.png" xy="302,968" scale="0.9,0.9"/>
+    <component id="n25_nvvf" name="BtnClose" src="nvvfj" fileName="components/Button2.xml" xy="360,1257"/>
+    <component id="n26_8jet" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="354,976" size="131,30"/>
+    <list id="n27_8jet" name="List" xy="111,689" size="580,243" layout="row" overflow="scroll" margin="0,0,20,20" colGap="20" defaultItem="ui://ork8mgir8jetm" align="center" vAlign="middle"/>
+    <image id="n28_8jet" name="n28" src="nvvf0" fileName="image/标题装饰.png" xy="240,637" size="320,17"/>
+  </displayList>
+</component>

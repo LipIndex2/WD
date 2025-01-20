@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,124" extention="Button" designImage="ui://zuqsa9o4c6oi3u" designImageOffsetX="-654" designImageOffsetY="-217">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_c6oi" name="bg" src="c6oi3x" fileName="image/YuanXingTuBiaoDi.png" xy="0,0"/>
+    <loader id="n4_c6oi" name="icon" xy="7,-5" pivot="0.5,0.5" size="115,115" autoSize="true"/>
+    <text id="n5_c6oi" name="title" xy="56,98" pivot="0.5,0.5" size="10,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text=""/>
+  </displayList>
+  <Button/>
+</component>

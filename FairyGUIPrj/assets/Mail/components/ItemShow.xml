@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="626,124" pivot="0.5,0.5" designImage="ui://zqb4963iffnue" designImageOffsetX="-86" designImageOffsetY="-372">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="RewardState" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n3_l09g" name="bg" xy="14,6" size="593,118" url="ui://zqb4963i9k885" fill="scaleFree"/>
+    <image id="n4_l09g" name="NewObj" src="9k886" fileName="image/New.png" xy="25,7" size="38,38"/>
+    <image id="n5_l09g" name="deco" src="9k887" fileName="image/XiaoLiWu.png" xy="30,41">
+      <gearDisplay controller="RewardState" pages="1"/>
+    </image>
+    <text id="n6_l09g" name="TitleShow" xy="78,43" pivot="0,0.5" size="286,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="月下狂欢夜（2 / 2）">
+      <gearXY controller="RewardState" pages="0,1" values="78,43|83,43"/>
+    </text>
+    <component id="n7_l09g" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="47,77" size="200,50">
+      <Label titleColor="#ffdc67" titleFontSize="24"/>
+    </component>
+    <component id="n10_ffnu" name="BtnAd" src="ffnuf" fileName="components/ButtonAd.xml" xy="514,30"/>
+    <component id="n9_ffnu" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="417,23" scale="0.7,0.7"/>
+    <component id="n8_nito" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="609,15"/>
+  </displayList>
+</component>

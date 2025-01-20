@@ -1,0 +1,90 @@
+
+effect_dzh_zui.png
+size: 386,276
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+h1
+  rotate: false
+  xy: 308, 180
+  size: 43, 42
+  orig: 73, 60
+  offset: 28, 9
+  index: -1
+h2
+  rotate: true
+  xy: 283, 23
+  size: 55, 53
+  orig: 73, 60
+  offset: 9, 4
+  index: -1
+h3
+  rotate: true
+  xy: 308, 224
+  size: 50, 58
+  orig: 73, 60
+  offset: 3, 0
+  index: -1
+h4
+  rotate: false
+  xy: 338, 21
+  size: 46, 57
+  orig: 73, 60
+  offset: 3, 0
+  index: -1
+h5
+  rotate: true
+  xy: 308, 143
+  size: 35, 47
+  orig: 73, 60
+  offset: 6, 5
+  index: -1
+h6
+  rotate: false
+  xy: 353, 194
+  size: 30, 28
+  orig: 73, 60
+  offset: 9, 22
+  index: -1
+icon1
+  rotate: true
+  xy: 92, 21
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 283, 80
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+shuibao_1
+  rotate: true
+  xy: 2, 8
+  size: 102, 88
+  orig: 162, 153
+  offset: 31, 33
+  index: -1
+shuibao_2
+  rotate: true
+  xy: 157, 2
+  size: 128, 124
+  orig: 162, 153
+  offset: 18, 15
+  index: -1
+shuibao_3
+  rotate: false
+  xy: 157, 132
+  size: 149, 142
+  orig: 162, 153
+  offset: 7, 5
+  index: -1
+shuibao_4
+  rotate: true
+  xy: 2, 112
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,160" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="3"/>
+  <displayList>
+    <image id="n0_fr82" name="select" src="fr824" fileName="image/XuanZhongKuang.png" xy="-11,-11" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <loader id="n1_fr82" name="Icon" xy="-10,-10" pivot="0.5,0.5" size="180,180" scale="0.8,0.8" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="button" pages=""/>
+    </loader>
+    <image id="n5_fr82" name="Lock" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="61,57"/>
+    <image id="n2_fr82" name="n2" src="fr827" fileName="image/ShiYongZhongDi.png" xy="8,111" group="n4_fr82"/>
+    <text id="n3_fr82" name="n3" xy="39,113" size="82,36" group="n4_fr82" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" strokeColor="#491914" strokeSize="3" text="使用中"/>
+    <group id="n4_fr82" name="GpUse" xy="8,111" size="144,40" visible="false" advanced="true"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,210" designImage="ui://0wkbc9c9jx1k1y" designImageOffsetY="-1146" designImageLayer="1">
+  <displayList>
+    <image id="n0_ldm8" name="n0" src="l6cb4" fileName="image/LieBiaoDi.png" xy="17,10" size="764,198"/>
+    <image id="n4_ldm8" name="n4" src="l6cbc" fileName="image/JiangLiDi.png" xy="638,0"/>
+    <image id="n14_r41h" name="n14" src="o0za68" fileName="ItemCellBg1.png" pkg="zn6u2d2d" xy="37,31"/>
+    <component id="n9_ldm8" name="ProgressBar" src="ldm8m" fileName="components/ProgressBar.xml" xy="206,109" size="342,36">
+      <ProgressBar value="1" max="2"/>
+    </component>
+    <loader id="n15_r41h" name="ItemIcon" xy="37,31" pivot="0.5,0.5" size="156,156" align="center" vAlign="middle"/>
+    <loader id="n5_ldm8" name="Icon" xy="656,3" pivot="0.5,0.5" size="63,65" scale="0.4,0.4" url="ui://0wkbc9c9l6cbd" autoSize="true" clearOnPublish="true"/>
+    <text id="n3_ldm8" name="Title" xy="211,48" size="220,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" letterSpacing="1" strokeColor="#491914" strokeSize="3" text="开启一次小宝箱"/>
+    <text id="n16_r41h" name="ItemNum" xy="123,141" pivot="1,0.5" size="59,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="640"/>
+    <text id="n6_ldm8" name="Num" xy="719,14" pivot="0,0.5" size="44,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" letterSpacing="1" text="10"/>
+    <component id="n1_ldm8" name="BtnPrize" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="515,65" scale="0.66,0.66">
+      <Button title="领取" titleFontSize="54"/>
+    </component>
+    <image id="n10_day6" name="n10" src="ldm8r" fileName="image/MengCengQiTian.png" xy="18,1" group="n13_day6"/>
+    <image id="n17_jx1k" name="n17" src="jx1k22" fileName="image/YiLingQuMengCeng2.png" xy="280,76" pivot="0.5,0.5" group="n13_day6"/>
+    <image id="n11_day6" name="n11" src="day6s" fileName="image/DuiGouicon.png" xy="306,75" group="n13_day6"/>
+    <text id="n12_day6" name="n12" xy="389,79" size="106,46" group="n13_day6" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已领取"/>
+    <group id="n13_day6" name="MaskShow" xy="18,1" size="773,205" visible="false" advanced="true"/>
+  </displayList>
+</component>

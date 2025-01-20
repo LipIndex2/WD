@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://rkvf5k7igu4l5" designImageAlpha="0" designImageLayer="1">
+  <controller name="isToggle" pages="0,notToggle,1,hasToggle" selected="0"/>
+  <displayList>
+    <component id="n0_721h" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-13,471" size="822,642">
+      <Label title="提 示"/>
+    </component>
+    <image id="n1_721h" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="86,664" size="628,205" visible="false"/>
+    <richtext id="n4_721h" name="ContentRichtext" xy="100,744" pivot="0.5,0.5" size="600,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="">
+      <gearXY controller="isToggle" pages="1" values="100,719" default="100,744"/>
+    </richtext>
+    <text id="n7_cgay" name="ContentShow" xy="100,744" pivot="0.5,0.5" size="600,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" align="center" vAlign="middle" autoSize="height" autoClearText="true" text="">
+      <gearXY controller="isToggle" pages="1" values="100,719" default="100,744"/>
+    </text>
+    <text id="n6_gu4l" name="ToggleText" xy="335,797" size="172,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491916" vAlign="middle" autoClearText="true" text="当日不再提醒">
+      <gearDisplay controller="isToggle" pages="1"/>
+    </text>
+    <component id="n2_721h" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="410,893">
+      <Button title="确 认"/>
+    </component>
+    <component id="n3_721h" name="BtnCancel" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="94,893">
+      <Button title="取 消"/>
+    </component>
+    <component id="n5_gu4l" name="Toggle" src="gu4l6" fileName="components/Toggle.xml" xy="290,795">
+      <gearDisplay controller="isToggle" pages="1"/>
+    </component>
+  </displayList>
+</component>

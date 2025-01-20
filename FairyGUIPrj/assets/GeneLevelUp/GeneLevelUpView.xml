@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n1_en2l" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <loader id="n0_en2l" name="bg" xy="0,0" pivot="0.5,0.5" size="800,1600" align="center" vAlign="middle" fill="scaleFree"/>
+    <component id="n16_en2l" name="lightSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,0" alpha="0.6"/>
+    <component id="n15_en2l" name="starSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,0"/>
+    <image id="n9_en2l" name="bg2" src="en2l6" fileName="image/JiYinShenBeiJingBan.png" xy="243,465" pivot="0.5,0.5" size="314,342" visible="false"/>
+    <image id="n3_en2l" name="n3" src="en2l2" fileName="image/JianTou.png" xy="351,1029" pivot="0,0.5" group="n14_en2l"/>
+    <image id="n5_en2l" name="n5" src="en2l2" fileName="image/JianTou.png" xy="350,1112" pivot="0,0.5" group="n14_en2l"/>
+    <text id="n2_en2l" name="Level1" xy="188,1010" pivot="1,0.5" size="135,64" group="n14_en2l" font="ui://wqx8l8xqut2h1b" fontSize="48" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="4" text="Lv.12"/>
+    <text id="n4_en2l" name="Level2" xy="432,997" pivot="0.5,0.5" size="168,79" group="n14_en2l" font="ui://wqx8l8xqut2h1b" fontSize="60" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="4" text="Lv.13"/>
+    <text id="n6_en2l" name="Attr1" xy="100,1106" pivot="1,0.5" size="223,42" group="n14_en2l" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#fcff00" align="right" vAlign="middle" strokeColor="#491916" strokeSize="4" text="暴击伤害：35%"/>
+    <text id="n7_en2l" name="Attr2" xy="432,1098" pivot="0.5,0.5" size="353,54" group="n14_en2l" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#fcff00" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="4" text="暴击伤害：35%"/>
+    <group id="n14_en2l" name="GpAttr" xy="100,997" size="685,155" visible="false" advanced="true"/>
+    <component id="n8_en2l" name="GeneLevelItem" src="en2l3" fileName="components/GeneLevelItem.xml" xy="293,521" visible="false" touchable="false"/>
+    <component id="n10_en2l" name="ButtonContinue" src="en2l7" fileName="components/ButtonContinue.xml" xy="0,0" visible="false"/>
+    <component id="n11_en2l" name="wordSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,329"/>
+    <component id="n12_en2l" name="cardSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,799"/>
+    <component id="n13_en2l" name="colouredSpine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,626"/>
+  </displayList>
+  <transition name="GeneUpAni">
+    <item time="0" type="Alpha" target="n2_en2l" tween="true" startValue="0" endValue="1" duration="7"/>
+    <item time="0" type="Alpha" target="n4_en2l" value="0"/>
+    <item time="0" type="Alpha" target="n6_en2l" value="0"/>
+    <item time="0" type="Alpha" target="n7_en2l" value="0"/>
+    <item time="0" type="Scale" target="n3_en2l" value="0,0"/>
+    <item time="0" type="Scale" target="n4_en2l" value="0,0"/>
+    <item time="0" type="Scale" target="n5_en2l" value="0,0"/>
+    <item time="0" type="Scale" target="n7_en2l" value="0,0"/>
+    <item time="0" type="Visible" target="n10_en2l" value="false"/>
+    <item time="10" type="Scale" target="n3_en2l" tween="true" startValue="0,0" endValue="1,1" duration="5"/>
+    <item time="18" type="Alpha" target="n4_en2l" tween="true" startValue="0" endValue="1" duration="7"/>
+    <item time="22" type="Scale" target="n4_en2l" tween="true" startValue="0,0" endValue="1.1,1.1" duration="3"/>
+    <item time="25" type="Scale" target="n4_en2l" tween="true" startValue="1.1,1.1" endValue="1,1" duration="3"/>
+    <item time="28" type="Alpha" target="n6_en2l" tween="true" startValue="0" endValue="1" duration="7"/>
+    <item time="37" type="Scale" target="n5_en2l" tween="true" startValue="0,0" endValue="1,1" duration="5"/>
+    <item time="43" type="Alpha" target="n7_en2l" tween="true" startValue="0" endValue="1" duration="7"/>
+    <item time="46" type="Scale" target="n7_en2l" tween="true" startValue="0,0" endValue="1.1,1.1" duration="3"/>
+    <item time="49" type="Scale" target="n7_en2l" tween="true" startValue="1.1,1.1" endValue="1,1" duration="3"/>
+    <item time="54" type="Visible" target="n10_en2l" value="true"/>
+  </transition>
+</component>

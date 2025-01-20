@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://pq1c6jbrlgme2" designImageLayer="1">
+  <displayList>
+    <component id="n0_lgme" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,168" size="730,1256">
+      <Label title="阵 容"/>
+    </component>
+    <image id="n9_ttm9" name="n9" src="ttm9a" fileName="image/YingXiongDiBan.png" xy="55,341" size="766,375" scale="0.9,0.9"/>
+    <text id="n2_lgme" name="n2" xy="359,352" pivot="0.5,0.5" size="79,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="英 雄"/>
+    <list id="n3_lgme" name="list" xy="63,700" size="755,753" scale="0.9,0.9" layout="flow_hz" overflow="scroll" scrollBarFlags="2048" lineGap="-5" colGap="8" defaultItem="ui://pq1c6jbren2lb" renderOrder="descent" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+    </list>
+    <loader id="n10_ttm9" name="BattleClose" xy="0,0" size="800,1600" visible="false"/>
+    <component id="n4_ttm9" name="HeroItem1" src="lgmef" fileName="LoseTempleHeroitem.xml" pkg="gn62pyk3" xy="57,379" scale="0.9,0.9"/>
+    <component id="n6_ttm9" name="HeroItem2" src="lgmef" fileName="LoseTempleHeroitem.xml" pkg="gn62pyk3" xy="225,379" scale="0.9,0.9"/>
+    <component id="n7_ttm9" name="HeroItem3" src="lgmef" fileName="LoseTempleHeroitem.xml" pkg="gn62pyk3" xy="394,379" scale="0.9,0.9"/>
+    <component id="n8_ttm9" name="HeroItem4" src="lgmef" fileName="LoseTempleHeroitem.xml" pkg="gn62pyk3" xy="563,379" scale="0.9,0.9"/>
+  </displayList>
+  <transition name="HeroItemAnim">
+    <item time="0" type="Scale" target="n4_ttm9" tween="true" startValue="0.9,0.9" endValue="1,1" duration="12"/>
+    <item time="0" type="Scale" target="n6_ttm9" tween="true" startValue="0.9,0.9" endValue="1,1" duration="12"/>
+    <item time="0" type="Scale" target="n7_ttm9" tween="true" startValue="0.9,0.9" endValue="1,1" duration="12"/>
+    <item time="0" type="Scale" target="n8_ttm9" tween="true" startValue="0.9,0.9" endValue="1,1" duration="12"/>
+    <item time="12" type="Scale" target="n4_ttm9" tween="true" startValue="1,1" endValue="0.9,0.9" duration="12"/>
+    <item time="12" type="Scale" target="n6_ttm9" tween="true" startValue="1,1" endValue="0.9,0.9" duration="12"/>
+    <item time="12" type="Scale" target="n7_ttm9" tween="true" startValue="1,1" endValue="0.9,0.9" duration="12"/>
+    <item time="12" type="Scale" target="n8_ttm9" tween="true" startValue="1,1" endValue="0.9,0.9" duration="12"/>
+  </transition>
+</component>

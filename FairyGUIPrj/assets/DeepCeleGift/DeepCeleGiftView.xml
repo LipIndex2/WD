@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://lg9v9nsana5xo">
+  <displayList>
+    <component id="n0_t6to" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,428" size="730,1002"/>
+    <image id="n2_t6to" name="bg1" src="t6to3" fileName="image/GouMaiDingBu.png" xy="63,104"/>
+    <image id="n1_t6to" name="bg_t" src="t6to2" fileName="image/HuoDongBiaoTiHengFuZi.png" xy="15,428"/>
+    <image id="n8_t6to" name="bg_time" src="t6to8" fileName="image/ShiJianDi.png" xy="206,375"/>
+    <image id="n7_t6to" name="icon_t" src="t6to5" fileName="image/ShiJianicon.png" xy="298,374" size="40,40"/>
+    <text id="n3_t6to" name="TitleShow" xy="309,440" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#80359f" strokeSize="4" autoClearText="true" text="深渊特惠"/>
+    <component id="n6_t6to" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="325,373" size="151,42" touchable="false">
+      <Label titleFontSize="26"/>
+    </component>
+    <list id="n9_t6to" name="ShowList" xy="58,545" size="684,854" overflow="scroll" lineGap="12" defaultItem="ui://lg9v9nsat6toi" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

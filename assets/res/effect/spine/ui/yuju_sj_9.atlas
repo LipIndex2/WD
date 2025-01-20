@@ -1,0 +1,20 @@
+
+yuju_sj_9.png
+size: 70,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+sg1
+  rotate: false
+  xy: 57, 0
+  size: 13, 128
+  orig: 13, 128
+  offset: 0, 0
+  index: -1
+sg2
+  rotate: false
+  xy: 0, 0
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1

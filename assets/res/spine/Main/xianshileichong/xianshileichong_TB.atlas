@@ -1,0 +1,48 @@
+
+xianshileichong_TB.png
+size: 80,117
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+baoxiang
+  rotate: true
+  xy: 0, 0
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+shalou1
+  rotate: false
+  xy: 0, 83
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+shalou1_1
+  rotate: false
+  xy: 48, 103
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+shalou2
+  rotate: false
+  xy: 36, 80
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+shalou2_1
+  rotate: false
+  xy: 23, 104
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shalou3
+  rotate: true
+  xy: 0, 110
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1

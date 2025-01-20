@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://q6imlewpvxpk1">
+  <displayList>
+    <component id="n2_ts0a" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,167" size="730,1040">
+      <Label title="属性详情"/>
+    </component>
+    <list id="n1_vxpk" name="ShowList" xy="100,366" size="600,760" lineGap="28" defaultItem="ui://q6imlewpvxpk2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

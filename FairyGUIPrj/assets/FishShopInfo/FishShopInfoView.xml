@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://54b2bnskol081">
+  <displayList>
+    <component id="n0_ol08" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,445" size="730,751">
+      <Label title="商城购买"/>
+    </component>
+    <image id="n1_ol08" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="77,636" size="647,348"/>
+    <image id="n8_ol08" name="bg2" src="ol083" fileName="image/ShuZi.png" xy="294,881"/>
+    <image id="n2_ol08" name="line" src="ol082" fileName="image/TuCeng618.png" xy="128,799"/>
+    <loader id="n14_ol08" name="PriceSp" xy="345,963" pivot="0.5,0.5" size="110,110" scale="0.6,0.6" fill="scaleFree"/>
+    <text id="n15_ol08" name="title_price" xy="306,1000" pivot="0,0.5" size="82,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="价格："/>
+    <text id="n16_ol08" name="PriceShow" xy="433,1000" pivot="0,0.5" size="55,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="200"/>
+    <text id="n3_ol08" name="NameShow" xy="242,656" pivot="0,0.5" size="106,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="青蛙饵"/>
+    <text id="n4_ol08" name="DescShow" xy="243,707" size="450,72" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="渔夫"/>
+    <richtext id="n5_ol08" name="AttrShow" xy="372,824" pivot="0.5,0.5" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="大型"/>
+    <text id="n9_ol08" name="NumShow" xy="385,891" pivot="0.5,0.5" size="34,62" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" autoClearText="true" text="1"/>
+    <component id="n7_ol08" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="253,1043">
+      <Button title="购买"/>
+    </component>
+    <component id="n10_ol08" name="BtnSub" src="ol084" fileName="components/BtnSmall.xml" xy="204,880">
+      <Button icon="ui://54b2bnskol086"/>
+      <property target="bg" propertyId="1" value="ui://54b2bnskol085"/>
+    </component>
+    <component id="n11_ol08" name="BtnAdd" src="ol084" fileName="components/BtnSmall.xml" xy="514,880">
+      <Button icon="ui://54b2bnskol087"/>
+      <property target="bg" propertyId="1" value="ui://54b2bnskol088"/>
+    </component>
+    <component id="n12_ol08" name="BtnMax" src="ol089" fileName="components/BtnBig.xml" xy="606,880">
+      <Button title="MAX" icon="ui://54b2bnskol08a"/>
+    </component>
+    <component id="n13_ol08" name="BtnMin" src="ol089" fileName="components/BtnBig.xml" xy="98,880">
+      <Button title="MIN" icon="ui://54b2bnskol08b"/>
+    </component>
+    <component id="n6_ol08" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="100,659"/>
+  </displayList>
+</component>

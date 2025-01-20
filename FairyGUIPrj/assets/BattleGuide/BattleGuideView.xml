@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <component id="n1_cy08" name="Block" src="r7ud3" fileName="components/Block.xml" xy="0,0"/>
+    <text id="n5_cy08" name="Word" xy="258,1001" size="284,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" strokeColor="#491914" strokeSize="3" autoClearText="true" text="来试试四连消吧"/>
+    <component id="n8_r7ud" name="ShouZhi" src="r7ud2" fileName="components/ShouZhi.xml" xy="313,580" visible="false"/>
+  </displayList>
+</component>

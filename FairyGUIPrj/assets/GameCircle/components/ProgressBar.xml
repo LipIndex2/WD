@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,42" extention="ProgressBar">
+  <displayList>
+    <image id="n0_kj0y" name="n0" src="kj0yn" fileName="image/JinDuTiao01.png" xy="0,0" size="120,42"/>
+    <image id="n1_kj0y" name="bar" src="kj0yo" fileName="image/JinDuTiao02.png" xy="4,3" size="112,32"/>
+    <image id="n3_kj0y" name="n3" src="kj0ym" fileName="image/TuoYuan10.png" xy="86,-16"/>
+    <text id="n2_kj0y" name="title" xy="114,2" pivot="0.5,0.5" size="10,29" font="ui://wqx8l8xqut2h1b" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text=""/>
+  </displayList>
+  <ProgressBar titleType="max"/>
+</component>

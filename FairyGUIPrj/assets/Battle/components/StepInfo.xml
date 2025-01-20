@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="168,80" extention="Label">
+  <displayList>
+    <image id="n18_jxlb" name="n18" src="jxlb7" fileName="image/BuShuDi.png" xy="5,1"/>
+    <image id="n65_lhxl" name="n65" src="lhxl64" fileName="image/DaBuShu.png" xy="-11,-2" size="66,66"/>
+    <text id="n19_jxlb" name="title" xy="93,30" pivot="0.5,0.5" anchor="true" size="56,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#491914" align="center" vAlign="middle" autoClearText="true" text="25"/>
+    <text id="n66_jpdu" name="AddTip" xy="93,26" pivot="0.5,0.5" anchor="true" size="82,54" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#491914" align="center" vAlign="middle" autoClearText="true" text="+99"/>
+    <component id="n67_txza" name="JumpStepBtn" src="huum7v" fileName="components/JumpStepBtn.xml" xy="114,37"/>
+  </displayList>
+  <transition name="tip_anim">
+    <item time="0" type="Alpha" target="n66_jpdu" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Visible" target="n66_jpdu" value="true"/>
+    <item time="0" type="XY" target="n66_jpdu" tween="true" startValue="105,42" endValue="105,-47" duration="18"/>
+    <item time="13" type="Alpha" target="n66_jpdu" tween="true" startValue="1" endValue="0" duration="5"/>
+    <item time="24" type="Visible" target="n66_jpdu" value="false"/>
+  </transition>
+</component>

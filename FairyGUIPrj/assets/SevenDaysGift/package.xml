@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pe9wi0j6">
+  <resources>
+    <component id="7hb20" name="SevenDaysGiftView.xml" path="/" exported="true"/>
+    <image id="7hb26" name="HuoDongBiaoTiHengFu.png" path="/image/"/>
+    <component id="7hb27" name="GiftCell.xml" path="/components/" exported="true"/>
+    <image id="7hb28" name="TongYongHeiDi.png" path="/image/" scale="9grid" scale9grid="18,18,36,36"/>
+    <component id="m5mwa" name="ButtonReward.xml" path="/components/"/>
+    <image id="m5mwb" name="+.png" path="/image/"/>
+    <image id="m4fic" name="bg.png" path="/image/" scale="9grid" scale9grid="254,90,235,37"/>
+    <image id="m4fid" name="七日获史诗整卡02_.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

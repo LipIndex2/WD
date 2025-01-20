@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,118" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n14_lwoh" name="bg" xy="0,0" pivot="0.5,0.5" size="118,118" url="ui://0b60q2pqlwohx" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <loader id="n10_r41h" name="Icon" xy="4,4" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle"/>
+    <image id="n4_sltb" name="Lock" src="sltbq" fileName="image/Suo.png" xy="81,-3"/>
+    <text id="n11_r41h" name="Num" xy="56,79" pivot="1,0.5" size="61,40" font="ui://wqx8l8xqut2h1b" fontSize="29" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" text="230"/>
+    <image id="n5_e4fl" name="n5" src="xaqq9" fileName="image/JinBiKuangMengCeng.png" xy="0,0" group="n6_e4fl"/>
+    <image id="n3_sltb" name="Gou" src="xaqqj" fileName="image/Gou.png" xy="26,34" group="n6_e4fl"/>
+    <group id="n6_e4fl" name="GetPrize" xy="0,0" size="118,118" visible="false" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

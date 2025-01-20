@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImageLayer="1">
+  <displayList>
+    <component id="n29_wfgl" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <component id="n38_pitk" name="liuhaiscreen" src="leyh1" fileName="liuhaiscreen.xml" pkg="suspvxy7" xy="0,0">
+      <relation target="n29_wfgl" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n26_nfn0" name="bg" src="xaqq8" fileName="image/KaFeiSeFenGeXian.png" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n29_wfgl" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n30_lwoh" name="n30" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" size="800,130">
+      <relation target="n29_wfgl" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n47_pxxr" name="bg" src="pxxr1e" fileName="image/devil_warorder/Bg.png" xy="0,0" group="n14_xaqq"/>
+    <component id="n46_pxxr" name="parent" src="lwohw" fileName="components/parent.xml" xy="387,310" group="n14_xaqq"/>
+    <image id="n42_n4r6" name="n42" src="n4r62" fileName="image/devil_warorder/ShiJianDi.png" xy="273,276" size="256,30" group="n14_xaqq"/>
+    <image id="n41_n4r6" name="n41" src="n4r63" fileName="image/devil_warorder/YuanJiaoJuXing.png" xy="271,273" group="n14_xaqq"/>
+    <image id="n40_n4r6" name="n40" src="n4r64" fileName="image/devil_warorder/Zu49.png" xy="0,308" group="n14_xaqq"/>
+    <group id="n14_xaqq" name="n14" xy="0,0" size="800,395" advanced="true">
+      <relation target="n29_wfgl" sidePair="top-top"/>
+    </group>
+    <text id="n44_g2so" name="title" xy="314,322" pivot="0.5,0.5" size="172,56" font="ui://wqx8l8xqut2h1b" fontSize="42" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="魔王战令">
+      <relation target="n29_wfgl" sidePair="top-top"/>
+    </text>
+    <component id="n43_n4r6" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="290,270" size="250,42" touchable="false">
+      <relation target="n29_wfgl" sidePair="top-top"/>
+      <Label titleColor="#ffffff" titleFontSize="22"/>
+    </component>
+    <list id="n16_sltb" name="list" xy="0,479" pivot="0.5,0.5" size="800,992" overflow="scroll" scrollBarFlags="128" lineGap="-2" defaultItem="ui://0b60q2pqg2so1b" autoClearItems="true">
+      <relation target="n29_wfgl" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n32_lwoh" name="n32" src="xaqq3" fileName="image/LvSeDengJiXian.png" xy="232,395" size="24,82" group="n15_sltb"/>
+    <image id="n3_xaqq" name="n3" src="xaqq7" fileName="image/LanQiZhi.png" xy="-3,392" group="n15_sltb"/>
+    <image id="n4_xaqq" name="n4" src="xaqqh" fileName="image/HongQiZhi.png" xy="252,392" group="n15_sltb"/>
+    <image id="n5_xaqq" name="n5" src="xaqqf" fileName="image/HuangQiZhi.png" xy="524,392" group="n15_sltb"/>
+    <text id="n13_xaqq" name="n13" xy="68,419" pivot="0.5,0.5" size="96,53" group="n15_sltb" font="ui://wqx8l8xqut2h1b" fontSize="39" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="免 费"/>
+    <text id="n34_aqvo" name="n34" xy="331,419" pivot="0.5,0.5" size="121,53" group="n15_sltb" font="ui://wqx8l8xqut2h1b" fontSize="39" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已购买"/>
+    <text id="n35_aqvo" name="n35" xy="603,419" pivot="0.5,0.5" size="121,53" group="n15_sltb" font="ui://wqx8l8xqut2h1b" fontSize="39" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已购买"/>
+    <group id="n15_sltb" name="n15" xy="-3,392" size="807,146" advanced="true">
+      <relation target="n29_wfgl" sidePair="top-top"/>
+    </group>
+    <component id="n20_sltb" name="ExpShow" src="k23u3" fileName="ExpShow.xml" pkg="5qhcb5rw" xy="33,20" group="n33_ig9o">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n21_sltb" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="197,20" group="n33_ig9o">
+      <Label title="23" icon="ui://5qhcb5rwu3z86o"/>
+    </component>
+    <component id="n22_sltb" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="397,20" group="n33_ig9o">
+      <Label title="23/60" icon="ui://5qhcb5rwuj1j6q"/>
+    </component>
+    <component id="n23_sltb" name="Currency3" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="626,20" group="n33_ig9o">
+      <Label title="23" icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <group id="n33_ig9o" name="GpCurrency" xy="33,20" size="758,54" advanced="true">
+      <relation target="n38_pitk" sidePair="top-top"/>
+    </group>
+    <component id="n17_sltb" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="16,1488">
+      <relation target="n29_wfgl" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n27_k9x2" name="BtnBuy1" src="k9x2u" fileName="components/BtnBuy.xml" xy="293,414">
+      <relation target="n29_wfgl" sidePair="top-top"/>
+    </component>
+    <component id="n28_k9x2" name="BtnBuy2" src="k9x2u" fileName="components/BtnBuy.xml" xy="567,414">
+      <relation target="n29_wfgl" sidePair="top-top"/>
+    </component>
+    <component id="n48_a9ka" name="BtnOneKeyGet" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="490,1480">
+      <relation target="n29_wfgl" sidePair="center-center,bottom-bottom"/>
+      <Button title="一键领取"/>
+    </component>
+  </displayList>
+</component>

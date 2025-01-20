@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pe31subc">
+  <resources>
+    <component id="lgmeb" name="LoseTempleCombatView.xml" path="/" exported="true"/>
+    <image id="lgme0" name="战斗.png" path="/"/>
+    <image id="lgme1" name="HuoDongBiaoTiHengFuZi.png" path="/image/"/>
+    <image id="lgme2" name="BiaoTiXian.png" path="/image/"/>
+    <component id="lgme3" name="ButtonStartYellow.xml" path="/components/"/>
+    <image id="lgme4" name="ChengSeDaAnNiu.png" path="/image/" scale="9grid" scale9grid="97,38,194,76"/>
+    <image id="lgme5" name="ZhuJieMianTuBiao.png" path="/image/"/>
+    <image id="pgz2c" name="ZhanDouShiJianDingBu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

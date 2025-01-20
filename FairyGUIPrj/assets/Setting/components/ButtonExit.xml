@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="284,84" pivot="0.5,0.5" extention="Button" designImage="ui://ehn3wwnkvczw1" designImageOffsetX="-120" designImageOffsetY="-852">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_vczw" name="n3" src="vczwc" fileName="image/WeiXinAnNiu.png" xy="0,0"/>
+    <image id="n4_vczw" name="n4" src="vczwe" fileName="image/WeiXin.png" xy="43,21"/>
+    <text id="n5_vczw" name="n5" xy="109,19" size="132,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" strokeColor="#491914" strokeSize="3" text="退出登录"/>
+  </displayList>
+  <Button sound="" downEffect="scale" downEffectValue=".9"/>
+</component>

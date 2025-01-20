@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cm7m3oi5">
+  <resources>
+    <component id="vkjw0" name="LimitedRechargeView.xml" path="/" exported="true"/>
+    <image id="vkjw1" name="限时累充.jpg" path="/"/>
+    <image id="vkjw2" name="TuCeng5.png" path="/image/" scale="9grid" scale9grid="200,5,400,3"/>
+    <image id="vkjw3" name="TuCeng3.png" path="/image/"/>
+    <image id="vkjw6" name="TuCeng4.png" path="/image/" scale="9grid" scale9grid="200,48,400,3"/>
+    <image id="vkjw7" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <component id="vkjwd" name="TaskCell.xml" path="/components/" exported="true"/>
+    <image id="7hb2f" name="XianShiLeiChongWenZi.png" path="/image/"/>
+    <image id="7hb2g" name="限时累充改.png" path="/"/>
+    <image id="7hb2h" name="LeiChongDi.png" path="/image/"/>
+    <image id="huvyi" name="ZheZhao.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,50" pivot="0.5,0.5" anchor="true" opaque="false">
+  <displayList>
+    <component id="n0_p5yt" name="Value" src="p5yt5n" fileName="components/HarmShowLabal.xml" xy="24,24" pivot="0.5,0.5" anchor="true" alpha="0" touchable="false"/>
+  </displayList>
+  <transition name="show">
+    <item time="0" type="Alpha" target="n0_p5yt" value="1"/>
+    <item time="0" type="Scale" target="n0_p5yt" tween="true" startValue="0.4,0.4" endValue="1.2,1.2" duration="2"/>
+    <item time="0" type="XY" target="n0_p5yt" value="50,25"/>
+    <item time="2" type="Scale" target="n0_p5yt" tween="true" startValue="1.2,1.2" endValue="0.6,0.6" duration="3"/>
+    <item time="6" type="XY" target="n0_p5yt" tween="true" startValue="50,25" endValue="50,2" duration="14"/>
+    <item time="14" type="Alpha" target="n0_p5yt" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+</component>

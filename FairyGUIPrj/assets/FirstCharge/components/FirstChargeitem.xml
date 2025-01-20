@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,265" designImage="ui://h6nb280cr9w51" designImageOffsetX="-499" designImageOffsetY="-670">
+  <displayList>
+    <image id="n0_k2qf" name="n0" src="k2qf3" fileName="TouMing.png" pkg="rqg67c20" xy="1,10" pivot="0.5,0.5"/>
+    <image id="n8_k2qf" name="Bg2" src="k2qff" fileName="image/LiangHuang.png" xy="21,30" pivot="0.5,0.5" visible="false"/>
+    <image id="n7_k2qf" name="Bg1" src="k2qfe" fileName="image/LiangZi.png" xy="21,30" pivot="0.5,0.5" group="n10_k2qf" visible="false"/>
+    <image id="n3_k2qf" name="n3" src="k2qf5" fileName="image/New.png" xy="49,158" pivot="0.5,0.5" group="n10_k2qf"/>
+    <image id="n12_k2qf" name="n12" src="tiuj5f" fileName="PinTu.png" pkg="rqg67c20" xy="128,23" pivot="0.5,0.5" group="n10_k2qf" visible="false"/>
+    <image id="n4_k2qf" name="n4" src="k2qf6" fileName="image/S.png" xy="-4,4" pivot="0.5,0.5" group="n10_k2qf" visible="false"/>
+    <group id="n10_k2qf" name="HeroShow" xy="-4,4" size="171,190" visible="false" advanced="true"/>
+    <loader id="n9_k2qf" name="Icon" xy="64,73" pivot="0.5,0.5" size="50,50" visible="false" autoSize="true"/>
+    <component id="n13_cfi8" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="30,38" pivot="0.5,0.5" scale="1.1,1.1"/>
+    <text id="n2_k2qf" name="Num" xy="36,195" pivot="0.5,0.5" size="108,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="5000"/>
+    <text id="n11_k2qf" name="HeroNum" xy="142,121" pivot="1,0.5" size="10,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="right" strokeColor="#491914" strokeSize="4" text=""/>
+  </displayList>
+</component>

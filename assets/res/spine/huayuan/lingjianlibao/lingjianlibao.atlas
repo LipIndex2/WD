@@ -1,0 +1,111 @@
+
+lingjianlibao.png
+size: 932,637
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chelun1
+  rotate: false
+  xy: 706, 75
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+chelun2
+  rotate: false
+  xy: 706, 33
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+chelun3
+  rotate: false
+  xy: 849, 66
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+chelun4
+  rotate: true
+  xy: 892, 64
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+cheshen
+  rotate: false
+  xy: 578, 0
+  size: 127, 106
+  orig: 127, 106
+  offset: 0, 0
+  index: -1
+chilun1
+  rotate: true
+  xy: 788, 107
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+chilun1_1
+  rotate: false
+  xy: 788, 248
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+chilun2
+  rotate: false
+  xy: 797, 394
+  size: 120, 119
+  orig: 120, 119
+  offset: 0, 0
+  index: -1
+chilun2_1
+  rotate: false
+  xy: 797, 514
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+chilun3
+  rotate: false
+  xy: 757, 14
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+chilun3_1
+  rotate: true
+  xy: 684, 116
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 578, 212
+  size: 209, 208
+  orig: 209, 208
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 578, 421
+  size: 218, 216
+  orig: 218, 216
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 0, 0
+  size: 637, 577
+  orig: 637, 577
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 578, 120
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1

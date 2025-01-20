@@ -1,0 +1,62 @@
+
+faguangshuimu.png
+size: 109,135
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 44
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 71
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 0, 0
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: true
+  xy: 32, 5
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+tui03
+  rotate: false
+  xy: 91, 88
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+yanjing01
+  rotate: true
+  xy: 67, 39
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+yanjing02
+  rotate: false
+  xy: 67, 10
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 91, 79
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1

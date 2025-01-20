@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,459" designImage="ui://i8zxhpmapp4uv" designImageAlpha="0">
+  <controller name="open_state" pages="0,open_unlock,1,open_lock,2,close_unlock,3,close_lock" selected="0">
+    <remark page="0" value="活动已开启已解锁"/>
+    <remark page="1" value="活动已开启但是没解锁"/>
+    <remark page="2" value="活动关闭已解锁"/>
+    <remark page="3" value="活动关闭但是没解锁"/>
+  </controller>
+  <displayList>
+    <image id="n0_pp4u" name="n0" src="pp4ur" fileName="image/JingJiChangHengFu.png" xy="0,0"/>
+    <image id="n1_pp4u" name="n1" src="pp4ut" fileName="image/HuaYuanJingJiChang.png" xy="82,145"/>
+    <image id="n3_pp4u" name="n3" src="pp4us" fileName="image/SuoDi.png" xy="306,336">
+      <gearDisplay controller="open_state" pages="0,1"/>
+    </image>
+    <image id="n4_pp4u" name="n4" src="pp4uw" fileName="image/Suo2.png" xy="377,397">
+      <gearDisplay controller="open_state" pages="1"/>
+    </image>
+    <image id="n17_e4lo" name="n17" src="e4loy" fileName="image/QianWang.png" xy="361,405">
+      <gearDisplay controller="open_state" pages="0"/>
+    </image>
+    <loader id="n2_pp4u" name="RankIcon" xy="49,271" pivot="0.5,0.5" size="88,82" autoSize="true">
+      <gearDisplay controller="open_state" pages="0,2"/>
+    </loader>
+    <text id="n5_pp4u" name="LockDesc" xy="578,406" pivot="1,0.5" size="206,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="通关12章解锁">
+      <gearDisplay controller="open_state" pages="1,3"/>
+    </text>
+    <text id="n6_pp4u" name="RankName" xy="13,357" pivot="0.5,0.5" size="173,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="荣耀黄金 |||">
+      <gearDisplay controller="open_state" pages="0,2"/>
+    </text>
+    <text id="n7_pp4u" name="n7" xy="18,210" size="154,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" strokeColor="#491916" strokeSize="3" text="剩余时间：">
+      <gearDisplay controller="open_state" pages="0,1"/>
+    </text>
+    <component id="n8_pp4u" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="129,210" size="227,37">
+      <gearDisplay controller="open_state" pages="0,1"/>
+      <Label title="17天25小时" titleColor="#ffef85" titleFontSize="30"/>
+    </component>
+    <loader id="n9_pp4u" name="n9" xy="12,135" size="73,83" scale="0.8,0.8" url="ui://i8zxhpmapp4ux" autoSize="true"/>
+    <image id="n10_e4lo" name="Mask" src="ec4q67" fileName="default_splash.png" pkg="suspvxy7" xy="0,0" size="800,459" group="n16_e4lo" alpha="0.5" color="#000000"/>
+    <image id="n11_e4lo" name="n11" src="smc19" fileName="image/WeiKaiQiShiJianTiao.png" xy="248,244" pivot="0.5,0.5" size="322,59" group="n16_e4lo"/>
+    <image id="n12_e4lo" name="n12" src="smc18" fileName="image/HongShiZhong.png" xy="291,253" group="n16_e4lo"/>
+    <image id="n13_e4lo" name="n13" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="391,153" group="n16_e4lo"/>
+    <text id="n14_e4lo" name="Desc2" xy="341,203" pivot="0.5,0.5" size="154,42" group="n16_e4lo" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="开启时间："/>
+    <component id="n15_e4lo" name="UnlockTimer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="335,247" size="200,53" group="n16_e4lo">
+      <Label title="13:31:17" titleFontSize="36"/>
+    </component>
+    <group id="n16_e4lo" name="LockGroup" xy="0,0" size="800,459" advanced="true">
+      <gearDisplay controller="open_state" pages="2,3"/>
+    </group>
+  </displayList>
+</component>

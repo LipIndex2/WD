@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fo2460rq">
+  <resources>
+    <component id="hprm0" name="GeneAdditionView.xml" path="/" exported="true"/>
+    <image id="hprm1" name="基因1.png" path="/"/>
+    <component id="hprm2" name="AdditionItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

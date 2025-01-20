@@ -1,0 +1,62 @@
+
+niuwa.png
+size: 199,70
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao1
+  rotate: true
+  xy: 167, 35
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+jiao1_1
+  rotate: false
+  xy: 83, 33
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 83, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+jiao2_1
+  rotate: true
+  xy: 129, 26
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 136, 9
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 9
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 167, 5
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 120, 10
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

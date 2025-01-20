@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cad21wds">
+  <resources>
+    <component id="fr820" name="RoleInfoView.xml" path="/" exported="true"/>
+    <image id="fr821" name="玩家信息_spec.png" path="/"/>
+    <image id="fr822" name="TouXiangKuangDi.png" path="/image/" scale="9grid" scale9grid="19,19,38,19"/>
+    <image id="fr824" name="XuanZhongKuang.png" path="/image/" scale="9grid" scale9grid="45,45,90,90"/>
+    <image id="fr827" name="ShiYongZhongDi.png" path="/image/"/>
+    <image id="fr828" name="AnNiuKong.png" path="/image/"/>
+    <component id="fr82a" name="BtnHeadFrame.xml" path="/components/" exported="true"/>
+    <image id="f0g0c" name="玩家信息改.jpg" path="/"/>
+    <image id="f0g0d" name="TuBiao.png" path="/image/"/>
+    <image id="f0g0e" name="MingZiDi.png" path="/image/" scale="9grid" scale9grid="18,18,36,36"/>
+    <component id="f0g0f" name="BtnName.xml" path="/components/"/>
+    <image id="f0g0g" name="YeQian02.png" path="/image/"/>
+    <image id="f0g0h" name="YeQian01.png" path="/image/"/>
+    <component id="f0g0i" name="ButtonTitile.xml" path="/components/"/>
+    <component id="f0g0j" name="BtnHeadIcon.xml" path="/components/" exported="true"/>
+    <image id="m4fik" name="玩家信息增加切换按钮.jpg" path="/"/>
+    <image id="m4fil" name="QieHuanTuBiao.png" path="/image/"/>
+    <component id="m4fim" name="ButtonCut.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

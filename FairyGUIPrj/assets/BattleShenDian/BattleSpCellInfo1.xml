@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://tqn5ptp8hwg27" designImageAlpha="0">
+  <displayList>
+    <component id="n6_hwg2" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n5_hwg2" name="GuangEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,0">
+      <relation target="n6_hwg2" sidePair="center-center,top-top"/>
+    </component>
+    <image id="n0_hwg2" name="n0" src="hwg25" fileName="image/DaHengFuLan.png" xy="45,169"/>
+    <text id="n1_hwg2" name="n1" xy="400,198" pivot="0.5,0.5" anchor="true" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#555bb8" strokeSize="3" text="特殊地形"/>
+    <text id="n2_hwg2" name="n2" xy="313,80" pivot="0.5,0.5" size="173,66" font="ui://wqx8l8xqut2h1b" fontSize="50" color="#ffffff" align="center" vAlign="middle" strokeColor="#555bb8" text="新区域!"/>
+    <list id="n3_hwg2" name="List" xy="62,275" size="676,1080" overflow="scroll" lineGap="16" defaultItem="ui://tqn5ptp8hwg23" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_hwg2" name="CloseBtn" src="hwg28" fileName="components/Button1.xml" xy="252,1411"/>
+  </displayList>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wf9yjiko">
+  <resources>
+    <component id="943m0" name="TodayGainView.xml" path="/" exported="true"/>
+    <image id="943m1" name="属性颜色示意_spec.png" path="/"/>
+    <image id="943m2" name="DaHengFuZi.png" path="/image/" exported="true"/>
+    <image id="943m3" name="CaoDi.png" path="/image/" exported="true"/>
+    <image id="943m4" name="Shu.png" path="/image/" exported="true"/>
+    <image id="943m6" name="DaKuang.png" path="/image/" exported="true"/>
+    <image id="943m7" name="YingXiongTuBiaoBiaoTiDi.png" path="/image/" exported="true" scale="9grid" scale9grid="21,30,42,21"/>
+    <image id="943m8" name="ShuXingTuBiaoDaDi.png" path="/image/" exported="true"/>
+    <image id="943m9" name="今日祝福2_spec.png" path="/"/>
+    <image id="943mb" name="BeiJingDiWen.png" path="/image/" exported="true"/>
+    <image id="943mc" name="HeroAttr5.png" path="/image/hero_attr/" exported="true"/>
+    <image id="943md" name="HeroAttr2.png" path="/image/hero_attr/" exported="true"/>
+    <image id="943me" name="HeroAttr6.png" path="/image/hero_attr/" exported="true"/>
+    <image id="943mf" name="HeroAttr1.png" path="/image/hero_attr/" exported="true"/>
+    <image id="943mg" name="HeroAttr3.png" path="/image/hero_attr/" exported="true"/>
+    <image id="943mh" name="HeroAttr4.png" path="/image/hero_attr/" exported="true"/>
+    <image id="943mi" name="HeroAttr7.png" path="/image/hero_attr/" exported="true"/>
+    <component id="943mj" name="parent.xml" path="/components/"/>
+    <component id="943mk" name="HeroItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

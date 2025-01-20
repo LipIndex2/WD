@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://8rjn0pkntbhh17">
+  <displayList>
+    <component id="n15_ggdq" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,428"/>
+    <image id="n16_ggdq" name="bg1" src="ggdqf" fileName="image/YouQianHuaHengFu.png" xy="17,429"/>
+    <image id="n29_ggdq" name="bg2" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="84,908" size="632,233"/>
+    <image id="n22_ggdq" name="bg3" src="ggdql" fileName="image/JiangLi.png" xy="84,1171"/>
+    <image id="n34_ggdq" name="line" src="ggdq15" fileName="image/JiangLiHengXian.png" xy="105,1227"/>
+    <image id="n28_ggdq" name="deco_coin" src="ggdqp" fileName="image/7RiJinBi.png" xy="272,1247"/>
+    <text id="n33_ggdq" name="title" xy="252,440" pivot="0.5,0.5" size="297,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" leading="15" strokeColor="#491914" strokeSize="4" text="7日英雄补给卡"/>
+    <text id="n25_ggdq" name="reward_t" xy="194,1179" size="64,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" strokeColor="#491914" strokeSize="4" text="奖励"/>
+    <text id="n26_ggdq" name="TipsShow" xy="108,943" size="432,94" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491914" leading="15" text="每天可选择1个S卡英雄碎片，总&#xA;计活动7个S卡英雄碎片"/>
+    <text id="n27_ggdq" name="CoinNum" xy="189,1237" pivot="0.5,0.5" size="10,62" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" leading="15" strokeColor="#491914" strokeSize="4" text=""/>
+    <image id="n36_oaho" name="bg_na" src="oaho16" fileName="image/WeiShengXiao.png" xy="291,513" group="n38_oaho"/>
+    <text id="n37_oaho" name="na" xy="350,513" pivot="0.5,0.5" size="100,44" group="n38_oaho" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" text="未生效"/>
+    <component id="n24_ggdq" name="BtnBuy" src="ggdqm" fileName="components/ButtonBuy.xml" xy="384,1172" group="n38_oaho"/>
+    <group id="n38_oaho" name="GpNotActive" xy="291,513" size="425,795" visible="false" advanced="true"/>
+    <component id="n35_ggdq" name="BtnGet" src="ggdqm" fileName="components/ButtonBuy.xml" xy="384,1172" visible="false">
+      <Button title="领 取"/>
+    </component>
+    <component id="n30_ggdq" name="BtnReward" src="ggdqr" fileName="components/ButtonReward.xml" xy="578,935"/>
+    <component id="n31_ggdq" name="BtnClose" src="ggdqs" fileName="components/ButtonClose.xml" xy="359,1389">
+      <relation target="" sidePair="topext-top"/>
+    </component>
+    <list id="n32_ggdq" name="ShowList" xy="84,589" size="632,302" layout="row" overflow="scroll" colGap="16" defaultItem="ui://8rjn0pknggdqu" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n39_tbhh" name="HeadShowList" xy="116,1050" size="568,75" layout="row" overflow="scroll" colGap="7" defaultItem="ui://8rjn0pkna9ka18" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

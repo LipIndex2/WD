@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="p6iurwtv">
+  <resources>
+    <component id="lgme0" name="LoseTempleMerchantView.xml" path="/" exported="true"/>
+    <image id="lgme1" name="神秘商人.png" path="/"/>
+    <image id="lgme2" name="ShenMiShangDianBeiJingTu.png" path="/image/"/>
+    <image id="lgme4" name="ShenMiShangRenWenZiDi.png" path="/image/"/>
+    <image id="lgme5" name="GouMaiYingXiongDi.png" path="/image/" exported="true"/>
+    <image id="lgme6" name="GouMaiJinBiDi.png" path="/image/" exported="true"/>
+    <component id="lgme7" name="MerchantItem.xml" path="/components/" exported="true"/>
+    <component id="lgme8" name="ButtonMainBuy.xml" path="/components/"/>
+    <image id="lgme9" name="WenZiDi.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

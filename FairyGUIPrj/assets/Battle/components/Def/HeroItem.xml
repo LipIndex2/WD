@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,248" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n0_lwbq" name="BG" xy="0,0" size="170,248" url="ui://rqg67c20xaqq5w" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n1_lwbq" name="Level" xy="84,196" pivot="0.5,0.5" anchor="true" size="83,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="等级99"/>
+    <loader id="n3_lwbq" name="HeroIcon" xy="15,15" size="140,140" clearOnPublish="true"/>
+    <loader id="n2_lwbq" name="RaceIcon" xy="128,1" size="40,40" url="ui://rqg67c20ln425o" clearOnPublish="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="678,328" pivot="0.5,0.5" extention="Button" designImage="ui://gp6652l2pp34b6y" designImageOffsetX="-61" designImageOffsetY="-916">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n14_pp34" name="BgSp" xy="0,0" size="678,328" autoSize="true"/>
+    <loader id="n4_iw5u" name="IconShow" xy="21,68" pivot="0.5,0.5" size="318,191" autoSize="true" clearOnPublish="true"/>
+    <image id="n10_ubqv" name="star" src="qrdjb6i" fileName="image/main_box/ShanLiangLiangLan.png" xy="28,51" visible="false"/>
+    <image id="n11_ubqv" name="bg_m" src="qrdjb6g" fileName="image/main_box/BiChuDi.png" xy="29,199"/>
+    <richtext id="n12_ubqv" name="MustShow" xy="90,205" pivot="0.5,0.5" size="184,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="必出普通英雄"/>
+    <text id="n5_iw5u" name="NameShow" xy="409,69" pivot="0.5,0.5" size="196,64" font="ui://wqx8l8xqut2h1b" fontSize="48" color="#ffffff" align="center" vAlign="middle" strokeColor="#453c35" strokeSize="3" autoClearText="true" text="小型宝箱"/>
+    <image id="n7_oqnq" name="bg2" src="sfj3b5c" fileName="image/HuangSeXiaoAnNiu.png" pkg="zokic7y2" xy="380,192" size="272,102" group="n15_pp34"/>
+    <loader id="n8_oqnq" name="icon" xy="433,209" pivot="0.5,0.5" size="63,69" group="n15_pp34" url="ui://5qhcb5rwtiuj64" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="n9_oqnq" sidePair="right-left"/>
+    </loader>
+    <text id="n9_oqnq" name="title" xy="505,219" pivot="0.5,0.5" size="92,46" group="n15_pp34" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="1000"/>
+    <component id="n13_no3y" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="633,201" group="n15_pp34"/>
+    <group id="n15_pp34" name="n15" xy="380,186" size="272,108"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

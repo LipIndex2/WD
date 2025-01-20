@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="q6imlewp">
+  <resources>
+    <component id="vxpk0" name="FishAttrView.xml" path="/" exported="true"/>
+    <image id="vxpk1" name="属性详情.jpg" path="/"/>
+    <component id="vxpk2" name="ShowItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

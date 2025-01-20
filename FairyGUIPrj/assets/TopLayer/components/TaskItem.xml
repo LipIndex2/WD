@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <loader id="n1_rqb9" name="BgSp" xy="85,-400" size="630,210" group="n10_on5h" url="ui://lkjqth93rqb9f" autoSize="true" clearOnPublish="true"/>
+    <loader id="n5_rqb9" name="IconBgSp" xy="109,-377" size="114,114" group="n10_on5h" url="ui://lkjqth93rqb9h" autoSize="true" clearOnPublish="true"/>
+    <loader id="n6_rqb9" name="IconSp" xy="109,-377" size="114,114" group="n10_on5h" autoSize="true" clearOnPublish="true"/>
+    <text id="n9_rqb9" name="title_reward" xy="585,-389" size="52,34" group="n10_on5h" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#663b18" text="奖励"/>
+    <text id="n2_rqb9" name="NameShow" xy="238,-339" pivot="0,0.5" size="247,38" group="n10_on5h" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="在战斗中获得胜利！"/>
+    <list id="n11_f7ru" name="RewardList" xy="527,-358" size="240,120" group="n10_on5h" scale="0.7,0.7" layout="row" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_rqb9" name="ProgressShow" src="on5ho" fileName="components/ProgressTask.xml" xy="85,-243" group="n10_on5h">
+      <ProgressBar max="100"/>
+    </component>
+    <group id="n10_on5h" name="GpShow" xy="85,-400" size="682,210" visible="false" advanced="true"/>
+  </displayList>
+  <transition name="ItemShow">
+    <item time="0" type="Visible" target="n10_on5h" value="true"/>
+    <item time="0" type="XY" target="n10_on5h" tween="true" startValue="85,-400" endValue="85,38" duration="12"/>
+    <item time="12" type="XY" target="n10_on5h" tween="true" startValue="85,38" endValue="85,38" duration="12"/>
+    <item time="24" type="XY" target="n10_on5h" tween="true" startValue="85,38" endValue="85,-400" duration="12"/>
+    <item time="36" type="Visible" target="n10_on5h" value="false"/>
+  </transition>
+</component>

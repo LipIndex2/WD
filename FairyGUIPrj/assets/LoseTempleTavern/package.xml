@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="p1ik4cgc">
+  <resources>
+    <component id="lgme0" name="LoseTempleTavernView.xml" path="/" exported="true"/>
+    <image id="yu832" name="酒馆.jpg" path="/"/>
+    <component id="yu833" name="LoseHeroItem.xml" path="/components/" exported="true"/>
+    <component id="yu834" name="BtnRefresh.xml" path="/components/" exported="true"/>
+    <image id="yu837" name="ShiJian4.png" path="/image/" exported="true"/>
+    <image id="cr2x8" name="TiLiDi.png" path="/image/" scale="9grid" scale9grid="55,29,68,9"/>
+    <image id="cr2x9" name="ZhiYuanZheDi.png" path="/image/"/>
+    <component id="cr2xa" name="ButtonLoseHeroItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

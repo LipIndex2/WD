@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://qllfrhsrwbpt7u" designImageAlpha="0" designImageLayer="1">
+  <controller name="battle_state" pages="4,Wait,2,SanXiao,3,Fight,5,Win,6,Fail" selected="0"/>
+  <displayList>
+    <component id="n73_algr" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <component id="n41_jxlb" name="liuhaiscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5">
+      <relation target="" sidePair=""/>
+      <relation target="n73_algr" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n62_lq7h" name="BGEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,800" size="800,1600" touchable="false">
+      <relation target="n41_jxlb" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n40_jxlb" name="FlushBtn" src="jxlb12" fileName="components/FlushBtn.xml" xy="257,919" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n57_p5yt" name="SkillGetTip" src="p5yt1i" fileName="components/SkillGetTip.xml" xy="0,1309" visible="false" touchable="false"/>
+    <component id="n58_p5yt" name="HpEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,1494">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n84_huum" name="RemainStepTip" src="huum7y" fileName="components/RemainStepTip.xml" xy="399,1319" pivot="0.5,0.5" anchor="true" visible="false" touchable="false"/>
+    <component id="n59_p5yt" name="MonterDesc" src="p5yt5l" fileName="components/MonsterDesc.xml" xy="62,1302" visible="false" touchable="false"/>
+    <component id="n74_cj0g" name="HarmInfoBtn" src="cj0g7h" fileName="components/HarmInfoBtn.xml" xy="730,332" pivot="0.5,0.5" anchor="true" visible="false">
+      <relation target="n41_jxlb" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n75_hwg2" name="SpCellBtn" src="hwg27k" fileName="components/SpCellInfoBtn.xml" xy="75,332" pivot="0.5,0.5" anchor="true" visible="false">
+      <relation target="n41_jxlb" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n60_6853" name="RoundInfo" src="68535o" fileName="components/RoundInfo.xml" xy="0,211" visible="false">
+      <relation target="n41_jxlb" sidePair="width-width,center-center,top-top"/>
+    </component>
+    <component id="n61_h3xb" name="DiJunLaiXiEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,280">
+      <relation target="n41_jxlb" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n30_jxlb" name="HpProgerssBar" src="jxlbs" fileName="components/HpProgerssBar.xml" xy="192,1428" size="424,43" group="n71_wl91" touchable="false">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <text id="n29_jxlb" name="HpNum" xy="442,1425" pivot="1,0" size="152,42" group="n71_wl91" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="230/1000"/>
+    <image id="n70_wl91" name="n70" src="jxlbf" fileName="image/ShengMingZhi.png" xy="132,1401" size="108,108" group="n71_wl91" scale="0.8,0.8"/>
+    <group id="n71_wl91" name="HpInfo" xy="132,1401" size="484,108" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n69_r7ud" name="SkillSelect" src="r7ud68" fileName="components/SkillSelect.xml" xy="0,412" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n72_xz54" name="SubHpEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,1600">
+      <relation target="n73_algr" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n74_tlif" name="NewPlayerTip" src="tlif6r" fileName="components/NewPlayerTip.xml" xy="117,1224" visible="false" touchable="false"/>
+    <component id="n77_wbpt" name="ExProgress" src="wbpt7t" fileName="components/NewBossProgressBar.xml" xy="400,200" pivot="0.5,0.5" anchor="true">
+      <relation target="n41_jxlb" sidePair="center-center,top-top"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n25_jxlb" name="PauseBtn" src="jxlbr" fileName="components/PauseBtn.xml" xy="714,60">
+      <relation target="n41_jxlb" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n20_jxlb" name="n20" src="jxlb7" fileName="image/BuShuDi.png" xy="207,63" group="n79_wbpt"/>
+    <image id="n66_lhxl" name="n66" src="jxlbu" fileName="image/RiLi.png" xy="198,60" size="62,62" group="n79_wbpt"/>
+    <text id="n22_jxlb" name="RoundNum" xy="307,91" pivot="0.5,0.5" anchor="true" size="30,54" group="n79_wbpt" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#491914" align="center" vAlign="middle" text="5"/>
+    <component id="n18_jxlb" name="StepInfo" src="r7ud67" fileName="components/StepInfo.xml" xy="9,60" group="n79_wbpt"/>
+    <group id="n79_wbpt" name="RightTop" xy="9,60" size="369,80" advanced="true">
+      <relation target="n41_jxlb" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n81_o866" name="ExFillEffect" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,125">
+      <relation target="n41_jxlb" sidePair="center-center,top-top"/>
+    </component>
+    <image id="n85_nyal" name="Mask" src="ec4q67" fileName="default_splash.png" pkg="suspvxy7" xy="0,0" size="800,1600" visible="false" alpha="0.5" color="#000000"/>
+    <component id="n23_jxlb" name="AddSpeedBtn" src="lhxl61" fileName="components/AddSpeedBtn.xml" xy="525,60">
+      <relation target="n41_jxlb" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n86_nyal" name="FreeSpeedBtn" src="ocqm8a" fileName="components/FreeSpeedBtn.xml" xy="140,290">
+      <relation target="n41_jxlb" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n87_nyal" name="ActApeedBtn" src="oabk8c" fileName="components/ActBtn.xml" xy="140,291" visible="false">
+      <relation target="n41_jxlb" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+  <transition name="get_skill_tip" frameRate="30">
+    <item time="0" type="Pivot" target="n57_p5yt" value="0.5,0.5"/>
+    <item time="0" type="Alpha" target="n57_p5yt" value="1"/>
+    <item time="0" type="Scale" target="n57_p5yt" tween="true" startValue="0,0" endValue="1.2,0.9" duration="4"/>
+    <item time="0" type="Visible" target="n57_p5yt" value="true"/>
+    <item time="4" type="Scale" target="n57_p5yt" tween="true" startValue="1.2,0.9" endValue="0.9,1.1" duration="3"/>
+    <item time="7" type="Scale" target="n57_p5yt" tween="true" startValue="0.9,1.1" endValue="1,1" duration="3"/>
+    <item time="39" type="Alpha" target="n57_p5yt" tween="true" startValue="1" endValue="0" duration="9"/>
+    <item time="48" type="Visible" target="n57_p5yt" value="false"/>
+  </transition>
+  <transition name="monster_tip">
+    <item time="0" type="Pivot" target="n59_p5yt" value="1,0.5"/>
+    <item time="0" type="Alpha" target="n59_p5yt" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="0" type="Scale" target="n59_p5yt" value="1,1"/>
+    <item time="0" type="Visible" target="n59_p5yt" value="true"/>
+    <item time="0" type="XY" target="n59_p5yt" tween="true" startValue="832,1302" endValue="44,1302" duration="7"/>
+    <item time="7" type="XY" target="n59_p5yt" tween="true" startValue="44,1302" endValue="62,1302" duration="3"/>
+    <item time="88" type="XY" target="n59_p5yt" tween="true" startValue="62,1302" endValue="862,1302" duration="8"/>
+    <item time="92" type="Alpha" target="n59_p5yt" tween="true" startValue="1" endValue="0" duration="4"/>
+    <item time="96" type="Visible" target="n59_p5yt" value="false"/>
+  </transition>
+  <transition name="round_info">
+    <item time="0" type="Alpha" target="n60_6853" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Visible" target="n60_6853" value="true"/>
+    <item time="42" type="Alpha" target="n60_6853" tween="true" startValue="1" endValue="0.4" duration="6"/>
+    <item time="48" type="Visible" target="n60_6853" value="false"/>
+  </transition>
+  <transition name="show_save_skill">
+    <item time="0" type="Alpha" target="n69_r7ud" tween="true" startValue="0.5" endValue="1" duration="12"/>
+    <item time="0" type="Visible" target="n69_r7ud" value="true"/>
+    <item time="42" type="Alpha" target="n69_r7ud" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="48" type="Visible" target="n69_r7ud" value="false"/>
+    <item time="50" type="Alpha" target="n69_r7ud" value="1"/>
+  </transition>
+  <transition name="new_player_tip">
+    <item time="0" type="Alpha" target="n74_tlif" tween="true" startValue="0.5" endValue="1" duration="12"/>
+    <item time="0" type="Visible" target="n74_tlif" value="true"/>
+    <item time="60" type="Alpha" target="n74_tlif" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="72" type="Visible" target="n74_tlif" value="false"/>
+  </transition>
+  <transition name="remain_step_tip">
+    <item time="0" type="Scale" target="n84_huum" tween="true" startValue="0.9,0.9" endValue="1.2,1.2" duration="6"/>
+    <item time="6" type="Scale" target="n84_huum" tween="true" startValue="1.2,1.2" endValue="1,1" duration="6"/>
+  </transition>
+  <transition name="speed_btn">
+    <item time="0" type="Scale" target="n23_jxlb" tween="true" startValue="0.9,0.9" endValue="1.1,1.1" duration="3"/>
+    <item time="3" type="Scale" target="n23_jxlb" tween="true" startValue="1.1,1.1" endValue="1,1" duration="3"/>
+  </transition>
+</component>

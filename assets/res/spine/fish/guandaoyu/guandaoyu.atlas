@@ -1,0 +1,20 @@
+
+guandaoyu.png
+size: 724,379
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 622, 379
+  orig: 622, 379
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 623, 274
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1

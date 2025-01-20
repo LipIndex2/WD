@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://aitxcfm2frme1" designImageLayer="1">
+  <displayList>
+    <component id="n0_frme" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,285" size="730,921">
+      <Label title="合成等级"/>
+    </component>
+    <image id="n1_frme" name="n1" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="61,501" size="678,680"/>
+    <list id="n2_frme" name="List" xy="65,503" size="670,675" overflow="scroll" defaultItem="ui://aitxcfm2frme3" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

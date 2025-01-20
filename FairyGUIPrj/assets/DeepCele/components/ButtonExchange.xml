@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,112" pivot="0.5,0.5" extention="Button" designImageOffsetX="-406" designImageOffsetY="-979">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_okyu" name="bg" src="okyub4z" fileName="image/LanAnNiu.png" pkg="zokic7y2" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n8_s6bv" name="icon" xy="50,21" pivot="0.5,0.5" size="63,69" url="ui://5qhcb5rwtiuj64" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="n4_okyu" sidePair="right-left"/>
+    </loader>
+    <text id="n4_okyu" name="title" xy="126,24" pivot="0.5,0.5" size="118,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="1000">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

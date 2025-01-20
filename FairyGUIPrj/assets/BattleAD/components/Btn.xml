@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="332,136" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_ocqm" name="n0" src="ocqma" fileName="Image/7RiAnNiu.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_ocqm" name="n2" src="10ewu6l" fileName="DaGuangGao.png" pkg="rqg67c20" xy="71,33">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n1_ocqm" name="title" xy="169,36" pivot="0.5,0.5" size="92,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" singleLine="true" text="试用"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

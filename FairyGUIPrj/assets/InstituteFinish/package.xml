@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="03yex71v">
+  <resources>
+    <component id="i5lo0" name="InstituteFinishView.xml" path="/" exported="true"/>
+    <image id="i5lo1" name="研究完成.jpg" path="/"/>
+    <image id="i5lo2" name="BiaoTiXiaoHengFu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

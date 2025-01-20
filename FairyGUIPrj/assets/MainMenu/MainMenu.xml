@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://d69enuqupp34p">
+  <displayList>
+    <component id="n0_izn7" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="2,-1"/>
+    <image id="n4_r9w5" name="bg" src="oi9lc" fileName="image/BiaoQianYeDi.png" xy="0,1437" pivot="0.5,1" size="800,162" visible="false">
+      <relation target="n0_izn7" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <list id="n1_izn7" name="List" xy="400,1599" pivot="0.5,1" anchor="true" size="800,158" layout="flow_hz" lineItemCount="5" defaultItem="ui://d69enuquizn76" autoItemSize="true" align="center" vAlign="middle">
+      <relation target="n0_izn7" sidePair="width-width,bottom-bottom"/>
+      <item icon="ui://d69enuquoi9le"/>
+      <item icon="ui://d69enuquoi9ld"/>
+      <item icon="ui://d69enuquoi9ld"/>
+      <item icon="ui://d69enuquoi9ld"/>
+      <item icon="ui://d69enuquoi9lf"/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+message PB_CSSevenDayHeroReq {				//!< 2080				七日英雄请求
+	optional int32	req_type = 1;				
+	optional int32	p1 = 2;							
+}
+
+message PB_SCSevenDayHeroInfo {				//!< 2081				七日英雄信息
+	optional int32	fetch_reward_times = 1;						//!< 每日奖励是否领取了
+	optional uint32	expiry_time = 2;							//!< 到期时间
+	repeated int32 hero_id = 3;
+}
+

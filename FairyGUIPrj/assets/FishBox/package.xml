@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ir4njfxy">
+  <resources>
+    <component id="e0iz0" name="FishBoxView.xml" path="/" exported="true"/>
+    <image id="e0iz1" name="鱼缸.jpg" path="/"/>
+    <image id="e0iz2" name="TuCeng7.png" path="/image/"/>
+    <component id="hno24" name="FishItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="585,84" designImage="ui://n1t70xws9s56d" designImageOffsetX="-105" designImageOffsetY="-777">
+  <displayList>
+    <loader id="n0_rty2" name="Icon" xy="5,0" pivot="0.5,0.5" size="64,62" aspect="true" scale="0.8,0.8" url="ui://n1t70xws9s56k" align="center" vAlign="middle"/>
+    <text id="n1_rty2" name="Name" xy="67,14" pivot="0,0.5" size="56,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text="传承"/>
+    <richtext id="n2_rty2" name="Word" xy="6,49" size="578,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#491916" vAlign="middle" autoSize="height" autoClearText="true" text="技能效果技能效果技能效果"/>
+  </displayList>
+  <relation target="n2_rty2" sidePair="height-height"/>
+</component>

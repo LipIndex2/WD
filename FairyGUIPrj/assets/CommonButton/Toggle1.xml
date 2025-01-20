@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,64" extention="Button" designImage="ui://ehn3wwnkvczw1" designImageOffsetX="-154" designImageOffsetY="-634">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_vczw" name="n0" src="vczw7" fileName="image/Guan.png" xy="5,1" size="217,61">
+      <gearDisplay controller="button" pages="0,2"/>
+    </image>
+    <image id="n7_vczw" name="n1" src="vczw3" fileName="image/Kai.png" xy="5,1" size="217,61">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <image id="n5_vczw" name="n2" src="vczw2" fileName="image/HuaKuaiAnNiu.png" xy="0,-3" size="72,67">
+      <gearDisplay controller="button" pages="0,2"/>
+    </image>
+    <image id="n8_vczw" name="n3" src="vczw2" fileName="image/HuaKuaiAnNiu.png" xy="145,-3" size="72,68">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <text id="n4_vczw" name="n4" xy="108,11" pivot="0.5,0.5" size="34,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" align="center" vAlign="middle" text="关">
+      <gearDisplay controller="button" pages="0,2"/>
+    </text>
+    <text id="n9_vczw" name="n5" xy="68,11" pivot="0.5,0.5" size="34,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="开">
+      <gearDisplay controller="button" pages="1,3"/>
+    </text>
+  </displayList>
+  <Button mode="Check"/>
+</component>

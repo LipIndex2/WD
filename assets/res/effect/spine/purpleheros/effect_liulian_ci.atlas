@@ -1,0 +1,20 @@
+
+effect_liulian_ci.png
+size: 187,144
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+tu2
+  rotate: false
+  xy: 144, 93
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: false
+  xy: 2, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImageOffsetY="90" designImageLayer="1">
+  <displayList>
+    <list id="n0_rjro" name="ShowList" xy="0,246" size="800,1200" overflow="scroll" lineGap="15" defaultItem="ui://gp6652l2rjrob54" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

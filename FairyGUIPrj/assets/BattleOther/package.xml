@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8r5kai8o">
+  <resources>
+    <component id="pp4u0" name="BattleSkinShow.xml" path="/" exported="true"/>
+    <image id="pp4u1" name="玩家对战.png" path="/"/>
+    <image id="pp4u2" name="ShuXingDi.png" path="/image/" scale="9grid" scale9grid="45,0,90,54"/>
+    <image id="pp4u3" name="ZengYiTuBiao.png" path="/image/"/>
+    <image id="pp4u4" name="AiJi.png" path="/image/"/>
+    <component id="pp4u7" name="AttLabel.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

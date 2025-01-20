@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <image id="n1_sslz" name="bg_t" src="sslz2" fileName="image/BiaoTiXiaoHengFu.png" xy="190,418"/>
+    <text id="n2_sslz" name="title" xy="400,449" pivot="0.5,0.5" anchor="true" size="204,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#b07924" strokeSize="3" text="收到了奖励"/>
+    <component id="n0_sslz" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="340,744"/>
+    <component id="n3_sslz" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1143">
+      <Button title="确 定"/>
+    </component>
+  </displayList>
+</component>

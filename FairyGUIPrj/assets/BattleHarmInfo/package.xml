@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8dagvbo1">
+  <resources>
+    <component id="cj0g0" name="BattleHarmInfoView.xml" path="/" exported="true"/>
+    <image id="cj0g1" name="Type3.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0g2" name="Di.png" path="/image/" scale="9grid" scale9grid="15,15,10,10"/>
+    <image id="cj0g3" name="Type4.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0g4" name="Type7.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0g5" name="Type5.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0g6" name="JianTou.png" path="/image/"/>
+    <image id="cj0g7" name="Qua2.png" path="/image/" exported="true"/>
+    <image id="cj0g8" name="Qua1.png" path="/image/" exported="true"/>
+    <image id="cj0g9" name="PaiXing.png" path="/image/"/>
+    <image id="cj0ga" name="Type2.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0gb" name="Type1.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0gc" name="Type6.png" path="/image/" exported="true" scale="9grid" scale9grid="10,0,14,28"/>
+    <image id="cj0gd" name="Qua3.png" path="/image/" exported="true"/>
+    <image id="cj0ge" name="伤害数据标注.png" path="/"/>
+    <component id="cj0gf" name="info.xml" path="/components/"/>
+    <component id="cj0gg" name="HeroInfo.xml" path="/components/"/>
+    <component id="cj0gi" name="ProgressBar.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

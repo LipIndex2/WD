@@ -1,0 +1,27 @@
+
+jiujianbei.png
+size: 112,42
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+yanjing
+  rotate: false
+  xy: 96, 26
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 96, 20
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 0, 0
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1

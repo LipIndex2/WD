@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wrv3wl6o">
+  <resources>
+    <image id="fnrr2" name="LvXiaoKuang.png" path="/image/"/>
+    <image id="fnrr3" name="GanTanHao.png" path="/image/"/>
+    <image id="na5x9" name="QiPaoDingBu.png" path="/image/" scale="9grid" scale9grid="24,12,48,24"/>
+    <component id="na5xa" name="MainChallengeRewardView.xml" path="/" exported="true"/>
+    <image id="na5xb" name="XiaoQiPao.png" path="/image/" scale="9grid" scale9grid="68,25,19,15" smoothing="false"/>
+    <image id="na5xc" name="中间关卡礼包改大_spec.png" path="/"/>
+    <image id="na5xd" name="每日挑战气泡.jpg" path="/"/>
+    <component id="na5xe" name="ItemReward.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

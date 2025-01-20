@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://d1qlzhnf9quy1" designImageLayer="1">
+  <displayList>
+    <component id="n0_9quy" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,472" size="730,669">
+      <Label title="购买"/>
+    </component>
+    <image id="n3_9quy" name="n3" src="9quy2" fileName="image/DanChuangJinBiDi.png" xy="141,931" size="524,44"/>
+    <image id="n4_9quy" name="n4" src="9quy3" fileName="image/ShuZi.png" xy="296,830"/>
+    <loader id="n14_9quy" name="Icon1" xy="258,921" pivot="0.5,0.5" size="65,65" scale="0.5,0.5" url="ui://5qhcb5rwtiuj66" align="center" vAlign="middle"/>
+    <loader id="n19_kj0y" name="Icon2" xy="532,921" pivot="0.5,0.5" size="65,65" scale="0.5,0.5" url="ui://5qhcb5rwtiuj66" align="center" vAlign="middle"/>
+    <text id="n13_9quy" name="n13" xy="211,938" pivot="0.5,0.5" size="52,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" text="单价"/>
+    <text id="n16_9quy" name="n16" xy="479,936" pivot="0.5,0.5" size="52,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" text="总计"/>
+    <text id="n2_9quy" name="Name" xy="334,766" pivot="0.5,0.5" size="132,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="道具名称"/>
+    <text id="n5_9quy" name="BuyNum" xy="386,840" pivot="0.5,0.5" size="34,62" font="ui://wqx8l8xqut2h1b" fontSize="46" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" autoClearText="true" text="1"/>
+    <text id="n10_9quy" name="ItemNum" xy="541,770" pivot="1,0.5" size="162,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#491916" align="center" vAlign="middle" autoClearText="true" text="拥有数量：6"/>
+    <text id="n15_9quy" name="Price" xy="310,938" pivot="0,0.5" size="20,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" autoClearText="true" text="5"/>
+    <text id="n18_9quy" name="TotalPrice" xy="578,935" pivot="0,0.5" size="35,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" autoClearText="true" text="12"/>
+    <component id="n1_9quy" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="340,638"/>
+    <component id="n6_9quy" name="BtnSubtract" src="9quy4" fileName="components/BtnSmall.xml" xy="205,830">
+      <Button icon="ui://d1qlzhnf9quy6"/>
+      <property target="bg" propertyId="1" value="ui://d1qlzhnf9quy5"/>
+    </component>
+    <component id="n7_9quy" name="BtnAdd" src="9quy4" fileName="components/BtnSmall.xml" xy="515,830">
+      <Button icon="ui://d1qlzhnf9quy7"/>
+      <property target="bg" propertyId="1" value="ui://d1qlzhnf9quy8"/>
+    </component>
+    <component id="n8_9quy" name="BtnMax" src="9quy9" fileName="components/BtnBig.xml" xy="607,830">
+      <Button title="MAX" icon="ui://d1qlzhnf9quya"/>
+    </component>
+    <component id="n9_9quy" name="BtnMin" src="9quy9" fileName="components/BtnBig.xml" xy="99,830">
+      <Button title="MIN" icon="ui://d1qlzhnf9quyb"/>
+    </component>
+    <component id="n11_9quy" name="BtnClose" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="93,990">
+      <Button title="取消"/>
+    </component>
+    <component id="n12_9quy" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="409,990">
+      <Button title="确认"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,27 @@
+
+jinbo.png
+size: 111,56
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+yanjing
+  rotate: false
+  xy: 97, 42
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 97, 38
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 0, 0
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1

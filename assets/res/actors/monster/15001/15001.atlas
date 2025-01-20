@@ -1,0 +1,48 @@
+
+15001.png
+size: 896,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang2
+  rotate: true
+  xy: 455, 2
+  size: 395, 205
+  orig: 395, 205
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 507
+  size: 455, 384
+  orig: 455, 384
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 15
+  size: 254, 490
+  orig: 254, 490
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 258, 50
+  size: 190, 226
+  orig: 190, 226
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 459, 399
+  size: 269, 492
+  orig: 269, 492
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 258, 278
+  size: 195, 227
+  orig: 195, 227
+  offset: 0, 0
+  index: -1

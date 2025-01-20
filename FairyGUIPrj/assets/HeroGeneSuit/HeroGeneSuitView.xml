@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://fjvmtwhdrty25" designImageLayer="1">
+  <displayList>
+    <loader id="n5_rty2" name="BtnClose" xy="0,0" size="800,1600">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n0_rty2" name="Bg" src="rty21" fileName="image/JiYinQiPaoKuang.png" xy="228,637" pivot="0.5,0.5" size="440,398" group="n4_rty2" scale="1,-1"/>
+    <text id="n1_rty2" name="Name" xy="246,663" size="184,42" group="n4_rty2" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" text="套装名称六字"/>
+    <list id="n3_rty2" name="list" xy="231,716" size="431,303" group="n4_rty2" overflow="scroll" lineGap="12" defaultItem="ui://fjvmtwhdrty26">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n4_rty2" name="GpInherit" xy="228,637" size="440,398" advanced="true"/>
+  </displayList>
+</component>

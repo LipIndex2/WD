@@ -1,0 +1,44 @@
+
+message PB_CSShopBoxReq {//!< 1531				商店宝箱操作
+	optional int32	req_type = 1;				//!<操作类型
+	repeated int32	param_list = 2;				//!<参数list
+}
+
+message PB_SCShopBoxInfo {//!< 1532				商店宝箱信息
+	optional int32	box_level = 1;				
+	optional int32	box_exp = 2;				
+}
+
+
+message PB_CSShopReq {//!< 1533					商店操作
+	optional int32	req_type = 1;				//!<操作类型
+	repeated int32	param_list = 2;				//!<参数list
+}
+
+message PB_SCShopNode{
+	optional int32	shop_index = 1;		//商品index		
+	optional int32	buy_num = 2;		//商品购买次数
+}
+
+message PB_SCShopInfo {//!< 1534				商店限购信息
+	optional int32	send_type = 1;		//0:初始化 1:单个		
+	repeated PB_SCShopNode shop_list = 2;
+}
+
+message PB_CSDailyBuyReq {//!< 1545				每日特惠操作
+	optional int32	req_type = 1;				//!<操作类型
+	repeated int32	param_list = 2;				//!<参数list
+}
+
+message PB_DailyBuyItem{
+	optional int32 item_id = 1;				//道具id
+	optional int32 item_num = 2;			//道具数量
+	optional int32 consume_id = 3;			//货币id
+	optional int32 consume_num = 4;			//货币数量
+	optional bool is_buy = 5;				//是否购买
+}
+
+message PB_SCDailyBuyInfo {//!< 1546				每日特惠信息
+	optional int32	day_refresh_times = 1;		//!<刷新次数
+	repeated PB_DailyBuyItem item_list = 2;				
+}

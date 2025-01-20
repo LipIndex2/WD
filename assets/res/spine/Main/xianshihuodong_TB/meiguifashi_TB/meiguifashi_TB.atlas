@@ -1,0 +1,69 @@
+
+meiguifashi_TB.png
+size: 206,80
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+aixin1
+  rotate: false
+  xy: 0, 4
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+aixin2
+  rotate: false
+  xy: 89, 0
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 133, 30
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 179, 4
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 57, 0
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 24
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 171, 37
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 133, 1
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 57, 28
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1

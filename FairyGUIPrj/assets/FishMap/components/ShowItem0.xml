@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,300" pivot="0.5,0.5" extention="Button" designImage="ui://1hxe9fq9opeg1" designImageOffsetX="-34" designImageOffsetY="-645">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n8_s4pd" name="MapIcon" xy="380,0" pivot="0.5,0.5" size="268,246" group="n6_opeg" url="ui://1hxe9fq9s4pdg" autoSize="true" clearOnPublish="true"/>
+    <image id="n7_l7xm" name="LockShow" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="495,120" group="n6_opeg" visible="false"/>
+    <text id="n3_opeg" name="SelShow" xy="440,-2" pivot="0.5,0.5" size="164,54" group="n6_opeg" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#fffebd" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="当前选中"/>
+    <text id="n4_opeg" name="NameShow" xy="467,217" pivot="0.5,0.5" size="106,46" group="n6_opeg" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="瀑布坡"/>
+    <text id="n5_opeg" name="DescShow" xy="425,263" pivot="0.5,0.5" size="186,36" group="n6_opeg" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="收集进度12/15"/>
+    <group id="n6_opeg" name="GpShow" xy="380,-2" size="268,301"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

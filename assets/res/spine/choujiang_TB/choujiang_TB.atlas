@@ -1,0 +1,34 @@
+
+choujiang_TB.png
+size: 121,133
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+lan
+  rotate: true
+  xy: 57, 0
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+libao
+  rotate: true
+  xy: 0, 50
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+lv
+  rotate: true
+  xy: 0, 0
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 82, 82
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1

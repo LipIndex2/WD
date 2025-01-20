@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,143" designImage="ui://8ckzzwsbjlw61" designImageOffsetX="50" designImageOffsetY="-65">
+  <displayList>
+    <image id="n0_jlw6" name="bg" src="jlw62" fileName="image/LieBiaoDi.png" xy="0,0" size="630,143"/>
+    <text id="n2_jlw6" name="NameShow" xy="153,14" size="124,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#54301e" autoClearText="true" text="我的农场"/>
+    <text id="n3_jlw6" name="DescShow" xy="153,58" size="350,66" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#663b18" autoSize="none" autoClearText="true" text="你的农场出现了【2级钻石】&#xA;你的农场出现了【2级钻石】"/>
+    <text id="n4_jlw6" name="TimeShow" xy="516,19" pivot="0.5,0.5" size="92,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#5fb465" align="center" vAlign="middle" autoClearText="true" text="2个月前"/>
+    <component id="n5_jlw6" name="BtnGo" src="jlw66" fileName="components/ButtonGo.xml" xy="515,59"/>
+    <component id="n1_jlw6" name="HeadShow" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="27,16" scale="0.61,0.61"/>
+  </displayList>
+</component>

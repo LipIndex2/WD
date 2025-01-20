@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <loader id="n0_bylh" name="IconBg" xy="51,208" size="721,1201" url="ui://zn6u2d2dbylh1" fill="scaleFree"/>
+    <text id="n1_bylh" name="title" xy="163,226" size="473,62" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="世界聊天"/>
+    <component id="n2_bylh" name="BtnClose" src="bylh3" fileName="component/ButtonClose.xml" xy="654,222"/>
+    <list id="n3_rru7" name="list" xy="83,324" size="658,973" overflow="scroll" lineGap="60" defaultItem="ui://zn6u2d2dft2s6b">
+      <relation target="n0_bylh" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item url="ui://zn6u2d2dft2s6c"/>
+      <item/>
+      <item/>
+      <item url="ui://zn6u2d2dft2s6c"/>
+    </list>
+    <loader id="n5_rru7" name="n5" xy="84,1317" size="446,48" url="ui://zn6u2d2do0za68" fill="scaleFree"/>
+    <text id="n4_rru7" name="InputText" xy="100,1320" size="414,42" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#000000,#FFFFFF]点击输入聊天内容[/color]" maxLength="36">
+      <relation target="n5_rru7" sidePair="width-width,height-height,center-center,middle-middle"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n7_rru7" name="BtnSend" src="rru75" fileName="component/BtnSend.xml" xy="532,1303">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+  </displayList>
+</component>

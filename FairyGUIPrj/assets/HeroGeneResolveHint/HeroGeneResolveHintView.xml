@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://nel3xh16hprm4">
+  <controller name="ResolveHintState" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n0_uvlm" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="-14,514" size="827,620">
+      <Label title="提 示"/>
+    </component>
+    <image id="n1_uvlm" name="n1" src="uvlm1" fileName="image/XiaoKuangDan.png" xy="85,706" size="628,206" visible="false"/>
+    <image id="n5_hprm" name="n5" src="hprm3" fileName="image/ShuZiDi.png" xy="87,609" size="171,36">
+      <relation target="n10_hprm" sidePair="width-width"/>
+    </image>
+    <image id="n14_hprm" name="n14" src="hprm3" fileName="image/ShuZiDi.png" xy="454,817" size="138,36" scale="1.5,1.5">
+      <gearDisplay controller="ResolveHintState" pages="1"/>
+    </image>
+    <image id="n6_hprm" name="n6" src="hprm3" fileName="image/ShuZiDi.png" xy="352,817" size="138,36" scale="1.5,1.5">
+      <gearXY controller="ResolveHintState" pages="1" values="182,817" default="352,817"/>
+    </image>
+    <loader id="n7_hprm" name="IconMaterials2" xy="292,789" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true">
+      <gearXY controller="ResolveHintState" pages="0,1" values="292,789|122,789"/>
+    </loader>
+    <loader id="n12_hprm" name="IconMaterials1" xy="404,789" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true">
+      <gearDisplay controller="ResolveHintState" pages="1"/>
+    </loader>
+    <loader id="n8_hprm" name="IconMaterials3" xy="62,594" pivot="0.5,0.5" size="65,65" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true"/>
+    <text id="n4_uvlm" name="Title" xy="266,722" pivot="0.5,0.5" size="268,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#54301e" align="center" vAlign="middle" text="升级将消耗："/>
+    <text id="n9_hprm" name="MaterialsNum2" xy="395,816" pivot="0,0.5" size="86,56" font="ui://wqx8l8xqut2h1b" fontSize="42" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999">
+      <gearXY controller="ResolveHintState" pages="0,1" values="395,816|226,816"/>
+    </text>
+    <text id="n10_hprm" name="MaterialsNum3" xy="126,606" pivot="0,0.5" size="62,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999"/>
+    <text id="n13_hprm" name="MaterialsNum1" xy="508,816" pivot="0,0.5" size="86,56" font="ui://wqx8l8xqut2h1b" fontSize="42" color="#f0f0f0" vAlign="middle" strokeColor="#491916" strokeSize="3" text="999">
+      <gearDisplay controller="ResolveHintState" pages="1"/>
+    </text>
+    <component id="n2_uvlm" name="BtnClose" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="87,931">
+      <Button title="返 回"/>
+    </component>
+    <component id="n3_uvlm" name="BtnNotarize" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="415,930">
+      <Button title="确 认"/>
+    </component>
+  </displayList>
+</component>

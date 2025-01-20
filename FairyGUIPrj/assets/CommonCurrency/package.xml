@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5qhcb5rw">
+  <resources>
+    <image id="tiuj64" name="Big40001.png" path="/image/" exported="true"/>
+    <image id="tiuj5w" name="Small40001.png" path="/image/" exported="true"/>
+    <image id="tiuj65" name="DengJiTuBiao.png" path="/image/" exported="true"/>
+    <image id="tiuj66" name="Big40000.png" path="/image/" exported="true"/>
+    <image id="tiuj68" name="Small40000.png" path="/image/" exported="true"/>
+    <image id="tiuj63" name="Big40004.png" path="/image/" exported="true"/>
+    <image id="k23u2" name="DengJiJinDuTiao.png" path="/image/" scale="9grid" scale9grid="30,0,34,23"/>
+    <component id="k23u3" name="ExpShow.xml" path="/" exported="true"/>
+    <image id="k23u4" name="HuoBiDiKeLaShen.png" path="/image/" scale="9grid" scale9grid="30,0,20,23"/>
+    <component id="k23u6h" name="CurrencyShow.xml" path="/" exported="true"/>
+    <image id="smc15" name="GengDuoYingXiongKa.png" path="/image/" exported="true"/>
+    <image id="o4uz6j" name="YaoShi2.png" path="/image/" exported="true"/>
+    <image id="o4uz6k" name="YaoShi3.png" path="/image/" exported="true"/>
+    <image id="o4uz6l" name="YaoShi1.png" path="/image/" exported="true"/>
+    <image id="na5x6m" name="Small40003.png" path="/image/" exported="true"/>
+    <image id="u3z86n" name="Big40051.png" path="/image/" exported="true"/>
+    <image id="u3z86o" name="Big40049.png" path="/image/" exported="true"/>
+    <image id="u3z86p" name="Small40047.png" path="/image/" exported="true"/>
+    <image id="uj1j6q" name="Big40054.png" path="/image/" exported="true"/>
+    <image id="bcxi6r" name="Big40076.png" path="/image/" exported="true"/>
+    <image id="bcxi6s" name="Big40078.png" path="/image/" exported="true"/>
+    <image id="cgay16" name="Small40163.png" path="/image/" exported="true"/>
+    <image id="i5p46t" name="Small40164.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="df3r1wc6">
+  <resources>
+    <component id="9quy0" name="FarmShopView.xml" path="/" exported="true"/>
+    <image id="9quy1" name="农场道具.jpg" path="/"/>
+    <image id="9quy2" name="Di.png" path="/image/" scale="9grid" scale9grid="19,18,38,36"/>
+    <component id="9quy4" name="ButtonTab.xml" path="/components/"/>
+    <image id="9quy5" name="YeQianAnNiu.png" path="/image/" scale="9grid" scale9grid="26,23,52,46"/>
+    <component id="9quy6" name="ListCell.xml" path="/components/" exported="true"/>
+    <component id="9quy7" name="BtnBuy.xml" path="/components/"/>
+    <image id="9quy8" name="HuangAnNiu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

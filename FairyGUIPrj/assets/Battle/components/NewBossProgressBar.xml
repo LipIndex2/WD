@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="482,41" extention="ProgressBar" designImage="ui://qllfrhsrwbpt7u" designImageOffsetX="-314" designImageOffsetY="-40" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_wbpt" name="n0" src="wbpt7q" fileName="image/JingYanJinDuDi.png" xy="0,0" visible="false"/>
+    <image id="n1_wbpt" name="n1" src="whcr17" fileName="image/GuaiWuicon.png" xy="54,9" visible="false"/>
+    <image id="n2_wbpt" name="n2" src="wbpt7s" fileName="image/JingYanJinDuTiaoDi.png" xy="0,0" size="481,41"/>
+    <image id="n6_g2jq" name="bar" src="g2jq8f" fileName="bar.png" xy="0,0" fillMethod="hz"/>
+    <text id="n4_wbpt" name="title" xy="240,20" pivot="0.5,0.5" anchor="true" size="75,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#491916" align="center" vAlign="middle" text="100%"/>
+  </displayList>
+  <ProgressBar/>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" designImage="ui://bqis4qbsj0915" designImageOffsetX="-80" designImageOffsetY="-490">
+  <displayList>
+    <component id="n0_rjro" name="CellShow" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="0,0" group="n2_rjro"/>
+    <group id="n2_rjro" name="GpShow" xy="0,0" size="120,120" visible="false" advanced="true"/>
+  </displayList>
+</component>

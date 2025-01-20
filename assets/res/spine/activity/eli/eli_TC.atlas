@@ -1,0 +1,146 @@
+
+eli_TC.png
+size: 1534,1054
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+beijing_TC
+  rotate: false
+  xy: 0, 149
+  size: 802, 402
+  orig: 802, 402
+  offset: 0, 0
+  index: -1
+chi1
+  rotate: false
+  xy: 1334, 71
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+chi2
+  rotate: false
+  xy: 1102, 7
+  size: 202, 115
+  orig: 202, 115
+  offset: 0, 0
+  index: -1
+chi3
+  rotate: false
+  xy: 803, 135
+  size: 333, 205
+  orig: 333, 205
+  offset: 0, 0
+  index: -1
+chi4
+  rotate: true
+  xy: 1336, 770
+  size: 284, 179
+  orig: 284, 179
+  offset: 0, 0
+  index: -1
+chi5
+  rotate: false
+  xy: 1334, 144
+  size: 190, 199
+  orig: 190, 199
+  offset: 0, 0
+  index: -1
+chi6
+  rotate: true
+  xy: 359, 16
+  size: 132, 228
+  orig: 132, 228
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 1015, 35
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 1305, 1
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: false
+  xy: 0, 552
+  size: 926, 502
+  orig: 926, 502
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 927, 748
+  size: 408, 306
+  orig: 408, 306
+  offset: 0, 0
+  index: -1
+xiangquan
+  rotate: false
+  xy: 803, 341
+  size: 399, 182
+  orig: 399, 182
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: false
+  xy: 0, 0
+  size: 358, 148
+  orig: 358, 148
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 588, 32
+  size: 208, 116
+  orig: 208, 116
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: true
+  xy: 1137, 123
+  size: 215, 196
+  orig: 215, 196
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 1333, 344
+  size: 191, 160
+  orig: 191, 160
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: true
+  xy: 1203, 339
+  size: 184, 129
+  orig: 184, 129
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: false
+  xy: 797, 22
+  size: 217, 112
+  orig: 217, 112
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: true
+  xy: 1346, 505
+  size: 264, 165
+  orig: 264, 165
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 927, 524
+  size: 418, 223
+  orig: 418, 223
+  offset: 0, 0
+  index: -1

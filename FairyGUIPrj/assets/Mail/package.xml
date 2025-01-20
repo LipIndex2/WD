@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zqb4963i">
+  <resources>
+    <component id="9k880" name="MailView.xml" path="/" exported="true"/>
+    <component id="9k882" name="MailViewSystemPanel.xml" path="/" exported="true"/>
+    <image id="9k885" name="YouJianKuang.png" path="/image/" scale="9grid" scale9grid="156,29,312,58"/>
+    <image id="9k886" name="New.png" path="/image/"/>
+    <image id="9k887" name="XiaoLiWu.png" path="/image/"/>
+    <component id="9k889" name="MailViewNormalPanel.xml" path="/" exported="true"/>
+    <image id="l09ga" name="暂无邮件参数.png" path="/"/>
+    <image id="l09gb" name="BeiJingKuang.png" path="/image/" scale="9grid" scale9grid="28,28,56,56"/>
+    <image id="l09gc" name="WuYouJianTuBiao.png" path="/image/"/>
+    <component id="l09gd" name="ItemShow.xml" path="/components/" exported="true"/>
+    <image id="ffnue" name="邮件列表参数.jpg" path="/"/>
+    <component id="ffnuf" name="ButtonAd.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

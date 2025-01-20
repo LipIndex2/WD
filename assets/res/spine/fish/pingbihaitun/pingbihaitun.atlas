@@ -1,0 +1,27 @@
+
+pingbihaitun.png
+size: 218,97
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 184, 97
+  orig: 184, 97
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 185, 38
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 185, 62
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1

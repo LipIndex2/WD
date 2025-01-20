@@ -1,0 +1,48 @@
+
+11032.png
+size: 423,292
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: true
+  xy: 0, 51
+  size: 241, 177
+  orig: 241, 177
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 178, 0
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 301, 0
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 178, 128
+  size: 164, 220
+  orig: 164, 220
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: true
+  xy: 0, 3
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: true
+  xy: 63, 3
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1

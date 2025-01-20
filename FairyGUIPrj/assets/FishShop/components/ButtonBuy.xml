@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="158,68" pivot="0.5,0.5" extention="Button" designImage="ui://1di608jhopeg1" designImageOffsetX="-548" designImageOffsetY="-560">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n6_iw5u" name="bg" src="opeg5" fileName="image/AnNiu.png" xy="0,0" size="158,68">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n7_iw5u" name="icon" xy="-11,-22" pivot="0.5,0.5" size="110,110" scale="0.5,0.5" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="n9_iw5u" sidePair="right-left"/>
+    </loader>
+    <text id="n9_iw5u" name="title" xy="72,9" pivot="0.5,0.5" size="43,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="60"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

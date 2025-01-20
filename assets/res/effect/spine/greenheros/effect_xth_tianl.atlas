@@ -1,0 +1,90 @@
+
+effect_xth_tianl.png
+size: 878,510
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+t_00006
+  rotate: false
+  xy: 2, 256
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00007
+  rotate: false
+  xy: 2, 2
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00008
+  rotate: false
+  xy: 148, 256
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00010
+  rotate: false
+  xy: 148, 2
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00011
+  rotate: false
+  xy: 294, 256
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00012
+  rotate: false
+  xy: 294, 2
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00013
+  rotate: false
+  xy: 440, 256
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00014
+  rotate: false
+  xy: 440, 2
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00015
+  rotate: false
+  xy: 586, 256
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00017
+  rotate: false
+  xy: 586, 2
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00020
+  rotate: false
+  xy: 732, 256
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1
+t_00022
+  rotate: false
+  xy: 732, 2
+  size: 144, 252
+  orig: 144, 252
+  offset: 0, 0
+  index: -1

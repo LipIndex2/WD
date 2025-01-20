@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="605,110" pivot="0.5,0.5" designImageOffsetX="-102" designImageOffsetY="-876" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n3_p2wa" name="BgIcon" xy="-3,2" pivot="0.5,0.5" size="110,110" group="n6_ox88" scale="0.9,0.9" visible="false" touchable="false" url="ui://rqg67c20rjro5h" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <loader id="n1_p2wa" name="icon" xy="-3,2" pivot="0.5,0.5" size="110,110" group="n6_ox88" scale="0.9,0.9" touchable="false" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <text id="n4_fajd" name="SkillNum" xy="13,72" pivot="0.5,0.5" size="78,35" group="n6_ox88" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="+10%"/>
+    <group id="n6_ox88" name="skillItem" xy="-3,2" size="110,110" advanced="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+    <text id="n2_p2wa" name="LevelLock" xy="116,19" pivot="0,0.5" size="124,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" text="Lv. 7 解锁"/>
+    <richtext id="n5_ox88" name="Title" xy="113,63" size="493,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#54301e" vAlign="middle" leading="0" autoSize="height" text="幽灵的泡泡幽灵的泡泡幽灵的泡泡泡泡"/>
+    <list id="n7_ox88" name="list" xy="246,15" size="358,40" visible="false" layout="row" overflow="scroll" scroll="horizontal" colGap="3" defaultItem="ui://uivgkva9ox8869" autoItemSize="false" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <relation target="n5_ox88" sidePair="height-height"/>
+</component>

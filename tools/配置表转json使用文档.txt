@@ -1,0 +1,4 @@
+1. 使用前需要添加配置 node.js 和 npm 需要安装 可以使用powershell查看node -v 和 npm -v的版本
+2. shift + 右键 打开选中powershell 打开命令行。 输入 npm install exceljs 安装exceljs（如果安装不上找程序）
+3. 使用WPS注意，转配置前必须关闭已打开的表
+4. 双击 配置表转Json.bat即可，等待到点击任意按键继续.... 即可

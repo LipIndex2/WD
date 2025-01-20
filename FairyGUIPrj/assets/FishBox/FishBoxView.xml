@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://ir4njfxye0iz1">
+  <displayList>
+    <loader id="n0_e0iz" name="bg" xy="0,0" size="800,1600"/>
+    <component id="n11_hdyg" name="FishItem1" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n12_hdyg" name="FishItem2" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n13_hdyg" name="FishItem3" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n14_hdyg" name="FishItem4" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n15_hdyg" name="FishItem5" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n16_m6sf" name="FishItem6" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n17_m6sf" name="FishItem7" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <component id="n18_m6sf" name="FishItem8" src="hno24" fileName="components/FishItem.xml" xy="0,0"/>
+    <image id="n4_e0iz" name="bg_t" src="e0iz2" fileName="image/TuCeng7.png" xy="107,68"/>
+    <text id="n6_e0iz" name="title" xy="350,74" pivot="0.5,0.5" size="100,64" font="ui://wqx8l8xqut2h1b" fontSize="48" color="#fffebd" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="鱼缸">
+      <relation target="" sidePair=""/>
+    </text>
+    <component id="n1_e0iz" name="BtnReturn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="13,1489"/>
+    <component id="n3_e0iz" name="BtnTips" src="rqb9b59" fileName="ButtonTips.xml" pkg="zokic7y2" xy="463,85"/>
+  </displayList>
+</component>

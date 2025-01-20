@@ -1,0 +1,48 @@
+
+chaweidouyu.png
+size: 140,48
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+qi
+  rotate: false
+  xy: 82, 3
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 82, 27
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 127, 31
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 127, 35
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 122, 1
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1

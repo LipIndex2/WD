@@ -1,0 +1,83 @@
+
+15004.png
+size: 488,524
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chibang1
+  rotate: false
+  xy: 0, 102
+  size: 146, 256
+  orig: 146, 256
+  offset: 0, 0
+  index: -1
+chibang1_1
+  rotate: true
+  xy: 395, 216
+  size: 158, 77
+  orig: 158, 77
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 147, 102
+  size: 146, 256
+  orig: 146, 256
+  offset: 0, 0
+  index: -1
+chibang2_1
+  rotate: true
+  xy: 411, 57
+  size: 158, 77
+  orig: 158, 77
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 287, 375
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 170, 101
+  orig: 170, 101
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 294, 135
+  size: 100, 239
+  orig: 100, 239
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 171, 1
+  size: 100, 239
+  orig: 100, 239
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 359
+  size: 286, 165
+  orig: 286, 165
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 419, 427
+  size: 55, 97
+  orig: 55, 97
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 294, 110
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1

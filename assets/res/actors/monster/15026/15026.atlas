@@ -1,0 +1,62 @@
+
+15026.png
+size: 919,381
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao1
+  rotate: false
+  xy: 799, 92
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 817, 20
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 466, 51
+  size: 330, 259
+  orig: 330, 259
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 726, 73
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 726, 0
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 726, 164
+  size: 193, 217
+  orig: 193, 217
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 466, 4
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: true
+  xy: 0, 2
+  size: 379, 465
+  orig: 379, 465
+  offset: 0, 0
+  index: -1

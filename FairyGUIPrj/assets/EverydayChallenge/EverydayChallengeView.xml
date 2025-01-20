@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://6ei5mvd5m5mw2">
+  <displayList>
+    <component id="n0_m5mw" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,243" size="730,1078"/>
+    <image id="n1_m5mw" name="n1" src="o2mfb49" fileName="image/HuoDongBiaoTiHengFu.png" pkg="r5d9xy63" xy="15,185" group="n25_m5mw"/>
+    <image id="n3_m5mw" name="n3" src="m5mw3" fileName="image/BOSSBeiJing.png" xy="88,334" group="n25_m5mw"/>
+    <image id="n26_m5mw" name="n26" src="m5mwb" fileName="image/JiaoSeKaPianDi.png" xy="85,841" size="630,290" group="n25_m5mw"/>
+    <image id="n5_m5mw" name="bg1" src="m5mw6" fileName="image/LvSeBan.png" xy="88,569" size="312,152" group="n25_m5mw"/>
+    <image id="n6_m5mw" name="bg2" src="m5mw7" fileName="image/BaiSeBan.png" xy="399,569" size="312,152" group="n25_m5mw"/>
+    <image id="n7_m5mw" name="bg4" src="m5mw8" fileName="image/QianZiHengTiao.png" xy="85,564" pivot="0.5,0.5" size="630,50" group="n25_m5mw"/>
+    <image id="n38_m5mw" name="bg_t2" src="m5mwh" fileName="image/ShiJianXiaoTiao.png" xy="286,271" group="n25_m5mw"/>
+    <image id="n39_m5mw" name="deco" src="m5mwi" fileName="image/ShiZhongTuBiao.png" xy="327,271" group="n25_m5mw"/>
+    <image id="n22_m5mw" name="deco1" src="m5mwa" fileName="image/BiaoTiXian.png" xy="104,861" size="191,26" group="n25_m5mw"/>
+    <image id="n23_m5mw" name="deco2" src="m5mwa" fileName="image/BiaoTiXian.png" xy="698,861" size="193,26" group="n25_m5mw" scale="-1,1"/>
+    <group id="n25_m5mw" name="n25" xy="15,185" size="876,946"/>
+    <image id="n10_m5mw" name="p1" src="m5mw9" fileName="image/DianDian.png" xy="193,769" group="n18_m5mw"/>
+    <image id="n11_m5mw" name="p2" src="m5mw9" fileName="image/DianDian.png" xy="217,769" group="n18_m5mw"/>
+    <image id="n12_m5mw" name="p3" src="m5mw9" fileName="image/DianDian.png" xy="313,769" group="n18_m5mw"/>
+    <image id="n13_m5mw" name="p4" src="m5mw9" fileName="image/DianDian.png" xy="337,769" group="n18_m5mw"/>
+    <image id="n14_m5mw" name="p5" src="m5mw9" fileName="image/DianDian.png" xy="433,769" group="n18_m5mw"/>
+    <image id="n15_m5mw" name="p6" src="m5mw9" fileName="image/DianDian.png" xy="457,769" group="n18_m5mw"/>
+    <image id="n16_m5mw" name="p7" src="m5mw9" fileName="image/DianDian.png" xy="553,769" group="n18_m5mw"/>
+    <image id="n17_m5mw" name="p8" src="m5mw9" fileName="image/DianDian.png" xy="577,769" group="n18_m5mw"/>
+    <group id="n18_m5mw" name="points" xy="193,769" size="400,16"/>
+    <loader id="n36_m5mw" name="CellBg1" xy="211,627" size="70,70" url="ui://6ei5mvd5m5mwf" autoSize="true"/>
+    <loader id="n37_m5mw" name="CellBg2" xy="521,627" size="70,70" url="ui://6ei5mvd5m5mwg" autoSize="true"/>
+    <loader id="n8_m5mw" name="CellShow1" xy="216,627" pivot="0.5,0.5" size="70,70" touchable="false" autoSize="true"/>
+    <loader id="n9_m5mw" name="CellShow2" xy="526,627" pivot="0.5,0.5" size="70,70" touchable="false" autoSize="true"/>
+    <component id="n40_m5mw" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="225,236">
+      <Label title="13:31:17" titleFontSize="24"/>
+    </component>
+    <text id="n2_m5mw" name="n2" xy="310,199" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="每日挑战"/>
+    <text id="n42_m4fi" name="RecordShow" xy="319,1142" pivot="0.5,0.5" size="162,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="最高记录：0"/>
+    <text id="n24_m5mw" name="TipsShow" xy="314,854" pivot="0.5,0.5" size="172,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="今日挑战英雄"/>
+    <list id="n28_m5mw" name="AttrList" xy="230,559" pivot="0.5,0.5" size="340,58" layout="row" overflow="hidden" defaultItem="ui://6ei5mvd5m5mwc" align="center" vAlign="middle" autoClearItems="true"/>
+    <list id="n27_m5mw" name="HeroList" xy="101,905" size="744,258" scale="0.8,0.8" layout="row" overflow="scroll" scrollBarFlags="2208" margin="0,0,8,0" colGap="5" defaultItem="ui://gn62pyk3tm533c">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_m5mw" name="BtnTips" src="m5mw4" fileName="components/ButtonChallengeTips.xml" xy="660,334"/>
+    <component id="n32_m5mw" name="BtnReward1" src="m5mwd" fileName="components/ButtonChallengeReward.xml" xy="242,743"/>
+    <component id="n33_m5mw" name="BtnReward2" src="m5mwd" fileName="components/ButtonChallengeReward.xml" xy="359,743"/>
+    <component id="n34_m5mw" name="BtnReward3" src="m5mwd" fileName="components/ButtonChallengeReward.xml" xy="482,743"/>
+    <component id="n35_m5mw" name="BtnStart" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1191">
+      <Button title="开始"/>
+    </component>
+    <component id="n41_m5mw" name="Spine" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="400,574"/>
+  </displayList>
+</component>

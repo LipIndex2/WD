@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://05atindvhtrt1">
+  <displayList>
+    <image id="n1_htrt" name="deco" src="htrt2" fileName="image/Zu55.png" xy="44,433"/>
+    <component id="n0_htrt" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,646" size="730,650">
+      <Label title="尊享特权"/>
+    </component>
+    <image id="n2_htrt" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="88,826" size="624,296"/>
+    <component id="n3_htrt" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,1141"/>
+    <list id="n4_htrt" name="ShowList" xy="88,837" size="624,270" lineGap="5" defaultItem="ui://05atindvhtrt3" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

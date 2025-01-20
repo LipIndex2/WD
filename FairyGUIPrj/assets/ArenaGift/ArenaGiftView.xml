@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://71nd35wmfvdk7" designImageLayer="1">
+  <displayList>
+    <component id="n16_fvdk" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <image id="n13_fvdk" name="bg" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,0" pivot="0.5,0.5" size="800,1600">
+      <relation target="n16_fvdk" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n14_fvdk" name="n14" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" size="800,130">
+      <relation target="n16_fvdk" sidePair="bottom-bottom"/>
+    </image>
+    <image id="n12_s13y" name="n12" src="fvdk1" fileName="image/Zu 404.png" xy="0,0" group="n18_fvdk"/>
+    <image id="n1_k3wl" name="n1" src="fvdk2" fileName="image/Zu 397.png" xy="0,229" size="800,46" group="n18_fvdk"/>
+    <image id="n6_k3wl" name="n6" src="fvdk3" fileName="image/_LocZu 398.png" xy="51,48" group="n18_fvdk"/>
+    <text id="n17_fvdk" name="n17" xy="59,156" pivot="0.5,0.5" size="364,42" group="n18_fvdk" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#281256" strokeSize="3" text="超值入场券，每日限量购买"/>
+    <group id="n18_fvdk" name="n18" xy="0,0" size="800,275" advanced="true">
+      <relation target="n16_fvdk" sidePair="top-top"/>
+    </group>
+    <list id="n7_k3wl" name="ShowList" xy="0,295" pivot="0.5,0.5" size="800,1167" overflow="scroll" lineGap="7" defaultItem="ui://71nd35wmfvdk5" autoClearItems="true">
+      <relation target="n16_fvdk" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n15_fvdk" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="16,1489">
+      <relation target="n16_fvdk" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

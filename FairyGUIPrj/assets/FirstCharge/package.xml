@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="h6nb280c">
+  <resources>
+    <component id="r9w50" name="FirstChargeView.xml" path="/" exported="true"/>
+    <image id="k2qf2" name="ShouChongShangCheng.png" path="/image/"/>
+    <image id="k2qf4" name="YuanHua.png" path="/image/"/>
+    <image id="k2qf5" name="New.png" path="/image/"/>
+    <image id="k2qf6" name="S.png" path="/image/"/>
+    <image id="k2qf7" name="AnNiu.png" path="/image/"/>
+    <image id="k2qf8" name="ShouChongDiBan.png" path="/image/" atlas="alone_npot"/>
+    <component id="k2qfb" name="BtnShop.xml" path="/components/"/>
+    <image id="k2qfc" name="XinShouLiBaoHengFu.png" path="/image/"/>
+    <component id="k2qfd" name="FirstChargeitem.xml" path="/components/" exported="true"/>
+    <image id="k2qfe" name="LiangZi.png" path="/image/"/>
+    <image id="k2qff" name="LiangHuang.png" path="/image/"/>
+    <image id="gw5xg" name="形态7-140X140.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

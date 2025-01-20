@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://kmd03jrgzysfo" designImageAlpha="0">
+  <displayList>
+    <image id="n6_jxlb" name="n6" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="53,203" size="694,646"/>
+    <text id="n0_jxlb" name="n0" xy="400,115" pivot="0.5,0.5" anchor="true" size="104,66" font="ui://wqx8l8xqut2h1b" fontSize="50" color="#ffffff" strokeColor="#491914" strokeSize="3" text="暂停"/>
+    <image id="n1_jxlb" name="n1" src="jxlb7" fileName="image/DaHengFuLan.png" xy="54,179" size="692,53"/>
+    <text id="n3_jxlb" name="n3" xy="400,205" pivot="0.5,0.5" anchor="true" size="60,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="技能"/>
+    <component id="n4_jxlb" name="ContinueBtn" src="jxlbd" fileName="components/ContinueBtn.xml" xy="427,1305"/>
+    <list id="n7_jxlb" name="SkillList" xy="55,272" size="692,565" layout="flow_hz" overflow="scroll" margin="0,0,24,0" lineGap="23" colGap="23" defaultItem="ui://gn62pyk383sp3o" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_jxlb" name="ExitBtn" src="jxlbe" fileName="components/ExitBtn.xml" xy="100,1305"/>
+    <component id="n8_o3y1" name="SkillDesc" src="o3y1h" fileName="components/SkillDesc.xml" xy="0,0" visible="false"/>
+    <component id="n9_zysf" name="n9" src="zysfk" fileName="components/DescItem.xml" xy="120,880">
+      <Label title="当&lt;color=#036b16&gt;门徒攻击&lt;/color&gt;被抵抗时出现"/>
+    </component>
+    <component id="n10_zysf" name="n10" src="zysfk" fileName="components/DescItem.xml" xy="120,970">
+      <Label title="当&lt;color=9b231b&gt;妖魔弱点&lt;/color&gt;被攻击时出现" icon="ui://kmd03jrgzysfn"/>
+    </component>
+    <component id="n11_zysf" name="n11" src="zysfk" fileName="components/DescItem.xml" xy="120,1060">
+      <Label title="当&lt;color=#036b16&gt;门徒重击&lt;/color&gt;时出现" icon="ui://kmd03jrgzysfl"/>
+    </component>
+    <component id="n12_enj6" name="n12" src="zysfk" fileName="components/DescItem.xml" xy="120,1150">
+      <Label title="当&lt;color=#036b16&gt;门徒暴击&lt;/color&gt;时出现" icon="ui://kmd03jrgenj6p"/>
+    </component>
+  </displayList>
+</component>

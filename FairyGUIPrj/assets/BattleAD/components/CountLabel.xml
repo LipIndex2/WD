@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="201,47" extention="Label">
+  <displayList>
+    <image id="n8_algr" name="n8" src="oabko" fileName="image/DangQianShuLiangDi.png" xy="0,0"/>
+    <text id="n9_algr" name="title" xy="34,18" pivot="0,0.5" anchor="true" size="155,34" font="" fontSize="24" color="#491914" vAlign="middle" text="当前数量：23"/>
+  </displayList>
+</component>

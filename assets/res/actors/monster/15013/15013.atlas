@@ -1,0 +1,76 @@
+
+15013.png
+size: 969,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daozi1
+  rotate: true
+  xy: 653, 113
+  size: 122, 156
+  orig: 122, 156
+  offset: 0, 0
+  index: -1
+daozi2
+  rotate: true
+  xy: 811, 114
+  size: 122, 156
+  orig: 122, 156
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 416, 2
+  size: 126, 84
+  orig: 126, 84
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: false
+  xy: 544, 3
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 4
+  size: 412, 392
+  orig: 412, 392
+  offset: 0, 0
+  index: -1
+xiongqiang
+  rotate: true
+  xy: 416, 88
+  size: 308, 235
+  orig: 308, 235
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 653, 237
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 796, 14
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 803, 238
+  size: 151, 158
+  orig: 151, 158
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 677, 12
+  size: 117, 99
+  orig: 117, 99
+  offset: 0, 0
+  index: -1

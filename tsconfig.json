@@ -1,0 +1,23 @@
+{
+  /* Base configuration. Do not edit this field. */
+  "extends": "./temp/tsconfig.cocos.json",
+
+  /* Add your custom configuration here. */
+  "compilerOptions": {
+    "strict": false,
+    "noImplicitAny": true,
+    // "experimentalDecorator" : true,
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      // "foo": ["./assets/lib/foo"],
+      "core/*": ["./assets/script/core/*"],
+      "modules/*": ["./assets/script/modules/*"],
+      "config/*" : ["./assets/script/config/*"],
+      "manager/*" : ["./assets/script/manager/*"],
+      "utils/*" : ["./assets/script/utils/*"],
+      "data/*" : ["./assets/script/data/*"],
+      "preload/*" : ["./assets/preload/*"]
+
+    }
+  }
+}

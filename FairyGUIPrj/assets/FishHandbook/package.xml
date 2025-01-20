@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2keej48g">
+  <resources>
+    <component id="pmm80" name="FishHandbookView.xml" path="/" exported="true"/>
+    <image id="pmm81" name="图鉴SPE.jpg" path="/"/>
+    <image id="pmm83" name="Zu65.png" path="/image/"/>
+    <component id="pmm84" name="ButtonType.xml" path="/components/"/>
+    <component id="pmm85" name="ProgressShow.xml" path="/components/" exported="true"/>
+    <image id="pmm86" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <image id="pmm87" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="pmm88" name="BaiSeHeiBianDi.png" path="/image/" scale="9grid" scale9grid="46,26,92,52"/>
+    <component id="pmm89" name="ShowItem.xml" path="/components/" exported="true"/>
+    <image id="pmm8a" name="TuCeng618.png" path="/image/"/>
+    <component id="pmm8b" name="ItemFish.xml" path="/components/" exported="true"/>
+    <image id="v78ac" name="TuCeng47.png" path="/image/" scale="9grid" scale9grid="14,24,28,48"/>
+    <component id="v78af" name="ButtonShow.xml" path="/components/" exported="true"/>
+    <image id="v78ag" name="LvSeXiaoAnNiu.png" path="/image/"/>
+    <image id="woq6h" name="JiHuoAnNiu.png" path="/image/"/>
+    <component id="woq6i" name="ButtonActive.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

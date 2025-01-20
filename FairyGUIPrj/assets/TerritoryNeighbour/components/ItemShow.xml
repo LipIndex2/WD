@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,158" designImage="ui://85d5czsejlw61" designImageOffsetX="-88" designImageOffsetY="-602">
+  <displayList>
+    <image id="n0_jlw6" name="bg" src="jlw66" fileName="image/LieBiaoDi.png" xy="3,8" size="625,150"/>
+    <text id="n3_jlw6" name="NameShow" xy="171,18" pivot="0,0.5" size="176,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffdc67" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="Pinko的农场"/>
+    <component id="n4_jlw6" name="BtnGo" src="jlw68" fileName="components/ButtonGo.xml" xy="526,44"/>
+    <component id="n1_jlw6" name="HeadShow" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="19,0" scale="0.76,0.76"/>
+    <list id="n5_jlw6" name="ShowList" xy="165,72" size="325,65" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://85d5czsejlw69" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

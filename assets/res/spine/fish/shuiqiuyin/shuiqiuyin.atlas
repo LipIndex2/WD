@@ -1,0 +1,20 @@
+
+shuiqiuyin.png
+size: 111,66
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 97, 52
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

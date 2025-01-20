@@ -1,0 +1,41 @@
+
+effect_jg.png
+size: 307,260
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+8_lizi_10
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 260, 78
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 260, 111
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: true
+  xy: 260, 159
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+tu5
+  rotate: false
+  xy: 260, 207
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://5mk2qj8mwpumm" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n2_wpum" name="Board" src="tpftb43" fileName="CommonBoard2.xml" pkg="r5d9xy63" xy="-5,-1"/>
+    <image id="n6_wpum" name="n6" src="wpum17" fileName="imange/ShuXingHengFu.png" xy="86,360" size="628,54"/>
+    <text id="n3_wpum" name="n3" xy="194,389" pivot="0.5,0.5" anchor="true" size="72,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#8e5043" strokeSize="3" text="排名"/>
+    <text id="n4_wpum" name="n4" xy="464,389" pivot="0.5,0.5" anchor="true" size="72,46" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#8e5043" strokeSize="3" text="奖励"/>
+    <list id="n5_wpum" name="List" xy="88,440" size="635,942" overflow="scroll" lineGap="13" defaultItem="ui://5mk2qj8mwpum1a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_iyea" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="100,306" size="267,50">
+      <Label title="重置时间：X天XX消失" titleFontSize="26"/>
+    </component>
+  </displayList>
+</component>

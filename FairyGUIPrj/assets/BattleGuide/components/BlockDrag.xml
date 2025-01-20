@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" mask="n3_cy08" reversedMask="true">
+  <controller name="show" pages="0,None,1,Swap,2,Discard,3,SelectSkill,4,ClickEmpty,5,ClickBtn" selected="0"/>
+  <displayList>
+    <loader id="n1_cy08" name="BG" xy="-600,-200" size="2000,2000" url="ui://rqg67c20z2of69" fill="scaleFree"/>
+    <image id="n3_cy08" name="Rect" src="z2of69" fileName="MaskBlock.png" pkg="rqg67c20" xy="332,750" size="0,0" visible="false">
+      <gearDisplay controller="show" pages="1,2"/>
+      <gearSize controller="show" pages="0,3,4,5" values="0,0,1,1|100,100,0,0|100,100,0,0|100,100,0,0" default="100,100,1,1"/>
+    </image>
+    <loader id="n4_cy08" name="Block" xy="-597,-34" size="1995,444">
+      <relation target="" sidePair="center-center,top-top"/>
+    </loader>
+  </displayList>
+</component>

@@ -1,0 +1,18 @@
+import { BaseCtrl, regMsg } from 'modules/common/BaseCtrl';
+
+export class <%Name%> extends BaseCtrl {
+
+    MsgCfg(): regMsg[] {
+        return [
+            //{ msgType: PB_SCLoginToAccount, func: this.recvLoginResult }
+        ]
+    }
+
+    /*
+    private recvLoginResult(data: PB_SCLoginToAccount) {
+        LoginData.Inst().resultData.result = data.result;
+    }
+    */
+
+}
+

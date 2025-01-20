@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0b60q2pq">
+  <resources>
+    <component id="xaqq0" name="GrowPassView.xml" path="/" exported="true"/>
+    <image id="xaqq2" name="DingTouChangJingYuanHuaChiCun.jpg" path="/image/" scale="9grid" scale9grid="400,250,140,14"/>
+    <image id="xaqq3" name="LvSeDengJiXian.png" path="/image/" scale="9grid" scale9grid="6,6,12,12"/>
+    <image id="xaqq4" name="LanSeFenGeXianXi.png" path="/image/" scale="9grid" scale9grid="2,6,4,12"/>
+    <image id="xaqq5" name="LanSeFenGeXianCu.png" path="/image/" scale="9grid" scale9grid="6,6,12,12"/>
+    <image id="xaqq6" name="LanSeBanKuai.png" path="/image/"/>
+    <image id="xaqq7" name="LanQiZhi.png" path="/image/"/>
+    <image id="xaqq8" name="KaFeiSeFenGeXian.png" path="/image/" scale="9grid" scale9grid="2,6,4,12"/>
+    <image id="xaqq9" name="JinBiKuangMengCeng.png" path="/image/"/>
+    <image id="xaqqc" name="JiJinAnNiu.png" path="/image/"/>
+    <image id="xaqqd" name="HuiLanBanKuai.png" path="/image/"/>
+    <image id="xaqqe" name="HuangSeBanKuai.png" path="/image/"/>
+    <image id="xaqqf" name="HuangQiZhi.png" path="/image/"/>
+    <image id="xaqqg" name="HongSeBanKuai.png" path="/image/"/>
+    <image id="xaqqh" name="HongQiZhi.png" path="/image/"/>
+    <image id="xaqqi" name="HongBiaoTi.png" path="/image/"/>
+    <image id="xaqqj" name="Gou.png" path="/image/"/>
+    <image id="xaqqk" name="ShuZiYuan.png" path="/image/"/>
+    <image id="xaqql" name="ZiSeTou.png" path="/image/"/>
+    <component id="sltbo" name="GrowPrizeCell.xml" path="/components/" exported="true"/>
+    <component id="sltbp" name="GrowItem.xml" path="/components/"/>
+    <image id="sltbq" name="Suo.png" path="/image/"/>
+    <component id="k9x2u" name="BtnBuy.xml" path="/components/"/>
+    <component id="lwohw" name="parent.xml" path="/components/"/>
+    <image id="lwohx" name="ItemCellBg0.png" path="/image/" exported="true"/>
+    <image id="lwohy" name="ItemCellBg1.png" path="/image/" exported="true"/>
+    <image id="lwohz" name="ItemCellBg2.png" path="/image/" exported="true"/>
+    <image id="fg9111" name="QieHuanYe1.png" path="/image/"/>
+    <image id="fg9112" name="QieHuanYe2.png" path="/image/"/>
+    <component id="fg9113" name="ButtonMod.xml" path="/components/"/>
+    <image id="fg9114" name="50HouAnNiu.png" path="/image/"/>
+    <image id="fg9115" name="50QianAnNiu.png" path="/image/"/>
+    <image id="cr2x16" name="成长基金全屏修改_spec.png" path="/"/>
+    <image id="cr2x18" name="ZiSeFenGeXian.png" path="/image/" scale="9grid" scale9grid="9,9,18,5"/>
+    <component id="n4r619" name="DevilWarorderView.xml" path="/" exported="true"/>
+    <image id="n4r62" name="ShiJianDi.png" path="/image/devil_warorder/" scale="9grid" scale9grid="25,7,6,14"/>
+    <image id="n4r63" name="YuanJiaoJuXing.png" path="/image/devil_warorder/"/>
+    <image id="n4r64" name="Zu49.png" path="/image/devil_warorder/"/>
+    <component id="g2so1b" name="DevilWarorderCell.xml" path="/components/" exported="true"/>
+    <image id="pxxr1e" name="Bg.png" path="/image/devil_warorder/"/>
+    <component id="v1z61f" name="DevilWarorderItem.xml" path="/components/" exported="true"/>
+    <component id="x8we1g" name="BtnBuyLevel.xml" path="/components/"/>
+    <image id="x8we1h" name="ZuanShiAnNiu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

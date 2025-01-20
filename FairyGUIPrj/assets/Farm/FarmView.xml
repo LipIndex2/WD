@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://dryw07k7uzf21" designImageLayer="1">
+  <controller name="StateShow" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n3_uzf2" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <loader id="n2_uzf2" name="bg" xy="0,-66" pivot="0.5,0.5" size="800,1600" url="ui://dryw07k79quy10" align="center" fill="scaleFree">
+      <relation target="n3_uzf2" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n0_uzf2" name="n0" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" pivot="0.5,0.5" size="800,130">
+      <relation target="n3_uzf2" sidePair="bottom-bottom"/>
+    </image>
+    <image id="n12_uzf2" name="bg2" src="uzf2d" fileName="image/YuanJiaoJuXing2.png" xy="103,13" size="352,64" group="n16_uzf2"/>
+    <component id="n14_uzf2" name="Currency1" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="169,86" size="147,54" group="n16_uzf2" scale="0.8,0.8">
+      <Label icon="ui://5qhcb5rwtiuj66"/>
+    </component>
+    <component id="n15_uzf2" name="Currency2" src="k23u6h" fileName="CurrencyShow.xml" pkg="5qhcb5rw" xy="315,86" size="157,54" group="n16_uzf2" scale="0.8,0.8">
+      <Label icon="ui://5qhcb5rwtiuj64"/>
+    </component>
+    <text id="n13_uzf2" name="Name" xy="177,20" pivot="0,0.5" size="176,42" group="n16_uzf2" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#491916" align="center" vAlign="middle" autoClearText="true" text="Pinko的农场"/>
+    <component id="n11_uzf2" name="HeadItem" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="6,13" group="n16_uzf2" scale="0.76,0.76"/>
+    <group id="n16_uzf2" name="top" xy="6,13" size="467,180" advanced="true"/>
+    <list id="n20_9quy" name="ShowList" xy="0,292" size="800,700" overflow="scroll" scrollBarFlags="2720" lineGap="38" defaultItem="ui://dryw07k79quyp" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n23_9quy" name="BtnManure" src="uzf28" fileName="components/BtnPlantItem.xml" xy="87,1280" group="n28_9quy">
+      <Button title="肥料" icon="ui://dryw07k7uzf23"/>
+    </component>
+    <component id="n24_9quy" name="BtnHerbicide" src="uzf28" fileName="components/BtnPlantItem.xml" xy="207,1280" group="n28_9quy">
+      <Button title="除草剂" icon="ui://dryw07k7uzf26"/>
+    </component>
+    <component id="n25_9quy" name="BtnKettle" src="uzf28" fileName="components/BtnPlantItem.xml" xy="327,1280" group="n28_9quy">
+      <Button title="水壶" icon="ui://dryw07k7uzf25"/>
+    </component>
+    <component id="n26_9quy" name="BtnSickle" src="uzf28" fileName="components/BtnPlantItem.xml" xy="447,1280" group="n28_9quy">
+      <Button title="镰刀" icon="ui://dryw07k7uzf24"/>
+    </component>
+    <component id="n27_9quy" name="BtnHoe" src="uzf28" fileName="components/BtnPlantItem.xml" xy="568,1280" group="n28_9quy">
+      <Button title="锄头" icon="ui://dryw07k7uzf27"/>
+    </component>
+    <group id="n28_9quy" name="n28" xy="87,1280" size="595,115" advanced="true"/>
+    <component id="n10_uzf2" name="BtnShop" src="uzf2c" fileName="components/ButtonMod.xml" xy="654,18">
+      <Button title="商店" icon="ui://dryw07k7uzf2b"/>
+    </component>
+    <component id="n9_uzf2" name="BtnCallOn" src="uzf2c" fileName="components/ButtonMod.xml" xy="521,18">
+      <Button title="拜访" icon="ui://dryw07k7uzf2a"/>
+    </component>
+    <component id="n30_f3m0" name="BtnFriend" src="f3m012" fileName="components/BtnFriend.xml" xy="199,1075"/>
+    <component id="n21_9quy" name="BtnArrows1" src="9quyz" fileName="components/ButtonArrows.xml" xy="78,1107" visible="false"/>
+    <component id="n22_9quy" name="BtnArrows2" src="9quyz" fileName="components/ButtonArrows.xml" xy="662,1107" scale="-1,1" visible="false"/>
+    <component id="n1_uzf2" name="BtnClose" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="16,1488">
+      <relation target="n3_uzf2" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n31_f3m0" name="parent" src="f3m013" fileName="components/parent.xml" xy="-149,1100" visible="false" touchable="false"/>
+  </displayList>
+</component>

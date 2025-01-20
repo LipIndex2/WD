@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lkjqth93">
+  <resources>
+    <component id="yjaq0" name="TaskView.xml" path="/" exported="true"/>
+    <image id="yjaq1" name="任务界面参数.png" path="/"/>
+    <component id="yjaq2" name="TaskViewDailyPanel.xml" path="/" exported="true"/>
+    <image id="rqb95" name="SpecialBg0.png" path="/image/" exported="true"/>
+    <image id="rqb96" name="SpecialBg1.png" path="/image/" exported="true"/>
+    <component id="rqb97" name="ItemTaskSpecial.xml" path="/components/" exported="true"/>
+    <component id="rqb98" name="ProgressSpecial.xml" path="/components/" exported="true"/>
+    <image id="rqb99" name="HuangJinDu.png" path="/image/" scale="9grid" scale9grid="109,9,218,18"/>
+    <image id="rqb9a" name="HuangJinDuDi.png" path="/image/"/>
+    <component id="rqb9b" name="ButtonGetS.xml" path="/components/"/>
+    <image id="rqb9c" name="LiBao1.png" path="/image/" exported="true"/>
+    <image id="rqb9d" name="LiBao0.png" path="/image/" exported="true"/>
+    <image id="rqb9f" name="TongYongRenWuDi.png" path="/image/" exported="true"/>
+    <image id="rqb9g" name="ZhuanShuRenWuDi.png" path="/image/" exported="true"/>
+    <image id="rqb9h" name="TuBiaoKuang.png" path="/image/" exported="true"/>
+    <image id="rqb9i" name="TuBiaoKuangBai.png" path="/image/" exported="true"/>
+    <image id="rqb9x" name="LvJinDuQuan.png" path="/image/"/>
+    <image id="rqb9y" name="LvJinDuBan.png" path="/image/" scale="9grid" scale9grid="104,11,208,22"/>
+    <image id="rqb9z" name="LvJinDuDiBan.png" path="/image/"/>
+    <image id="rqb910" name="LvJinDuDiQuan.png" path="/image/"/>
+    <component id="rqb911" name="ButtonFlush.xml" path="/components/"/>
+    <image id="rqb912" name="RenWuLanAnNiu.png" path="/image/" scale9grid="74,28,148,56"/>
+    <image id="rqb913" name="RenWuShuaXin.png" path="/image/"/>
+    <component id="rqb914" name="TaskViewChallengePanel.xml" path="/" exported="true"/>
+    <component id="h5f615" name="ProgressNormal.xml" path="/components/" exported="true"/>
+    <component id="h5f616" name="ItemTaskNormal.xml" path="/components/" exported="true"/>
+    <component id="6y7617" name="ButtonAd.xml" path="/components/"/>
+    <image id="x1z419" name="LingQuChengAnNiu.png" path="/image/" scale9grid="74,28,148,56"/>
+    <component id="x1z41a" name="ButtonGet.xml" path="/components/" exported="true"/>
+    <image id="x1z41b" name="任务界面.png" path="/"/>
+    <image id="x1z41c" name="YiLingQuMengCeng2.png" path="/image/"/>
+    <image id="x1z41d" name="YiLingQuMengCeng.png" path="/image/"/>
+    <image id="x1z41e" name="DuiGouicon.png" path="/image/"/>
+    <image id="qohw1f" name="任务界面示意1_spec.png" path="/"/>
+    <component id="qohw1g" name="ProgressNormalH.xml" path="/components/" exported="true"/>
+    <image id="qohw1h" name="TongXingZhengZhuanShuDi.png" path="/image/"/>
+    <image id="qohw1i" name="HuangJinTongXingZhengTuBiaoXiao.png" path="/image/"/>
+    <image id="qohw1j" name="Suo.png" path="/image/"/>
+    <image id="qohw1k" name="任务界面示意2_spec.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

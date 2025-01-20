@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,40" extention="ProgressBar" designImage="ui://dvcfzaq1dapl5a" designImageOffsetX="-33" designImageOffsetY="-60">
+  <displayList>
+    <image id="n6_no3y" name="n6" src="no3yv" fileName="image/JinDuTiao2.png" xy="-1,0" size="129,40">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n7_no3y" name="bar" src="no3yu" fileName="image/JinDuTiao1.png" xy="2,4" size="115,32"/>
+  </displayList>
+  <ProgressBar/>
+</component>

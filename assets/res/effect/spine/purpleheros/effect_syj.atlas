@@ -1,0 +1,41 @@
+
+effect_syj.png
+size: 377,199
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+qx1
+  rotate: false
+  xy: 225, 103
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+qx2
+  rotate: false
+  xy: 225, 7
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+qx3
+  rotate: false
+  xy: 301, 103
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+qx4
+  rotate: false
+  xy: 301, 7
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: true
+  xy: 2, 2
+  size: 195, 221
+  orig: 195, 221
+  offset: 0, 0
+  index: -1

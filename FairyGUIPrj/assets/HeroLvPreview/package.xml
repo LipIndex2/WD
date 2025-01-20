@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="axp4vkex">
+  <resources>
+    <component id="frme0" name="HeroLvPreviewView.xml" path="/" exported="true"/>
+    <image id="frme1" name="属性01_.jpg" path="/"/>
+    <image id="frme2" name="JuXing1.png" path="/image/" scale="9grid" scale9grid="13,13,26,26"/>
+    <image id="frme3" name="JuXing2.png" path="/image/" scale="9grid" scale9grid="24,60,48,20"/>
+    <component id="frme4" name="AttShowItem.xml" path="/components/" exported="true"/>
+    <image id="frme5" name="GongJiLi.png" path="/image/" exported="true"/>
+    <image id="m4fi6" name="integral.png" path="/image/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

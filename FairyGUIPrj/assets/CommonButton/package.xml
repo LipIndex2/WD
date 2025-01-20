@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zokic7y2">
+  <resources>
+    <image id="c0jbb41" name="RenMinBiXiaoHuang.png" path="/image/rmb/" exported="true"/>
+    <image id="rcrjb42" name="RenMinBiZhongLv.png" path="/image/rmb/" exported="true"/>
+    <image id="io8tb49" name="RenMinBiDaHuang.png" path="/image/rmb/" exported="true"/>
+    <image id="io8tb4a" name="RenMinBiDaLv.png" path="/image/rmb/" exported="true"/>
+    <image id="io8tb4b" name="RenMinBiXiaoLv.png" path="/image/rmb/" exported="true"/>
+    <image id="io8tb4c" name="RenMinBiZhongHuang.png" path="/image/rmb/" exported="true"/>
+    <image id="k23ub4s" name="JiaHao.png" path="/image/"/>
+    <component id="k23ub4t" name="ButtonAdd.xml" path="/" exported="true"/>
+    <image id="que1b4u" name="GuanBi.png" path="/image/"/>
+    <component id="que1b4v" name="ButtonClose.xml" path="/" exported="true"/>
+    <image id="okyub4w" name="ChengAnNiu.png" path="/image/" exported="true" scale="9grid" scale9grid="74,37,148,42"/>
+    <component id="okyub4x" name="ButtonOrange.xml" path="/" exported="true"/>
+    <image id="okyub4z" name="LanAnNiu.png" path="/image/" exported="true" scale="9grid" scale9grid="74,28,148,56"/>
+    <component id="okyub50" name="ButtonBlue.xml" path="/" exported="true"/>
+    <image id="iw5ub53" name="LvAnNiuXiao.png" path="/image/" exported="true" scale="9grid" scale9grid="48,21,96,42"/>
+    <image id="qf1rb55" name="FanHuiAnNiu.png" path="/image/"/>
+    <component id="qf1rb56" name="ButtonClose2.xml" path="/" exported="true"/>
+    <component id="hlneb57" name="BtnBuy.xml" path="/" exported="true"/>
+    <image id="hlneb58" name="ZuanShiAnNiu.png" path="/image/"/>
+    <component id="rjrob54" name="ButtonGreen.xml" path="/" exported="true"/>
+    <image id="rqb95s" name="GanTanHao.png" path="/image/" exported="true"/>
+    <component id="rqb9b59" name="ButtonTips.xml" path="/" exported="true"/>
+    <component id="ao36s" name="BtnOnGo.xml" path="/" exported="true"/>
+    <image id="u5osr" name="DianJiJiXuHengXian.png" path="/image/"/>
+    <image id="vczw7" name="Guan.png" path="/image/" scale="9grid" scale9grid="66,0,27,61"/>
+    <image id="vczw2" name="HuaKuaiAnNiu.png" path="/image/"/>
+    <image id="vczw3" name="Kai.png" path="/image/" scale="9grid" scale9grid="64,0,42,61"/>
+    <component id="vczwb5b" name="Toggle1.xml" path="/" exported="true"/>
+    <image id="sfj3b5c" name="HuangSeXiaoAnNiu.png" path="/image/" exported="true" scale9grid="27,0,269,33"/>
+    <image id="vb35b5d" name="ChengAnNiuXiao.png" path="/image/" exported="true" scale="9grid" scale9grid="37,0,74,57"/>
+    <image id="vb35b5e" name="LanAnNiuXiao.png" path="/image/" exported="true" scale="9grid" scale9grid="37,0,74,57"/>
+    <component id="vb35b5f" name="ButtonOrangeSmall.xml" path="/" exported="true"/>
+    <component id="vb35b5g" name="ButtonBlueSmall.xml" path="/" exported="true"/>
+    <component id="c6fnb5h" name="ButtonAddCurrency.xml" path="/" exported="true"/>
+    <image id="htrtb5j" name="JuXing.png" path="/image/"/>
+    <component id="htrtb5l" name="Toggle2.xml" path="/" exported="true"/>
+    <image id="htrtb5m" name="DuiGouicon.png" path="/image/"/>
+    <image id="kj0yb5n" name="AnNiuLv.png" path="/image/"/>
+    <component id="kj0yb5o" name="ButtonGreenBig.xml" path="/" exported="true"/>
+    <image id="e4lob5p" name="ChenAnNiuZhong.png" path="/image/"/>
+    <component id="e4lob5q" name="ButtonOrangeZhong.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

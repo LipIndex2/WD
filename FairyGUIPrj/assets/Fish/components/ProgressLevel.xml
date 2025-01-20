@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="490,37" extention="ProgressBar">
+  <displayList>
+    <image id="n3_iw5u" name="bg" src="fe0vb" fileName="image/JinDuDi.png" xy="0,0" size="490,37">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_iw5u" name="bar" src="fe0vc" fileName="image/JinDu.png" xy="0,0" size="490,37">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n4_iw5u" name="ProgressShow" xy="190,4" pivot="0.5,0.5" size="103,29" font="ui://wqx8l8xqut2h1b" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="330/1268">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <ProgressBar/>
+</component>

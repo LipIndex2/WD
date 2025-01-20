@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="nvuxny3i">
+  <resources>
+    <component id="pnix0" name="ListAaward.xml" path="/components/" exported="true"/>
+    <image id="pnix1" name="HuangSeMeiCeng.png" path="/image/" scale9grid="94,52,188,104"/>
+    <image id="pnix2" name="LanSeMeiCeng.png" path="/image/" scale9grid="94,52,188,104"/>
+    <image id="pnix3" name="JinDuShuTiao.png" path="/image/" scale="9grid" scale9grid="11,24,22,48"/>
+    <image id="pnix4" name="JinDuShuTiao2.png" path="/image/" scale="9grid" scale9grid="9,25,18,50"/>
+    <image id="pnix5" name="MeiCengShuZiCaiSe.png" path="/image/"/>
+    <component id="pnix6" name="PrizeItem.xml" path="/components/"/>
+    <image id="pnix7" name="LanSeMeiCengMengCeng.png" path="/image/"/>
+    <component id="pnix8" name="BtnSkin.xml" path="/components/"/>
+    <image id="pnix9" name="ZiSeXiaTiao.png" path="/image/"/>
+    <component id="pnixa" name="BtnAwardBox.xml" path="/components/" exported="true"/>
+    <image id="pnixb" name="TongXingZhengQuanPing2ChangJing2.png" path="/image/"/>
+    <image id="pnixc" name="BaoXiang.png" path="/image/"/>
+    <image id="pnixd" name="BaoXiangShuLiangDi.png" path="/image/"/>
+    <image id="pnixe" name="HuangJinTongXingZhengQiZhi.png" path="/image/"/>
+    <image id="pnixf" name="HuangJinTongXingZhengTuBiao.png" path="/image/"/>
+    <image id="pnixg" name="MianFeiTongXingZhengQiZhi.png" path="/image/"/>
+    <image id="pnixh" name="MianFeiTongXingZhengTuBiao.png" path="/image/"/>
+    <image id="pnixi" name="ShiZhongShiJianTiao.png" path="/image/"/>
+    <image id="pnixj" name="ShiZhongTuBiao.png" path="/image/"/>
+    <image id="pnixk" name="ZiSeShangTiao.png" path="/image/"/>
+    <image id="pnixl" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <image id="pnixm" name="TieGao.png" path="/image/"/>
+    <component id="pnixn" name="FishPassView.xml" path="/" exported="true"/>
+    <image id="pnixo" name="通行证全屏SPE.jpg" path="/"/>
+    <component id="x8wep" name="BtnBuy.xml" path="/components/"/>
+    <image id="x8weq" name="ZuanShiAnNiu.png" path="/image/"/>
+    <image id="x8wer" name="通行证全屏2参数.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

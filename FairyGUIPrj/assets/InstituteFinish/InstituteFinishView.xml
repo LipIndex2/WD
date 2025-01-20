@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://03yex71vi5lo1">
+  <displayList>
+    <component id="n4_i5lo" name="Effect1" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,613"/>
+    <image id="n0_i5lo" name="n0" src="i5lo2" fileName="image/BiaoTiXiaoHengFu.png" xy="190,290"/>
+    <text id="n1_i5lo" name="n1" xy="318,293" size="164,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" strokeColor="#b07924" strokeSize="3" text="研究完成"/>
+    <richtext id="n3_i5lo" name="Desc" xy="220,699" pivot="0.5,0" size="360,162" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="攻击力增加160%"/>
+    <loader id="n6_i5lo" name="CellQua" xy="345,547" size="110,110" fill="scaleFree"/>
+    <loader id="n7_i5lo" name="CellIcon" xy="345,547" size="110,110" fill="scaleFree"/>
+    <component id="n2_i5lo" name="OkBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,933">
+      <Button title="确 定"/>
+    </component>
+    <component id="n5_i5lo" name="Effect2" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="400,613"/>
+  </displayList>
+</component>

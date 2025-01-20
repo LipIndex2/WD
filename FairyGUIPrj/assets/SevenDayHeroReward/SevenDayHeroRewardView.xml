@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://r9j1fcy3721h1">
+  <displayList>
+    <component id="n0_721h" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,445" size="730,651">
+      <Label title="7日英雄补给卡"/>
+    </component>
+    <image id="n1_721h" name="bg" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="80,637" size="640,288"/>
+    <component id="n2_721h" name="BtnConfirm" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="252,949">
+      <Button title="确 认"/>
+    </component>
+    <list id="n3_721h" name="ShowList" xy="96,653" size="608,242" layout="flow_hz" overflow="scroll" lineGap="2" colGap="2" defaultItem="ui://r9j1fcy3ggdq2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="iyuzwqcy">
+  <resources>
+    <component id="e0izc" name="FishBoxInfoView.xml" path="/" exported="true"/>
+    <image id="e0iz0" name="鱼缸详情2SPE.jpg" path="/"/>
+    <component id="e0iz1" name="ButtonType.xml" path="/components/"/>
+    <image id="e0iz2" name="Zu65.png" path="/image/"/>
+    <image id="e0iz4" name="鱼缸详情SPE.jpg" path="/"/>
+    <component id="e0iz5" name="ShowItem.xml" path="/components/" exported="true"/>
+    <image id="e0iz6" name="BaiSeHeiBianDi.png" path="/image/" scale="9grid" scale9grid="46,26,92,52"/>
+    <image id="e0iz7" name="PinZhi5.png" path="/image/" exported="true"/>
+    <image id="e0iz8" name="PinZhi4.png" path="/image/" exported="true"/>
+    <image id="e0iz9" name="PinZhi3.png" path="/image/" exported="true"/>
+    <image id="e0iza" name="PinZhi2.png" path="/image/" exported="true"/>
+    <image id="e0izb" name="PinZhi1.png" path="/image/" exported="true"/>
+    <image id="v78ad" name="TuCeng47.png" path="/image/" scale="9grid" scale9grid="14,24,28,48"/>
+    <image id="v78ae" name="LvSeXiaoAnNiu.png" path="/image/"/>
+    <component id="v78af" name="ButtonShow.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

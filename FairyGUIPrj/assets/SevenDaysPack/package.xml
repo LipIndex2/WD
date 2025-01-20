@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pjrxftt9">
+  <resources>
+    <component id="7hb20" name="SevenDaysPackView.xml" path="/" exported="true"/>
+    <image id="7hb22" name="BaoXiangBeiJing1.png" path="/image/" exported="true"/>
+    <image id="7hb23" name="BaoXiangBeiJing2.png" path="/image/" exported="true"/>
+    <image id="7hb24" name="HengFu.png" path="/image/"/>
+    <image id="7hb26" name="BaoXiang.png" path="/image/" exported="true"/>
+    <image id="7hb27" name="BaoXiangKai.png" path="/image/" exported="true"/>
+    <image id="7hb28" name="TuCeng.png" path="/image/" scale="9grid" scale9grid="9,15,18,11"/>
+    <image id="7hb29" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <component id="7hb2a" name="GiftItem.xml" path="/components/" exported="true"/>
+    <image id="7hb2c" name="七日获史诗整卡01_.jpg" path="/"/>
+    <image id="7hb2d" name="6Yuan.png" path="/image/"/>
+    <image id="7hb2e" name="DuoBianXing.png" path="/image/"/>
+    <image id="7hb2f" name="DuiGou.png" path="/image/"/>
+    <component id="7hb2g" name="GiftItem2.xml" path="/components/" exported="true"/>
+    <image id="7hb2h" name="BiaoTiXian.png" path="/image/" scale="9grid" scale9grid="52,6,70,12"/>
+    <image id="7hb2i" name="DianJiJiXuHengXian.png" path="/image/" scale="9grid" scale9grid="43,3,86,1"/>
+    <image id="7hb2k" name="MengCeng.png" path="/image/" scale="9grid" scale9grid="74,92,95,186"/>
+    <component id="ce3gl" name="BtnBoxGift.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

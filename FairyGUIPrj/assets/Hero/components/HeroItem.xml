@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="194,260" pivot="0.5,0.5" extention="Button" designImageOffsetX="-26" designImageOffsetY="-926">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="HeroState" pages="0,,1,,5,,6,,7,,8," selected="0"/>
+  <displayList>
+    <loader id="n5_tiuj" name="bg" xy="10,-1" size="174,263" touchable="false" grayed="true" url="ui://rqg67c20xaqq5w" fill="scaleFree" clearOnPublish="true">
+      <gearSize controller="HeroState" pages="0,1,5,7" values="174,263,1,1|174,248,1,1|174,274,1,1|174,335,1,1" default="174,246,1,1"/>
+      <gearLook controller="HeroState" pages="0,1,5" values="1,0,1,0|1,0,1,0|1,0,1,0" default="1,0,0,0"/>
+    </loader>
+    <loader id="n26_hodu" name="HeroIcon" xy="57,46" pivot="0.5,0.5" size="78,96" touchable="false" grayed="true" fill="scale" autoSize="true" clearOnPublish="true">
+      <gearLook controller="HeroState" pages="6,7,8" values="1,0,0,0|1,0,0,0|1,0,0,0" default="1,0,1,0"/>
+    </loader>
+    <component id="n44_m4fi" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="160,24"/>
+    <loader id="n16_que1" name="RaceIcon" xy="141,2" pivot="0.5,0.5" size="40,40" scale="0.9,0.9" touchable="false" grayed="true" url="ui://rqg67c20ln425o" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <gearLook controller="HeroState" pages="6,7,8" values="1,0,0,0|1,0,0,0|1,0,0,0" default="1,0,1,0"/>
+    </loader>
+    <component id="n36_r9w5" name="ProgressBar" src="tm533g" fileName="HeroProgress.xml" pkg="gn62pyk3" xy="23,205" pivot="0.5,0.5" size="153,46" touchable="false">
+      <gearDisplay controller="HeroState" pages="1,6"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n40_xd57" name="Lock" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="5,-9">
+      <gearDisplay controller="HeroState" pages="0"/>
+    </image>
+    <image id="n39_xyvk" name="Max" src="xyvk3q" fileName="image/MAX.png" pkg="gn62pyk3" xy="45,212">
+      <gearDisplay controller="HeroState" pages="8"/>
+    </image>
+    <text id="n8_tiuj" name="LevelShow" xy="53,168" pivot="0.5,0.5" size="88,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级 2">
+      <gearDisplay controller="HeroState" pages="1,5,6,7,8"/>
+    </text>
+    <text id="n17_thit" name="Desk" xy="22,159" pivot="0.5,0.5" size="149,78" grayed="true" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" leading="10" autoSize="none" strokeColor="#491914" strokeSize="3" text="通过章节6解锁">
+      <gearDisplay controller="HeroState" pages="0"/>
+    </text>
+    <component id="n41_ox88" name="BtnUpgrade" src="vb35b5f" fileName="ButtonOrangeSmall.xml" pkg="zokic7y2" xy="23,210">
+      <gearDisplay controller="HeroState" pages="7"/>
+    </component>
+    <component id="n42_ox88" name="BtnSummon" src="vb35b5f" fileName="ButtonOrangeSmall.xml" pkg="zokic7y2" xy="23,210">
+      <gearDisplay controller="HeroState" pages="5"/>
+      <Button title="召 唤"/>
+    </component>
+    <component id="n43_ox88" name="BtnBattle" src="vb35b5g" fileName="ButtonBlueSmall.xml" pkg="zokic7y2" xy="23,271">
+      <gearDisplay controller="HeroState" pages="7"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

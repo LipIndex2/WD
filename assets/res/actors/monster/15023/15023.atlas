@@ -1,0 +1,62 @@
+
+15023.png
+size: 898,746
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng
+  rotate: false
+  xy: 2, 14
+  size: 462, 331
+  orig: 462, 331
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 495, 280
+  size: 401, 464
+  orig: 401, 464
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 466, 2
+  size: 107, 276
+  orig: 107, 276
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: false
+  xy: 575, 4
+  size: 99, 274
+  orig: 99, 274
+  offset: 0, 0
+  index: -1
+touding
+  rotate: false
+  xy: 676, 25
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 347
+  size: 491, 397
+  orig: 491, 397
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 783, 118
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 676, 117
+  size: 105, 161
+  orig: 105, 161
+  offset: 0, 0
+  index: -1

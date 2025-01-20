@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6zwtlu8y">
+  <resources>
+    <sound id="whcr10" name="zhujiemian.mp3" path="/" exported="true"/>
+    <image id="drtv11" name="2级弹窗属性界面.png" path="/"/>
+    <image id="mwzy12" name="基本框体.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,59" pivot="0.5,0.5" extention="Button" designImage="ui://ehn3wwnkmbrsk" designImageOffsetX="-85" designImageOffsetY="-1071">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_vczw" name="bg" src="vczw8" fileName="image/ZiTiao.png" xy="0,0" size="630,59"/>
+    <image id="n6_vczw" name="icon" src="vczwa" fileName="image/idTuBiao.png" xy="572,0"/>
+    <text id="n4_vczw" name="title" xy="18,7" pivot="0,0.5" size="190,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" autoClearText="true" text="ID:edsadjska"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

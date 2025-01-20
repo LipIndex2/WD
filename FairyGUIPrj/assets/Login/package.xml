@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zuqsa9o4">
+  <resources>
+    <component id="wm0t0" name="LoginView.xml" path="/" exported="true"/>
+    <component id="leyh7" name="ButtonChange.xml" path="/components/"/>
+    <image id="gpos2z" name="_LocPlayGame.png" path="/image/"/>
+    <component id="x4zb33" name="ButtonPlay.xml" path="/components/"/>
+    <image id="bgav36" name="ShuRuKuangChang.png" path="/image/"/>
+    <image id="bgav37" name="ShuRuKuangDuan.png" path="/image/"/>
+    <image id="f3103c" name="GongNenTuBiaoMingChenDi.png" path="/image/"/>
+    <component id="m2lm3f" name="ButtonAge.xml" path="/components/"/>
+    <image id="m2lm3n" name="_LocShiLingTiShi.png" path="/image/" exported="true"/>
+    <image id="g5lw3o" name="示意图2_spec.png" path="/"/>
+    <image id="g5lw3p" name="KaiShiAnNiu.png" path="/image/"/>
+    <image id="g5lw3q" name="logo.png" path="/image/"/>
+    <image id="g5lw3r" name="Shang1.png" path="/image/" exported="true"/>
+    <image id="g5lw3s" name="Shang3.png" path="/image/" exported="true"/>
+    <image id="g5lw3t" name="Shang2.png" path="/image/" exported="true"/>
+    <image id="c6oi3u" name="loding图标参数.png" path="/"/>
+    <component id="c6oi3v" name="ButtonMod.xml" path="/components/"/>
+    <image id="c6oi3w" name="XieYiTuBiao.png" path="/image/"/>
+    <image id="c6oi3x" name="YuanXingTuBiaoDi.png" path="/image/"/>
+    <image id="c6oi3y" name="GongGaoTuBiao.png" path="/image/"/>
+    <component id="ivdm3z" name="LoginView-2.xml" path="/"/>
+    <component id="11exs40" name="GametipsView.xml" path="/" exported="true"/>
+    <component id="rmdbs41" name="MangaView.xml" path="/" exported="true"/>
+    <component id="rmdbs43" name="btnGo.xml" path="/components/"/>
+    <image id="rmdbs44" name="DianJiJiXuHengXian.png" path="/image/"/>
+    <image id="c49js45" name="sige1.png" path="/image/" exported="true"/>
+    <image id="c49js46" name="sige2.png" path="/image/" exported="true"/>
+    <image id="c49js47" name="sige3.png" path="/image/" exported="true"/>
+    <image id="c49js48" name="sige4.png" path="/image/" exported="true"/>
+    <component id="bjxds49" name="ProgressBar1.xml" path="/components/"/>
+    <image id="bjxds4a" name="ZhongJianJinDuTiao2.png" path="/image/" scale="9grid" scale9grid="98,0,196,40"/>
+    <image id="bjxds4b" name="ZhongJianJinDuTiao1.png" path="/image/" scale="9grid" scale9grid="15,0,356,32"/>
+    <image id="e29zs4c" name="logo2.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

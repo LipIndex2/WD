@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="900,130" designImage="ui://e818d6byr1b92" designImageOffsetX="50" designImageOffsetY="-862" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <loader id="n1_r1b9" name="Qua" xy="0,0" size="900,130" url="ui://e818d6byr1b9h" fill="scaleFree"/>
+    <richtext id="n2_r1b9" name="Desc" xy="285,65" pivot="0,0.5" anchor="true" size="503,147" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#491916" strokeSize="3" autoClearText="true" text="技能描述文"/>
+    <loader id="n3_r1b9" name="Icon" xy="110,0" size="130,130" fill="scaleFree"/>
+    <text id="n4_r1b9" name="IconValue" xy="173,101" pivot="0.5,0.5" anchor="true" size="92,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="+20%"/>
+  </displayList>
+</component>

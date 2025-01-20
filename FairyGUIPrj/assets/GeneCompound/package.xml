@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="f6ru8aqe">
+  <resources>
+    <component id="hprm0" name="GeneCompoundView.xml" path="/" exported="true"/>
+    <image id="hprm1" name="基因2标注.png" path="/"/>
+    <component id="hprm2" name="ButtonBlue.xml" path="/components/" exported="true"/>
+    <image id="hprm3" name="WanNenJiYinTuBiao.png" path="/image/"/>
+    <image id="hprm4" name="WanNenJiYinTuBiaoZiSe.png" path="/image/"/>
+    <component id="hprm5" name="ButtonOrange.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

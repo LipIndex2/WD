@@ -1,0 +1,48 @@
+
+effect_jiaobiao.png
+size: 175,72
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+icon1
+  rotate: true
+  xy: 2, 3
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: true
+  xy: 67, 35
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 67, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: false
+  xy: 141, 40
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tu6
+  rotate: true
+  xy: 141, 6
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tu8
+  rotate: true
+  xy: 99, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

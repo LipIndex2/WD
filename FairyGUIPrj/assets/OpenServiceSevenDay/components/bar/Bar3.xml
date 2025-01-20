@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,97" extention="ProgressBar">
+  <displayList>
+    <image id="n1_lorv" name="bar" src="lorv1k" fileName="image/bar/bar4.png" xy="0,0" size="50,97" fillMethod="radial180" fillOrigin="2"/>
+  </displayList>
+  <ProgressBar/>
+</component>

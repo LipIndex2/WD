@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://nfkn4z53k2qf1" designImageLayer="1">
+  <displayList>
+    <image id="n0_k2qf" name="n0" src="k2qf2" fileName="image/GongNenJieSuoHengFu.png" xy="190,282" pivot="0.5,0.5"/>
+    <loader id="n2_k2qf" name="Icon" xy="192,606" pivot="0.5,0.5" size="416,218" url="ui://nfkn4z53k2qfe" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n1_k2qf" name="n1" xy="308,289" pivot="0.5,0.5" size="184,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="功能已解锁"/>
+    <text id="n3_k2qf" name="Name" xy="288,882" pivot="0.5,0.5" size="224,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="章节礼包 已解锁"/>
+    <component id="n4_k2qf" name="BtnClose" src="ao36s" fileName="BtnOnGo.xml" pkg="zokic7y2" xy="315,1337" pivot="0.5,0.5"/>
+  </displayList>
+</component>

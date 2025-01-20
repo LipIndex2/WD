@@ -1,0 +1,67 @@
+
+message PB_BattleHeroInfo{
+	optional int32 hero_id = 1;
+	optional int64 hero_damage = 2;
+	optional int32 hero_level = 3;
+}
+
+message PB_CSBattleRet{										//!<  2010 战斗结果
+	optional int32 battle_result = 1;						//战斗结果
+	optional int32 battle_mode = 2;							//战斗类型
+	optional int32 battle_round = 3;						//结算时的回合
+	repeated int32 battle_param = 4;						//参数
+	repeated PB_SCBattleRoundInfo round_list = 5;			//回合信息
+	optional int32 kill_elite = 6;							//击杀精英怪数量
+	optional int32 combo_num = 7;							//连击数
+	optional int32 box_num = 8;								//合成宝箱数量
+	optional int32 comp_num = 9;							//合成了几次
+	repeated PB_BattleHeroInfo hero_list = 10;				//英雄列表
+	optional int32 kill_boss = 11;							//击杀boss怪数量
+	optional int32 kill_monster = 12;						//击杀小怪数量
+}
+
+message PB_SCBattleReward{
+	optional int32 item_id = 1;
+	optional int64 item_num = 2;
+}
+
+message PB_SCBattleReport {            						//!<  2011 战斗奖励
+	optional int32 battle_result = 1;						//战斗结果
+	optional int32 battle_mode = 2;							//战斗类型
+	optional int32 battle_round = 3;						//结算时的回合
+	repeated PB_SCBattleReward reward_list = 4;
+	repeated int32 battle_param = 5;						//参数
+	optional int32 arena_score_change = 6;					//竞技场积分变化
+}
+
+message PB_SCBattleAttackInfo{
+	optional int32 hero_index = 1;						//攻击方位置(hero_list的下标)
+	optional double attacker_time = 2;					//攻击的时间
+	optional int32 damage = 3;
+}
+
+message PB_SCBattleMonsterInfo{
+	optional int32 id = 1;
+	optional int32 hp = 2;								//剩余血量 
+	repeated PB_SCBattleAttackInfo attack_list = 3;		//受到的攻击
+}
+
+message PB_SCBattleMoveNode{
+	optional int32 hero_index = 1;
+	optional int32 move_dir = 2;			//方向
+}
+
+message PB_SCBattleHero{
+	optional int32 hero_id = 1;
+	optional int32 hero_level = 2;
+	optional int32 hero_stage = 3;
+}
+
+message PB_SCBattleRoundInfo{
+	optional double total_time = 1;							//战斗总时间 秒
+	repeated PB_SCBattleHero hero_list = 2;					//英雄列表
+	repeated PB_SCBattleMonsterInfo monster_list = 3;		//怪物列表
+	repeated int32 buff_id = 4;								//每回合选了的词条
+	repeated PB_SCBattleMoveNode move_list = 5;				//消消乐移动操作
+	optional int32 combo_add_step = 6;						//连击增加的步数
+}

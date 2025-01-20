@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://6734rus6qzyf1" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n4_i5p4" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0" pivot="0.5,0.5"/>
+    <image id="n3_ead9" name="bg" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,0" pivot="0.5,0.5" size="800,1600" visible="false">
+      <relation target="n4_i5p4" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_ead9" name="n2" src="ldm8g" fileName="YeQianDiBu.png" pkg="rqg67c20" xy="0,1470" size="800,130">
+      <relation target="n4_i5p4" sidePair="bottom-bottom"/>
+    </image>
+    <list id="n0_qzyf" name="TabList" xy="272,1467" size="498,123" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2592" colGap="25" defaultItem="ui://6734rus6qzyf6" autoItemSize="false" align="right" scrollItemToViewOnClick="false">
+      <relation target="n4_i5p4" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

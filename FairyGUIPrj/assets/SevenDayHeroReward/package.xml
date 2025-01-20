@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r9j1fcy3">
+  <resources>
+    <component id="721h0" name="SevenDayHeroRewardView.xml" path="/" exported="true"/>
+    <image id="721h1" name="7日英雄补给卡弹窗参数.png" path="/"/>
+    <component id="ggdq2" name="ButtonReward.xml" path="/components/" exported="true"/>
+    <component id="qohw3" name="EffectItem.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

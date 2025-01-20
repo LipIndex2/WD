@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0wkbc9c9">
+  <resources>
+    <component id="l6cb0" name="OpenServiceSevenDayView.xml" path="/" exported="true"/>
+    <image id="l6cb4" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <image id="l6cb7" name="TianShu.png" path="/image/"/>
+    <image id="l6cb9" name="WanQuJinDuTiaoDi.png" path="/image/"/>
+    <image id="l6cbc" name="JiangLiDi.png" path="/image/"/>
+    <component id="ldm8h" name="taskCell.xml" path="/components/" exported="true"/>
+    <image id="ldm8j" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="ldm8k" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <component id="ldm8m" name="ProgressBar.xml" path="/components/"/>
+    <image id="ldm8o" name="RiLi.png" path="/image/" exported="true"/>
+    <component id="ldm8p" name="TabCell.xml" path="/components/" exported="true"/>
+    <image id="ldm8q" name="YeQianLiang.png" path="/image/" scale="9grid" scale9grid="72,35,144,70"/>
+    <image id="ldm8r" name="MengCengQiTian.png" path="/image/"/>
+    <image id="day6s" name="DuiGouicon.png" path="/image/"/>
+    <component id="day611" name="scheduleShow.xml" path="/components/"/>
+    <component id="day612" name="BtnBox.xml" path="/components/"/>
+    <image id="o0za13" name="BaoXiangicon.png" path="/image/" exported="true"/>
+    <image id="o0za14" name="JiangLiPinicon.png" path="/image/"/>
+    <image id="qj8x16" name="LanAnNiu.png" path="/image/"/>
+    <image id="aj7419" name="BaoXiangXiaoDanChuang.png" path="/image/"/>
+    <image id="aj741a" name="宝箱小弹窗-效果.png" path="/"/>
+    <component id="aj741b" name="BoxPreviewView.xml" path="/" exported="true"/>
+    <image id="lorv1e" name="bar1.png" path="/image/bar/" scale="tile"/>
+    <image id="lorv1f" name="bar2.png" path="/image/bar/" scale="tile"/>
+    <image id="lorv1g" name="bar3.png" path="/image/bar/" scale="tile"/>
+    <image id="lorv1h" name="bar6.png" path="/image/bar/" scale="tile"/>
+    <image id="lorv1i" name="bar9.png" path="/image/bar/" scale="tile" scale9grid="47,5,94,10"/>
+    <image id="lorv1j" name="bar10.png" path="/image/bar/" scale="tile"/>
+    <image id="lorv1k" name="bar4.png" path="/image/bar/"/>
+    <image id="lorv1l" name="bar5.png" path="/image/bar/" duplicatePadding="true" disableTrim="true"/>
+    <image id="lorv1m" name="bar7.png" path="/image/bar/"/>
+    <image id="lorv1n" name="bar8.png" path="/image/bar/" duplicatePadding="true" disableTrim="true"/>
+    <component id="lorv1o" name="Bar0.xml" path="/components/bar/"/>
+    <component id="lorv1p" name="Bar1.xml" path="/components/bar/"/>
+    <component id="lorv1q" name="Bar2.xml" path="/components/bar/"/>
+    <component id="lorv1r" name="Bar3.xml" path="/components/bar/"/>
+    <component id="lorv1s" name="Bar4.xml" path="/components/bar/"/>
+    <component id="lorv1t" name="Bar5.xml" path="/components/bar/"/>
+    <component id="lorv1u" name="Bar6.xml" path="/components/bar/"/>
+    <component id="lorv1v" name="Bar7.xml" path="/components/bar/"/>
+    <component id="lorv1w" name="Bar8.xml" path="/components/bar/"/>
+    <component id="lorv1x" name="Bar9.xml" path="/components/bar/"/>
+    <image id="jx1k1y" name="示意图_spec.png" path="/"/>
+    <image id="jx1k1z" name="XiaoBaoXiangYiLingQu.png" path="/image/" exported="true"/>
+    <image id="jx1k20" name="XiaoBaoXiangKeLingQu.png" path="/image/"/>
+    <image id="jx1k21" name="WeiKaiQiTianShu.png" path="/image/" exported="true"/>
+    <image id="jx1k22" name="YiLingQuMengCeng2.png" path="/image/"/>
+    <image id="jx1k23" name="QiTianBeiJing11.png" path="/image/"/>
+    <image id="jx1k24" name="QuanPingDiCeng.png" path="/image/" scale="9grid" scale9grid="200,3,400,4"/>
+    <image id="jx1k25" name="TuCeng4.png" path="/image/" scale="9grid" scale9grid="200,48,400,3"/>
+    <image id="xd5728" name="开服7天活动22.jpg" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

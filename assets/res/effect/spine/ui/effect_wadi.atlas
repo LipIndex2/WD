@@ -1,0 +1,41 @@
+
+effect_wadi.png
+size: 106,74
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chan
+  rotate: false
+  xy: 2, 2
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: true
+  xy: 89, 32
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: false
+  xy: 66, 8
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: false
+  xy: 66, 29
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+tu4
+  rotate: false
+  xy: 66, 51
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1

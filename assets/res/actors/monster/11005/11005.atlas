@@ -1,0 +1,62 @@
+
+11005.png
+size: 242,246
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+chahu
+  rotate: false
+  xy: 54, 3
+  size: 132, 91
+  orig: 132, 91
+  offset: 0, 0
+  index: -1
+chahugai
+  rotate: false
+  xy: 187, 56
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+ditan
+  rotate: false
+  xy: 0, 95
+  size: 214, 151
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 215, 103
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+mao01
+  rotate: false
+  xy: 215, 196
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+mao02
+  rotate: false
+  xy: 215, 145
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+water01
+  rotate: false
+  xy: 187, 17
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+water02
+  rotate: false
+  xy: 0, 0
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1

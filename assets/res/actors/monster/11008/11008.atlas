@@ -1,0 +1,55 @@
+
+11008.png
+size: 324,174
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: true
+  xy: 0, 0
+  size: 174, 165
+  orig: 174, 165
+  offset: 0, 0
+  index: -1
+hand_fire_left
+  rotate: false
+  xy: 166, 2
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+hand_fire_right
+  rotate: false
+  xy: 225, 2
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 284, 4
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 288, 51
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 166, 69
+  size: 105, 121
+  orig: 105, 121
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 288, 98
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1

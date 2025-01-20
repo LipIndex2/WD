@@ -1,0 +1,167 @@
+
+xiangjiao_tc.png
+size: 904,397
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+Z_dao
+  rotate: true
+  xy: 388, 16
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Z_gouzi
+  rotate: false
+  xy: 213, 2
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Z_jianbang1
+  rotate: false
+  xy: 493, 4
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Z_jianbang2
+  rotate: false
+  xy: 169, 0
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Z_maozi
+  rotate: false
+  xy: 493, 46
+  size: 143, 71
+  orig: 143, 71
+  offset: 0, 0
+  index: -1
+Z_pifeng
+  rotate: false
+  xy: 0, 15
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+Z_shenti
+  rotate: false
+  xy: 842, 100
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+Z_shou1
+  rotate: true
+  xy: 575, 12
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Z_shou2
+  rotate: true
+  xy: 637, 17
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Z_yanjing
+  rotate: false
+  xy: 248, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Z_yifu
+  rotate: false
+  xy: 802, 9
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+Z_yiling1
+  rotate: false
+  xy: 548, 0
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Z_yiling2
+  rotate: false
+  xy: 725, 18
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+beijing_tc
+  rotate: false
+  xy: 0, 118
+  size: 650, 279
+  orig: 650, 279
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 637, 48
+  size: 53, 164
+  orig: 53, 164
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: true
+  xy: 315, 58
+  size: 59, 177
+  orig: 59, 177
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 651, 233
+  size: 245, 164
+  orig: 245, 164
+  offset: 0, 0
+  index: -1
+qipao4
+  rotate: false
+  xy: 682, 5
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+shenti_sy
+  rotate: false
+  xy: 651, 102
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 455, 17
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+yanjing_sy
+  rotate: false
+  xy: 760, 20
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 315, 4
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 169, 25
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+qiri.png
+size: 806,410
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+eyes
+  rotate: false
+  xy: 61, 15
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 136, 16
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 0, 0
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+ka1
+  rotate: true
+  xy: 591, 4
+  size: 186, 215
+  orig: 186, 215
+  offset: 0, 0
+  index: -1
+ka2
+  rotate: false
+  xy: 588, 191
+  size: 215, 219
+  orig: 215, 219
+  offset: 0, 0
+  index: -1
+ka3
+  rotate: true
+  xy: 374, 3
+  size: 186, 216
+  orig: 186, 216
+  offset: 0, 0
+  index: -1
+ka4
+  rotate: false
+  xy: 374, 190
+  size: 213, 220
+  orig: 213, 220
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 176, 182
+  size: 197, 228
+  orig: 197, 228
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 0, 61
+  size: 175, 349
+  orig: 175, 349
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 176, 94
+  size: 130, 87
+  orig: 130, 87
+  offset: 0, 0
+  index: -1

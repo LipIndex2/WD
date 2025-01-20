@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ushz0imf">
+  <resources>
+    <component id="m4fi6" name="ListAaward.xml" path="/components/" exported="true"/>
+    <image id="m4fi7" name="HuangSeMeiCeng.png" path="/image/" scale9grid="94,52,188,104"/>
+    <image id="m4fi8" name="LanSeMeiCeng.png" path="/image/" scale9grid="94,52,188,104"/>
+    <image id="m4fi9" name="JinDuShuTiao.png" path="/image/" scale="9grid" scale9grid="11,24,22,48"/>
+    <image id="m4fia" name="JinDuShuTiao2.png" path="/image/" scale="9grid" scale9grid="9,25,18,50"/>
+    <image id="m4fib" name="MeiCengShuZiCaiSe.png" path="/image/"/>
+    <component id="m4fic" name="PrizeItem.xml" path="/components/"/>
+    <image id="m4fid" name="LanSeMeiCengMengCeng.png" path="/image/"/>
+    <component id="m4fih" name="BtnSkin.xml" path="/components/"/>
+    <image id="m4fii" name="ZiSeXiaTiao.png" path="/image/"/>
+    <component id="m4fik" name="BtnAwardBox.xml" path="/components/" exported="true"/>
+    <image id="m4fil" name="TongXingZhengQuanPing2ChangJing2.png" path="/image/"/>
+    <image id="m4fim" name="BaoXiang.png" path="/image/"/>
+    <image id="m4fin" name="BaoXiangShuLiangDi.png" path="/image/"/>
+    <image id="m4fip" name="HuangJinTongXingZhengQiZhi.png" path="/image/"/>
+    <image id="m4fiq" name="HuangJinTongXingZhengTuBiao.png" path="/image/"/>
+    <image id="m4fis" name="MianFeiTongXingZhengQiZhi.png" path="/image/"/>
+    <image id="m4fit" name="MianFeiTongXingZhengTuBiao.png" path="/image/"/>
+    <image id="m4fiu" name="ShiZhongShiJianTiao.png" path="/image/"/>
+    <image id="m4fiv" name="ShiZhongTuBiao.png" path="/image/"/>
+    <image id="m4fiw" name="ZiSeShangTiao.png" path="/image/"/>
+    <image id="m4fix" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <component id="m4fi10" name="CavePassView.xml" path="/" exported="true"/>
+    <image id="m4fi12" name="通行证全屏SPE.jpg" path="/"/>
+    <image id="m4fi14" name="TieGao.png" path="/image/"/>
+    <image id="ujop15" name="竞技场通行.JPG" path="/"/>
+    <component id="x8we16" name="BtnBuy.xml" path="/components/"/>
+    <image id="x8we17" name="ZuanShiAnNiu.png" path="/image/"/>
+    <image id="x8we18" name="通行证全屏2参数.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

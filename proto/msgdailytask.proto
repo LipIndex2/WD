@@ -1,0 +1,17 @@
+
+message PB_CSDailyTaskReq {					//!< 2050				日常任务操作
+	optional int32	req_type = 1;				//!<操作类型
+	optional int32	p1 = 2;				//!<p1
+}
+
+message PB_DailyTaskInfo {							
+	optional int32	task_id = 1;								
+	optional int32	num = 2;								
+	optional int32	is_fetch = 3;
+}
+
+message PB_SCDailyTaskInfo {				//!< 2051				日常任务信息			
+	repeated PB_DailyTaskInfo	task_list = 1;				//!<任务列表		
+	optional int32 ad_num = 2;		//广告数量
+	optional int32 task_num = 3;	//任务数量
+}

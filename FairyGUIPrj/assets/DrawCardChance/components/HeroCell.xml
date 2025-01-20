@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,253" pivot="0.5,0.5" designImage="ui://638869571193z1" designImageOffsetX="-205" designImageOffsetY="-414" designImageLayer="1">
+  <displayList>
+    <loader id="n32_vqec" name="bg" xy="0,0" size="170,218" url="ui://rqg67c20xaqq5w" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n33_vqec" name="HeroIcon" xy="17,16" pivot="0.5,0.5" size="139,140" autoSize="true" clearOnPublish="true"/>
+    <loader id="n16_que1" name="RaceIcon" xy="122,6" pivot="1,0" size="40,40" url="ui://rqg67c20ln425o" autoSize="true" clearOnPublish="true"/>
+    <text id="n35_vqec" name="Name" xy="53,168" pivot="0.5,0.5" size="60,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="等级"/>
+    <text id="n37_vqec" name="Chance" xy="37,220" pivot="0.5,0.5" size="95,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="0.02%"/>
+  </displayList>
+</component>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false">
+  <displayList>
+    <image id="n8_k23u" name="bg1" src="k23u77" fileName="image/challenge/LvSeBan.png" xy="202,551"/>
+    <image id="n7_k23u" name="bg2" src="k23u76" fileName="image/challenge/BaiSeBan.png" xy="399,551"/>
+    <image id="n6_k23u" name="bg3" src="k23u75" fileName="image/challenge/BOSSBeiJing.png" xy="202,340"/>
+    <image id="n9_k23u" name="bg4" src="k23u78" fileName="image/challenge/QianZiHengTiao.png" xy="194,546"/>
+    <image id="n0_k23u" name="bg_t1" src="iw5u2" fileName="BiaoTiXiaoHengFu.png" pkg="rqg67c20" xy="190,150" size="411,61"/>
+    <image id="n2_k23u" name="bg_t2" src="k23u73" fileName="image/challenge/ShiJianXiaoTiao.png" xy="282,215"/>
+    <image id="n3_k23u" name="deco" src="k23u74" fileName="image/challenge/ShiZhongTuBiao.png" xy="323,215"/>
+    <image id="n14_k23u" name="p1" src="k23u7c" fileName="image/challenge/DianDian.png" xy="200,746" group="n22_k23u"/>
+    <image id="n15_k23u" name="p2" src="k23u7c" fileName="image/challenge/DianDian.png" xy="224,746" group="n22_k23u"/>
+    <image id="n16_k23u" name="p3" src="k23u7c" fileName="image/challenge/DianDian.png" xy="320,746" group="n22_k23u"/>
+    <image id="n17_k23u" name="p4" src="k23u7c" fileName="image/challenge/DianDian.png" xy="344,746" group="n22_k23u"/>
+    <image id="n18_k23u" name="p5" src="k23u7c" fileName="image/challenge/DianDian.png" xy="440,746" group="n22_k23u"/>
+    <image id="n19_k23u" name="p6" src="k23u7c" fileName="image/challenge/DianDian.png" xy="464,746" group="n22_k23u"/>
+    <image id="n20_k23u" name="p7" src="k23u7c" fileName="image/challenge/DianDian.png" xy="560,746" group="n22_k23u"/>
+    <image id="n21_k23u" name="p8" src="k23u7c" fileName="image/challenge/DianDian.png" xy="584,746" group="n22_k23u"/>
+    <group id="n22_k23u" name="points" xy="200,746" size="400,16"/>
+    <loader id="n38_wodn" name="CellBg1" xy="269,609" size="70,70" url="ui://dvcfzaq1k23u79" autoSize="true"/>
+    <loader id="n39_wodn" name="CellBg2" xy="462,609" size="70,70" url="ui://dvcfzaq1k23u7a" autoSize="true"/>
+    <loader id="n41_dvke" name="CellShow1" xy="274,609" pivot="0.5,0.5" size="70,70" touchable="false" autoSize="true"/>
+    <loader id="n42_dvke" name="CellShow2" xy="467,609" pivot="0.5,0.5" size="70,70" touchable="false" autoSize="true"/>
+    <image id="n44_t6zv" name="deco1" src="t6zv7w" fileName="image/challenge/BiaoTiXian.png" xy="81,849"/>
+    <image id="n45_t6zv" name="deco2" src="t6zv7w" fileName="image/challenge/BiaoTiXian.png" xy="719,849" scale="-1,1"/>
+    <text id="n46_t6zv" name="TipsShow" xy="311,842" pivot="0.5,0.5" size="178,40" font="ui://wqx8l8xqut2h1b" fontSize="29" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="今日挑战英雄"/>
+    <text id="n1_k23u" name="TitleShow" xy="326,156" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="每日挑战"/>
+    <text id="n5_k23u" name="RecordShow" xy="319,269" pivot="0.5,0.5" size="162,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="最高记录：0"/>
+    <component id="n40_avzc" name="TimeShow" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="222,180">
+      <Label title="13:31:17" titleFontSize="24"/>
+    </component>
+    <component id="n49_9s56" name="BtnReward1" src="m5mw9s" fileName="components/challenge/ButtonChallengeReward.xml" xy="247,723"/>
+    <component id="n50_9s56" name="BtnReward2" src="m5mw9s" fileName="components/challenge/ButtonChallengeReward.xml" xy="370,723"/>
+    <component id="n51_9s56" name="BtnReward3" src="m5mw9s" fileName="components/challenge/ButtonChallengeReward.xml" xy="489,723"/>
+    <component id="n26_k23u" name="BtnTips" src="k23u7f" fileName="components/challenge/ButtonChallengeTips.xml" xy="552,331"/>
+    <list id="n43_sb2j" name="AttrList" xy="232,542" pivot="0.5,0.5" size="340,58" layout="row" overflow="hidden" defaultItem="ui://dvcfzaq1sb2j7v" align="center" vAlign="middle" autoClearItems="true"/>
+    <list id="n48_l4mh" name="HeroList" xy="69,930" size="660,461" layout="flow_hz" lineGap="27" colGap="48" defaultItem="ui://dvcfzaq1l4mh91" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n53_pk4i" name="HeroList2" xy="36,901" size="728,201" layout="row" overflow="scroll" colGap="20" defaultItem="ui://dvcfzaq1pk4i9x" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

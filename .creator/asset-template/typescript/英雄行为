@@ -1,0 +1,40 @@
+import { _decorator, Node } from 'cc';
+import { HeroAttackRange, HeroControl, SkillFuncResInit, SkillFuncResUnlock } from '../HeroControl';
+import { SkillColliderEvent } from 'modules/Battle/Function/SkillFunc';
+import { MonsterObj } from 'modules/Battle/Object/MonsterObj';
+import { HeroSkillId } from 'modules/Battle/HeroSkillId';
+enum WoGuaRes {
+    Normal = "wogua_1",
+    JiaDa = "wogua_2",
+}
+export class <%Name%> extends HeroControl {
+    // 范围
+    protected attackRange: HeroAttackRange = new HeroAttackRange(3,3);
+
+    // 技能资源
+    protected skillFuncRes = {
+        [WoGuaRes.Normal] : SkillFuncResInit.Create(),
+        [WoGuaRes.JiaDa] : SkillFuncResUnlock.Create(HeroSkillId.WoGua.JianTaFanWei),
+    }
+
+    Init(){
+        
+    }
+
+    //每回合战斗开始回调
+    OnFightStart(){
+        
+    }
+
+    
+    //默认技能效果
+    DefaultSkillAction(){
+        
+    }
+
+
+    OnHitEvent(event:SkillColliderEvent){
+        super.OnHitEvent(event);
+    }
+}
+

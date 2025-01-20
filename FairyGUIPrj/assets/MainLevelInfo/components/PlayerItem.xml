@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,142" designImage="ui://czbmy05rfr823" designImageOffsetX="-85" designImageOffsetY="-360" designImageLayer="1">
+  <displayList>
+    <image id="n0_fr82" name="n0" src="fr82a" fileName="image/YouJianKuang.png" xy="0,0" size="630,142"/>
+    <text id="n1_fr82" name="Name" xy="167,50" pivot="0,0.5" size="287,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" autoSize="height" strokeColor="#491914" strokeSize="3" text="GamePlayer"/>
+    <component id="n3_u3z8" name="HeadItem" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="-8,-20" pivot="0.5,0.5" scale="0.6,0.6"/>
+    <component id="n2_fr82" name="BtnTeam" src="fr82f" fileName="components/BtnClearanceTeam.xml" xy="473,47"/>
+  </displayList>
+</component>

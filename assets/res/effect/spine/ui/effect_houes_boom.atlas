@@ -1,0 +1,97 @@
+
+effect_houes_boom.png
+size: 1009,260
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+8/bo1
+  rotate: true
+  xy: 260, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo2
+  rotate: true
+  xy: 326, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo3
+  rotate: true
+  xy: 392, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo4
+  rotate: true
+  xy: 458, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo5
+  rotate: true
+  xy: 524, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo6
+  rotate: true
+  xy: 590, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo7
+  rotate: true
+  xy: 656, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+8/bo8
+  rotate: true
+  xy: 722, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: true
+  xy: 898, 7
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+lizi6
+  rotate: true
+  xy: 788, 148
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+lizi7
+  rotate: false
+  xy: 788, 37
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+lizi8
+  rotate: true
+  xy: 898, 38
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1

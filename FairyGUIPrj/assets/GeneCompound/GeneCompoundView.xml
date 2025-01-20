@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://f6ru8aqehprm1">
+  <displayList>
+    <component id="n3_hprm" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,514" size="730,570">
+      <Label title="基因合成"/>
+    </component>
+    <image id="n4_hprm" name="n4" src="tm531" fileName="image/XiaoKuangDan.png" pkg="r5d9xy63" xy="84,684" size="630,309"/>
+    <image id="n8_hprm" name="n8" src="o0za68" fileName="ItemCellBg1.png" pkg="zn6u2d2d" xy="174,723" pivot="0.5,0.5" scale="0.9,0.9" visible="false"/>
+    <image id="n9_hprm" name="n9" src="o0za68" fileName="ItemCellBg1.png" pkg="zn6u2d2d" xy="468,723" pivot="0.5,0.5" scale="0.9,0.9" visible="false"/>
+    <loader id="n10_hprm" name="Icon1" xy="197,746" pivot="0.5,0.5" size="110,110" visible="false" touchable="false" align="center" vAlign="middle"/>
+    <loader id="n11_hprm" name="Icon2" xy="491,746" pivot="0.5,0.5" size="110,110" visible="false" touchable="false" align="center" vAlign="middle"/>
+    <text id="n12_hprm" name="n12" xy="202,1010" size="396,39" font="ui://wqx8l8xqut2h1b" fontSize="28" color="#54301e" text="使用万能碎片合成随机基因部件"/>
+    <text id="n17_srmr" name="Name1" xy="172,693" pivot="0.5,0.5" size="160,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#68e7fb" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="随机稀有基因"/>
+    <text id="n18_srmr" name="Name2" xy="466,693" pivot="0.5,0.5" size="160,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#f4a0ff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="随机史诗基因"/>
+    <component id="n15_hprm" name="BtnCompound1" src="hprm2" fileName="components/ButtonBlue.xml" xy="147,886"/>
+    <component id="n16_hprm" name="BtnCompound2" src="hprm5" fileName="components/ButtonOrange.xml" xy="444,886"/>
+    <component id="n21_cfi8" name="ItemCell1" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="192,741"/>
+    <component id="n22_cfi8" name="ItemCell2" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="486,741"/>
+    <component id="n19_srmr" name="redPoint1" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="340,900"/>
+    <component id="n20_srmr" name="redPoint2" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="639,900"/>
+  </displayList>
+</component>

@@ -1,0 +1,27 @@
+
+effect_box_open_gx.png
+size: 390,492
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+light02
+  rotate: false
+  xy: 2, 260
+  size: 358, 230
+  orig: 358, 230
+  offset: 0, 0
+  index: -1
+point09
+  rotate: false
+  xy: 260, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+point13
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

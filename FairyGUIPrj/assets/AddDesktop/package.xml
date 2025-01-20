@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="isy0qso0">
+  <resources>
+    <component id="tlp50" name="AddDesktopView.xml" path="/" exported="true"/>
+    <image id="tlp51" name="添加桌面标注.jpg" path="/"/>
+    <image id="tlp52" name="Zu172.png" path="/image/"/>
+    <image id="tlp53" name="Zu173.png" path="/image/"/>
+    <image id="tlp54" name="HengFu.png" path="/image/"/>
+    <component id="tlp55" name="ShowItem.xml" path="/components/" exported="true"/>
+    <component id="tlp56" name="ButtonClose.xml" path="/components/"/>
+    <image id="tlp57" name="GuanBi.png" path="/image/"/>
+    <image id="i9wc8" name="JinBiKuangMengCeng.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

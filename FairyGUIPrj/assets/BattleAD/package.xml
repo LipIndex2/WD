@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ldijpvxw">
+  <resources>
+    <component id="ocqm0" name="BattleFreeBoxView.xml" path="/" exported="true"/>
+    <image id="ocqm1" name="NeiRongDi.png" path="/Image/" scale="9grid" scale9grid="22,22,44,44"/>
+    <image id="ocqm2" name="ChaHua.png" path="/Image/"/>
+    <image id="ocqm3" name="三倍速2.png" path="/"/>
+    <component id="ocqm4" name="BattleFreeSpeedView.xml" path="/" exported="true"/>
+    <image id="ocqm5" name="HuoDongBiaoTiHengFu.png" path="/Image/"/>
+    <image id="ocqm6" name="HuoDongHaiBaoLieBiaoWenBenKuang.png" path="/Image/" scale="9grid" scale9grid="89,61,178,122"/>
+    <image id="ocqm7" name="QianZi.png" path="/Image/" scale="9grid" scale9grid="50,75,100,150"/>
+    <image id="ocqm8" name="QianZiXiao.png" path="/Image/"/>
+    <image id="ocqm9" name="ShiJian.png" path="/Image/"/>
+    <image id="ocqma" name="7RiAnNiu.png" path="/Image/"/>
+    <image id="ocqmb" name="JiaSu.png" path="/Image/"/>
+    <component id="ocqmc" name="Btn.xml" path="/components/"/>
+    <image id="oabkd" name="QiPao.png" path="/Image/" scale="9grid" scale9grid="76,30,8,60"/>
+    <image id="oabke" name="海外连消事件03.jpg" path="/"/>
+    <image id="oabkf" name="SkillQua1.png" path="/Image/" exported="true" scale="9grid" scale9grid="39,28,21,56"/>
+    <image id="oabkg" name="SkillQua2.png" path="/Image/" exported="true" scale="9grid" scale9grid="44,28,17,56"/>
+    <image id="oabkh" name="SkillQua3.png" path="/Image/" exported="true" scale="9grid" scale9grid="44,28,11,56"/>
+    <image id="oabki" name="SkillQuaCell1.png" path="/Image/" exported="true"/>
+    <image id="oabkj" name="SkillQuaCell2.png" path="/Image/" exported="true"/>
+    <image id="oabkk" name="SkillQuaCell3.png" path="/Image/" exported="true"/>
+    <component id="oabkl" name="SkillItem.xml" path="/components/"/>
+    <image id="oabkm" name="Lv-ZengJia2Bu.png" path="/components/"/>
+    <component id="oabkn" name="CountLabel.xml" path="/components/"/>
+    <image id="oabko" name="DangQianShuLiangDi.png" path="/components/"/>
+    <component id="oabkp" name="ButtonOrange.xml" path="/components/" exported="true"/>
+    <image id="oabkr" name="BaoXiangKai.png" path="/Image/"/>
+    <image id="oabks" name="Guang01.png" path="/Image/"/>
+    <image id="oabkt" name="CanDouXiaoChou.png" path="/Image/"/>
+    <image id="oabku" name="BaoXiang.png" path="/Image/"/>
+    <component id="oabkv" name="talkItem.xml" path="/components/"/>
+    <component id="oabkw" name="FreeBoxContent.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,868" designImage="ui://gp6652l2iw5u12" designImageOffsetY="-76">
+  <displayList>
+    <image id="n10_iw5u" name="bg_t" src="okor6f" fileName="HengFuLan.png" pkg="rqg67c20" xy="45,0" size="710,54"/>
+    <text id="n12_iw5u" name="TitleShow" xy="360,5" pivot="0.5,0.5" size="79,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="元 宝"/>
+    <list id="n13_iw5u" name="ShowList" xy="35,95" size="719,773" layout="flow_hz" lineGap="15" colGap="1" defaultItem="ui://gp6652l2iw5u1c">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

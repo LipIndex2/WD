@@ -1,0 +1,62 @@
+
+tongxingzheng.png
+size: 401,192
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+ka1
+  rotate: true
+  xy: 0, 24
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+ka2
+  rotate: false
+  xy: 327, 103
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+ka3
+  rotate: false
+  xy: 298, 5
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 297, 98
+  size: 29, 94
+  orig: 29, 94
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 242, 9
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+zuan1
+  rotate: true
+  xy: 190, 65
+  size: 127, 106
+  orig: 127, 106
+  offset: 0, 0
+  index: -1
+zuan2
+  rotate: false
+  xy: 112, 0
+  size: 129, 59
+  orig: 129, 59
+  offset: 0, 0
+  index: -1
+zuan3
+  rotate: true
+  xy: 112, 60
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <image id="n6_wpum" name="n6" src="wpumf" fileName="imange/HongZu.png" xy="0,23" size="767,622"/>
+    <image id="n7_wpum" name="n7" src="wpume" fileName="imange/LanZu.png" xy="0,879" size="767,622"/>
+    <component id="n20_wpum" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="399,770" touchable="false"/>
+    <component id="n8_wpum" name="HeadA" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="21,8" scale="0.8,0.8"/>
+    <component id="n9_wpum" name="HeadB" src="fr823w" fileName="HeadItem.xml" pkg="gn62pyk3" xy="605,865" scale="0.8,0.8"/>
+    <loader id="n10_wpum" name="RankIconA" xy="682,56" pivot="0.5,0.5" anchor="true" size="128,128" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n11_wpum" name="RankIconB" xy="100,913" pivot="0.5,0.5" anchor="true" size="128,128" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n12_wpum" name="NameA" xy="187,48" size="284,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="独孤求败的胖次"/>
+    <text id="n13_wpum" name="NameB" xy="408,910" pivot="1,0.5" size="164,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="right" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="Pinko.M"/>
+    <text id="n14_wpum" name="RankTextA" xy="627,91" pivot="0.5,0.5" size="108,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="荣耀黄金"/>
+    <text id="n15_wpum" name="RankTextB" xy="46,941" pivot="0.5,0.5" size="108,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="荣耀黄金"/>
+    <list id="n16_wpum" name="ListA" xy="19,166" size="742,462" layout="flow_hz" overflow="hidden" lineGap="27" colGap="16" defaultItem="ui://5mk2qj8mwpumj" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n17_wpum" name="ListB" xy="18,1021" size="742,462" layout="flow_hz" overflow="hidden" lineGap="27" colGap="16" defaultItem="ui://5mk2qj8mwpumj" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n18_wpum" name="NameVsB" xy="120,758" pivot="0.5,0.5" size="132,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="Pinko.M"/>
+    <text id="n19_wpum" name="NameVsA" xy="590,733" pivot="0.5,0.5" anchor="true" size="196,44" font="ui://wqx8l8xqut2h1b" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="独孤求败胖次"/>
+  </displayList>
+  <transition name="vs">
+    <item time="0" type="Alpha" target="n18_wpum" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n19_wpum" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="48" type="Alpha" target="n18_wpum" value="1"/>
+    <item time="48" type="Alpha" target="n19_wpum" value="1"/>
+  </transition>
+</component>

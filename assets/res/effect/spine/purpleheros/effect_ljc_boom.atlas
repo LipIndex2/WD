@@ -1,0 +1,167 @@
+
+effect_ljc_boom.png
+size: 990,583
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+2/hj_00055
+  rotate: false
+  xy: 787, 126
+  size: 99, 99
+  orig: 260, 240
+  offset: 78, 75
+  index: -1
+2/hj_00056
+  rotate: false
+  xy: 415, 2
+  size: 178, 179
+  orig: 260, 240
+  offset: 41, 32
+  index: -1
+2/hj_00057
+  rotate: false
+  xy: 604, 389
+  size: 191, 192
+  orig: 260, 240
+  offset: 34, 25
+  index: -1
+2/hj_00058
+  rotate: false
+  xy: 405, 381
+  size: 197, 200
+  orig: 260, 240
+  offset: 31, 21
+  index: -1
+2/hj_00059
+  rotate: false
+  xy: 2, 168
+  size: 200, 205
+  orig: 260, 240
+  offset: 29, 18
+  index: -1
+2/hj_00061
+  rotate: false
+  xy: 2, 375
+  size: 201, 206
+  orig: 260, 240
+  offset: 29, 17
+  index: -1
+2/hj_00062
+  rotate: false
+  xy: 204, 170
+  size: 200, 203
+  orig: 260, 240
+  offset: 29, 18
+  index: -1
+2/hj_00063
+  rotate: false
+  xy: 205, 380
+  size: 198, 201
+  orig: 260, 240
+  offset: 31, 19
+  index: -1
+2/hj_00065
+  rotate: false
+  xy: 406, 183
+  size: 190, 196
+  orig: 260, 240
+  offset: 36, 22
+  index: -1
+2/hj_00067
+  rotate: false
+  xy: 598, 185
+  size: 183, 194
+  orig: 260, 240
+  offset: 40, 23
+  index: -1
+2/hj_00068
+  rotate: true
+  xy: 797, 400
+  size: 181, 191
+  orig: 260, 240
+  offset: 41, 24
+  index: -1
+2/hj_00069
+  rotate: true
+  xy: 595, 3
+  size: 178, 190
+  orig: 260, 240
+  offset: 42, 25
+  index: -1
+2/hj_00071
+  rotate: true
+  xy: 797, 227
+  size: 171, 184
+  orig: 260, 240
+  offset: 45, 30
+  index: -1
+2/hj_00073
+  rotate: false
+  xy: 103, 18
+  size: 169, 148
+  orig: 260, 240
+  offset: 46, 33
+  index: -1
+2/hj_00074
+  rotate: true
+  xy: 274, 2
+  size: 166, 139
+  orig: 260, 240
+  offset: 47, 36
+  index: -1
+2/hj_00075
+  rotate: true
+  xy: 2, 2
+  size: 164, 99
+  orig: 260, 240
+  offset: 48, 71
+  index: -1
+g1
+  rotate: false
+  xy: 103, 3
+  size: 15, 13
+  orig: 86, 85
+  offset: 36, 36
+  index: -1
+g2
+  rotate: false
+  xy: 857, 9
+  size: 66, 66
+  orig: 86, 85
+  offset: 10, 9
+  index: -1
+g3
+  rotate: false
+  xy: 925, 16
+  size: 59, 59
+  orig: 86, 85
+  offset: 14, 13
+  index: -1
+g4
+  rotate: false
+  xy: 787, 6
+  size: 68, 69
+  orig: 86, 85
+  offset: 9, 7
+  index: -1
+g5
+  rotate: false
+  xy: 888, 152
+  size: 74, 73
+  orig: 86, 85
+  offset: 6, 6
+  index: -1
+g6
+  rotate: true
+  xy: 888, 77
+  size: 73, 74
+  orig: 86, 85
+  offset: 7, 6
+  index: -1
+guangdian2
+  rotate: false
+  xy: 787, 79
+  size: 44, 45
+  orig: 56, 57
+  offset: 4, 8
+  index: -1

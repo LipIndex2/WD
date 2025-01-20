@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="qllfrhsr">
+  <resources>
+    <component id="qfjn0" name="BattleView.xml" path="/" exported="true"/>
+    <component id="ut2h1" name="SkillItem.xml" path="/components/"/>
+    <image id="jxlb5" name="ZanTing.png" path="/image/"/>
+    <image id="jxlb6" name="BuShuicon.png" path="/image/"/>
+    <image id="jxlb7" name="BuShuDi.png" path="/image/"/>
+    <image id="jxlb8" name="HuiHeicon.png" path="/image/"/>
+    <image id="jxlb9" name="JiaSuAnNiu.png" path="/image/"/>
+    <image id="jxlba" name="MuBiaoicon.png" path="/image/" exported="true"/>
+    <image id="jxlbb" name="QiPao.png" path="/image/"/>
+    <image id="jxlbc" name="ShengMingDi.png" path="/image/" scale="9grid" scale9grid="48,24,96,48"/>
+    <image id="jxlbd" name="ShengMingTiao1.png" path="/image/" scale="9grid" scale9grid="24,0,14,34"/>
+    <image id="jxlbe" name="ShengMingTiao2.png" path="/image/" scale="9grid" scale9grid="22,0,16,43"/>
+    <image id="jxlbf" name="ShengMingZhi.png" path="/image/"/>
+    <image id="jxlbg" name="TianShuDi.png" path="/image/" scale="9grid" scale9grid="2,34,4,68"/>
+    <image id="jxlbh" name="Zu 37.png" path="/image/"/>
+    <image id="jxlbi" name="TuCeng 9.png" path="/image/"/>
+    <image id="jxlbj" name="SkillQua1.png" path="/image/" exported="true" scale="9grid" scale9grid="39,28,21,56"/>
+    <image id="jxlbk" name="SkillQua2.png" path="/image/" exported="true" scale="9grid" scale9grid="44,28,17,56"/>
+    <image id="jxlbl" name="SkillQua3.png" path="/image/" exported="true" scale="9grid" scale9grid="44,28,11,56"/>
+    <image id="jxlbm" name="SkillQuaCell1.png" path="/image/" exported="true"/>
+    <image id="jxlbn" name="SkillQuaCell2.png" path="/image/" exported="true"/>
+    <image id="jxlbo" name="SkillQuaCell3.png" path="/image/" exported="true"/>
+    <component id="jxlbr" name="PauseBtn.xml" path="/components/"/>
+    <component id="jxlbs" name="HpProgerssBar.xml" path="/components/"/>
+    <component id="jxlbt" name="RoundItem.xml" path="/components/"/>
+    <image id="jxlbu" name="RiLi.png" path="/image/" exported="true"/>
+    <image id="jxlbv" name="TianShuJinDu.png" path="/image/" scale="9grid" scale9grid="18,2,19,27"/>
+    <image id="jxlbw" name="TianShuJinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,12,18"/>
+    <component id="jxlbx" name="RoundProgressBar.xml" path="/components/"/>
+    <image id="jxlb10" name="ZhongDuAnNiu.png" path="/image/"/>
+    <component id="jxlb12" name="FlushBtn.xml" path="/components/"/>
+    <component id="9nol13" name="BuffItem.xml" path="/components/"/>
+    <component id="9nol14" name="RoundState.xml" path="/components/"/>
+    <component id="9nol15" name="SkillDescItem.xml" path="/components/"/>
+    <image id="whcr17" name="GuaiWuicon.png" path="/image/"/>
+    <image id="whcr18" name="bossJingYanTiao.png" path="/image/" scale="9grid" scale9grid="25,0,17,41"/>
+    <image id="whcr19" name="bossJingYanTiaoDi.png" path="/image/" scale="9grid" scale9grid="16,10,32,20"/>
+    <image id="whcr1a" name="XueLiangicon.png" path="/image/"/>
+    <component id="whcr1c" name="ExpProgressBar.xml" path="/components/"/>
+    <image id="p5yt1e" name="BuShu2.png" path="/image/"/>
+    <image id="p5yt1f" name="BuShuDi2.png" path="/image/"/>
+    <component id="p5yt1g" name="StepTip.xml" path="/components/" exported="true"/>
+    <image id="p5yt1h" name="HuoDeDeJiNenTiShi.png" path="/image/"/>
+    <component id="p5yt1i" name="SkillGetTip.xml" path="/components/"/>
+    <image id="p5yt1j" name="WuLi0.png" path="/image/font/wuli/"/>
+    <image id="p5yt1k" name="WuLi1.png" path="/image/font/wuli/"/>
+    <image id="p5yt1l" name="WuLi2.png" path="/image/font/wuli/"/>
+    <image id="p5yt1m" name="WuLi3.png" path="/image/font/wuli/"/>
+    <image id="p5yt1n" name="WuLi4.png" path="/image/font/wuli/"/>
+    <image id="p5yt1o" name="WuLi5.png" path="/image/font/wuli/"/>
+    <image id="p5yt1p" name="WuLi6.png" path="/image/font/wuli/"/>
+    <image id="p5yt1q" name="WuLi7.png" path="/image/font/wuli/"/>
+    <image id="p5yt1r" name="WuLi8.png" path="/image/font/wuli/"/>
+    <image id="p5yt1s" name="WuLi9.png" path="/image/font/wuli/"/>
+    <font id="p5yt1t" name="WuLiFont.fnt" path="/image/font/" exported="true"/>
+    <component id="p5yt1u" name="HarmShowItem.xml" path="/components/" exported="true"/>
+    <image id="p5yt1v" name="shui9.png" path="/image/font/shui/"/>
+    <image id="p5yt1w" name="shui1.png" path="/image/font/shui/"/>
+    <image id="p5yt1x" name="shui2.png" path="/image/font/shui/"/>
+    <image id="p5yt1y" name="shui3.png" path="/image/font/shui/"/>
+    <image id="p5yt1z" name="shui4.png" path="/image/font/shui/"/>
+    <image id="p5yt20" name="shui5.png" path="/image/font/shui/"/>
+    <image id="p5yt21" name="shui6.png" path="/image/font/shui/"/>
+    <image id="p5yt22" name="shui7.png" path="/image/font/shui/"/>
+    <image id="p5yt23" name="shui8.png" path="/image/font/shui/"/>
+    <image id="p5yt24" name="shui0.png" path="/image/font/shui/"/>
+    <font id="p5yt25" name="ShuiFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt26" name="huo0.png" path="/image/font/huo/"/>
+    <image id="p5yt27" name="huo1.png" path="/image/font/huo/"/>
+    <image id="p5yt28" name="huo2.png" path="/image/font/huo/"/>
+    <image id="p5yt29" name="huo3.png" path="/image/font/huo/"/>
+    <image id="p5yt2a" name="huo4.png" path="/image/font/huo/"/>
+    <image id="p5yt2b" name="huo5.png" path="/image/font/huo/"/>
+    <image id="p5yt2c" name="huo6.png" path="/image/font/huo/"/>
+    <image id="p5yt2d" name="huo7.png" path="/image/font/huo/"/>
+    <image id="p5yt2e" name="huo8.png" path="/image/font/huo/"/>
+    <image id="p5yt2f" name="huo9.png" path="/image/font/huo/"/>
+    <font id="p5yt2g" name="HuoFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt2h" name="tu0.png" path="/image/font/tu/"/>
+    <image id="p5yt2i" name="tu1.png" path="/image/font/tu/"/>
+    <image id="p5yt2j" name="tu2.png" path="/image/font/tu/"/>
+    <image id="p5yt2k" name="tu3.png" path="/image/font/tu/"/>
+    <image id="p5yt2l" name="tu4.png" path="/image/font/tu/"/>
+    <image id="p5yt2m" name="tu5.png" path="/image/font/tu/"/>
+    <image id="p5yt2n" name="tu6.png" path="/image/font/tu/"/>
+    <image id="p5yt2o" name="tu7.png" path="/image/font/tu/"/>
+    <image id="p5yt2p" name="tu8.png" path="/image/font/tu/"/>
+    <image id="p5yt2q" name="tu9.png" path="/image/font/tu/"/>
+    <image id="p5yt2r" name="an0.png" path="/image/font/an/"/>
+    <image id="p5yt2s" name="an1.png" path="/image/font/an/"/>
+    <image id="p5yt2t" name="an2.png" path="/image/font/an/"/>
+    <image id="p5yt2u" name="an3.png" path="/image/font/an/"/>
+    <image id="p5yt2v" name="an4.png" path="/image/font/an/"/>
+    <image id="p5yt2w" name="an5.png" path="/image/font/an/"/>
+    <image id="p5yt2x" name="an6.png" path="/image/font/an/"/>
+    <image id="p5yt2y" name="an7.png" path="/image/font/an/"/>
+    <image id="p5yt2z" name="an8.png" path="/image/font/an/"/>
+    <image id="p5yt30" name="an9.png" path="/image/font/an/"/>
+    <image id="p5yt31" name="du0.png" path="/image/font/du/"/>
+    <image id="p5yt32" name="du1.png" path="/image/font/du/"/>
+    <image id="p5yt33" name="du2.png" path="/image/font/du/"/>
+    <image id="p5yt34" name="du3.png" path="/image/font/du/"/>
+    <image id="p5yt35" name="du4.png" path="/image/font/du/"/>
+    <image id="p5yt36" name="du5.png" path="/image/font/du/"/>
+    <image id="p5yt37" name="du6.png" path="/image/font/du/"/>
+    <image id="p5yt38" name="du7.png" path="/image/font/du/"/>
+    <image id="p5yt39" name="du8.png" path="/image/font/du/"/>
+    <image id="p5yt3a" name="du9.png" path="/image/font/du/"/>
+    <font id="p5yt3b" name="TuFont.fnt" path="/image/font/" exported="true"/>
+    <font id="p5yt3c" name="DuFont.fnt" path="/image/font/" exported="true"/>
+    <font id="p5yt3d" name="AnFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt3e" name="bingdong1.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3f" name="bingdong2.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3g" name="bingdong3.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3h" name="bingdong4.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3i" name="bingdong5.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3j" name="bingdong6.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3k" name="bingdong7.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3l" name="bingdong8.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3m" name="bingdong9.png" path="/image/font/bingdong/"/>
+    <image id="p5yt3n" name="bingdong0.png" path="/image/font/bingdong/"/>
+    <font id="p5yt3o" name="BongDongFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt3p" name="canrao1.png" path="/image/font/canrao/"/>
+    <image id="p5yt3q" name="canrao2.png" path="/image/font/canrao/"/>
+    <image id="p5yt3r" name="canrao3.png" path="/image/font/canrao/"/>
+    <image id="p5yt3s" name="canrao4.png" path="/image/font/canrao/"/>
+    <image id="p5yt3t" name="canrao5.png" path="/image/font/canrao/"/>
+    <image id="p5yt3u" name="canrao6.png" path="/image/font/canrao/"/>
+    <image id="p5yt3v" name="canrao7.png" path="/image/font/canrao/"/>
+    <image id="p5yt3w" name="canrao8.png" path="/image/font/canrao/"/>
+    <image id="p5yt3x" name="canrao9.png" path="/image/font/canrao/"/>
+    <image id="p5yt3y" name="canrao0.png" path="/image/font/canrao/"/>
+    <font id="p5yt3z" name="CanRaoFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt40" name="konju1.png" path="/image/font/konju/"/>
+    <image id="p5yt41" name="konju2.png" path="/image/font/konju/"/>
+    <image id="p5yt42" name="konju3.png" path="/image/font/konju/"/>
+    <image id="p5yt43" name="konju4.png" path="/image/font/konju/"/>
+    <image id="p5yt44" name="konju5.png" path="/image/font/konju/"/>
+    <image id="p5yt45" name="konju6.png" path="/image/font/konju/"/>
+    <image id="p5yt46" name="konju7.png" path="/image/font/konju/"/>
+    <image id="p5yt47" name="konju8.png" path="/image/font/konju/"/>
+    <image id="p5yt48" name="konju9.png" path="/image/font/konju/"/>
+    <image id="p5yt49" name="konju0.png" path="/image/font/konju/"/>
+    <font id="p5yt4a" name="KonJuFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt4b" name="liuxue0.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4c" name="liuxue1.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4d" name="liuxue2.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4e" name="liuxue3.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4f" name="liuxue4.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4g" name="liuxue5.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4h" name="liuxue6.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4i" name="liuxue7.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4j" name="liuxue8.png" path="/image/font/liuxue/"/>
+    <image id="p5yt4k" name="liuxue9.png" path="/image/font/liuxue/"/>
+    <font id="p5yt4l" name="LiuXueFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt4m" name="meihuo1.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4n" name="meihuo2.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4o" name="meihuo3.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4p" name="meihuo4.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4q" name="meihuo5.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4r" name="meihuo6.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4s" name="meihuo7.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4t" name="meihuo8.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4u" name="meihuo9.png" path="/image/font/meihuo/"/>
+    <image id="p5yt4v" name="meihuo0.png" path="/image/font/meihuo/"/>
+    <font id="p5yt4w" name="MeiHuoFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt4x" name="zhongdu0.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt4y" name="zhongdu1.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt4z" name="zhongdu2.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt50" name="zhongdu3.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt51" name="zhongdu4.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt52" name="zhongdu5.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt53" name="zhongdu6.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt54" name="zhongdu7.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt55" name="zhongdu8.png" path="/image/font/zhongdu/"/>
+    <image id="p5yt56" name="zhongdu9.png" path="/image/font/zhongdu/"/>
+    <font id="p5yt57" name="ZhongDuFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt58" name="zuoshao0.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt59" name="zuoshao1.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5a" name="zuoshao2.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5b" name="zuoshao3.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5c" name="zuoshao4.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5d" name="zuoshao5.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5e" name="zuoshao6.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5f" name="zuoshao7.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5g" name="zuoshao8.png" path="/image/font/zuoshao/"/>
+    <image id="p5yt5h" name="zuoshao9.png" path="/image/font/zuoshao/"/>
+    <font id="p5yt5i" name="ZuoShaoFont.fnt" path="/image/font/" exported="true"/>
+    <image id="p5yt5k" name="GuaiWuMiaoShu.png" path="/image/" scale="9grid" scale9grid="35,34,19,68"/>
+    <component id="p5yt5l" name="MonsterDesc.xml" path="/components/" exported="true"/>
+    <image id="p5yt5m" name="DunPai1.png" path="/image/" exported="true"/>
+    <component id="p5yt5n" name="HarmShowLabal.xml" path="/components/"/>
+    <component id="68535o" name="RoundInfo.xml" path="/components/"/>
+    <component id="68535p" name="RoundProgress.xml" path="/components/" exported="true"/>
+    <image id="h3xb5r" name="ZheZhao.png" path="/image/" scale="9grid" scale9grid="18,0,36,225"/>
+    <image id="m33s5s" name="bossXueTiao.png" path="/image/" scale="tile"/>
+    <image id="m33s5t" name="bossXueTiaoicon.png" path="/image/"/>
+    <image id="m33s5u" name="bossXueTiaoDi.png" path="/image/"/>
+    <image id="m33s5v" name="BossQiPao.png" path="/image/" scale="9grid" scale9grid="78,16,20,32"/>
+    <component id="m33s5w" name="BossHeadInfo.xml" path="/components/" exported="true"/>
+    <component id="m33s5x" name="BossHpBar.xml" path="/components/"/>
+    <component id="m33s5y" name="BubbleInfo.xml" path="/components/"/>
+    <image id="nvx360" name="ChengSeDaAnNiu.png" path="/image/"/>
+    <component id="lhxl61" name="AddSpeedBtn.xml" path="/components/"/>
+    <image id="lhxl64" name="DaBuShu.png" path="/image/"/>
+    <image id="lhxl66" name="kuaiJin.png" path="/image/"/>
+    <component id="r7ud67" name="StepInfo.xml" path="/components/"/>
+    <component id="r7ud68" name="SkillSelect.xml" path="/components/"/>
+    <image id="aj8z69" name="Lv-ZengJia2Bu.png" path="/image/"/>
+    <image id="wl916b" name="战斗示意图_spec.png" path="/"/>
+    <image id="wl916c" name="战斗示意图2_spec.png" path="/"/>
+    <image id="wl916e" name="BossFlag.png" path="/image/" exported="true"/>
+    <image id="wl916f" name="怪物描述.jpg" path="/"/>
+    <image id="wl916g" name="战斗222spe.jpg" path="/"/>
+    <image id="wl916h" name="战斗吧newSPE.jpg" path="/"/>
+    <image id="wl916i" name="战斗吧SPE.jpg" path="/"/>
+    <image id="wl916j" name="敌军来袭2.jpg" path="/"/>
+    <image id="wl916k" name="步数.jpg" path="/"/>
+    <image id="wl916l" name="获得技能描述.jpg" path="/"/>
+    <image id="mljj6m" name="ZhongJi.png" path="/image/" exported="true"/>
+    <image id="mljj6n" name="PoJia.png" path="/image/" exported="true"/>
+    <image id="algr6o" name="DangQianShuLiangDi.png" path="/image/"/>
+    <component id="algr6q" name="CountLabel.xml" path="/components/"/>
+    <component id="tlif6r" name="NewPlayerTip.xml" path="/components/"/>
+    <image id="cj0g6r" name="guang0.png" path="/image/font/guang/"/>
+    <image id="cj0g6s" name="guang1.png" path="/image/font/guang/"/>
+    <image id="cj0g6t" name="guang2.png" path="/image/font/guang/"/>
+    <image id="cj0g6u" name="guang3.png" path="/image/font/guang/"/>
+    <image id="cj0g6v" name="guang4.png" path="/image/font/guang/"/>
+    <image id="cj0g6w" name="guang5.png" path="/image/font/guang/"/>
+    <image id="cj0g6x" name="guang6.png" path="/image/font/guang/"/>
+    <image id="cj0g6y" name="guang7.png" path="/image/font/guang/"/>
+    <image id="cj0g6z" name="guang8.png" path="/image/font/guang/"/>
+    <image id="cj0g70" name="guang9.png" path="/image/font/guang/"/>
+    <font id="cj0g71" name="GuangFont.fnt" path="/image/font/" exported="true"/>
+    <image id="cj0g7a" name="PaiXing.png" path="/image/"/>
+    <image id="cj0g7b" name="RenWuDiBu.png" path="/image/"/>
+    <image id="cj0g7g" name="伤害数据标注.png" path="/"/>
+    <component id="cj0g7h" name="HarmInfoBtn.xml" path="/components/"/>
+    <image id="k0337i" name="BaoJi.png" path="/image/" exported="true"/>
+    <image id="hwg27j" name="HuangJinDiBan.png" path="/image/"/>
+    <component id="hwg27k" name="SpCellInfoBtn.xml" path="/components/"/>
+    <image id="n95n7l" name="DiXing.png" path="/image/"/>
+    <image id="wbpt7q" name="JingYanJinDuDi.png" path="/image/"/>
+    <image id="wbpt7r" name="JingYanJinDuZhi.png" path="/image/" scale="9grid" scale9grid="21,15,24,7"/>
+    <image id="wbpt7s" name="JingYanJinDuTiaoDi.png" path="/image/" scale="9grid" scale9grid="16,10,32,20"/>
+    <component id="wbpt7t" name="NewBossProgressBar.xml" path="/components/"/>
+    <image id="wbpt7u" name="战斗准备改版标注.png" path="/"/>
+    <component id="huum7v" name="JumpStepBtn.xml" path="/components/"/>
+    <image id="huum7w" name="BuShuJingGao.png" path="/image/"/>
+    <image id="huum7x" name="BuShuKuaiJin.png" path="/image/"/>
+    <component id="huum7y" name="RemainStepTip.xml" path="/components/"/>
+    <image id="rtw37z" name="BuShuHeiSeTouMingDi.png" path="/image/"/>
+    <image id="lwbq1" name="BiaoTiDi.png" path="/image/"/>
+    <image id="lwbq0" name="ShangZhenYingXiongDi.png" path="/image/" scale="9grid" scale9grid="13,13,26,26"/>
+    <image id="lwbq6" name="YingXiongTuBiao.png" path="/image/"/>
+    <image id="lwbq3" name="YingXiongTuBiaoDi.png" path="/image/"/>
+    <component id="lwbq9" name="HeroBtn.xml" path="/components/Def/"/>
+    <component id="lwbqa" name="HeroItem.xml" path="/components/Def/"/>
+    <component id="lwbq7" name="BattleDefView.xml" path="/" exported="true"/>
+    <component id="wpum80" name="BattleArenaView.xml" path="/" exported="true"/>
+    <image id="wpum81" name="匹配-战斗.JPG" path="/"/>
+    <image id="wpum82" name="ArenaB.png" path="/image/"/>
+    <image id="wpum83" name="ArenaA.png" path="/image/"/>
+    <image id="wpum84" name="VS.png" path="/image/"/>
+    <image id="wpum85" name="匹配-战斗 (2).jpg" path="/"/>
+    <image id="ocqm86" name="guang.png" path="/image/"/>
+    <image id="ocqm87" name="guangDi.png" path="/image/"/>
+    <image id="ocqm88" name="JiaSu.png" path="/image/"/>
+    <component id="ocqm8a" name="FreeSpeedBtn.xml" path="/components/" exported="true"/>
+    <image id="ocqm8b" name="ShiJianAnNiu.png" path="/image/"/>
+    <component id="oabk8c" name="ActBtn.xml" path="/components/"/>
+    <image id="oabk8e" name="QiPao(1).png" path="/image/" scale="9grid" scale9grid="80,30,10,60"/>
+    <image id="g2jq8f" name="bar.png" path="/image/"/>
+    <image id="g2jq8g" name="house.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

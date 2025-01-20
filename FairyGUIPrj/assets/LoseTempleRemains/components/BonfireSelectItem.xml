@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,461" designImage="ui://pechu8thyu836" designImageOffsetX="-42" designImageOffsetY="-799" designImageLayer="1">
+  <displayList>
+    <loader id="n0_lgme" name="bg" xy="0,0" pivot="0.5,0.5" size="220,461" url="ui://pgjrwjnhlgme2" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n3_yu83" name="Icon" xy="85,78" pivot="0.5,0.5" size="50,50" align="center" vAlign="middle"/>
+    <text id="n2_lgme" name="Name" xy="23,183" pivot="0.5,0.5" size="174,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="2" autoSize="height" strokeColor="#491916" strokeSize="3" text="为体力最"/>
+    <text id="n4_yu83" name="title" xy="20,253" pivot="0.5,0" size="180,34" font="ui://wqx8l8xqut2h1b" fontSize="24" color="#ffffff" vAlign="middle" leading="2" autoSize="height" strokeColor="#491916" strokeSize="3" text="为体力最"/>
+  </displayList>
+</component>

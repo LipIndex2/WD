@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gn62pyk3">
+  <resources>
+    <component id="bas01w" name="UIModelShow.xml" path="/" exported="true"/>
+    <component id="k93f1y" name="UIEffectShow.xml" path="/" exported="true"/>
+    <image id="d1gn2t" name="DengJiDi.png" path="/image/" exported="true" scale="9grid" scale9grid="34,10,68,20"/>
+    <component id="sfud30" name="WxVibrate.xml" path="/" exported="true"/>
+    <component id="rjro31" name="ItemCell.xml" path="/" exported="true"/>
+    <image id="rjro32" name="WanDou2.png" path="/image/"/>
+    <component id="tm533c" name="HeroCell.xml" path="/" exported="true"/>
+    <component id="tm533g" name="HeroProgress.xml" path="/" exported="true"/>
+    <component id="h6p03m" name="HeroItem.xml" path="/" exported="true"/>
+    <component id="83sp3o" name="HeroSkillCellItem.xml" path="/" exported="true"/>
+    <image id="xyvk3q" name="MAX.png" path="/image/" exported="true"/>
+    <image id="gmnd3r" name="S.png" path="/image/" exported="true"/>
+    <component id="lgmef" name="LoseTempleHeroitem.xml" path="/" exported="true"/>
+    <image id="lgmeg" name="ZhiYuanZheDi.png" path="/image/"/>
+    <image id="pgz23v" name="YingXiongJinDu2.png" path="/image/"/>
+    <component id="fr823w" name="HeadItem.xml" path="/" exported="true"/>
+    <image id="fr823z" name="TouXiangKuang.png" path="/image/"/>
+    <image id="fr8240" name="TouXiangDaXiao.png" path="/image/" exported="true"/>
+    <component id="hfof42" name="LoseTempleLove.xml" path="/" exported="true"/>
+    <image id="pgz2r" name="TiLiDi.png" path="/image/" scale="9grid" scale9grid="55,29,68,9"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

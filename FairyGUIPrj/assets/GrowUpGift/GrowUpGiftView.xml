@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://20s92986nj49k" designImageLayer="1">
+  <displayList>
+    <component id="n19_lwoh" name="Board" src="t6tob4g" fileName="CommonBoard5.xml" pkg="r5d9xy63" xy="35,343"/>
+    <loader id="n0_tm53" name="Icon" xy="65,357" pivot="0.5,0.5" size="669,395" group="n13_tm53" align="center" clearOnPublish="true"/>
+    <image id="n1_tm53" name="n1" src="tm532" fileName="image/TeJiaDi.png" xy="628,393" group="n13_tm53"/>
+    <image id="n2_tm53" name="n2" src="tm538" fileName="image/HuoDongBiaoTiHengFu.png" xy="14,283" group="n13_tm53"/>
+    <image id="n4_tm53" name="n4" src="tm536" fileName="image/ShiJianDi.png" xy="190,671" size="443,54" group="n13_tm53"/>
+    <image id="n3_tm53" name="n3" src="tm535" fileName="image/ShiJianicon.png" xy="174,669" group="n13_tm53"/>
+    <group id="n13_tm53" name="n13" xy="14,283" size="770,469"/>
+    <text id="n14_tm53" name="n14" xy="310,297" pivot="0.5,0.5" size="180,59" font="ui://wqx8l8xqut2h1b" fontSize="44" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="成长礼包"/>
+    <text id="n6_tm53" name="DiscountShow" xy="664,392" size="116,52" rotation="30" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="800%"/>
+    <component id="n18_erzm" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="261,678" size="291,42" visible="false" touchable="false">
+      <Label titleColor="#c4fd24" titleFontSize="30"/>
+    </component>
+    <list id="n11_tm53" name="List" xy="103,791" size="605,254" layout="row" colGap="32" defaultItem="ui://20s92986tm53b">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_tm53" name="BtnBuy" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="250,1091">
+      <Button title="¥45"/>
+    </component>
+    <component id="n20_lwoh" name="ButtonArrowR" src="lwohh" fileName="components/ButtonArrow.xml" xy="736,763" visible="false"/>
+    <component id="n21_lwoh" name="ButtonArrowL" src="lwohh" fileName="components/ButtonArrow.xml" xy="3,763" scale="-1,1" visible="false"/>
+  </displayList>
+</component>

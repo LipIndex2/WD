@@ -1,0 +1,81 @@
+{
+  "game": {
+    "name": "未知游戏",
+    "app_id": "UNKNOW",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "e1a431"
+    },
+    {
+      "app_id": "678230493",
+      "config_id": "059f6a"
+    },
+    {
+      "app_id": "678230501",
+      "config_id": "2e7686"
+    },
+    {
+      "app_id": "624747883",
+      "config_id": "a71862"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "e1a431",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "678230493",
+      "config_id": "059f6a",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "678230501",
+      "config_id": "2e7686",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "678230501",
+            "store_id": "H5"
+          }
+        }
+      ]
+    },
+    {
+      "app_id": "624747883",
+      "config_id": "eef225",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "624747883",
+      "config_id": "a71862",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "624747883",
+            "store_id": "160564"
+          }
+        }
+      ]
+    }
+  ],
+  "__version__": "3.0.7"
+}

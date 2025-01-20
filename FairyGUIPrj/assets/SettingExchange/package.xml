@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="39astmzk">
+  <resources>
+    <component id="njst0" name="SettingExchangeView.xml" path="/" exported="true"/>
+    <image id="njst1" name="主界面兑换码弹窗参数.png" path="/"/>
+    <image id="njst3" name="Qian.png" path="/image/" scale="9grid" scale9grid="17,17,34,34"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

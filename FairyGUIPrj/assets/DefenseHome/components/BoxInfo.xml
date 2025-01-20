@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,80" pivot="0.5,0.5" extention="Button" designImage="ui://lqre3h3fe20v1" designImageOffsetX="-254" designImageOffsetY="-876" designImageAlpha="0">
+  <displayList>
+    <loader id="n0_e20v" name="Icon" xy="0,0" pivot="0,1" size="80,77" url="ui://lqre3h3fe20v7" autoSize="true"/>
+    <component id="n4_r1b9" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="39,80"/>
+    <image id="n1_e20v" name="n1" src="e20vj" fileName="image/RiLiKuang.png" xy="-7,82"/>
+    <image id="n2_e20v" name="n2" src="e20v5" fileName="image/RiLi TuBiao.png" xy="2,83" scale="0.55,0.55"/>
+    <text id="n3_e20v" name="Num" xy="55,100" pivot="0.5,0.5" anchor="true" size="43,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#54301e" strokeSize="3" autoClearText="true" text="10"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

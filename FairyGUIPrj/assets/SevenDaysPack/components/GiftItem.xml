@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="251,364" pivot="0.5,0.5" designImage="ui://pjrxftt97hb2c" designImageOffsetX="-271" designImageOffsetY="-325">
+  <displayList>
+    <image id="n3_7hb2" name="n3" src="7hb22" fileName="image/BaoXiangBeiJing1.png" xy="0,0"/>
+    <image id="n4_7hb2" name="n4" src="7hb2d" fileName="image/6Yuan.png" xy="189,-9"/>
+    <image id="n7_7hb2" name="n7" src="7hb2e" fileName="image/DuoBianXing.png" xy="32,207"/>
+    <text id="n12_m4fi" name="OpenDay" xy="120,261" pivot="0.5,0.5" size="10,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text=""/>
+    <text id="n5_7hb2" name="Day" xy="85,12" pivot="0.5,0.5" size="84,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="第1天"/>
+    <list id="n8_7hb2" name="List" xy="28,230" size="250,121" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="32" colGap="7" defaultItem="ui://gn62pyk3rjro31">
+      <item/>
+      <item/>
+    </list>
+    <component id="n6_7hb2" name="BtnBox" src="ce3gl" fileName="components/BtnBoxGift.xml" xy="15,59" size="221,147"/>
+    <image id="n9_7hb2" name="n9" src="7hb2k" fileName="image/MengCeng.png" xy="-1,-9" group="n11_7hb2"/>
+    <image id="n10_7hb2" name="n10" src="7hb2f" fileName="image/DuiGou.png" xy="67,137" group="n11_7hb2"/>
+    <group id="n11_7hb2" name="Mask" xy="-1,-9" size="257,374" visible="false" advanced="true"/>
+  </displayList>
+</component>

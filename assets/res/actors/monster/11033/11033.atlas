@@ -1,0 +1,76 @@
+
+11033.png
+size: 196,274
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+jiao1
+  rotate: false
+  xy: 0, 33
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 65, 33
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 137, 204
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: true
+  xy: 137, 133
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 130
+  size: 136, 144
+  orig: 136, 144
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 64, 0
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 96, 0
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 130, 77
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 130, 26
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 0, 0
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1

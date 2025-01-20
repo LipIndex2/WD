@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600">
+  <displayList>
+    <component id="n1_sxqb" name="fullscreen" src="leyh0" fileName="fullscreen.xml" pkg="suspvxy7" xy="0,0"/>
+    <image id="n3_ec4q" name="bg" src="ec4q67" fileName="default_splash.png" xy="0,0" size="800,1600" fillMethod="vt" fillClockwise="false" pkg="suspvxy7">
+      <relation target="n1_sxqb" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

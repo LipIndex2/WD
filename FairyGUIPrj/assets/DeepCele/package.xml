@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="l20hp0dc">
+  <resources>
+    <component id="t6to0" name="DeepCeleView.xml" path="/" exported="true"/>
+    <image id="t6to1" name="深渊盛典.png" path="/"/>
+    <image id="t6to2" name="TuCeng4.png" path="/image/" scale="9grid" scale9grid="200,48,400,3"/>
+    <image id="t6to3" name="TuCeng5.png" path="/image/" scale="9grid" scale9grid="200,5,400,3"/>
+    <image id="t6to4" name="YeQianDiBu.png" path="/image/" scale="9grid" scale9grid="8,32,16,64"/>
+    <component id="t6to5" name="TaskItem.xml" path="/components/" exported="true"/>
+    <image id="t6to6" name="LieBiaoDi.png" path="/image/" scale="9grid" scale9grid="24,24,48,48"/>
+    <image id="t6to7" name="JiangLiDi.png" path="/image/"/>
+    <component id="t6to8" name="ProgressBar.xml" path="/components/"/>
+    <image id="t6to9" name="JinDuDi.png" path="/image/" scale="9grid" scale9grid="26,9,52,18"/>
+    <image id="t6toa" name="JinDu.png" path="/image/" scale="9grid" scale9grid="24,7,48,14"/>
+    <image id="t6tob" name="MengCengQiTian.png" path="/image/"/>
+    <image id="t6toc" name="YiLingQuMengCeng2.png" path="/image/"/>
+    <image id="t6tod" name="DuiGouicon.png" path="/image/"/>
+    <component id="t6tof" name="DayItem.xml" path="/components/" exported="true"/>
+    <image id="t6toh" name="JiangLiDuiHuan.png" path="/image/"/>
+    <image id="t6toi" name="RenWu.png" path="/image/"/>
+    <image id="t6toj" name="MengBan.png" path="/image/" scale="9grid" scale9grid="20,20,40,40"/>
+    <component id="t6tok" name="ButtonMod.xml" path="/components/" exported="true"/>
+    <image id="t6tol" name="ShiJianDi.png" path="/image/"/>
+    <image id="t6tom" name="ShiJianicon.png" path="/image/"/>
+    <component id="ouomp" name="parent.xml" path="/components/"/>
+    <image id="s6bvq" name="深渊盛典兑换.jpg" path="/"/>
+    <component id="s6bvr" name="ExchangeItem.xml" path="/components/" exported="true"/>
+    <component id="s6bvs" name="ButtonExchange.xml" path="/components/" exported="true"/>
+    <image id="e0y5t" name="BeiJing.jpg" path="/image/"/>
+    <image id="krnhu" name="深渊盛典.jpg" path="/"/>
+    <image id="krnhv" name="QieHuanYe1.png" path="/image/"/>
+    <image id="krnhw" name="QieHuanYe2.png" path="/image/"/>
+    <image id="krnhx" name="ShiJianKuang1.png" path="/image/"/>
+    <image id="krnhy" name="ShiJianKuang2.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

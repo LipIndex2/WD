@@ -1,0 +1,27 @@
+
+huolongguo_TB.png
+size: 144,93
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+huo
+  rotate: true
+  xy: 109, 46
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 109, 24
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="765,330" designImage="ui://i8zxhpmacfi8m" designImageOffsetX="-16" designImageOffsetY="-160" designImageLayer="1">
+  <controller name="LockState" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <loader id="n0_smc1" name="BgIcon" xy="1,1" pivot="0.5,0.5" size="762,328" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <loader id="n2_smc1" name="Icon" xy="58,16" pivot="0.5,0.5" size="50,50" visible="false" url="ui://i8zxhpmadbwmq" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n3_smc1" name="Name" xy="124,17" pivot="0,0.5" size="148,49" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="古墓探险"/>
+    <text id="n4_smc1" name="OpenTime" xy="50,134" pivot="0,0.5" size="10,38" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text=""/>
+    <text id="n18_pitk" name="TimeShow" xy="50,91" pivot="0,0.5" size="10,38" font="ui://wqx8l8xqut2h1b" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#491916" strokeSize="3" text=""/>
+    <list id="n6_smc1" name="List" xy="46,185" size="373,122" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://gn62pyk3rjro31">
+      <item/>
+      <item/>
+    </list>
+    <component id="n14_smc1" name="BtnOpen" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="463,204" scale="0.8,0.8">
+      <Button title="开 始"/>
+    </component>
+    <component id="n22_huvy" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="712,232"/>
+    <image id="n7_smc1" name="n7" src="smc16" fileName="image/HuoDongHaiBaoLieBiaoHuiSeMengCeng.png" xy="2,1" group="n13_smc1"/>
+    <image id="n11_smc1" name="n11" src="smc19" fileName="image/WeiKaiQiShiJianTiao.png" xy="221,209" pivot="0.5,0.5" size="322,59" group="n13_smc1">
+      <gearDisplay controller="LockState" pages="1,2"/>
+    </image>
+    <image id="n10_smc1" name="n10" src="smc18" fileName="image/HongShiZhong.png" xy="264,218" group="n13_smc1">
+      <gearDisplay controller="LockState" pages="1"/>
+    </image>
+    <image id="n19_cfi8" name="n19" src="gkss65" fileName="Suo.png" pkg="rqg67c20" xy="364,118" group="n13_smc1">
+      <gearXY controller="LockState" pages="0,1,2" values="364,118|364,118|364,118"/>
+    </image>
+    <text id="n9_smc1" name="Desc2" xy="290,161" pivot="0.5,0.5" size="154,42" group="n13_smc1" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" text="开启时间：">
+      <gearDisplay controller="LockState" pages="1,2"/>
+      <gearXY controller="LockState" pages="0,1,2" values="290,161|314,168|314,168"/>
+    </text>
+    <text id="n21_cfi8" name="Desc" xy="382,188" pivot="0.5,0.5" anchor="true" size="267,49" group="n13_smc1" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="4" autoClearText="true" text="通过第15章解锁">
+      <gearDisplay controller="LockState" pages="0,2"/>
+      <gearXY controller="LockState" pages="0,1,2" values="382,188|362,169|382,238"/>
+    </text>
+    <component id="n16_lwoh" name="timer" src="k2g826" fileName="TimeMeter.xml" pkg="1kdklxk3" xy="308,212" size="200,53" group="n13_smc1">
+      <gearDisplay controller="LockState" pages="1"/>
+      <Label title="13:31:17" titleFontSize="36"/>
+    </component>
+    <group id="n13_smc1" name="NotOpen" xy="2,1" size="762,328" visible="false" advanced="true"/>
+  </displayList>
+</component>

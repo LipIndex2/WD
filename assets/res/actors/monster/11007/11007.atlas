@@ -1,0 +1,83 @@
+
+11007.png
+size: 473,112
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+body
+  rotate: false
+  xy: 378, 23
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 331, 12
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 0, 5
+  size: 125, 107
+  orig: 125, 107
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 336, 82
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: false
+  xy: 336, 51
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+huzi01
+  rotate: false
+  xy: 378, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+huzi02
+  rotate: false
+  xy: 416, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+mashenti
+  rotate: false
+  xy: 126, 10
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+ride_face
+  rotate: true
+  xy: 217, 37
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: true
+  xy: 217, 0
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: true
+  xy: 274, 0
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+message PB_CSGrowthFundReq {				//!< 2090				成长基金
+	optional int32	req_type = 1;				
+	optional int32	p1 = 2;							
+	optional int32	p2 = 3;	
+}
+
+
+message PB_SCGrowthFundInfo {				//!< 2091		成长基金		
+	optional int32	active_flag = 1;				// 购买激活的标志		
+	repeated uint32	fetch_flag = 2;					// 领取标志
+}
+

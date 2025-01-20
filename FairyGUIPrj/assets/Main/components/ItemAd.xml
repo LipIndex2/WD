@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="144,85">
+  <displayList>
+    <image id="n0_na5x" name="bg" src="na5x8k" fileName="image/XiaoQiPao2.png" xy="0,0"/>
+    <image id="n1_na5x" name="icon2" src="tiuj66" fileName="image/Big40000.png" pkg="5qhcb5rw" xy="7,7" pivot="0.5,0.5" scale="0.6,0.6"/>
+    <image id="n2_na5x" name="icon3" src="na5x6m" fileName="image/Small40003.png" pkg="5qhcb5rw" xy="80,17" scale="0.8,0.8"/>
+    <image id="n3_na5x" name="arrow1" src="tiuj6a" fileName="image/start/LvJianTou.png" xy="42,13"/>
+    <image id="n4_na5x" name="arrow2" src="tiuj6a" fileName="image/start/LvJianTou.png" xy="102,13"/>
+  </displayList>
+</component>

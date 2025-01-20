@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,200" designImageOffsetY="-444" designImageLayer="1">
+  <displayList>
+    <image id="n6_7hb2" name="n6" src="7hb2h" fileName="image/LeiChongDi.png" xy="8,-3"/>
+    <text id="n7_7hb2" name="n7" xy="58,34" pivot="0.5,0.5" size="94,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="累计充"/>
+    <text id="n8_7hb2" name="n8" xy="156,85" pivot="0.5,0.5" size="44,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#c4ff26" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" text="元">
+      <relation target="n2_vkjw" sidePair="left-right"/>
+    </text>
+    <text id="n2_vkjw" name="Num" xy="26,73" pivot="0.5,0.5" size="134,66" font="ui://wqx8l8xqut2h1b" fontSize="50" color="#c4ff26" align="center" vAlign="middle" strokeColor="#491916" strokeSize="4" autoClearText="true" text="1500"/>
+    <text id="n3_vkjw" name="Title" xy="643,18" pivot="0.5,0.5" size="74,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="0/30"/>
+    <list id="n1_vkjw" name="ShowList" xy="213,28" size="352,116" layout="row" overflow="scroll" scroll="horizontal" colGap="4" defaultItem="ui://gn62pyk3rjro31" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_vkjw" name="BtnPrize" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="531,50" scale="0.7,0.7">
+      <Button title="领 取" titleFontSize="54"/>
+    </component>
+    <component id="n4_vkjw" name="BtnRecharge" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="531,50" scale="0.7,0.7">
+      <Button title="立即充值" titleFontSize="54"/>
+    </component>
+    <image id="n9_huvy" name="MaskShow" src="huvyi" fileName="image/ZheZhao.png" xy="8,-3"/>
+  </displayList>
+</component>

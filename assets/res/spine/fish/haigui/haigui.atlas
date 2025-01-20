@@ -1,0 +1,55 @@
+
+haigui.png
+size: 165,60
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+j
+  rotate: true
+  xy: 111, 20
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+j2
+  rotate: true
+  xy: 133, 0
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 98, 3
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+j4
+  rotate: true
+  xy: 83, 17
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+ke
+  rotate: false
+  xy: 0, 7
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 133, 22
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 83, 1
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

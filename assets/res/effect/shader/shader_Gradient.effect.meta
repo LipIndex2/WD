@@ -1,0 +1,25 @@
+{
+  "ver": "1.7.0",
+  "importer": "effect",
+  "imported": true,
+  "uuid": "b0d4ef64-26e3-420a-8524-b6b6b635a6f5",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "combinations": [
+      {
+        "USE_INSTANCING": [
+          true
+        ],
+        "USE_BATCHING": [
+          true
+        ],
+        "HAS_SECOND_UV": [
+          true
+        ]
+      }
+    ]
+  }
+}

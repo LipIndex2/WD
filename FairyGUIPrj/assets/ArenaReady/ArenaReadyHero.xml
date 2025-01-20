@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" designImage="ui://e818d6bypp4u16" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <component id="n10_r1b9" name="BattleArray" src="r1b9q" fileName="components/BattleArray.xml" xy="49,253">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n1_r1b9" name="n1" src="r1b96" fileName="imange/TuCheng.png" xy="0,1120" size="800,547">
+      <relation target="" sidePair="width-width,center-center,bottom-bottom"/>
+    </image>
+    <component id="n4_r1b9" name="UpBtn" src="r1b99" fileName="components/UpBtn.xml" xy="581,1003" group="n13_pp4u"/>
+    <component id="n5_r1b9" name="DownBtn" src="r1b9a" fileName="components/DownBtn.xml" xy="682,1003" group="n13_pp4u"/>
+    <component id="n2_r1b9" name="OkBtn" src="okyub4x" fileName="ButtonOrange.xml" pkg="zokic7y2" xy="242,984" group="n13_pp4u">
+      <Button title="锁 定" sound="ui://d0dr38ivnvx3k"/>
+    </component>
+    <list id="n6_r1b9" name="List" xy="30,1220" size="741,380" group="n13_pp4u" layout="flow_hz" overflow="scroll" lineGap="23" colGap="14" defaultItem="ui://e818d6byr1b9b" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_r1b9" name="n3" xy="581,1143" pivot="0.5,0.5" size="134,36" group="n13_pp4u" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="点击可上阵"/>
+    <text id="n7_r1b9" name="n7" xy="316,1135" size="148,49" group="n13_pp4u" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="center" strokeColor="#491916" strokeSize="3" text="植物上阵"/>
+    <component id="n12_pp4u" name="CloseBtn" src="qf1rb56" fileName="ButtonClose2.xml" pkg="zokic7y2" xy="28,991" group="n13_pp4u"/>
+    <group id="n13_pp4u" name="BottomGroup" xy="28,984" size="743,616" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n15_pp4u" name="ScoreLabel" src="pp4u19" fileName="components/ScoreLabel.xml" xy="198,158">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n17_pp4u" name="UIEffectShow" src="k93f1y" fileName="UIEffectShow.xml" pkg="gn62pyk3" xy="399,700"/>
+    <text id="n18_pp4u" name="ScoreChange" xy="420,700" pivot="0,0.5" anchor="true" size="128,52" font="ui://wqx8l8xqut2h1b" fontSize="38" color="#ffef85" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="+9999"/>
+  </displayList>
+  <transition name="score_change">
+    <item time="0" type="Alpha" target="n18_pp4u" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="36" type="Alpha" target="n18_pp4u" tween="true" startValue="1" endValue="0" duration="12"/>
+  </transition>
+</component>

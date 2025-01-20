@@ -1,0 +1,48 @@
+
+effect_max.png
+size: 673,260
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+point_14
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+point_15
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 518, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wenzi2
+  rotate: true
+  xy: 641, 86
+  size: 172, 30
+  orig: 172, 30
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 620, 34
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 518, 134
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1

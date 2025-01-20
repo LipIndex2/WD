@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="444,140" extention="Button" designImageOffsetX="-306" designImageOffsetY="-334">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="State" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_n451" name="n0" src="n4512r" fileName="image/FuWuQiDi.png" xy="0,0" size="444,140">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_n451" name="title" xy="16,5" pivot="0,0.5" size="84,39" font="ui://wqx8l8xqnven1" fontSize="28" color="#4b3526" vAlign="middle" autoClearText="true" text="179服"/>
+    <text id="n4_n451" name="RoleNameShow" xy="16,70" pivot="0,0.5" size="116,39" font="ui://wqx8l8xqnven1" fontSize="28" color="#944f20" vAlign="middle" autoClearText="true" text="暂无角色"/>
+    <loader id="n12_gerw" name="StateSp" xy="355,0" pivot="1,0" size="89,41" url="ui://zriuspr6n4512u" align="right" vAlign="bottom" autoSize="true"/>
+    <text id="n13_gerw" name="StateShow" xy="373,0" pivot="0.5,0.5" size="60,39" font="ui://wqx8l8xqnven1" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="爆满"/>
+    <image id="n9_10s7j" name="n9" src="10s7j2x" fileName="image/WoDeDi.png" xy="348,64" group="n11_10s7j"/>
+    <text id="n10_10s7j" name="n10" xy="359,71" pivot="0.5,0.5" size="32,39" group="n11_10s7j" font="ui://wqx8l8xqnven1" fontSize="28" color="#944f20" align="center" vAlign="middle" text="我"/>
+    <group id="n11_10s7j" name="MeObj" xy="348,64" size="93,55" visible="false" advanced="true"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

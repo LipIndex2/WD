@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="404,54" extention="Label">
+  <displayList>
+    <richtext id="n0_ngcv" name="title" xy="0,0" pivot="0.5,0.5" size="404,54" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="点击空白水域开始钓鱼">
+      <relation target="" sidePair="width-width,height-height"/>
+    </richtext>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n0_ngcv" tween="true" startValue="1" endValue="0" duration="24"/>
+    <item time="24" type="Alpha" target="n0_ngcv" tween="true" startValue="0" endValue="1" duration="24"/>
+  </transition>
+</component>

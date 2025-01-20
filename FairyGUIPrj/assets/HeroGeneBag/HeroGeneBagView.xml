@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1600" opaque="false" designImage="ui://n09zf5xxu3z8j" designImageLayer="1">
+  <displayList>
+    <component id="n0_uvlm" name="Board" src="tpftb44" fileName="CommonBoard3.xml" pkg="r5d9xy63" xy="35,309" size="730,976">
+      <Label title="基因更换"/>
+    </component>
+    <image id="n1_uvlm" name="n1" src="uvlm3" fileName="image/XiaoKuangDan.png" xy="86,508" size="630,693"/>
+    <image id="n4_rty2" name="n4" src="rty2h" fileName="image/WeiHuoDeDi.png" xy="309,737" group="n6_rty2"/>
+    <text id="n5_rty2" name="n5" xy="309,803" size="184,42" group="n6_rty2" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#c9ad6f" text="暂未获得基因"/>
+    <group id="n6_rty2" name="NoGet" xy="309,737" size="184,157" advanced="true"/>
+    <list id="n2_uvlm" name="List" xy="98,527" size="620,655" layout="flow_hz" overflow="scroll" scrollBarFlags="2048" margin="0,40,0,0" lineGap="39" colGap="-5" defaultItem="ui://n09zf5xxrty2c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

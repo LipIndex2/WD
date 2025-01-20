@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1500">
+  <displayList>
+    <text id="n0_iz3j" name="DescShow" xy="338,880" pivot="0.5,0.5" size="124,42" customData="{&quot;cacheMode&quot;:1}" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="重连中…"/>
+  </displayList>
+</component>

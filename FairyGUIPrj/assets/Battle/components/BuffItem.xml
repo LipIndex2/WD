@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,165" extention="Button">
+  <displayList>
+    <graph id="n2_otvq" name="n2" xy="20,8" size="760,148" type="rect"/>
+    <richtext id="n0_ut2h" name="BuffDesc" xy="107,24" size="595,116" font="ui://wqx8l8xqut2h1b" fontSize="40" color="#d42f1e" vAlign="middle" autoSize="none" autoClearText="true" text="场上所有触手变为小恶魔"/>
+  </displayList>
+  <Button/>
+</component>

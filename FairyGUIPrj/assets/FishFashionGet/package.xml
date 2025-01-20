@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6hjxq8wh">
+  <resources>
+    <component id="ddss0" name="FishFashionGetView.xml" path="/" exported="true"/>
+    <image id="ddss1" name="BiaoTiXiaoHengFu.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

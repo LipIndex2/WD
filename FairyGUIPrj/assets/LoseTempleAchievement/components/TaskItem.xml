@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,198" designImage="ui://ph2ogdmjno3yk" designImageOffsetY="-1156" designImageLayer="1">
+  <displayList>
+    <image id="n0_ldm8" name="bg" src="no3yd" fileName="image/LieBiaoDi.png" xy="17,0" size="764,198"/>
+    <image id="n14_r41h" name="bgi" src="o0za68" fileName="ItemCellBg1.png" pkg="zn6u2d2d" xy="37,21" visible="false"/>
+    <loader id="n15_r41h" name="IconShow" xy="37,21" pivot="0.5,0.5" size="156,156" visible="false" touchable="false" align="center" vAlign="middle"/>
+    <component id="n21_cfi8" name="ItemCell" src="rjro31" fileName="ItemCell.xml" pkg="gn62pyk3" xy="55,39"/>
+    <text id="n3_ldm8" name="DescShow" xy="211,38" size="220,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" vAlign="middle" letterSpacing="1" strokeColor="#491914" strokeSize="3" autoClearText="true" text="开启一次小宝箱"/>
+    <text id="n16_r41h" name="ItemNum" xy="119,135" pivot="1,0.5" size="74,49" visible="false" font="ui://wqx8l8xqut2h1b" fontSize="36" color="#ffffff" align="right" vAlign="middle" strokeColor="#491914" strokeSize="3" autoClearText="true" text="640"/>
+    <component id="n1_ldm8" name="BtnGet" src="okyub50" fileName="ButtonBlue.xml" pkg="zokic7y2" xy="515,62" size="296,112" scale="0.66,0.66">
+      <Button title="领取" titleFontSize="54"/>
+    </component>
+    <component id="n9_ldm8" name="ProgressShow" src="no3ye" fileName="components/TaskProgressBar.xml" xy="206,99" size="342,36">
+      <ProgressBar value="1" max="2"/>
+    </component>
+    <image id="n10_day6" name="mask1" src="no3yh" fileName="image/MengBan.png" xy="18,0" size="764,197" group="n20_t6to"/>
+    <image id="n17_jx1k" name="mask2" src="no3yi" fileName="image/YiLingQuMengCeng2.png" xy="280,66" pivot="0.5,0.5" group="n20_t6to"/>
+    <image id="n11_day6" name="gou" src="no3yj" fileName="image/DuiGouicon.png" xy="306,65" group="n20_t6to"/>
+    <text id="n12_day6" name="geted" xy="389,69" size="106,46" group="n20_t6to" font="ui://wqx8l8xqut2h1b" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#491914" strokeSize="3" text="已领取"/>
+    <group id="n20_t6to" name="MaskShow" xy="18,0" size="764,197" visible="false" advanced="true"/>
+  </displayList>
+</component>

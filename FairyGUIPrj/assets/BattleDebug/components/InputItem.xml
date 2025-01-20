@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="161,50">
+  <displayList>
+    <text id="n2_g2df" name="Text" xy="1,6" pivot="0,0.5" size="90,36" font="ui://wqx8l8xqut2h1b" fontSize="26" vAlign="middle" text="回合数:"/>
+    <text id="n1_g2df" name="Input" xy="98,7" pivot="0,0.5" size="81,35" font="ui://wqx8l8xqut2h1b" fontSize="25" color="#ffffff" vAlign="bottom" autoSize="none" text="0" input="true" prompt=" " maxLength="3" keyboardType="4">
+      <relation target="n2_g2df" sidePair="middle-middle,left-right"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="05elf6t3">
+  <resources>
+    <component id="9s560" name="ZombieView.xml" path="/" exported="true"/>
+    <image id="9s561" name="活动关卡界面弹窗.jpg" path="/"/>
+    <image id="9s562" name="HuoDongBiaoTiHengFuZi.png" path="/image/"/>
+    <image id="9s565" name="Xian.png" path="/image/"/>
+    <image id="9s566" name="TuBiaoDi.png" path="/image/"/>
+    <image id="9s568" name="QiZhi.png" path="/image/"/>
+    <image id="9s569" name="ZhanLingTuBiao.png" path="/image/"/>
+    <image id="9s56b" name="bossTuBiao.png" path="/image/"/>
+    <component id="9s56c" name="BoxProgressBar.xml" path="/components/"/>
+    <image id="9s56d" name="JinDuTiao2.png" path="/image/" scale="9grid" scale9grid="176,10,352,20"/>
+    <image id="9s56e" name="JinDuTiao1.png" path="/image/" scale="9grid" scale9grid="81,8,162,16"/>
+    <image id="9s56h" name="TuBiaoZhangJiePaiHang.png" path="/image/" exported="true"/>
+    <component id="9s56j" name="ButtonMod.xml" path="/components/"/>
+    <component id="9s56k" name="ButtonBox.xml" path="/components/"/>
+    <image id="9s56p" name="BaoXiang.png" path="/image/" exported="true"/>
+    <image id="9s56q" name="BaoXiangKai.png" path="/image/" exported="true"/>
+    <image id="blfu13" name="jiangshichongchongchong-1.png" path="/image/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

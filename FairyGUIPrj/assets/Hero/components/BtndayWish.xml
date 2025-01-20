@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="254,248" extention="Button" designImage="ui://g34coqigox8829" designImageOffsetX="-272" designImageOffsetY="-286" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_ox88" name="n0" src="ox8827" fileName="image/JinRiZhuFu.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_ox88" name="n2" src="ox882a" fileName="image/ShuXingKuangTongYongDi.png" xy="88,93"/>
+    <loader id="n3_ox88" name="icon" xy="107,109" pivot="0.5,0.5" size="40,40" align="center" vAlign="middle"/>
+    <text id="n1_ox88" name="n1" xy="73,45" pivot="0.5,0.5" size="108,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="今日加成"/>
+    <text id="n4_ox88" name="title" xy="86,150" pivot="0.5,0.5" size="82,36" font="ui://wqx8l8xqut2h1b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" text="暗属性"/>
+    <component id="n5_ox88" name="ParentArrow" src="hgmz1z" fileName="components/parent.xml" xy="154,115" scale="0.6,0.6"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,48 @@
+
+teichuilan_TB.png
+size: 148,110
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+H_shandian1
+  rotate: true
+  xy: 57, 6
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+H_shandian2
+  rotate: true
+  xy: 98, 28
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+H_shandian4
+  rotate: false
+  xy: 98, 7
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+H_shandian5
+  rotate: false
+  xy: 0, 0
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+H_tiechui1
+  rotate: false
+  xy: 98, 66
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+cuizi
+  rotate: false
+  xy: 0, 26
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1

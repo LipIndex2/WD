@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,72" extention="Button" designImage="ui://05elf6t39s561" designImageOffsetX="-417" designImageOffsetY="-988" designImageLayer="1">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n2_9s56" name="n2" src="jxlb1" fileName="TongYongHeiDi.png" pkg="rqg67c20" xy="-6,77" pivot="0.5,0.5" size="97,36"/>
+    <image id="n3_9s56" name="n3" src="9s56b" fileName="image/bossTuBiao.png" xy="-20,66" scale="0.5,0.5"/>
+    <loader id="n1_9s56" name="icon" xy="0,0" pivot="0.5,0.5" size="80,72" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n4_9s56" name="title" xy="36,73" pivot="0.5,0.5" size="43,42" font="ui://wqx8l8xqut2h1b" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#491916" strokeSize="3" autoClearText="true" text="10"/>
+    <component id="n6_m4fi" name="UISpineShow" src="dkx83n" fileName="UISpineShow.xml" pkg="suspvxy7" xy="40,75"/>
+    <component id="n5_m4fi" name="redPoint" src="jcaj0" fileName="RedPoint.xml" pkg="1kdklxk3" xy="76,5"/>
+  </displayList>
+  <Button/>
+</component>

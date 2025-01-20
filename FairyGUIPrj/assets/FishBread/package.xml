@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="q94sb6aa">
+  <resources>
+    <component id="fe0v0" name="FishBreadView.xml" path="/" exported="true"/>
+    <image id="fe0v1" name="面包SPE.jpg" path="/"/>
+    <image id="fe0v2" name="MianBaoTuBiao.png" path="/image/"/>
+    <component id="fe0v3" name="ButtonOrange.xml" path="/components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
